@@ -1,0 +1,16 @@
+{
+  "siteId": "288474ced7625db548d62aaa4d2efbe5",
+  "host": "publish-01.obsidian.md",
+  "included": [
+    "Songs",
+    "Releases",
+    "People",
+    "Live Performance",
+    "Labels",
+    "Others",
+    "_assets"
+  ],
+  "excluded": [
+    "_templates"
+  ]
+}

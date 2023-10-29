@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Coil Wiki",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "translucency": false,
+  "baseFontSize": 18,
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [],
+  "showViewHeader": true
+}

@@ -1,0 +1,13 @@
+{
+  "focusNewTab": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "propertiesInDocument": "hidden",
+  "attachmentFolderPath": "_assets",
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "_assets/",
+    "*.woff2"
+  ],
+  "showInlineTitle": false
+}
