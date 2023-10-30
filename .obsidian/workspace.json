@@ -11,9 +11,11 @@
             "id": "2a2a98d47620b412",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Releases"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -159,15 +167,15 @@
     "hiddenItems": {
       "switcher:Schnellauswahl öffnen": true,
       "graph:Graphen-Ansicht öffnen": true,
-      "homepage:Open homepage": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": true,
-      "templater-obsidian:Templater": false,
       "publish:Änderungen veröffentlichen": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "acf498ea21dae5a8",
+  "active": "2a2a98d47620b412",
   "lastOpenFiles": [
     "README.md",
     "TheBlackSunLodge/README.md",

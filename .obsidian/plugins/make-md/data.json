@@ -46,8 +46,8 @@
     "/",
     null,
     "Context Articles",
-    null,
-    "Coil Wiki"
+    "Coil Wiki",
+    null
   ],
   "expandFolderOnClick": false,
   "openFolders": [],
@@ -79,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698615884116,
+  "spacesAutoBackupLast": 1698616110452,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
