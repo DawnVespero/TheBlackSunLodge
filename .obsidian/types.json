@@ -6,6 +6,7 @@
     "Original": "multitext",
     "banner": "multitext",
     "Derivative": "multitext",
-    "Featured on": "multitext"
+    "Featured on": "multitext",
+    "SubType": "multitext"
   }
 }

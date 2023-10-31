@@ -117,11 +117,11 @@
       "enabled": true
     },
     "quote-style": {
-      "enabled": false,
+      "enabled": true,
       "single-quote-enabled": true,
-      "single-quote-style": "''",
+      "single-quote-style": "‘’",
       "double-quote-enabled": true,
-      "double-quote-style": "\"\""
+      "double-quote-style": "“”"
     },
     "remove-consecutive-list-markers": {
       "enabled": false

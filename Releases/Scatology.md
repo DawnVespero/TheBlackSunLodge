@@ -12,7 +12,7 @@ color: "#3867d6"
 Alternate Version: "[[Scatology Sessions]]"
 banner_y: 0.04
 Page created: 2023-10-05
-Page modified: 2023-10-29
+Page modified: 2023-10-30
 ---
 
 # Scatology
@@ -32,14 +32,6 @@ Suspendisse potenti.
 Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 ## Recording
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 Additional recordings from the sessions for the album can be found on the [[Live Coil Archive]]‘s [[Scatology Sessions]] bootleg.
 

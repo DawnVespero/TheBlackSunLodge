@@ -6,7 +6,7 @@ sticker: lucide//home
 color: 
 linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-10-08
-Page modified: 2023-10-29
+Page modified: 2023-10-30
 ---
 
 ![[banner.jpg]]

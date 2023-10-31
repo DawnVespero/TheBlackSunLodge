@@ -1,22 +1,17 @@
 ---
+title: Background
 aliases: [Background]
-color: "#3867d6"
-Contained in Release:
-  - "[[Songs/Teenage Lightning 2.md]]"
-  - "[[Songs/Teenage Lightning 2.md]]"
-  - "[[Songs/Teenage Lightning (CD Version).md]]"
-  - "[[Songs/Teenage Lightning 2.md]]"
+Type: Release
 Date: 1991-07-01
+Legitimacy: Official
+sticker: lucide//disc
+color: "#3867d6"
 Label:
   - "[[Wax Trax!]]"
   - "[[Torso]]"
-Legitimacy: Official
 linter-yaml-title-alias: Background
 Page created: 2023-10-05
-Page modified: 2023-10-25
-sticker: lucide//disc
-title: Background
-Type: Release
+Page modified: 2023-10-30
 Übergeordnete/-r/-s Wiki-Seite:
   - "[[Love’s Secret Domain]]"
 ---

@@ -38,7 +38,9 @@
     "Coil Wiki": [
       "Context",
       "Live Performance 2",
-      "/"
+      "/",
+      "_assets",
+      "Releases"
     ],
     "Releases": []
   },
@@ -69,7 +71,7 @@
   ],
   "newFileLocation": "current",
   "inlineBacklinks": true,
-  "inlineContext": true,
+  "inlineContext": false,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": false,
@@ -79,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698616110452,
+  "spacesAutoBackupLast": 1698697684520,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

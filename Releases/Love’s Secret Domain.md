@@ -1,30 +1,20 @@
 ---
+title: Background
+aliases: [Background]
 Type: Release
 Sub-Type: Studio Album
-Legitimacy: Official
 Date: 1991-07-01
-Contained in Release:
-  - "[[Disco Hospital]]"
-  - "[[Teenage Lightning]]"
-  - "[[Windowpane 2]]"
-  - "[[Songs/The Snow]]"
-  - "[[Dark River]]"
-  - "[[Further Back and Faster]]"
-  - "[[Titan Arch]]"
-  - "[[Chaostrophy]]"
-  - "[[Love's Secret Domain]]"
+Legitimacy: Official
 Derivative:
   - "[[Love's Secret Domain (CD Version)]]"
   - "[[Love's Secret Domain (30th Anniversary Edition)]]"
-color: "#3867d6"
-sticker: lucide//disc
 banner:
   - "![[Love's Secret Domain (30th Anniversary) Cover.jpg]]"
-title: Background
-aliases: [Background]
+sticker: lucide//disc
+color: "#3867d6"
 linter-yaml-title-alias: Background
 Page created: 2023-10-05
-Page modified: 2023-10-25
+Page modified: 2023-10-30
 ---
 
 *__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.

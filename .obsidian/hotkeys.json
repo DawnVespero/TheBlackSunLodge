@@ -35,15 +35,6 @@
       "key": "O"
     }
   ],
-  "homepage:open-homepage": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "file-explorer:open": [
     {
       "modifiers": [
@@ -109,6 +100,16 @@
         "Shift"
       ],
       "key": "ArrowDown"
+    }
+  ],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }
