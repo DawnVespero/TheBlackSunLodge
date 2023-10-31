@@ -1,6 +1,7 @@
 ---
-aliases: [Background]
-banner: "_assets/"
+aliases:
+  - Background
+banner: _assets/
 color: "#3867d6"
 Date: 
 Derivative: 
@@ -12,6 +13,17 @@ Page modified: 2023-10-25
 sticker: lucide//disc
 title: Background
 Type: Release
+_filters: []
+_contexts: []
+_links:
+  - Releases/Scatology.md
+  - Releases/Horse Rotorvator.md
+  - Songs/Love's Secret Domain.md
+  - Releases/The Ape of Naples.md
+_sort:
+  field: rank
+  asc: false
+  group: false
 ---
 
 *__[RELEASE NAME]__* is a [SUB-TYPE] by Coil, released in [YEAR] by [LABEL]. [ADDITIONAL INTRODUCTION NOTES].
