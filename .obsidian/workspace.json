@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Swanyard.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Swanyard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Swanyard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Swanyard.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Swanyard.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "eeabfa7517e51f80",
   "lastOpenFiles": [
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "Releases/Swanyard.md",
+    "Others/Backwards.md",
+    "Songs/Tainted Love.md",
     "Home.md",
     "Releases/How To Destroy Angels.md",
     "Songs/Absolute Elsewhere.md",
@@ -188,7 +192,6 @@
     "_assets/Derek Jarman (1992) 1.jpg",
     "Songs/How to Destroy Angels.md",
     "Labels/L.A.Y.L.A.H. Antirecords.md",
-    "_templates/Release Page (Page Body - Frontmatter Templates).md",
     "_templates/Release Page (Info Table).md",
     "_templates/Release Page (Frontmatter).md",
     "Songs/Teenage Lightning (10th Birthday Version).md",
@@ -205,9 +208,6 @@
     "_templates/Person Page.md",
     "People/Peter Christopherson.md",
     "_templates/Song Page (Page Body - Frontmatter Template).md",
-    "_templates/Song Page (Frontmatter).md",
-    "Songs/Unbenannt.md",
-    "Songs/Tainted Love (Sleazy Vocal).md",
     "_assets/placeholder.png",
     "_assets/banner.jpg",
     "favicon-64x64.png",

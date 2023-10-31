@@ -1,6 +1,5 @@
 ---
 title: Tainted Love
-aliases: [Tainted Love]
 Type: Song
 Original: 
 Derivative:
@@ -11,10 +10,9 @@ Featured on:
   - "[[Scatology (1988 CD Version)]]"
 Interpolated in: 
 Interpolates: 
-linter-yaml-title-alias: Tainted Love
 Next Version: 
 Page created: 2023-10-29
-Page modified: 2023-10-29
+Page modified: 2023-10-31
 Previous Version: 
 ---
 
@@ -33,7 +31,7 @@ Previous Version:
 
 ---
 
-*__Tainted Love__* is a song originally released on Coil's [YEAR] album [RELEASE NAME].
+*__Tainted Love__* is a song originally released on Coil’s [YEAR] album [RELEASE NAME].
 
 ## Lyrics
 

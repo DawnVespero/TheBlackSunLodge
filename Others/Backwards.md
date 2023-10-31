@@ -1,10 +1,12 @@
 ---
-color: "#8854d0"
-sticker: lucide//book-copy
 title: Backwards
+Type: 
+sticker: lucide//book-copy
+color: "#8854d0"
 Page created: 2023-10-18
-Page modified: 2023-10-24
+Page modified: 2023-10-31
 ---
+
 # Backwards
 
 ```mermaid
@@ -21,7 +23,7 @@ flowchart LR
 		Bas93(["Egyptian Basses"]) ~~~ 1 ~~~ 2 ~~~ 3 ~~~ Bas08
 ```
 
-**********************_____Backwards**_ was the name of a long-term album project by Coil. Initially started in 1992 as the follow-up studio album to [Love’s Secret Domain](https://www.notion.so/Love-s-Secret-Domain-5bcf1b35bbb741a2afaf89d45766e6b8?pvs=21), the project would be reworked numerous times over the next 18 years, never being released in its originally intended form. Despite this, material created for this project would see a release on numerous Coil releases in various ways.
+*__Backwards__* was the name of a long-term album project by Coil. Initially started in 1992 as the follow-up studio album to [Love’s Secret Domain](https://www.notion.so/Love-s-Secret-Domain-5bcf1b35bbb741a2afaf89d45766e6b8?pvs=21), the project would be reworked numerous times over the next 18 years, not being released in [[Backwards (Cold Spring)|its originally intended form]] until 2015. Despite this, material created for this project would see a release on numerous Coil releases in various ways.
 
 ---
 
@@ -31,7 +33,8 @@ flowchart LR
 
 ???
 
-The last public mention of the project before it morphed into ____TAoN____ and *__TNB__* was as part of the *________________Song of the Week________________* project on
+The last public mention of the project before it morphed into *TAoN* and *__TNB__* was as part of the *__Song of the Week__* project on
 
 ## Releases of *Backwards*-related Material
+
 !![[Backwards (Demos)]]

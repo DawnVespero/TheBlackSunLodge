@@ -39,8 +39,7 @@
       "Context",
       "Live Performance 2",
       "/",
-      "_assets",
-      "Releases"
+      "_assets"
     ],
     "Releases": []
   },
@@ -81,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698697684520,
+  "spacesAutoBackupLast": 1698755440953,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

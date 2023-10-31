@@ -6,6 +6,7 @@
 | --- | --- |
 | **Title**: | <% tp.frontmatter.title %> |
 | **Type**: | <% tp.frontmatter.subtype %> |
+| **Legitimacy**: | <% tp.frontmatter.Legitimacy %> |
 | **Release date:** | <% tp.frontmatter.date %> |
 | **Label:** | <% tp.frontmatter.Label %> |
 

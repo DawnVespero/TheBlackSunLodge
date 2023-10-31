@@ -29,7 +29,7 @@ You are entering the internet’s first dedicated general database for the work 
 
 ### Songs
 
-[[Tainted t]]  
+[[Tainted Love|Tainted Love]]  
 [[Broccoli]]  
 [[A Cold Cell]]
 
