@@ -114,4 +114,4 @@ Page modified: 2023-10-31
 | --- | --- |
 |__[[Steven Stapleton]]__| Artwork | [^1]
 
-[^1]: https://infinitefog.ru/shop/cd/coil-swanyard-collectors.html
+[^1]: <https://infinitefog.ru/shop/cd/coil-swanyard-collectors.html>

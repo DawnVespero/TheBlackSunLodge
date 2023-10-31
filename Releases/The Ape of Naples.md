@@ -1,21 +1,27 @@
 ---
+title: Background
+aliases: [Background]
 Type: Release
 Sub-Type: Studio Album
-Legitimacy: Official
 Date: 2005-01-01
-Untergeordnete/-r/-s Wiki-Seite:
-  - "[[The Ape of Naples | The New Backwards (Box-Set)]]"
-  - "[[The Ape of Naples (Expanded Edition)]]"
-color: "#3867d6"
+Legitimacy: Official
 sticker: lucide//disc
+color: "#3867d6"
+linter-yaml-title-alias: Background
+Page created: 2023-10-31
+Page modified: 2023-10-31
+Untergeordnete/-r/-s Wiki-Seite:
+  - "[[The Ape of Naples |The New Backwards (Box-Set)]]"
+  - "[[The Ape of Naples (Expanded Edition)]]"
 ---
-_**[RELEASE NAME]**_ is a **[SUB-TYPE]** by Coil, released in **[YEAR]** by **[LABEL]**. **[ADDITIONAL INTRODUCTION NOTES]**.
+
+*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
 
 # Background
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
 Suspendisse potenti.
 
@@ -23,9 +29,9 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 # Recording
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
 Suspendisse potenti.
 
@@ -33,9 +39,9 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 # Release
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
 Suspendisse potenti.
 
@@ -43,7 +49,7 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 # Versions
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 - Suspendisse potenti.
 - Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
