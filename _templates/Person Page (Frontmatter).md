@@ -2,6 +2,7 @@
 title:
 aliases:
 - 
+Type: Person
 Born:
 Died: 
 sticker: lucide//user
