@@ -1,4 +1,4 @@
 # The Black Sun Lodge
-![[banner.jpg]]
+![Black Sun Lodge Banner](/_assets/banner.jpg)
 
  
