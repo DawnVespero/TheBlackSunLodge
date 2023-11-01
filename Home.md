@@ -31,7 +31,7 @@ You are entering the internet’s first dedicated general database for the work 
 ![[Gold is the Metal (Original) Cover.jpg|200]]  
 [[Gold is the Metal (with the Broadest Shoulders)]]
 
-  ![[Love’s Secret Domain (30th Anniversary) - Cover.jpg]]  
+  ![[Loves Secret Domain (30th Anniversary) - Cover.jpg|200]]  
 [[Love’s Secret Domain]]
 
 ![[Born Again Pagans - Cover.jpg|200]]  
@@ -61,7 +61,7 @@ You are entering the internet’s first dedicated general database for the work 
 ![[Constant Shallowness Leads to Evil (Dais) - Cover.jpg|200]]  
 [[Constant Shallowness Leads To Evil]]
 
-![[Moon’s Milk in Four Phases - Cover.jpg|200]]  
+![[Moons Milk in Four Phases - Cover.jpg|200]]  
 [[Moon’s Milk In Four Phases]]
 
 ![[The Remote Viewer - Cover.jpg|200]]  

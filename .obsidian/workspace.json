@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "25631a8948a505ef",
@@ -188,7 +187,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f40a47365435ad92",
+  "active": "49210ce3f21239bb",
   "lastOpenFiles": [
     "_templates/Release Page (Page Body - Frontmatter Templates).md",
     "Releases/The Ape of Naples.md",
@@ -217,7 +216,7 @@
     "Songs/Fire of the Mind (Backwards ‘15).md",
     "Songs/A Cold Cell (Backwards ’15).md",
     "Songs/A.Y.O.R. ",
-    "_assets/releases/Love's Secret Domain (30th Anniversary) - Cover.jpg",
+    "_assets/releases/Loves Secret Domain (30th Anniversary) - Cover.jpg",
     "_assets/releases/Time Machines - Cover.jpeg",
     "_assets/releases/pHILM 1 - Cover.jpeg",
     "_assets/Pasted image 20231101171304.png",
