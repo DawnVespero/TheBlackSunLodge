@@ -16,7 +16,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "minimal",
   "autoOpenFileContext": false,
-  "activeView": "_assets",
+  "activeView": "Live Performance",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "yyyy-mm-dd",
@@ -38,12 +38,13 @@
     "_assets/_assets/photos",
     "_assets/_assets/placeholder.png",
     "_assets/_assets/releases",
-    "//Songs"
+    "//_templates"
   ],
   "expandFolderOnClick": false,
   "cachedSpaces": [
     "spaces://$tags",
     "spaces://$waypoints",
+    "spaces://#Backwards",
     "/",
     "Context",
     "Labels",
@@ -55,8 +56,7 @@
     "_assets",
     "_assets/photos",
     "_assets/releases",
-    "_templates",
-    "spaces://#Backwards"
+    "_templates"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -84,6 +84,7 @@
     "Songs",
     "Releases",
     "People",
+    "Live Performance",
     "_assets"
   ],
   "rootSpaces": [],

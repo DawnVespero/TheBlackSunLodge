@@ -28,7 +28,7 @@
     },
     {
       "folder": "Live Performance",
-      "template": "_templates/Performance Page.md"
+      "template": "_templates/Performance Page (Frontmatter).md"
     }
   ],
   "syntax_highlighting": true,

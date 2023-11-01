@@ -12,7 +12,7 @@
 
 ---
 
-*__<% tp.frontmatter.title %>__* is a <% tp.frontmatter.SubType %> by Coil, released on <% tp.date.weekday("MMM Do YYYY", 0, tp.frontmatter.Date, "YYYY-MM-DD") %> by <% tp.frontmatter.Label %>. [ADDITIONAL INTRODUCTION NOTES].
+*__<% tp.frontmatter.title %>__* is a <% tp.frontmatter.SubType %> by Coil, released on <% tp.date.weekday("MMM. Do, YYYY", 0, tp.frontmatter.Date, "YYYY-MM-DD") %> by <% tp.frontmatter.Label %>. [ADDITIONAL INTRODUCTION NOTES].
 
 ## Background
 

@@ -139,5 +139,15 @@
       ],
       "key": "T"
     }
+  ],
+  "workspace:close-window": [],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }
