@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce781e9414220c82",
+        "id": "b9f7861dc2eaa116",
         "type": "tabs",
         "children": [
           {
-            "id": "cf8bcf25ac3231e8",
+            "id": "6d3b1ef591c3a365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Backwards (Cold Spring).md",
-                "mode": "source",
-                "source": true
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "25631a8948a505ef",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Backwards (Cold Spring).md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Backwards (Cold Spring).md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Backwards (Cold Spring).md"
+                "file": "Home.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Backwards (Cold Spring).md"
+                "file": "Home.md"
               }
             }
           },
@@ -177,8 +176,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "cf8bcf25ac3231e8",
+  "active": "6d3b1ef591c3a365",
   "lastOpenFiles": [
+    "Love’s Secret Domain (30th Anniversary) Cover.jpg.md",
+    "Home.md",
+    "_assets/releases/Love's Secret Domain (30th Anniversary) - Cover.jpg",
+    "_assets/releases/releases.md",
+    "Songs/Theme From The Gay Man’s Guide To Safer Sex.md",
+    "Labels/Musique Pour La Danse.md",
+    "_assets/releases/Time Machines - Cover.jpeg",
+    "_assets/releases/pHILM 1 - Cover.jpeg",
+    "_assets/Pasted image 20231101171304.png",
     "Releases/The New Backwards.md",
     "Songs/A.Y.O.R..md",
     "Songs/Backwards.md",
@@ -189,7 +197,6 @@
     "Songs/It’s In My Blood.md",
     "Songs/Fire of the Mind.md",
     "_templates/Release Page (Page Body - Frontmatter Templates).md",
-    "Home.md",
     "Songs/Love's Secret Domain.md",
     "_templates/_templates.md",
     "Others/Others.md",
@@ -201,10 +208,6 @@
     "People/Jhonn Balance.md",
     "_templates/Person Page (Frontmatter).md",
     "Releases/Swanyard.md",
-    "Others/Backwards.md",
-    "Songs/Tainted Love.md",
-    "Songs/Absolute Elsewhere.md",
-    "Releases/How to Destroy Angels (Remixes and Re-Recordings).md",
     "_assets/photos/Derek Jarman (1992).jpg",
     "_assets/Derek Jarman (1992) 1.jpg",
     "TheBlackSunLodge",
@@ -212,10 +215,6 @@
     "_assets/banner.jpg",
     "favicon-64x64.png",
     "favicon-32x32.png",
-    "_assets/placeholder.jpg",
-    "_assets/photos/Danny Hyde (2021) - Photo.jpg",
-    "_assets/photos/Thighpaulsandra (In Concert) - Photo.jpg",
-    "_assets/photos/Stephen Thrower (Scatology Insert) - Photo.jpg",
     "_assets/photos",
     "_assets/releases/photos",
     "_assets/releases",

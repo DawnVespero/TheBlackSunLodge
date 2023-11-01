@@ -16,7 +16,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "minimal",
   "autoOpenFileContext": false,
-  "activeView": "Releases",
+  "activeView": "_assets",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "yyyy-mm-dd",
@@ -33,11 +33,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    null,
-    "Context Articles",
-    "Coil Wiki",
-    null
+    "_assets/_assets/banner.jpg",
+    "_assets/_assets/context.mdb",
+    "_assets/_assets/photos",
+    "_assets/_assets/placeholder.png",
+    "_assets/_assets/releases"
   ],
   "expandFolderOnClick": false,
   "cachedSpaces": [
@@ -49,8 +49,8 @@
     "Live Performance",
     "Others",
     "People",
-    "Songs",
     "Releases",
+    "Songs",
     "_assets",
     "_assets/photos",
     "_assets/releases",
@@ -81,7 +81,8 @@
     "/",
     "Songs",
     "Releases",
-    "People"
+    "People",
+    "_assets"
   ],
   "rootSpaces": [],
   "spacesUseAlias": false,
