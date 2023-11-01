@@ -1,7 +1,10 @@
 ---
+title: Fire of the Mind
 Type: Song
-Contained in Release:
-  - "[[The Ape of Naples | The New Backwards (Box-Set)]]"
-color: "#eb3b5a"
 sticker: lucide//music
+color: "#eb3b5a"
+Page created: 2023-10-05
+Page modified: 2023-10-31
 ---
+
+# Fire of the Mind
