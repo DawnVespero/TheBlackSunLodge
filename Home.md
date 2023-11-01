@@ -6,7 +6,7 @@ sticker: lucide//home
 color: "#4b6584"
 linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-10-08
-Page modified: 2023-10-31
+Page modified: 2023-11-01
 ---
 
 ![[banner.jpg]]
@@ -31,13 +31,13 @@ You are entering the internet’s first dedicated general database for the work 
 ![[Gold is the Metal (Original) Cover.jpg|200]]  
 [[Gold is the Metal (with the Broadest Shoulders)]]
 
-![[Love’s Secret Domain (30th Anniversary) Cover.jpg|200]]  
+  ![[Love’s Secret Domain (30th Anniversary) - Cover.jpg]]
 [[Love’s Secret Domain]]
 
 ![[Born Again Pagans - Cover.jpg|200]]  
 [[Born Again Pagans]]
 
-![[_assets/releases/|200]]  
+![[pHILM 1 - Cover.jpeg|200]]  
 [[Releases/pHILM #1|pHILM #1]]
 
 ![[Worship the Glitch - Cover.jpg|200]]  
@@ -46,7 +46,7 @@ You are entering the internet’s first dedicated general database for the work 
 ![[Black Light District - Cover.jpg|200]]  
 [[A Thousand Lights In A Darkened Room]]
 
-![[_assets/releases/|200]]  
+![[Time Machines - Cover.jpeg|200]]  
 [[Time Machines]]
 
 ![[Astral Disaster (Original LP) - Cover.jpg|200]]  
