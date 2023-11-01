@@ -8,7 +8,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: Threshold House
 Page created: 2023-10-31
-Page modified: 2023-10-31
+Page modified: 2023-11-01
 ---
 
 # The Ape of Naples
@@ -31,64 +31,12 @@ Page modified: 2023-10-31
 
 *__The Ape of Naples__* is a Studio Album by Coil, released on Nov. 28. 2005 by Threshold House. It was the final Coil album recorded with the core lineup of [[Peter Christopherson]] and [[Jhonn Balance]], as Balance died a year before the album’s eventual release.
 
-## Background
+## Versions
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+- A 3-LP by the name of [[The Ape of Naples ∕ The New Backwards (Box-Set)|The Ape of Naples ∕ The New Backwards]] was released by [[Important Records]] in 2007. This marked the first release of a number of tracks that would end up on the expanded standalone release of [[The New Backwards]] in 2008.
+- An [[The Ape of Naples (Expanded Edition)|expanded edition]] was released by [[Infinite Fog Production]] in 2022, which contained a number of additional demos, alternate versions, and contemporary non-album tracks such as [[Animal Are You?]] and [[A Cold Cell in Bangkok]].
 
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-## Recording
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-## Release
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Artwork
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Packaging
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Versions
-
-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- *Suspendisse potenti.*
-- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-#### Tracklist
+### Tracklist
 1. [[Songs/Fire of the Mind|Fire of the Mind]]
 2. [[The Last Amethyst Deceiver]]
 3. [[Tattooed Man]]

@@ -42,9 +42,9 @@
   ],
   "expandFolderOnClick": false,
   "cachedSpaces": [
-    "Tags",
-    "Waypoints",
-    "TheBlackSunLodge",
+    "spaces://$tags",
+    "spaces://$waypoints",
+    "/",
     "Context",
     "Labels",
     "Live Performance",
@@ -53,10 +53,10 @@
     "Releases",
     "Songs",
     "_assets",
-    "photos",
-    "releases",
+    "_assets/photos",
+    "_assets/releases",
     "_templates",
-    "#Backwards"
+    "spaces://#Backwards"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
