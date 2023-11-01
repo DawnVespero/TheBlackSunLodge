@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0799ea58dc3a8c30",
+        "id": "ce781e9414220c82",
         "type": "tabs",
         "children": [
           {
-            "id": "37e351a62522bfb7",
+            "id": "cf8bcf25ac3231e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "Releases/Backwards (Cold Spring).md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "25631a8948a505ef",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Backwards (Cold Spring).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Backwards (Cold Spring).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Backwards (Cold Spring).md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Backwards (Cold Spring).md"
               }
             }
           },
@@ -166,46 +167,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "publish:Änderungen veröffentlichen": false,
       "homepage:Open homepage": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "37e351a62522bfb7",
+  "active": "cf8bcf25ac3231e8",
   "lastOpenFiles": [
-    "Songs/Love's Secret Domain.md",
+    "Releases/The New Backwards.md",
+    "Songs/A.Y.O.R..md",
+    "Songs/Backwards.md",
+    "_templates/Release Page (Frontmatter).md",
     "Releases/The Ape of Naples.md",
+    "Songs/I Don’t Get It.md",
+    "Songs/Heaven’s Blade.md",
+    "Songs/It’s In My Blood.md",
+    "Songs/Fire of the Mind.md",
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "Home.md",
+    "Songs/Love's Secret Domain.md",
     "_templates/_templates.md",
     "Others/Others.md",
     "Live Performance/Live Performance.md",
     "Labels/Labels.md",
     "TheBlackSunLodge.md",
-    "Home.md",
     "People/People.md",
     "Releases/How To Destroy Angels.md",
     "People/Jhonn Balance.md",
     "_templates/Person Page (Frontmatter).md",
     "Releases/Swanyard.md",
-    "_templates/Release Page (Page Body - Frontmatter Templates).md",
     "Others/Backwards.md",
     "Songs/Tainted Love.md",
     "Songs/Absolute Elsewhere.md",
     "Releases/How to Destroy Angels (Remixes and Re-Recordings).md",
-    "People/Derek Jarman.md",
     "_assets/photos/Derek Jarman (1992).jpg",
     "_assets/Derek Jarman (1992) 1.jpg",
-    "Songs/How to Destroy Angels.md",
-    "Labels/L.A.Y.L.A.H. Antirecords.md",
-    "_templates/Release Page (Info Table).md",
-    "_templates/Release Page (Frontmatter).md",
-    "Songs/Teenage Lightning (10th Birthday Version).md",
-    "Songs/Teenage Lightning.md",
-    "Releases/Love’s Secret Domain.md",
     "TheBlackSunLodge",
     "_assets/placeholder.png",
     "_assets/banner.jpg",

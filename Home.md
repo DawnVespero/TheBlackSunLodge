@@ -1,7 +1,6 @@
 ---
 title: Welcome to the Black Sun Lodge
-aliases:
-  - Welcome to the Black Sun Lodge
+aliases: [Welcome to the Black Sun Lodge]
 Type: 
 sticker: lucide//home
 color: "#4b6584"
