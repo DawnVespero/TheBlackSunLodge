@@ -31,7 +31,7 @@ You are entering the internet’s first dedicated general database for the work 
 ![[Gold is the Metal (Original) Cover.jpg|200]]  
 [[Gold is the Metal (with the Broadest Shoulders)]]
 
-  ![[Love’s Secret Domain (30th Anniversary) - Cover.jpg]]
+  ![[Love’s Secret Domain (30th Anniversary) - Cover.jpg]]  
 [[Love’s Secret Domain]]
 
 ![[Born Again Pagans - Cover.jpg|200]]  
