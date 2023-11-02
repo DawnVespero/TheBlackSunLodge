@@ -1,14 +1,17 @@
 ---
 title: The New Backwards
-Type: Release  
+Type: Release
 SubType: Studio Album
 Date: 2008-04-18
 Legitimacy: Official
-Original: [[The Ape of Naples |The New Backwards (Box-Set)]]
-Derivative: [[The New Backwards (Expanded Edition)]]
+Original:
+  - - The Ape of Naples |The New Backwards (Box-Set)
+Derivative:
+  - - The New Backwards (Expanded Edition)
 sticker: lucide//disc
 color: "#3867d6"
-Label: [[Threshold House]]
+Label:
+  - - Threshold House
 Page created: 2023-10-05
 Page modified: 2023-10-31
 ---

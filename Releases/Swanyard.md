@@ -7,7 +7,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Infinite Fog Production]]
 Page created: 2023-10-05
-Page modified: 2023-10-31
+Page modified: 2023-11-02
 ---
 
 # Swanyard
@@ -90,7 +90,7 @@ Page modified: 2023-10-31
 4. [[Songs/Simenon (Swanyard Demo)|Siminon Master Backwards (Swanyard demo)]]
 5. [[Song’s/Jhon’s House Tune|Jhon’s House Tune from GM Guide - Protection]]
 6. [[Songs/Spastiche (Basic)|Spastiche (Basic)]]
-7. [[Songs/A.Y.O.R. \ It’s in my Blood (Swanyard)|AYOR Master (It’s in my blood)]]
+7. [[Songs/A.Y.O.R. ∕ It’s in my Blood (Swanyard)|AYOR Master (It’s in my blood)]]
 8. [[Songs/Original Amber Rain|Original Amber rain (demo)]]
 9. [[Songs/Crumb Tune (Master)|Crumb Tune (Master)]]
 10. [[Songs/The March of Time (Extra Version)|The March of Time (Extra Version)]]

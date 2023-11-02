@@ -1,9 +1,9 @@
 ---
 title: 
 Type: Release  
-SubType:  
+SubType: 
 Legitimacy: 
-Date:  
+Date: 
 Label:
 Original: 
 Derivative: 

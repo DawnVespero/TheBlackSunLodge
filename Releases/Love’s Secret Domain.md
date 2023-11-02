@@ -1,57 +1,112 @@
 ---
-title: Background
-aliases: [Background]
-Type: Release
-Sub-Type: Studio Album
-Date: 1991-07-01
+title: Love’s Secret Domain
+Type: Release  
+SubType: Studio Album
+Date: 1991-07-01 
 Legitimacy: Official
+Original: 
 Derivative:
-  - "[[Love's Secret Domain (CD Version)]]"
-  - "[[Love's Secret Domain (30th Anniversary Edition)]]"
-banner:
-  - "![[Love's Secret Domain (30th Anniversary) Cover.jpg]]"
+- [[Love's Secret Domain (CD Version)]]
+- [[Love's Secret Domain (30th Anniversary Edition)]]
 sticker: lucide//disc
 color: "#3867d6"
-linter-yaml-title-alias: Background
-Page created: 2023-10-05
-Page modified: 2023-10-30
+Label:
+- [[Torso]]
+- [[Wax Trax!]]
+Page created: 2023-10-31
+Page modified: 2023-11-02
 ---
 
-*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
+# Love’s Secret Domain
 
-# Background
+![[Loves Secret Domain (30th Anniversary) - Cover.jpg|700]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+|  |  |
+| --- | --- |
+| __Title__: | Love’s Secret Domain |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1991-07-01 |
+| __Label:__ | [[Torso]],[[Wax Trax!]] |
+| __Original__: |  |
+| __Derivative__: | [[Love’s Secret Domain (CD Version)]],[[Love’s Secret Domain (30th Anniversary Edition)]] |
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+---
 
-Suspendisse potenti.
+*__Love’s Secret Domain__* is an official studio album by Coil, released in July 1991 by [[Torso]] in Europe and [[Wax Trax!]] in the United States.
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Background
 
-# Recording
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*Suspendisse potenti.*
 
-Suspendisse potenti.
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Recording
 
-# Release
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*Suspendisse potenti.*
 
-Suspendisse potenti.
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Release
 
-# Versions
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Artwork
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Packaging
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Versions
+
+- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+- *Suspendisse potenti.*
+- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+#### Tracklist
+1. [[Disco Hospital]]
+2. [[Teenage Lightning]]
+3. [[Things Happen]]
+4. [[Songs/The Snow|The Snow]]
+5. [[Dark River]]
+6. [[Further Back and Faster]]
+7. [[Titan Arch]]
+8. [[Chaostrophy]]
+9. [[Love’s Secret Domain]]
+
+## Personnel
+
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
+
+[^1]:

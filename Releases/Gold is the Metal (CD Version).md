@@ -1,58 +1,60 @@
 ---
-aliases: [Background]
-color: "#3867d6"
-Contained in Release:
-  - "[[Hellraiser]]"
-  - "[[The Wheal]]"
+title: Gold is the Metal (CD Version)
+Type: Release  
+SubType: Studio Album
 Date: 1988-01-01
-Label:
-  - "[[Threshold House]]"
 Legitimacy: Official
-linter-yaml-title-alias: Background
-Original:
-  - "[[Gold is the Metal (with the Broadest Shoulders)]]"
-Page created: 2023-10-05
-Page modified: 2023-10-25
+Original: [[Gold is the Metal (with the Broadest Shoulders)]]
+Derivative: 
 sticker: lucide//disc
-title: Background
-Type: Release
+color: "#3867d6"
+Label: [[Threshold House]]
+Page created: 2023-10-31
+Page modified: 2023-11-02
 ---
 
-*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
+# Gold is the Metal (CD Version)
 
-# Background
+![[placeholder.png|700]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+|  |  |
+| --- | --- |
+| __Title__: | Gold is the Metal (CD Version) |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1988-??-?? |
+| __Label:__ | Threshold House |
+| __Original__: | Gold is the Metal (with the Broadest Shoulders) |
+| __Derivative__: |  |
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+---
 
-Suspendisse potenti.
+*__Gold is the Metal (CD Version)__* is a version of the album [[Gold is the Metal (with the Broadest Shoulders)]], released by [[Threshold House]] in 1988. This first-time CD release adds two new songs: [[Hellraiser]] from [[The Unreleased Themes For Hellraiser]] and [[The Wheal]] from the single [[The Wheel |The Wheal | Keelhauler]].
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Tracklist
+1. [[Last Rites of Spring]]
+2. [[Paradisiac]]
+3. [[Thump]]
+4. [[For Us They Will]]
+5. [[The Broken Wheel]]
+6. [[Boy in a Suitcase]]
+7. [[Golden Hole]]
+8. [[Cardinal Points]]
+9. [[Red Slur]]
+10. [[…Of Free Enterprise]]
+11. [[Aqua Regalia]]
+12. [[Metal in the Head]]
+13. [[Either His or Yours]]
+14. [[Chickenskin]]
+15. [[Soundtrap]]
+16. [[Hellraiser]]
+17. [[The Wheal]]
+18. [[The First Five Minutes After Violent Death]]
 
-# Recording
+# Personnel
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Release
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+[^1]:

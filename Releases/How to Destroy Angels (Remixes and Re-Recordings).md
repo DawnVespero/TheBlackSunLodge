@@ -1,11 +1,12 @@
 ---
 title: How to Destroy Angels (Remixes and Re-Recordings)
-Type: Release  
-SubType: Remix Album  
-Date: 1992-01-01 
+Type: Release
+SubType: Remix Album
+Date: 1992-01-01
 sticker: lucide//disc
 color: "#3867d6"
-Label: [[Threshold House]]
+Label:
+  - - Threshold House
 Page created: 2023-10-30
 Page modified: 2023-10-30
 ---

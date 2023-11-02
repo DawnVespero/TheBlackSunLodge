@@ -1,48 +1,104 @@
 ---
-Type: Release
-Sub-Type: Single
-Legitimacy: Official
+title: Queens of the Circulating Library
+Type: Release  
+SubType: Studio Album
 Date: 2000-04-01
-Contained in Release:
-  - "[[Songs/Queens of the Circulating Library]]"
-color: "#3867d6"
+Legitimacy: Official
+Original: 
+Derivative: 
 sticker: lucide//disc
+color: "#3867d6"
+Label: [[Threshold House]]
+Page created: 2023-10-31
+Page modified: 2023-11-02
 ---
-_**[RELEASE NAME]**_ is a **[SUB-TYPE]** by Coil, released in **[YEAR]** by **[LABEL]**. **[ADDITIONAL INTRODUCTION NOTES]**.
 
-# Background
+# Queens of the Circulating Library
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+![[Queens of the Circulating Library (Dais) - Cover.jpg|700]]  
+*Cover from [[Dais Records]] Re-Release*
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+![[Queens of the Circulating Library - Original Clamshell.jpg|700]]  
+*Packaging for original release*
 
-Suspendisse potenti.
+|  |  |
+| --- | --- |
+| __Title__: | Queens of the Circulating Library |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Official |
+| __Release date:__ | 2000-04-01 |
+| __Label:__ | Threshold House |
+| __Original__: |  |
+| __Derivative__: |  |
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+---
 
-# Recording
+*__Queens of the Circulating Library__* is an official atudio album by Coil, released in April 2000 by [[Threshold House]].
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+## Background
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Suspendisse potenti.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*Suspendisse potenti.*
 
-# Release
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+## Recording
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Suspendisse potenti.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*Suspendisse potenti.*
 
-# Versions
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Release
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Artwork
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Packaging
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Versions
+
+- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+- *Suspendisse potenti.*
+- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+#### Tracklist
+1. [[Songs/Queens of the Circulating Library|Queens of the Circulating Library]]
+
+## Personnel
+
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
+
+[^1]:

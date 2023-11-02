@@ -1,6 +1,6 @@
 ---
 title: The Ape of Naples
-Type: Release  
+Type: Release
 SubType: Studio Album
 Date: 2005-12-02
 Legitimacy: Official

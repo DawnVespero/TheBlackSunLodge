@@ -1,27 +1,15 @@
 ---
-banner: "![[Horse Rotorvator (1986 Vinyl) Cover.jpg]]"
-child:
-  - "[[Horse Rotorvator (US Cassette Release)]]"
-color: "#3867d6"
-Contained in Release:
-  - "[[Songs/The Anal Staircase]]"
-  - "[[Slur]]"
-  - "[[Babylero]]"
-  - "[[Ostia (The Death of Pasolini)]]"
-  - "[[Herald]]"
-  - "[[Penetralia]]"
-  - "[[Circles of Mania]]"
-  - "[[Blood From The Air]]"
-  - "[[Who By Fire]]"
-  - "[[The Golden Section]]"
-  - "[[The First Five Minutes After Death]]"
-Date: 1986-01-01
-Legitimacy: Official
-Page created: 2023-10-05
-Page modified: 2023-10-25
-sticker: lucide//disc
 title: Horse Rotorvator
 Type: Release
+Date: 1986-01-01
+Legitimacy: Official
+banner: "![[Horse Rotorvator (1986 Vinyl) Cover.jpg]]"
+sticker: lucide//disc
+color: "#3867d6"
+child:
+  - "[[Horse Rotorvator (US Cassette Release)]]"
+Page created: 2023-10-05
+Page modified: 2023-11-02
 ---
 
 # Horse Rotorvator

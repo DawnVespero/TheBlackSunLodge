@@ -16,7 +16,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "minimal",
   "autoOpenFileContext": false,
-  "activeView": "Releases",
+  "activeView": "/",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "yyyy-mm-dd",
@@ -38,7 +38,7 @@
     "_assets/_assets/photos",
     "_assets/_assets/placeholder.png",
     "_assets/_assets/releases",
-    "//_templates"
+    "Releases/Releases/Primary Discography"
   ],
   "expandFolderOnClick": false,
   "cachedSpaces": [
@@ -47,17 +47,18 @@
     "spaces://#Backwards",
     "/",
     "Context",
-    "Live Performance",
     "Labels",
+    "Live Performance",
     "Others",
     "People",
     "Releases",
     "Songs",
+    "Songs/A.Y.O.R. ",
+    "Song’s",
     "_assets",
     "_assets/photos",
     "_assets/releases",
-    "_templates",
-    "Releases/Primary Discography"
+    "_templates"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -70,7 +71,8 @@
   ],
   "lineNumbers": false,
   "hiddenExtensions": [
-    ".mdb"
+    ".mdb",
+    "context.mdb"
   ],
   "newFileLocation": "current",
   "inlineBacklinks": true,

@@ -1,62 +1,105 @@
 ---
-Type: Release
-Sub-Type: Studio Album
+title: Musick To Play In The Dark, Vol. 1
+Type: Release  
+SubType: Studio Album
+Date: 1999-09-01
 Legitimacy: Official
-Date: 1999-07-18
-Untergeordnete/-r/-s Wiki-Seite:
-  - "[[Musick To Play In The Dark, Vol. 1 (LP Version)]]"
-Contained in Release:
-  - "[[Songs/Are You Shivering?.md]]"
-  - "[[Songs/Are You Shivering.md]]"
-  - "[[Songs/Are You Shivering.md]]"
-  - "[[Songs/Are You Shivering.md]]"
-  - "[[Songs/Are You Shivering.md]]"
-  - "[[Songs/Are You Shivering.md]]"
-color: "#3867d6"
+Original: 
+Derivative: 
 sticker: lucide//disc
-title: Background
-aliases:
-  - Background
-linter-yaml-title-alias: Background
-Page created: 2023-10-05
-Page modified: 2023-10-24
+color: "#3867d6"
+Label: [[Chalice]]
+Page created: 2023-10-31
+Page modified: 2023-11-02
 ---
 
-*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
+# Musick To Play In The Dark, Vol. 1
 
-# Background
+![[Musick To Play in the Dark, Vol. 1 - Cover.jpg|700]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+|  |  |
+| --- | --- |
+| __Title__: | Musick To Play In The Dark, Vol. 1 |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1999-09-01 |
+| __Label:__ | [[Labels/Chalice]] |
+| __Original__: | null |
+| __Derivative__: | null |
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+---
 
-Suspendisse potenti.
+*__Musick To Play In The Dark, Vol. 1__* is an official studio album by Coil, released in September 1999 by [[Labels/Chalice|Chalice]].
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Background
 
-# Recording
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*Suspendisse potenti.*
 
-Suspendisse potenti.
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Recording
 
-# Release
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*Suspendisse potenti.*
 
-Suspendisse potenti.
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Release
 
-# Versions
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Artwork
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Packaging
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+
+*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+
+*Suspendisse potenti.*
+
+*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+### Versions
+
+- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+- *Suspendisse potenti.*
+- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+
+#### Tracklist
+1. [[Are You Shivering?]]
+2. [[Red Birds Will Fly Out of the East and Destroy Paris in a Night]]
+3. [[Red Queen]]
+4. [[Broccoli]]
+5. [[Strange Birds]]
+6. [[The Dreamer is Still Asleep]]
+
+## Personnel
+
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
+
+[^1]:

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b1a8818dba6526",
+        "id": "9fb9bb1a16afea9b",
         "type": "tabs",
         "children": [
           {
-            "id": "22b9a32a729b3cdf",
+            "id": "300b3a1e3f055aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Love's Secret Domain.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"type\":Release]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "25631a8948a505ef",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Love's Secret Domain.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Love's Secret Domain.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Songs/Love's Secret Domain.md"
+                "file": "Home.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Love's Secret Domain.md"
+                "file": "Home.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,36 +188,37 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "22b9a32a729b3cdf",
+  "active": "300b3a1e3f055aaf",
   "lastOpenFiles": [
-    "Releases/pHILM ＃1.md",
-    "Releases/Backwards (Danny Hyde’s Archival Bonus Track Edition).md",
-    "Releases/The Wheel | The Wheal | Keelhauler.md",
-    "Releases/Summer Solstice — Bee Stings.md",
-    "Releases/Spring Equinox — Moon's Milk or Under An Unquiet Skull.md",
-    "Releases/Panic ∕ Tainted Love.md",
-    "Releases/Nasa-Arab ∕ First Dark Ride.md",
-    "Releases/Hidden Hydrology： COIL’s ‘Lost Rivers’ Studio Sessions 1995-1996.md",
-    "Releases/Contaminated Apples： 1986-1991 Appendices.md",
-    "Releases/Autumn Equinox — Amethyst Deceivers.md",
-    "Releases/Another Brown World ∕ Baby Food.md",
-    "Releases/Airborne Bells ∕ Is Suicide A Solution.md",
-    "Releases/A Guide For Finishers — A Golden Hair.md",
-    "Releases/A Guide For Beginners — A Silver Voice.md",
-    "Live Performance/2000-09-19 — Royal Festival Hall, London, England.md",
-    "Releases/Primary Discography/Primary Discography.md",
-    "Releases/Primary Discography",
-    "Live Performance/2000-04-02 — Cornucopea.md",
-    "Live Performance/2000-06-17 — Sónar Festival.md",
-    "Live Performance/1983-12-03 — Atonal Festival Ⅲ.md",
+    "Releases/Queens of the Circulating Library.md",
+    "Releases/Constant Shallowness Leads To Evil.md",
     "Home.md",
-    "Songs/The Universe is a Haunted House.md",
-    "Songs/Blue Chasms.md",
-    "Songs/Amethyst Deceivers (Version 1).md",
-    "_templates/Performance Page (Frontmatter).md",
-    "Songs/Chasms.md",
-    "Songs/Sipping Birdsong Through Bedsprings.md",
+    "Releases/Musick To Play In The Dark, Vol. 1.md",
+    "Releases/Musick To Play In The Dark, Vol. 2.md",
+    "Songs/Batwings (A Limnal Hymn).md",
+    "Songs/Where Are You?.md",
+    "Songs/An Emergency.md",
+    "Songs/Paranoid Inlay.md",
+    "Songs/Ether 1.md",
+    "Songs/Ether.md",
+    "Songs/Tiny Golden Books.md",
+    "Labels/Chalice.md",
+    "_templates/Release Page (Frontmatter).md",
+    "Releases/Time Machines.md",
+    "Releases/Worship The Glitch.md",
+    "Releases/pHILM ＃1 (EP).md",
+    "Releases/Swanyard.md",
+    "Songs/A.Y.O.R. ∕ It’s in my Blood (Swanyard).md",
+    "Songs/A.Y.O.R. /It’s in my Blood (Swanyard) 2.md",
+    "Songs/Egyptian Basses ‘93.md",
+    "Songs/Mellotron Song (Amber Rain Demo).md",
+    "Songs/Simenon (Extra Long).md",
+    "Songs/Crumb Tune (Swanyard).md",
+    "Songs/March of More Time ‘93.md",
+    "Songs/Heaven’s Blade ‘93 (Instrumental).md",
     "Songs/A.Y.O.R. ",
+    "Song’s",
+    "Releases/Primary Discography",
     "_assets/releases/Loves Secret Domain (30th Anniversary) - Cover.jpg",
     "_assets/releases/Time Machines - Cover.jpeg",
     "_assets/releases/pHILM 1 - Cover.jpeg",
@@ -234,7 +236,6 @@
     "_assets/Neuer Ordner mit Objekten/photos",
     "_assets/Neuer Ordner mit Objekten",
     "publish.css",
-    "garamold-webfont.woff2",
     "Others/Backwards.canvas"
   ]
 }
