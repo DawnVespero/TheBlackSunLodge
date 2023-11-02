@@ -1,22 +1,15 @@
 ---
-aliases:
-  - Background
-color: "#3867d6"
-Contained in Release:
-  - "[[Regel]]"
-  - "[[Rosa Decidua]]"
-  - "[[The Auto-Asphyxiating Hierophant]]"
-Date: 1998-09-01
-Label:
-  - "[[Threshold House]]"
-linter-yaml-title-alias: Background
-Original:
-  - "[[Autumn Equinox — Amethyst Deceivers]]"
-Page created: 2023-10-05
-Page modified: 2023-10-25
-sticker: lucide//disc
 title: Background
+aliases: [Background]
 Type: Release
+Sub-Type: Single
+Date: 1998-01-01
+Legitimacy: Official
+sticker: lucide//disc
+color: "#3867d6"
+linter-yaml-title-alias: Background
+Page created: 2023-10-31
+Page modified: 2023-11-02
 ---
 
 *__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.

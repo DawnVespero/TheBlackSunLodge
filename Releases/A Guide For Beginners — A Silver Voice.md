@@ -1,19 +1,20 @@
 ---
-color: "#3867d6"
-Date: 1985-01-01
-Legitimacy: Official
-Page created: 2023-10-05
-Page modified: 2023-10-25
-sticker: lucide//disc
-title: Panic | Tainted Love
+title: "A Guide For Beginners: A Silver Voice"
+aliases: ["A Guide For Beginners: A Silver Voice"]
 Type: Release
-Untergeordnete/-r/-s Wiki-Seite:
-  - "[[Panic (T-ARCH)]]"
+Date: 2000-01-01
+Legitimacy: Official
+banner: "_assets/A Guide for Beginners - Cover.jpg"
+sticker: lucide//disc
+color: "#3867d6"
+linter-yaml-title-alias: "A Guide For Beginners: A Silver Voice"
+Page created: 2023-10-05
+Page modified: 2023-11-02
 ---
 
-# Panic | Tainted Love
+# A Guide For Beginners: A Silver Voice
 
-*__Panic / Tainted Love__* is a undefined single by Coil, released in 1985 by undefined. [ADDITIONAL INTRODUCTION NOTES].
+*__A Guide For Beginners: A Silver Voice__* is a undefined by Coil, released in 2000-01-01 by undefined. [ADDITIONAL INTRODUCTION NOTES].
 
 ## Background
 
@@ -73,9 +74,17 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 - Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 #### Tracklist
-1. [[Aqua Regis]]
-2. [[Panic]]
-3. [[Tainted t]]
+
+1. [[Amethyst Deceivers]]
+2. [[Lost Rivers of London]]
+3. [[Are You Shivering?]]
+4. [[Ostia (The Death of Pasolini)]]
+5. [[Where Are You?]]
+6. [[At The Heart Of It All]]
+7. [[A Cold Cell (A Silver Voice)]]
+8. [[Batwings (A Limnal Hymn)]]
+9. [[Who’ll Fall?]]
+10. [[The Dreamer is Still Asleep]]
 
 ## Personnel
 

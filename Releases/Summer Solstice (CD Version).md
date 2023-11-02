@@ -1,5 +1,6 @@
 ---
-aliases: [Background]
+aliases:
+  - Background
 color: "#3867d6"
 Contained in Release:
   - "[[Glowworms  Waveforms]]"
@@ -12,7 +13,7 @@ sticker: lucide//disc
 title: Background
 Type: Release
 Übergeordnete/-r/-s Wiki-Seite:
-  - "[[Summer Solstice- Bee Stings]]"
+  - "[[Summer Solstice — Bee Stings]]"
 ---
 
 *__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.

@@ -10,7 +10,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: None (Self-release by [[Danny Hyde]])
 Page created: 2023-11-01
-Page modified: 2023-11-01
+Page modified: 2023-11-02
 ---
 
 # Backwards (Danny Hyde’s Archival Bonus Track Edition)

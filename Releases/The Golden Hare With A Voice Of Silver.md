@@ -5,7 +5,7 @@ Date: 2002-01-01
 Legitimacy: Official
 Original:
   - "[[Releases/A Guide For Finishers- A Golden Hair.md]]"
-  - "[[Releases/A Guide For Finishers --- A Golden Hair.md]]"
+  - "[[A Guide For Finishers — A Golden Hair]]"
 banner:
   - _assets/The Golden Hare with a Voice of Silver - Cover.jpg
 sticker: lucide//disc

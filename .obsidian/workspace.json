@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/A Guide For Beginners — A Silver Voice.md",
+                "file": "Songs/Love's Secret Domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/A Guide For Beginners — A Silver Voice.md",
+                "file": "Songs/Love's Secret Domain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/A Guide For Beginners — A Silver Voice.md",
+                "file": "Songs/Love's Secret Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/A Guide For Beginners — A Silver Voice.md"
+                "file": "Songs/Love's Secret Domain.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/A Guide For Beginners — A Silver Voice.md"
+                "file": "Songs/Love's Secret Domain.md"
               }
             }
           },
@@ -189,6 +189,20 @@
   },
   "active": "22b9a32a729b3cdf",
   "lastOpenFiles": [
+    "Releases/pHILM ＃1.md",
+    "Releases/Backwards (Danny Hyde’s Archival Bonus Track Edition).md",
+    "Releases/The Wheel | The Wheal | Keelhauler.md",
+    "Releases/Summer Solstice — Bee Stings.md",
+    "Releases/Spring Equinox — Moon's Milk or Under An Unquiet Skull.md",
+    "Releases/Panic ∕ Tainted Love.md",
+    "Releases/Nasa-Arab ∕ First Dark Ride.md",
+    "Releases/Hidden Hydrology： COIL’s ‘Lost Rivers’ Studio Sessions 1995-1996.md",
+    "Releases/Contaminated Apples： 1986-1991 Appendices.md",
+    "Releases/Autumn Equinox — Amethyst Deceivers.md",
+    "Releases/Another Brown World ∕ Baby Food.md",
+    "Releases/Airborne Bells ∕ Is Suicide A Solution.md",
+    "Releases/A Guide For Finishers — A Golden Hair.md",
+    "Releases/A Guide For Beginners — A Silver Voice.md",
     "Live Performance/2000-09-19 — Royal Festival Hall, London, England.md",
     "Releases/Primary Discography/Primary Discography.md",
     "Releases/Primary Discography",
@@ -202,20 +216,6 @@
     "_templates/Performance Page (Frontmatter).md",
     "Songs/Chasms.md",
     "Songs/Sipping Birdsong Through Bedsprings.md",
-    "Songs/Everything Keeps Dissolving.md",
-    "_templates/Release Page (Page Body - Frontmatter Templates).md",
-    "_templates/Performance Page (Body - Frontmatter Templates).md",
-    "Live Performance/1983-08-04 - Club Magenta, London, England.md",
-    "Live Performance/1983-08-24 — Air Gallery, London, England.md",
-    "Live Performance/1983-10-12 — Recession Studios, London, England.md",
-    "Songs/Rape.md",
-    "Songs/Silence&Secrecy.md",
-    "_templates/Person Page (Frontmatter).md",
-    "_templates/Label Page.md",
-    "Releases/The Ape of Naples.md",
-    "Releases/The Ape of Naples (Expanded Edition).md",
-    "Songs/Going Up (Live Better 2).md",
-    "Songs/Amber Rain (Drier More Intimate).md",
     "Songs/A.Y.O.R. ",
     "_assets/releases/Loves Secret Domain (30th Anniversary) - Cover.jpg",
     "_assets/releases/Time Machines - Cover.jpeg",

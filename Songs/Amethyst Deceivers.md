@@ -1,7 +1,7 @@
 ---
 Type: Song
 Contained in Release:
-  - "[[Releases/Autumn Equinox --- Amethyst Deceivers.md]]"
+  - "[[Autumn Equinox — Amethyst Deceivers]]"
 color: "#eb3b5a"
 sticker: lucide//music
 ---
