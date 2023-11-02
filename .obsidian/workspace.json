@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "111d2f0a3d85ec1d",
+        "id": "a4b1a8818dba6526",
         "type": "tabs",
         "children": [
           {
-            "id": "89f0cb722dee6e6e",
+            "id": "22b9a32a729b3cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live Performance/2000-06-17 — Sónar Festival.md",
+                "file": "Releases/A Guide For Beginners — A Silver Voice.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "25631a8948a505ef",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live Performance/2000-06-17 — Sónar Festival.md",
+                "file": "Releases/A Guide For Beginners — A Silver Voice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live Performance/2000-06-17 — Sónar Festival.md",
+                "file": "Releases/A Guide For Beginners — A Silver Voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Live Performance/2000-06-17 — Sónar Festival.md"
+                "file": "Releases/A Guide For Beginners — A Silver Voice.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live Performance/2000-06-17 — Sónar Festival.md"
+                "file": "Releases/A Guide For Beginners — A Silver Voice.md"
               }
             }
           },
@@ -188,24 +187,27 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "89f0cb722dee6e6e",
+  "active": "22b9a32a729b3cdf",
   "lastOpenFiles": [
-    "Songs/The Universe is a Haunted House.md",
+    "Live Performance/2000-09-19 — Royal Festival Hall, London, England.md",
+    "Releases/Primary Discography/Primary Discography.md",
+    "Releases/Primary Discography",
+    "Live Performance/2000-04-02 — Cornucopea.md",
     "Live Performance/2000-06-17 — Sónar Festival.md",
+    "Live Performance/1983-12-03 — Atonal Festival Ⅲ.md",
+    "Home.md",
+    "Songs/The Universe is a Haunted House.md",
     "Songs/Blue Chasms.md",
     "Songs/Amethyst Deceivers (Version 1).md",
     "_templates/Performance Page (Frontmatter).md",
-    "Live Performance/2000-04-02 — Cornucopea.md",
     "Songs/Chasms.md",
     "Songs/Sipping Birdsong Through Bedsprings.md",
     "Songs/Everything Keeps Dissolving.md",
     "_templates/Release Page (Page Body - Frontmatter Templates).md",
     "_templates/Performance Page (Body - Frontmatter Templates).md",
-    "Home.md",
     "Live Performance/1983-08-04 - Club Magenta, London, England.md",
     "Live Performance/1983-08-24 — Air Gallery, London, England.md",
     "Live Performance/1983-10-12 — Recession Studios, London, England.md",
-    "Live Performance/1983-12-03 — Atonal Festival Ⅲ.md",
     "Songs/Rape.md",
     "Songs/Silence&Secrecy.md",
     "_templates/Person Page (Frontmatter).md",
@@ -214,8 +216,6 @@
     "Releases/The Ape of Naples (Expanded Edition).md",
     "Songs/Going Up (Live Better 2).md",
     "Songs/Amber Rain (Drier More Intimate).md",
-    "Songs/A Cold Cell in Bangkok (6 Minute Version).md",
-    "Songs/Heaven’s Blade  (Mix 1).md",
     "Songs/A.Y.O.R. ",
     "_assets/releases/Loves Secret Domain (30th Anniversary) - Cover.jpg",
     "_assets/releases/Time Machines - Cover.jpeg",
@@ -235,7 +235,6 @@
     "_assets/Neuer Ordner mit Objekten",
     "publish.css",
     "garamold-webfont.woff2",
-    "garamold-webfont.woff",
     "Others/Backwards.canvas"
   ]
 }

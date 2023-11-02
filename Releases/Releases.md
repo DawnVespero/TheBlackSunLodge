@@ -22,8 +22,8 @@ _links:
   - Releases/The Ape of Naples.md
 _sort:
   field: rank
-  asc: false
-  group: false
+  asc: true
+  group: true
 ---
 
 *__[RELEASE NAME]__* is a [SUB-TYPE] by Coil, released in [YEAR] by [LABEL]. [ADDITIONAL INTRODUCTION NOTES].
