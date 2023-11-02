@@ -2,11 +2,11 @@
 title: 1983-12-03 — Atonal Festival Ⅲ
 Type: Live Performance
 Date: 1983-12-03
+Location: Pankehallen, Berlin, Germany
 sticker: lucide//mic
 color: "#f7b731"
-Location: Pankehallen, Berlin, Germany
 Page created: 2023-10-22
-Page modified: 2023-11-01
+Page modified: 2023-11-02
 ---
 
 # 1983-12-03 — Atonal Festival Ⅲ

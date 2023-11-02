@@ -2,16 +2,16 @@
 title: 2000-04-02 — Cornucopea
 Type: Live Performance
 Date: 2000-04-02
+Location: Royal Festival Hall, London, England
 sticker: lucide//mic
 color: "#f7b731"
-Location: Royal Festival Hall, London, England
 Page created: 2023-10-22
-Page modified: 2023-11-01
+Page modified: 2023-11-02
 ---
 
 # 2000-04-02 — Cornucopea
 
-Coil performed live at Royal Festival Hall, London, England on Apr. 2nd, 2000.
+Coil performed live at the Royal Festival Hall, London, England on Apr. 2nd, 2000.
 
 ## Details
 
