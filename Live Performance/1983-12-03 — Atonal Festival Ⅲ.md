@@ -6,7 +6,7 @@ Location: Pankehallen, Berlin, Germany
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-02
+Page modified: 2023-11-03
 ---
 
 # 1983-12-03 — Atonal Festival Ⅲ

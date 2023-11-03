@@ -1,73 +1,4 @@
 {
-  "global-search:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
-  "editor:open-search": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
-  "make-md:mk-blink": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": ";"
-    }
-  ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
-  "markdown:add-metadata-property": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
   "editor:toggle-source": [
     {
       "modifiers": [
@@ -82,34 +13,6 @@
         "Alt"
       ],
       "key": "."
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "homepage:open-homepage": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowUp"
     }
   ],
   "templater-obsidian:insert-templater": [
@@ -130,7 +33,6 @@
       "key": "T"
     }
   ],
-  "workspace:undo-close-pane": [],
   "templater-obsidian:replace-in-file-templater": [
     {
       "modifiers": [
@@ -140,42 +42,70 @@
       "key": "T"
     }
   ],
-  "workspace:close-window": [],
-  "workspace:close-others": [
+  "insert-template": [
     {
       "modifiers": [
         "Alt",
-        "Mod"
+        "Shift"
       ],
-      "key": "W"
+      "key": "T"
     }
   ],
-<<<<<<< Updated upstream
+  "workspace:undo-close-pane": [],
   "editor:insert-wikilink": [
-=======
-  "editor:toggle-comments": [],
-  "theme:use-dark": [
->>>>>>> Stashed changes
     {
       "modifiers": [
         "Mod"
       ],
-<<<<<<< Updated upstream
       "key": "L"
     }
   ],
-  "editor:toggle-checklist-status": []
-=======
-      "key": "]"
-    }
-  ],
-  "theme:use-light": [
+  "editor:toggle-checklist-status": [],
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
+        "Ctrl",
         "Mod"
       ],
-      "key": "["
+      "key": "S"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "switcher:open": [],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
     }
   ]
->>>>>>> Stashed changes
 }

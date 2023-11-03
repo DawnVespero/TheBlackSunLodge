@@ -1,7 +1,6 @@
 {
   "accentColor": "",
   "theme": "system",
-<<<<<<< Updated upstream
   "cssTheme": "Coil Wiki",
   "interfaceFontFamily": "",
   "textFontFamily": "",
@@ -12,7 +11,4 @@
   "nativeMenus": false,
   "enabledCssSnippets": [],
   "showViewHeader": true
-=======
-  "cssTheme": "Coil Wiki"
->>>>>>> Stashed changes
 }

@@ -1,6 +1,7 @@
 ---
 title: Scatology
 Type: Release
+SubType: Studio Album
 Date: 1984-01-01
 Legitimacy: Official
 Derivative:
@@ -12,7 +13,7 @@ color: "#3867d6"
 Alternate Version: "[[Scatology Sessions]]"
 banner_y: 0.04
 Page created: 2023-10-05
-Page modified: 2023-10-30
+Page modified: 2023-11-03
 ---
 
 # Scatology
@@ -37,9 +38,9 @@ Additional recordings from the sessions for the album can be found on the [[Live
 
 ## Release
 
-The album, originally known under the title *__Poisons__*, was initially planned for release under [[Jhonn Balance]]'s existing label __Hearsay and Heresy__, which had already released the compilation cassette __Bethel__, but instead, it ended up being attributed as the first release of the new Coil-specific vanity label [[Force & Form]].
+The album, originally known under the title *__Poisons__*, was initially planned for release under [[Jhonn Balance]]‘s existing label __Hearsay and Heresy__, which had already released the compilation cassette __Bethel__, but instead, it ended up being attributed as the first release of the new Coil-specific vanity label [[Force & Form]].
 
-Two versions of the album are known to have been planned but left unrealized: A 'skidmark' color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^1]
+Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^1]
 
 ### Packaging
 
@@ -48,7 +49,7 @@ The cover of the original, LP-only, release features the “Black Sun” icon on
 The liner notes mentioned in this paragraph should be transcribed on the individual songs’ pages.
 %%
 
-> 'SCATOLOGY' (n) frequent reference to excretory processes in literature; study of fossil excrement; gross obscenity <br> - extract from the Penguin English Dictionary The Humanism of the Arsehole. “…A psychoanalyst, knowing that gold and excrement are akin in the subconscious, would not have been surprised…that I used my shit - like the hen's golden eggs, the droppings of the Golden Ass, or Danäe's divine diarrhea - to perform a phenomenal transmutation through the application of my Paranoia-Critical method.” <br> from “The Unspeakable Confessions of Salvador Dali”, Quartet Books, 1976 <br> The name “Coil”, first used by [[John Balance]] in Autumn 1982 for his solo works, now represents him in collaboration with [[Peter Christopherson]].
+> ‘SCATOLOGY’ (n) frequent reference to excretory processes in literature; study of fossil excrement; gross obscenity <br> - extract from the Penguin English Dictionary The Humanism of the Arsehole. “…A psychoanalyst, knowing that gold and excrement are akin in the subconscious, would not have been surprised…that I used my shit - like the hen’s golden eggs, the droppings of the Golden Ass, or Danäe’s divine diarrhea - to perform a phenomenal transmutation through the application of my Paranoia-Critical method.” <br> from “The Unspeakable Confessions of Salvador Dali”, Quartet Books, 1976 <br> The name “Coil”, first used by [[John Balance]] in Autumn 1982 for his solo works, now represents him in collaboration with [[Peter Christopherson]].
   
 
 The final paragraph is only present on the original LP version.
@@ -69,7 +70,7 @@ The final paragraph is only present on the original LP version.
 5. [[The Spoiler]]
 6. [[Clap]]
 7. [[Solar Lodge]]
-8. [[The Sewage Worker's Birthday Party]]
+8. [[The Sewage Worker’s Birthday Party]]
 9. [[Godhead⇔Deathead]]
 10. [[Cathedral in Flames]] ^Scatology84Tracklist
 
@@ -83,7 +84,7 @@ The final paragraph is only present on the original LP version.
 7. [[Restless Day]]
 8. [[Aqua Regis]]
 9. [[Solar Lodge]]
-10. [[The Sewage Worker's Birthday Party|The S.W.B.P.]]
+10. [[The Sewage Worker’s Birthday Party|The S.W.B.P.]]
 11. [[Godhead⇔Deathead|Godhead=Deathhead]]
 12. [[Tainted t]] ^Scatology88Tracklist
 

@@ -1,35 +1,37 @@
 ---
-title: A Prison of Measured Time
+title: "A Guide for Beginners: A Silver Voice"
+aliases: ["A Guide for Beginners: A Silver Voice"]
 Type: Release  
-SubType: Single ∕ EP
-Date: 2020-08-01
-Legitimacy: Semi-Official
+SubType: Compilation
+Date: 2001-09-01
+Legitimacy: Official
 Original: 
-Derivative: 
+Derivative: [[The Golden Hare With A Voice Of Silver]]
 sticker: lucide//disc
 color: "#3867d6"
-Label: Old Europa Cafe
-Page created: 2023-10-05
+Label: [[Labels/Feelee]]
+linter-yaml-title-alias: "A Guide for Beginners: A Silver Voice"
+Page created: 2023-11-03
 Page modified: 2023-11-03
 ---
 
-# A Prison of Measured Time
+# A Guide for Beginners: A Silver Voice
 
-![[A Prison of Measured Time - Cover.jpg|700]]
+![[A Guide for Beginners - Cover.jpg|700]]
 
 |  |  |
 | --- | --- |
-| __Title__: | A Prison of Measured Time |
-| __Type__: | Single ∕ EP |
-| __Legitimacy__: | Semi-Official |
-| __Release date:__ | 2020-08-01 |
-| __Label:__ | Old Europa Cafe |
+| __Title__: | A Guide for Beginners: A Silver Voice |
+| __Type__: | Compilation |
+| __Legitimacy__: | Official |
+| __Release date:__ | 2001-09-01 |
+| __Label:__ | [[Labels/Feelee]] |
 | __Original__: |  |
-| __Derivative__: |  |
+| __Derivative__: | [[The Golden Hare With A Voice Of Silver]] |
 
 ---
 
-*__A Prison of Measured Time__* is a semi-official single by Coil, released in August 2020 by Old Europa Cafe. [ADDITIONAL INTRODUCTION NOTES].
+*__Пособие для начинающих: Глас Сребра__* (known i English as *__A Guide for Beginners: A Silver Voice__* ) is an official compilation album by Coil, released in September 2001 by [[Feelee]]. [ADDITIONAL INTRODUCTION NOTES].
 
 ## Background
 
@@ -89,18 +91,21 @@ Page modified: 2023-11-03
 - *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
 #### Tracklist
-1. [[Heaven’s Blade (Dark Night Mix)]]
-2. [[Wir-Click-Wir (A Deeply Disturbed Passing Mix)]]
+1. [[Amethyst Deceivers]]
+2. [[Lost Rivers of London]]
+3. [[Are You Shivering?]]
+4. [[Ostia (The Death of Pasolini)]]
+5. [[Where Are You?]]
+6. [[At The Heart Of It All]]
+7. [[A Cold Cell (A Silver Voice)]]
+8. [[Batwings (A Limnal Hymn)]]
+9. [[Who’ll Fall?]]
+10. [[The Dreamer is Still Asleep]]
 
 ## Personnel
 
 | __Name__ |__Credit__ |
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
-
-## References
-
-[*A Prison of Measured Time* at auralrage.com](https://www.auralrage.com/Prison.html)  
-[*A Prison of Measured Time* at Old Europa Cafe](https://www.oldeuropacafe.com/catalog/category/a-prison-of-measured-time-cd-.html)
 
 [^1]:

@@ -1,6 +1,6 @@
 {
   "defaultInitialization": false,
-  "filePreviewOnHover": true,
+  "filePreviewOnHover": false,
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
@@ -14,39 +14,35 @@
   "internalLinkClickFlow": true,
   "contextEnabled": false,
   "saveAllContextToFrontmatter": false,
-  "editorFlowStyle": "minimal",
+  "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Releases",
   "hideFrontmatter": false,
   "activeSpace": "",
-  "defaultDateFormat": "yyyy-mm-dd",
+  "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
-  "spaceRowHeight": 32,
+  "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "_assets/_assets/banner.jpg",
-    "_assets/_assets/context.mdb",
-    "_assets/_assets/photos",
-    "_assets/_assets/placeholder.png",
-    "_assets/_assets/releases",
-    "Releases/Releases/Primary Discography"
+    "/",
+    "//Song’s",
+    "Songs/Songs/A.Y.O.R. "
   ],
-  "expandFolderOnClick": false,
+  "expandFolderOnClick": true,
   "cachedSpaces": [
     "spaces://$tags",
     "spaces://$waypoints",
     "spaces://#Backwards",
     "/",
-<<<<<<< Updated upstream
     "Context",
     "Labels",
     "Live Performance",
@@ -54,21 +50,10 @@
     "People",
     "Releases",
     "Songs",
-    "Songs/A.Y.O.R. ",
-    "Song’s",
-=======
->>>>>>> Stashed changes
     "_assets",
-    "_assets/releases",
     "_assets/photos",
-    "Context",
-    "People",
-    "_templates",
-    "Songs",
-    "Releases",
-    "Others",
-    "Labels",
-    "Live Performance"
+    "_assets/releases",
+    "_templates"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -76,34 +61,31 @@
   "folderContextFile": "context",
   "folderFrameFile": "frames",
   "spacesFolder": "Spaces",
-  "hiddenFiles": [
-    "Context"
-  ],
+  "hiddenFiles": [],
   "lineNumbers": false,
   "hiddenExtensions": [
-    ".mdb",
-    "context.mdb"
+    ".mdb"
   ],
   "newFileLocation": "current",
-  "inlineBacklinks": true,
+  "inlineBacklinks": false,
   "inlineContext": false,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": false,
-  "dataviewInlineContext": true,
-  "inlineContextNameLayout": "horizontal",
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical",
   "waypoints": [
+    "Spaces/Home",
     "/",
-    "Songs",
     "Releases",
+    "Songs",
     "People",
     "Live Performance",
-    "_assets"
+    "Others",
+    "spaces://$tags"
   ],
-  "rootSpaces": [
-    "Releases/Primary Discography"
-  ],
-  "spacesUseAlias": false,
+  "rootSpaces": [],
+  "spacesUseAlias": true,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
   "fmKeyColor": "color",
@@ -113,7 +95,7 @@
   "fmKeyFilter": "_filters",
   "fmKeyLinks": "_links",
   "openSpacesOnLaunch": true,
-  "indexSVG": true,
+  "indexSVG": false,
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
@@ -122,26 +104,5 @@
   "enableDefaultSpaces": true,
   "enableTagSpaces": true,
   "enableHomeSpace": true,
-  "showSpacePinIcon": true,
-  "spacesCompactMode": false,
-  "collapsedTags": [],
-  "folderNoteDefaultView": false,
-  "expandedFolders": {
-    "Coil Wiki": [
-      "Context",
-      "Live Performance 2",
-      "/",
-      "_assets"
-    ],
-    "Releases": []
-  },
-  "openFolders": [],
-  "fileIcons": [],
-  "tagContextFolder": "Context",
-  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
-  "spacesSyncTimeoutSeconds": 10,
-  "spacesAutoBackup": true,
-  "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698755440953,
-  "precreateVaultSpace": true
+  "showSpacePinIcon": true
 }

@@ -6,18 +6,14 @@ sticker: lucide//home
 color: "#4b6584"
 linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-10-08
-<<<<<<< Updated upstream
-Page modified: 2023-11-02
-=======
-Page modified: 2023-11-30
->>>>>>> Stashed changes
+Page modified: 2023-11-03
 ---
 
 ![[banner.jpg]]
 
 # Welcome to the Black Sun Lodge
 
-You are entering the internet’s first dedicated general database for the work of British experimental band [[Coil]].
+We are the internet’s first dedicated general database for the work of British experimental band [[Coil]].
 
 ## Recommended Pages
 

@@ -12,7 +12,7 @@ color: "#3867d6"
 Label: [[Threshold House]]
 linter-yaml-title-alias: Worship the Glitch
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2023-11-03
 ---
 
 # Worship the Glitch

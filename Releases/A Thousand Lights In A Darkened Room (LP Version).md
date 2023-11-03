@@ -12,7 +12,7 @@ color: "#3867d6"
 Label: [[Threshold House]]
 linter-yaml-title-alias: A Thousand Lights in a Darkened Room (LP Version)
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2023-11-03
 ---
 
 # A Thousand Lights in a Darkened Room (LP Version)

@@ -88,7 +88,7 @@ Page modified: 2023-11-02
 2. [[Songs/Heaven’s Blade ‘98|Heaven’s 98 Horror mst]]
 3. [[Songs/Wir-Click-Wir ‘93|Wur CLK Wir 1993]]
 4. [[Songs/Simenon (Swanyard Demo)|Siminon Master Backwards (Swanyard demo)]]
-5. [[Song’s/Jhon’s House Tune|Jhon’s House Tune from GM Guide - Protection]]
+5. [[Jhon’s House Tune|Jhon’s House Tune from GM Guide - Protection]]
 6. [[Songs/Spastiche (Basic)|Spastiche (Basic)]]
 7. [[Songs/A.Y.O.R. ∕ It’s in my Blood (Swanyard)|AYOR Master (It’s in my blood)]]
 8. [[Songs/Original Amber Rain|Original Amber rain (demo)]]
