@@ -5,38 +5,38 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[type:Song]",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14241569
       }
     },
     {
       "query": "[type:Release]",
       "color": {
         "a": 1,
-        "rgb": 6072278
+        "rgb": 6189695
       }
     },
     {
       "query": "[\"type\":Person]",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 9545348
       }
     },
     {
       "query": "[type:\"Live Performance\"]",
       "color": {
         "a": 1,
-        "rgb": 15003493
+        "rgb": 12307537
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -2.3,
   "nodeSizeMultiplier": 3.10322580645161,
@@ -46,6 +46,6 @@
   "repelStrength": 13.9784946236559,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.2162497741838005,
+  "scale": 1.4068624216315133,
   "close": true
 }
