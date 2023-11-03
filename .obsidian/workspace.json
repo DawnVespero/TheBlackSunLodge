@@ -11,8 +11,12 @@
             "id": "118009129dcf4aad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Releases/Backwards (Cold Spring).md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Releases/Backwards (Cold Spring).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Releases/Backwards (Cold Spring).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Releases/Backwards (Cold Spring).md"
+              }
             }
           },
           {
@@ -172,6 +180,11 @@
   },
   "active": "118009129dcf4aad",
   "lastOpenFiles": [
+    "Releases/Backwards (Cold Spring) (New Orleans Unmastered Mix).md",
+    "Releases/Backwards (Cold Spring) (New Orleans Alternate Mix).md",
+    "Releases/Backwards (Cold Spring).md",
+    "Releases/Backwards (Demos).md",
+    "Releases/Autumn Equinox (CD Version).md",
     "Home.md",
     "Releases/ANS.md",
     "Labels/Threshold Archives.md",
@@ -193,9 +206,6 @@
     "Releases/Scatology.md",
     "Releases/The Ape of Naples.md",
     "Songs/Absolute Elsewhere.md",
-    "Songs/A.Y.O.R..md",
-    "Songs/A.Y.O.R (The Golden Hare).md",
-    "Songs/A.Y.O.R. / It’s in my Blood (Swanyard).md",
-    "Songs/Love's Secret Domain.md"
+    "Songs/A.Y.O.R..md"
   ]
 }

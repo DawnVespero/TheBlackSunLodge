@@ -5,12 +5,14 @@ SubType: Studio Album
 Date: 2015-11-01
 Legitimacy: Semi-Official
 Original: 
-Derivative: 
+Derivative:
+- [[Backwards (Cold Spring) (New Orleans Unmastered Mix)]]
+- [[Backwards (Cold Spring) (New Orleans Alternate Mix)]]
 sticker: lucide//disc
 color: "#3867d6"
 Label: [[Cold Spring Records]]
 Page created: 2023-10-05
-Page modified: 2023-11-01
+Page modified: 2023-11-03
 ---
 
 # Backwards (Cold Spring)
@@ -81,6 +83,7 @@ Page modified: 2023-11-01
 
 ### Versions
 
+- Two alternate versions of the album leaked onto the internet ahead of the official release, each with slightly different mixes and track lists, known as the *[[Releases/Backwards (Cold Spring) (New Orleans Alternate Mix)|New Orleans Alternate Mix]]* and *[[Backwards (Cold Spring) (New Orleans Unmastered Mix)|New Orleans Unmastered Mix]]*
 - Downloads of the album from [[Danny Hyde]]‘s website [auralrage.com] came with six demos from the #Backwards sessions as bonus tracks. Though this version is not given an official name on the site, the files’ metadata holds the title *[[Backwards (Danny Hyde’s Archival Bonus Track Edition)]]*
 
 #### Tracklist
