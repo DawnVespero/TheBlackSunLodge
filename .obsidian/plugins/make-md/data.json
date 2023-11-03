@@ -46,6 +46,7 @@
     "spaces://$waypoints",
     "spaces://#Backwards",
     "/",
+<<<<<<< Updated upstream
     "Context",
     "Labels",
     "Live Performance",
@@ -55,10 +56,19 @@
     "Songs",
     "Songs/A.Y.O.R. ",
     "Song’s",
+=======
+>>>>>>> Stashed changes
     "_assets",
-    "_assets/photos",
     "_assets/releases",
-    "_templates"
+    "_assets/photos",
+    "Context",
+    "People",
+    "_templates",
+    "Songs",
+    "Releases",
+    "Others",
+    "Labels",
+    "Live Performance"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

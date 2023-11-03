@@ -10,8 +10,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Marcellus+SC&display=swap');
 
-/* Theme palette definition */
-:root{
+
+/* --------------------------- */
+
+.theme-light{
+
+  /* Theme palette definition */
   --paletteWhite0: #FFFBF2;
   --paletteWhite1: #FFF9EB;
   --paletteWhite2: #FCF6E8;
@@ -52,11 +56,6 @@
   --palettePurple1: #6E4C6B;
   --palettePurple2: #947491;
   --palettePurple3: #E9D7F2;
-}
-
-
-/* Theme variable initialization*/
-.theme-light{
 
   --color-red: var(--paletteRed1);
   --color-orange: var(--paletteOrange1);
@@ -137,7 +136,20 @@
 }
 
 .theme-dark{
+  /* Theme palette definition */
+ --paletteDark-black0: #151B26;
+ --paletteDark-black1: #161C26;
+ --paletteDark-black2: #181E28;
+ --paletteDark-black3: #1E242F;
+ --paletteDark-black4: #282E38;
 
+
+ /* Theme variable initialization*/
+ --background-primary: #ff00ff;
+ --background-secondary: var(--paletteDark-black1);
+
+ --titlebar-background: var(--paletteDark-black3);
+ --titlebar-background-focused: var(--paletteDark-black4);
 }
 
 

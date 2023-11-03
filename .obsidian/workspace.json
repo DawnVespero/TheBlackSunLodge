@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "9fb9bb1a16afea9b",
         "type": "tabs",
         "children": [
           {
             "id": "300b3a1e3f055aaf",
+=======
+        "id": "179da477de84b4af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6842ba3b95e491ae",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,7 +196,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
+<<<<<<< Updated upstream
   "active": "300b3a1e3f055aaf",
+=======
+  "active": "6842ba3b95e491ae",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "Releases/Queens of the Circulating Library.md",
     "Releases/Constant Shallowness Leads To Evil.md",

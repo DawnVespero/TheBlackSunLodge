@@ -150,13 +150,32 @@
       "key": "W"
     }
   ],
+<<<<<<< Updated upstream
   "editor:insert-wikilink": [
+=======
+  "editor:toggle-comments": [],
+  "theme:use-dark": [
+>>>>>>> Stashed changes
     {
       "modifiers": [
         "Mod"
       ],
+<<<<<<< Updated upstream
       "key": "L"
     }
   ],
   "editor:toggle-checklist-status": []
+=======
+      "key": "]"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ]
+>>>>>>> Stashed changes
 }
