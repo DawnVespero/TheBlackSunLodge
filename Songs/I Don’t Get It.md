@@ -1,22 +1,22 @@
 ---
 title: I Don’t Get It
 Type: Song
-Featured on:
-  - "[[The Ape of Naples]]"
-  - "[[The Ape of Naples (Expanded Edition)]]"
-  - "[[The Ape of Naples ∕ The New Backwards (Box-Set)]]"
 Original: 
 Derivative:
   - "[[I Don’t Get It (Untitled Rendered)]]"
   - "[[I Don’t Get It (Unadorned Mix)]]"
-Interpolates: 
-Interpolated in: 
-Previous Version: 
-Next Version: 
 sticker: lucide//music
 color: "#eb3b5a"
+Featured on:
+  - "[[The Ape of Naples]]"
+  - "[[The Ape of Naples (Expanded Edition)]]"
+  - "[[The Ape of Naples ∕ The New Backwards (Box-Set)]]"
+Interpolated in: 
+Interpolates: 
+Next Version: 
 Page created: 2023-10-31
-Page modified: 2023-11-04
+Page modified: 2023-11-05
+Previous Version: 
 ---
 
 # I Don’t Get It

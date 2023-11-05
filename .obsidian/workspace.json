@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59fdf5ee707d4e49",
+        "id": "1b37da88fe62f508",
         "type": "tabs",
         "children": [
           {
-            "id": "bb944b2acf06f811",
+            "id": "9916f5f5788d7ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fed6885ab44fa75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/The Test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "191dc5b9752d6220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/I Don’t Get It.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,6 +97,16 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "01624f3f6f7a22a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
           }
         ]
       },
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/I Don’t Get It.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,14 +138,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/I Don’t Get It.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "726e5e60e06c72f2",
@@ -173,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Songs/I Don’t Get It.md"
+                "file": "Home.md"
               }
             }
           },
@@ -202,51 +186,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 516.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
       "publish:Publish changes...": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": true
     }
   },
-  "active": "7186b561ceb2e081",
+  "active": "9916f5f5788d7ee6",
   "lastOpenFiles": [
-    "Songs/I Don’t Get It (Untitled Rendered).md",
-    "Songs/The Test.md",
-    "_templates/Song Page (Frontmatter).md",
-    "Songs/I Don’t Get It.md",
+    "Releases/Contaminated Apples： 1986-1991 Appendices.md",
+    "Songs/Penetralia (T2+T3 Remix 2).md",
+    "Songs/Penetralia (T2+T3 Remix 1).md",
+    "Songs/Love’s Secret Domain (Vocal Demo).md",
+    "Songs/Titan Arch (Alternate Mix).md",
+    "Songs/No New World (Alternate Version).md",
+    "Songs/Box Theme (Alternate Version).md",
+    "Songs/Tiny Birds (“Sound of Progress” Remix).md",
+    "Songs/Who By Fire (Demo Vocal).md",
+    "Songs/Blood from the Air (Alternate Mix).md",
+    "Songs/Circles of Mania (Alternate Mix).md",
+    "Songs/Penetralia (Early Instrumental).md",
+    "Songs/Ostia (Demo Vocal).md",
+    "Songs/Slur (Demo Vocals).md",
+    "_assets/releases/Contaminated Apples - Cover.jpeg",
     "Home.md",
-    "Songs/The Test (Early).md",
-    "Songs/Nature is a Language ∕ The Test.md",
-    "Releases/Backwards (Cold Spring).md",
+    "Releases/Wormsongs- Unreleased Studio Experiments, Early Takes & Soundscapes.md",
+    "Songs/The Sick Rose.md",
+    "Songs/Is Suicide A Solution? (Guitar Treatment).md",
+    "Songs/Untitled ＃2 (Take ＃5).md",
+    "Songs/Studio Chatter Ⅲ.md",
+    "Songs/Untitled ＃1 (Take ＃2).md",
+    "Songs/Lake View.md",
+    "Songs/Elves (Take ＃5).md",
+    "Songs/Studio Chatter Ⅱ.md",
+    "Songs/Airborne Bells (No Bells).md",
+    "Songs/Moulin Blanc.md",
+    "_assets/releases/Wormsongs - Cover.jpeg",
+    "_assets/releases/Hidden Hydrology - Cover.jpeg",
+    "_assets/releases/Scatology Sessions - Cover.jpeg",
     "_assets/releases/Backwards (Demos) - Cover.jpeg",
-    "Releases/Backwards (Cold Spring) (New Orleans Unmastered Mix).md",
-    "Releases/Backwards (Cold Spring) (New Orleans Alternate Mix).md",
-    "Releases/Backwards (Demos).md",
-    "Releases/Autumn Equinox (CD Version).md",
-    "Releases/ANS.md",
-    "Labels/Threshold Archives.md",
-    "_assets/Threshold Archives - Logo.jpeg",
-    "Releases/A Thousand Lights In A Darkened Room.md",
-    "Releases/ANS (Box-Set).md",
-    "Releases/A Thousand Lights In A Darkened Room (LP Version).md",
-    "Releases/A Prison of Measured Time.md",
-    "Songs/Wir-Click-Wir (A Deeply Disturbed Passing Mix).md",
-    "Songs/Heaven’s Blade (Dark Night Mix).md",
-    "_templates/Release Page (Page Body - Frontmatter Templates).md",
-    "Releases/A Guide For Beginners： A Silver Voice.md",
-    "Releases/The Golden Hare With A Voice Of Silver.md",
-    "Releases/A Guide For Finishers — A Golden Hair.md",
-    "Live Performance/1983-12-03 — Atonal Festival Ⅲ.md",
-    "Releases/Worship The Glitch.md"
+    "_assets/Threshold Archives - Logo.jpeg"
   ]
 }

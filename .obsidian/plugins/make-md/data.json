@@ -48,16 +48,16 @@
     "spaces://#Backwards",
     "/",
     "Context",
-    "Labels",
     "Live Performance",
-    "Others",
-    "People",
     "Releases",
-    "Songs",
+    "People",
+    "Others",
     "_assets",
     "_assets/photos",
     "_assets/releases",
-    "_templates"
+    "Labels",
+    "_templates",
+    "Songs"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -70,6 +70,7 @@
   "hiddenExtensions": [
     ".mdb"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": false,
   "inlineBacklinksExpanded": false,
@@ -128,6 +129,5 @@
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
   "spacesAutoBackupLast": 1698755440953,
-  "precreateVaultSpace": true,
-  "newFileLocation": "current"
+  "precreateVaultSpace": true
 }
