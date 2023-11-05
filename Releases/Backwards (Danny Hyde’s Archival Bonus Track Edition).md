@@ -36,7 +36,7 @@ Page modified: 2023-11-02
 3. [[Songs/Amber Rain(Backwards ‘15’)|Amber Rain]]
 4. [[Songs/Fire of the Green Dragon (Backwards ‘15’)|Fire of the Green Dragon]]
 5. [[Songs/Careful What You Wish For (Backwards ‘15)|Be Careful What You Wish For]]
-6. [[Songs/Nature is a Language (Backwards ‘15)|Nature is a Language]]
+6. [[Nature is a Language ∕ The Test|Nature is a Language]]
 7. [[Songs/Heaven’s Blade (Backwards ‘15)|Heaven’s Blade]]
 8. [[Songs/Copacaballa (Backwards ‘15)|Copacaballa]]
 9. [[Songs/Paint Me As a Dead Soul (Backwards ’15)|Paint Me As a Dead Soul]]

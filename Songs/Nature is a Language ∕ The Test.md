@@ -1,17 +1,17 @@
 ---
-title: The Test (Early)
+title: Nature is a Language ∕ The Test
 Type: Song
 Original: 
-Derivative: [[The Test]]
+Derivative: 
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on: 
 Interpolated in: 
 Interpolates: 
 Next Version: 
-Page created: 2023-11-03
+Page created: 2023-11-01
 Page modified: 2023-11-04
 Previous Version: 
 ---
 
-# The Test (Early)
+# Nature is a Language ∕ The Test

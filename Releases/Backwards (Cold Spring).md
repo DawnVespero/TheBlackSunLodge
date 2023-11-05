@@ -12,7 +12,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Cold Spring Records]]
 Page created: 2023-10-05
-Page modified: 2023-11-03
+Page modified: 2023-11-04
 ---
 
 # Backwards (Cold Spring)
@@ -92,7 +92,7 @@ Page modified: 2023-11-03
 3. [[Songs/Amber Rain(Backwards ‘15’)|Amber Rain]]
 4. [[Songs/Fire of the Green Dragon (Backwards ‘15’)|Fire of the Green Dragon]]
 5. [[Songs/Careful What You Wish For (Backwards ‘15)|Be Careful What You Wish For]]
-6. [[Songs/Nature is a Language (Backwards ‘15)|Nature is a Language]]
+6. [[Nature is a Language ∕ The Test|Nature is a Language]]
 7. [[Songs/Heaven’s Blade (Backwards ‘15)|Heaven’s Blade]]
 8. [[Songs/Copacaballa (Backwards ‘15)|Copacaballa]]
 9. [[Songs/Paint Me As a Dead Soul (Backwards ’15)|Paint Me As a Dead Soul]]
@@ -106,4 +106,4 @@ Page modified: 2023-11-03
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:<https://i.discogs.com/gu9IMxSzbjIgwjn85Me2Lj0pYrjsG2jhvy49X7P-srE/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk5/OTMtMTQ1MTkzOTYw/NC05MDExLmpwZWc.jpeg>
+[^1]: <https://i.discogs.com/gu9IMxSzbjIgwjn85Me2Lj0pYrjsG2jhvy49X7P-srE/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk5/OTMtMTQ1MTkzOTYw/NC05MDExLmpwZWc.jpeg>
