@@ -16,7 +16,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Releases",
+  "activeView": "Others",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -35,7 +35,11 @@
   "expandedSpaces": [
     "/",
     "//Song’s",
-    "Songs/Songs/A.Y.O.R. "
+    "Songs/Songs/A.Y.O.R. ",
+    "spaces://$tags/spaces://#Backwards",
+    "spaces://$tags/spaces://#Backwards",
+    "spaces://$tags/spaces://#Backwards",
+    "spaces://$tags/spaces://#Backwards"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -53,8 +57,7 @@
     "_assets",
     "_assets/photos",
     "_assets/releases",
-    "_templates",
-    "spaces://#Back"
+    "_templates"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -67,7 +70,6 @@
   "hiddenExtensions": [
     ".mdb"
   ],
-  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": false,
   "inlineBacklinksExpanded": false,
@@ -105,5 +107,27 @@
   "enableDefaultSpaces": true,
   "enableTagSpaces": true,
   "enableHomeSpace": true,
-  "showSpacePinIcon": true
+  "showSpacePinIcon": true,
+  "spacesCompactMode": false,
+  "collapsedTags": [],
+  "folderNoteDefaultView": false,
+  "expandedFolders": {
+    "Coil Wiki": [
+      "Context",
+      "Live Performance 2",
+      "/",
+      "_assets"
+    ],
+    "Releases": []
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "tagContextFolder": "Context",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1698755440953,
+  "precreateVaultSpace": true,
+  "newFileLocation": "current"
 }

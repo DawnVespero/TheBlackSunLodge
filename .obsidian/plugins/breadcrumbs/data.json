@@ -60,7 +60,7 @@
   "showAllPathsIfNoneToIndexNote": true,
   "showAllAliases": true,
   "showBCs": true,
-  "showBCsInEditLPMode": true,
+  "showBCsInEditLPMode": false,
   "showRefreshNotice": true,
   "showImpliedRelations": true,
   "showTrail": false,
@@ -82,7 +82,8 @@
     "next",
     "prev",
     "parent",
-    "Original"
+    "Original",
+    "Previous Version"
   ],
   "limitJumpToFirstFields": [
     "child",
@@ -115,6 +116,23 @@
   "trimDendronNotes": false,
   "respectReadableLineLength": true,
   "userHiers": [
+    {
+      "up": [
+        "Previous Version"
+      ],
+      "same": [
+        "Alternate Version"
+      ],
+      "down": [
+        "Next Version"
+      ],
+      "next": [
+        "Derivative"
+      ],
+      "prev": [
+        "Original"
+      ]
+    },
     {
       "up": [
         "Original"

@@ -7,6 +7,10 @@
     "banner": "multitext",
     "Derivative": "multitext",
     "Featured on": "multitext",
-    "SubType": "multitext"
+    "SubType": "multitext",
+    "Previous Version": "multitext",
+    "Next Version": "multitext",
+    "Interpolates": "multitext",
+    "Label": "multitext"
   }
 }
