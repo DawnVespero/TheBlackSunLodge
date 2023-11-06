@@ -1,17 +1,17 @@
 ---
-title: 1983-08-04 — Club Magenta, London, England
-aliases: ["1983-08-04 — Club Magenta, London, England"]
+title: '1983-08-04 - "A Manifestation of the Will"'
 Type: Live Performance
 Date: 1983-08-04
 sticker: lucide//mic
+sticker: lucide//mic
+color: "#f7b731"
 color: "#f7b731"
 linter-yaml-title-alias: "1983-08-04 — Club Magenta, London, England"
 Location: Club Magenta (Ritzy Cinema), London, England
 Page created: 2023-10-22
 Page modified: 2023-11-01
 ---
-
-# 1983-08-04 — Club Magenta, London, England
+# 1983-08-04 - "A Manifestation of the Will"
 
 Coil performed live at Club Magenta (Ritzy Cinema), London, England on August 4th, 1983. The performance was subtitled *“A Manifestation of the Will”*.
 
@@ -19,7 +19,7 @@ Coil performed live at Club Magenta (Ritzy Cinema), London, England on August 4t
 
 
 ## Recordings
-
+An excerpt of this performance was released officially as part of [[Transparent]].
 
 ## Setlist
 1. [[Silence&Secrecy]]

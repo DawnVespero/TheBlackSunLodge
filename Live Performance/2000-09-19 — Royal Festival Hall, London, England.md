@@ -6,7 +6,7 @@ Location: Royal Festival Hall, London, England
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-02
+Page modified: 2023-11-05
 ---
 
 # 2000-09-19 — Royal Festival Hall, London, England

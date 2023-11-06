@@ -1,27 +1,17 @@
 ---
+title: Background
 aliases: [Background]
-color: "#3867d6"
-Contained in Release:
-  - "[[Chaostrophy]]"
-  - "[[Dark River]]"
-  - "[[Disco Hospital]]"
-  - "[[Further Back and Faster]]"
-  - "[[Love's Secret Domain]]"
-  - "[[Teenage Lightning]]"
-  - "[[Songs/The Snow]]"
-  - "[[Titan Arch]]"
-  - "[[Windowpane 2]]"
+Type: Release
 Date: 2021-03-29
+Original:
+  - "[[Love’s Secret Domain]]"
+sticker: lucide//disc
+color: "#3867d6"
 Label:
   - "[[Infinite Fog Production]]"
 linter-yaml-title-alias: Background
-Original:
-  - "[[Love’s Secret Domain]]"
 Page created: 2023-10-05
-Page modified: 2023-10-25
-sticker: lucide//disc
-title: Background
-Type: Release
+Page modified: 2023-11-06
 ---
 
 *__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.

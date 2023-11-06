@@ -23,7 +23,7 @@ _links:
   - Songs/Love's Secret Domain.md
   - Releases/The Ape of Naples.md
 _sort:
-  field: rank
+  field: name
   asc: true
   group: true
 ---

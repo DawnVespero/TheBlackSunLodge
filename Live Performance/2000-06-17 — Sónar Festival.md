@@ -6,7 +6,7 @@ Location: Mar Bella, Barcelona, Spain
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-02
+Page modified: 2023-11-06
 ---
 
 # 2000-06-17 — Sónar Festival
@@ -18,6 +18,7 @@ Coil performed live for the Sónar Festival at Mar Bella, Barcelona, Spain on Ju
 
 ## Recordings
 
+A recording of this performance was officially released as the second disc of [[Live One]].
 
 ## Setlist
 1. [[Everything Keeps Dissolving]]

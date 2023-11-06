@@ -6,7 +6,7 @@ Location: Pankehallen, Berlin, Germany
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-03
+Page modified: 2023-11-06
 ---
 
 # 1983-12-03 — Atonal Festival Ⅲ
@@ -18,6 +18,7 @@ Coil performed live for the third Atonal Festival at Pankehallen, Berlin, German
 
 ## Recordings
 
+A recording of this performance was released as Side A of [[Transparent]].
 
 ## Setlist
 1. [[Sicktone]]
