@@ -1,8 +1,14 @@
 ---
+title: Windowpane
+aliases: 
 Type: Release
 Sub-Type: Single
-Legitimacy: Official
 Date: 1990-01-01
-color: "#3867d6"
+Legitimacy: Official
 sticker: lucide//disc
+color: "#3867d6"
+Page created: 2023-10-31
+Page modified: 2023-11-07
 ---
+
+# Windowpane

@@ -1,12 +1,13 @@
 ---
 title: 2002-04-07 — Muffathalle, Munich, Germany
+aliases: []
 Type: Live Performance
 Date: 2002-04-07
 Location: Muffathalle, Munich, Germany
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 2002-04-07 — Muffathalle, Munich, Germany
@@ -20,8 +21,16 @@ Coil performed live at Muffathalle, Munich, Germany on Apr. 7th, 2002.
 
 
 ## Setlist
-1.
+1. [[Anarcadia：All Horned Animals]]
+2. [[Amethyst Deceivers (Version 2)]]
+3. [[Slur]]
+4. [[A Cold Cell]]
+5. [[Broccoli (Version 1)]]
+6. [[Paranoid Inlay]]
+7. [[Sick Mirrors]]
+8. [[A.Y.O.R.|A.Y.O.R]]
+9. [[Songs/Backwards|Backwards]]
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[Entry at Live Coil Archive](https://live-coil-archive.com/2002-part1/2002-muffathalle/)

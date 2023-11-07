@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03c199ad2c7a9627",
+        "id": "8207800102d46f17",
         "type": "tabs",
         "children": [
           {
-            "id": "d21157ec0d0af6ea",
+            "id": "10a7e74aa7bdca40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Live Box.md",
+                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Live Box.md"
+                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md"
               }
             }
           }
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Live Box.md",
+                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Live Box.md",
+                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Live Box.md"
+                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md"
               }
             }
           },
@@ -204,34 +203,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d21157ec0d0af6ea",
+  "active": "10a7e74aa7bdca40",
   "lastOpenFiles": [
-    "_assets/releases/Live Box - Packaging.jpeg",
-    "Songs/I Don't Get It.md",
-    "Releases/Live Box.md",
-    "Releases/Megalithomania!.md",
-    "Songs/Megalithomania!.md",
-    "Releases/Megalithomania.md",
-    "Releases/Love's Secret Domain (30th Anniversary Edition).md",
-    "Live Performance/2002-10-12 — Megalithomania.md",
-    "Releases/Summer Solstice — Bee Stings.md",
-    "Releases/Black Antlers (2006 Re-Release).md",
-    "Live Performance/2002-10-16 — 3rd Tsunami ∕ Amager Kulturpunkt.md",
-    "Live Performance/1983-08-04 - \"A Manifestation of the Will\".md",
-    "Live Performance/1983-12-03 — Atonal Festival Ⅲ.md",
+    "Live Performance/2002-06-26 — Il Violino e la Selce.md",
+    "People/Ian Johnstone.md",
+    "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+    "Songs/The Dreamer is Still Asleep (The Somnambulist in an Ambulance).md",
+    "Songs/Triple Sons and The Ones You Bury.md",
+    "Songs/A Slip in the Marylebone Road.md",
+    "Songs/Snow Falls Into Military Temples.md",
+    "Songs/Triple Sun Introduction.md",
     "Live Performance/2002-10-29 — Flex, Vienna, Austria.md",
     "Live Performance/2002-10-27 — Palac Akropolis, Prague, Czechia.md",
-    "Songs/Drip Drop.md",
-    "Songs/I am Angie Bowie (Sine Waves).md",
-    "Songs/An Unearthly Red.md",
-    "Live Performance/2002-04-06 — \"The Key to Joy is Disobedience\".md",
-    "Live Performance/2001-09-15 — DK Gorbunova, Moscow, Russia.md",
-    "Live Performance/2000-06-17 — Sónar Festival.md",
-    "Live Performance/2002-06-07 — New Forms III – Roots en Rituelen.md",
-    "Live Performance/2002-04-04 — Elektrip.md",
-    "Live Performance/2002-04-02 — Vooruit, Gent, Belgium.md",
-    "Live Performance/2002-03-30 — Artooz Festival.md",
-    "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md",
+    "Live Performance/2002-10-26 — Centrum Filmowe, Lódz, Poland.md",
+    "Releases/Love’s Secret Domain (CD Version).md",
+    "Releases/Love’s Secret Domain.md",
+    "Songs/Windowpane.md",
+    "Releases/Windowpane.md",
+    "Live Performance/2002-10-25 — St. John's Church, Gdansk, Poland.md",
+    "Live Performance/2002-10-21 — Tavastia Klubi, Helsinki, Finland.md",
+    "Live Performance/2002-10-19 — Fylkingen, Stockholm, Sweden.md",
+    "Live Performance/2002-10-17 — Betong, Oslo, Norway.md",
+    "Live Performance/2002-10-16 — 3rd Tsunami ∕ Amager Kulturpunkt.md",
+    "Songs/Last Rites of Spring.md",
+    "Live Performance/2002-10-12 — Megalithomania.md",
+    "Live Performance/2002-10-05 — Ydrogeios Club, Thessaloniki, Greece.md",
+    "Live Performance/2002-10-01 — \"Mind Your Head\" Festival.md",
+    "Live Performance/2002-09-29 — Feelee (Vagonka Club).md",
+    "Songs/I Don’t Want To Be The One.md",
+    "_assets/releases/Live Box - Cover Recreation.jpg",
+    "_assets/releases/Live Box - Packaging.jpeg",
     "_assets/releases/Contaminated Apples - Cover.jpeg",
     "_assets/releases/Wormsongs - Cover.jpeg",
     "_assets/releases/Hidden Hydrology - Cover.jpeg",

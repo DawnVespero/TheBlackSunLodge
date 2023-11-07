@@ -8,7 +8,7 @@ sticker: lucide//mic
 color: "#f7b731"
 linter-yaml-title-alias: 2002-06-07 — New Forms III – Roots En Rituelen
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 2002-06-07 — New Forms III – Roots En Rituelen
@@ -22,8 +22,12 @@ Coil performed live at Theater aan het Spui, Den Haag, The Netherlands on Jun. 2
 
 
 ## Setlist
-1.
+1. [[Anarcadia：All Horned Animals (Extended Version)]]
+2. [[The Gimp (Sometimes)]]
+3. [[Amethyst Deceivers (Version 2)]]
+4. [[Broccoli (Version 1)]]
+5. [[Songs/Backwards|Backwards]]
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[Entry at Live Coil Archive](https://live-coil-archive.com/2002-part1/2002-new-forms-iii/)

@@ -1,5 +1,6 @@
 ---
 title: Love’s Secret Domain
+aliases: 
 Type: Release  
 SubType: Studio Album
 Date: 1991-07-01 
@@ -14,7 +15,7 @@ Label:
 - [[Torso]]
 - [[Wax Trax!]]
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2023-11-07
 ---
 
 # Love’s Secret Domain
@@ -95,7 +96,7 @@ Page modified: 2023-11-02
 #### Tracklist
 1. [[Disco Hospital]]
 2. [[Teenage Lightning]]
-3. [[Things Happen]]
+3. [[Windowpane]]
 4. [[Songs/The Snow|The Snow]]
 5. [[Dark River]]
 6. [[Further Back and Faster]]

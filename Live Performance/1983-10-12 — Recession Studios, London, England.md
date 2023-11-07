@@ -1,12 +1,13 @@
 ---
 title: 1983-10-12 — Recession Studios, London, England
+aliases: []
 Type: Live Performance
 Date: 1983-10-12
+Location: Recession Studios, London, England
 sticker: lucide//mic
 color: "#f7b731"
-Location: Recession Studios, London, England
 Page created: 2023-10-22
-Page modified: 2023-11-01
+Page modified: 2023-11-07
 ---
 
 # 1983-10-12 — Recession Studios, London, England
@@ -28,4 +29,4 @@ Coil performed live at Recession Studios, London, England on October 12th, 1983.
 
 ## References
 
-[^1]: [Entry at Live Coil Archive](https://live-coil-archive.com/1983-2/1983-recession-studios/)
+[Entry at Live Coil Archive](https://live-coil-archive.com/1983-2/1983-recession-studios/)

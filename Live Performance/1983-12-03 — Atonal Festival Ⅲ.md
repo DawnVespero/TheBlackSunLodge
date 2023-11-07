@@ -1,12 +1,13 @@
 ---
 title: 1983-12-03 — Atonal Festival Ⅲ
+aliases: []
 Type: Live Performance
 Date: 1983-12-03
 Location: Pankehallen, Berlin, Germany
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 1983-12-03 — Atonal Festival Ⅲ
@@ -29,4 +30,4 @@ A recording of this performance was released as Side A of [[Transparent]].
 
 ## References
 
-[^1]: [Entry at Live Coil Archive](https://live-coil-archive.com/1983-2/1983-atonal/)
+[Entry at Live Coil Archive](https://live-coil-archive.com/1983-2/1983-atonal/)

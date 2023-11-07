@@ -1,12 +1,13 @@
 ---
 title: 2002-10-27 — Palac Akropolis, Prague, Czechia
+aliases: []
 Type: Live Performance
 Date: 2002-10-27
 Location: Palac Akropolis, Prague, Czechia
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 2002-10-27 — Palac Akropolis, Prague, Czechia
@@ -21,8 +22,18 @@ Coil performed live at Palac Akropolis, Prague, Czechia on Oct. 27th, 2002.
 A heavily edited partial recording of this performance was released as part of [[Live Four]]. [[I am Angie Bowie (Sine Waves)]], [[An Unearthly Red]], and [[Drip Drop]], are missing completely from this recording, with the former two being replaced by recordings from [[2002-10-29 — Flex, Vienna, Austria|the 2002 Vienna performance]].
 
 ## Setlist
-1.
+1. [[I am Angie Bowie (Sine Waves)]]
+2. [[Last Rites of Spring|The Last Rites of Spring]]
+3. [[Are You Shivering?]]
+4. [[Amethyst Deceivers (Version 3)]]
+5. [[A Warning from the Sun (for Fritz)]]
+6. [[Drip Drop]]
+7. [[Songs/Windowpane|Windowpane]]
+8. [[Ostia (The Death of Pasolini)]]
+9. [[I Don’t Want To Be The One]]
+10. [[Bang Bang]]
+11. [[An Unearthly Red]]
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[Entry at Live Coil Archive](https://live-coil-archive.com/2002-sept-oct/2002-palac-akropolis/)

@@ -1,12 +1,13 @@
 ---
 title: 2000-09-19 — Royal Festival Hall, London, England
+aliases: []
 Type: Live Performance
 Date: 2000-09-19
 Location: Royal Festival Hall, London, England
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-05
+Page modified: 2023-11-07
 ---
 
 # 2000-09-19 — Royal Festival Hall, London, England
@@ -21,7 +22,13 @@ Coil performed live at the Royal Festival Hall, London, England on Sep. 17th, 20
 
 ## Setlist
 1. [[Something]]
+2. [[Higher Beings Command (Instrumental)]]
+3. [[Amethyst Deceivers (Version 1)]]
+4. [[Titan Arch]]
+5. [[Blood From The Air]]
+6. [[I Am The Green Child]]
+7. [[Constant Shallowness Leads to Evil]]
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[Entry at Live Coil Archive](https://live-coil-archive.com/2000-2/2000-royal-festival/)

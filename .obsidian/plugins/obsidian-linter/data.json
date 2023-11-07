@@ -54,10 +54,10 @@
       "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
-      "enabled": true,
+      "enabled": false,
       "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": false,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": false
     },
     "capitalize-headings": {
       "enabled": true,

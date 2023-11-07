@@ -1,12 +1,13 @@
 ---
 title: 2000-06-17 — Sónar Festival
+aliases: []
 Type: Live Performance
 Date: 2000-06-17
 Location: Mar Bella, Barcelona, Spain
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 2000-06-17 — Sónar Festival
@@ -30,4 +31,4 @@ A recording of this performance was officially released as the second disc of [[
 
 ## References
 
-[^1]: [Entry at Live Coil Archive](https://live-coil-archive.com/2000-2/2000-sonar/)
+[Entry at Live Coil Archive](https://live-coil-archive.com/2000-2/2000-sonar/)

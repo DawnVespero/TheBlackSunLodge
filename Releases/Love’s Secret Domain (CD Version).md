@@ -1,5 +1,5 @@
 ---
-title: "Love's Secret Domain (CD Version)"
+title: Love’s Secret Domain (CD Version)
 aliases: ["Love's Secret Domain (CD Version)"]
 Type: Release  
 SubType: Studio Album
@@ -14,7 +14,7 @@ Label:
 - [[Wax Trax!]]
 linter-yaml-title-alias: "Love's Secret Domain (CD Version)"
 Page created: 2023-11-02
-Page modified: 2023-11-02
+Page modified: 2023-11-07
 ---
 
 # Love’s Secret Domain (CD Version)
