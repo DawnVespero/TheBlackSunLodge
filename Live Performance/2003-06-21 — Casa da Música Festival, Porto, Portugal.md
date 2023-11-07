@@ -8,7 +8,7 @@ sticker: lucide//mic
 color: "#f7b731"
 linter-yaml-title-alias: "2003-06-21 — Casa Da Música Festival, Porto, Portugal"
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 2003-06-21 — Casa Da Música Festival, Porto, Portugal
@@ -20,10 +20,16 @@ Coil performed live at Casa da Música Hall, Porto, Portugal on Jun. 15th, 2003.
 
 ## Recordings
 
+A partial recording of this performance (omitting [[Drip Drop (ANS)]]) was released semi-officially as [[Live In Porto]].
 
 ## Setlist
-1.
+1. [[Drip Drop (ANS)]]
+2. [[Blue Rats]]
+3. [[Triple Sons and The Ones You Bury (Instrumental)]]
+4. [[Radio Weston]]
+5. [[Snow Falls Into Military Temples (Instrumental)]]
+6. [[The First Five Minutes After Death]]
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[Entry at Live Coil Archive](https://live-coil-archive.com/2003-2/2003-porto/)

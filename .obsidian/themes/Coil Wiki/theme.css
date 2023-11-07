@@ -203,6 +203,11 @@
   --bold-weight: 800;
   --bold-color: var(--paletteDark-white0);
   --italic-color: var(--paletteDark-white0);
+  --text-selection: var(--paletteDark-black2);
+  --text-highlight-bg: var(--paletteDark-blue2);
+  --text-accent: var(--paletteDark-blue0);
+  --text-accent-hover: var(--paletteDark-blue1);
+  --text-on-accent: var(--paletteDark-green3);
 
   --h1-font: 'League Spartan';
   --h1-weight: 600;

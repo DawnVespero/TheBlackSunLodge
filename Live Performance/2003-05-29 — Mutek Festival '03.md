@@ -8,12 +8,12 @@ sticker: lucide//mic
 color: "#f7b731"
 linter-yaml-title-alias: 2003-05-29 — Mutek Festival ‘03
 Page created: 2023-10-22
-Page modified: 2023-11-06
+Page modified: 2023-11-07
 ---
 
 # 2003-05-29 — Mutek Festival ‘03
 
-Coil performed live at Metropolis, Montreal, Canada on May. 25th, 2003.
+Coil performed live at Metropolis, Montreal, Canada on May. 29th, 2003.
 
 ## Details
 
@@ -22,8 +22,12 @@ Coil performed live at Metropolis, Montreal, Canada on May. 25th, 2003.
 
 
 ## Setlist
-1.
+1. [[Blue Rats]]
+2. [[Drip Drop (ANS)]]
+3. [[Triple Sons and The Ones You Bury (Instrumental)]]
+4. [[Radio Weston]]
+5. [[The First Five Minutes After Death]]
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[^1]: [Entry at Live Coil Archive](https://live-coil-archive.com/2003-2/2003-mutek03/)

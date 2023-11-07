@@ -31,4 +31,4 @@ A recording of this performance was released officially as [[…And The Ambulanc
 
 ## References
 
-[^1]: [Entry at Live Coil Archive]()
+[Entry at Live Coil Archive](https://live-coil-archive.com/2003-2/2003-all-tomorrows-parties/)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8207800102d46f17",
+        "id": "74742d985ca8a469",
         "type": "tabs",
         "children": [
           {
-            "id": "10a7e74aa7bdca40",
+            "id": "534f2ba8b752a12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+                "file": "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md"
+                "file": "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+                "file": "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+                "file": "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md"
+                "file": "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md"
               }
             }
           },
@@ -203,34 +203,34 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "10a7e74aa7bdca40",
+  "active": "534f2ba8b752a12f",
   "lastOpenFiles": [
-    "Live Performance/2002-06-26 — Il Violino e la Selce.md",
-    "People/Ian Johnstone.md",
+    "Songs/Tom’s Radio Weston.md",
+    "Songs/Stranded With Gifts.md",
+    "Songs/Unhappy Rabbits.md",
+    "Songs/The Beginning is Always the End.md",
+    "Live Performance/2000-04-02 — Cornucopea.md",
+    "Live Performance/2000-09-19 — Royal Festival Hall, London, England.md",
+    "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md",
+    "Live Performance/2004-07-25 — Ocean Club, London, England.md",
+    "Live Performance/2004-06-11 — Il Violino e la Selce 2004.md",
+    "Live Performance/2004-06-03 — Melkweg, Amsterdam, The Netherlands.md",
+    "Live Performance/2004-05-31 — Wave Gothik Treffen 2004.md",
+    "Songs/Black Antlers (Where's Your Child?).md",
+    "Songs/Wraiths and Strays.md",
+    "Songs/Strange Birds ∕ Teenage Lightning (10th Birthday Version).md",
+    "Songs/(I Can’t Get a Word In) Edgeways.md",
+    "Live Performance/2004-05-23 — La Loco, Paris, France.md",
+    "Songs/Tattooed Man (The Dark Age of Love).md",
+    "Songs/Broccoli (Version 2).md",
+    "Live Performance/2003-07-12 — Supersonic Festival.md",
+    "Live Performance/2003-06-21 — Casa da Música Festival, Porto, Portugal.md",
+    "Songs/Snow Falls Into Military Temples (Instrumental).md",
+    "Live Performance/2003-05-29 — Mutek Festival '03.md",
+    "Songs/Radio Weston.md",
+    "Songs/Triple Sons and The Ones You Bury (Instrumental).md",
+    "Songs/Drip Drop (ANS).md",
     "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
-    "Songs/The Dreamer is Still Asleep (The Somnambulist in an Ambulance).md",
-    "Songs/Triple Sons and The Ones You Bury.md",
-    "Songs/A Slip in the Marylebone Road.md",
-    "Songs/Snow Falls Into Military Temples.md",
-    "Songs/Triple Sun Introduction.md",
-    "Live Performance/2002-10-29 — Flex, Vienna, Austria.md",
-    "Live Performance/2002-10-27 — Palac Akropolis, Prague, Czechia.md",
-    "Live Performance/2002-10-26 — Centrum Filmowe, Lódz, Poland.md",
-    "Releases/Love’s Secret Domain (CD Version).md",
-    "Releases/Love’s Secret Domain.md",
-    "Songs/Windowpane.md",
-    "Releases/Windowpane.md",
-    "Live Performance/2002-10-25 — St. John's Church, Gdansk, Poland.md",
-    "Live Performance/2002-10-21 — Tavastia Klubi, Helsinki, Finland.md",
-    "Live Performance/2002-10-19 — Fylkingen, Stockholm, Sweden.md",
-    "Live Performance/2002-10-17 — Betong, Oslo, Norway.md",
-    "Live Performance/2002-10-16 — 3rd Tsunami ∕ Amager Kulturpunkt.md",
-    "Songs/Last Rites of Spring.md",
-    "Live Performance/2002-10-12 — Megalithomania.md",
-    "Live Performance/2002-10-05 — Ydrogeios Club, Thessaloniki, Greece.md",
-    "Live Performance/2002-10-01 — \"Mind Your Head\" Festival.md",
-    "Live Performance/2002-09-29 — Feelee (Vagonka Club).md",
-    "Songs/I Don’t Want To Be The One.md",
     "_assets/releases/Live Box - Cover Recreation.jpg",
     "_assets/releases/Live Box - Packaging.jpeg",
     "_assets/releases/Contaminated Apples - Cover.jpeg",
