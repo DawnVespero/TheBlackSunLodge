@@ -7,7 +7,7 @@ Location: John Lennon Municipal, Limoges, France
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-03-30 — Artooz Festival
@@ -19,6 +19,7 @@ Coil performed live at John Lennon Municipal, Limoges, France on Mar. 24th, 2002
 
 ## Recordings
 
+A recording of this performance was released semi-officially by [[Thighpaulsandra]] as [[Live - Limoges 2002]].
 
 ## Setlist
 1. [[Anarcadia：All Horned Animals]]

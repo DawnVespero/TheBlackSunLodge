@@ -1,6 +1,6 @@
 ---
 title: 2004-07-25 — Ocean Club, London, England
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2004-07-25
 Location: Ocean Club, London, England
@@ -19,6 +19,7 @@ Coil performed live at Ocean Club, London, England on Jul. 25th, 2004.
 
 ## Recordings
 
+A recording of [[Broccoli (live)|Broccoli]] from this performance was released on the charity compilation *Not Alone*.[^1]
 
 ## Setlist
 1. [[The Gimp (Sometimes)]]
@@ -34,3 +35,5 @@ Coil performed live at Ocean Club, London, England on Jul. 25th, 2004.
 ## References
 
 [Entry at Live Coil Archive](https://live-coil-archive.com/2004-2/2004-ocean/)
+
+[^1]: <https://www.discogs.com/release/638749-Various-Not-Alone-Médecins-Sans-Frontières-Doctors-Without-Borders>

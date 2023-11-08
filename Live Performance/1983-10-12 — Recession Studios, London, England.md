@@ -19,6 +19,7 @@ Coil performed live at Recession Studios, London, England on October 12th, 1983.
 
 ## Recordings
 
+A recording of [[Baptism of Fire]] from this performance was released on the unofficial [[How to Destroy Angels (Coil + Zos Kia + Marc Almond)|Coil + Zos Kia + Marc Almond — How To Destroy Angels]].
 
 ## Setlist
 1. [[Sicktone]]

@@ -20,6 +20,7 @@ Coil performed live at Metropolis, Montreal, Canada on May. 29th, 2003.
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[Blue Rats]]

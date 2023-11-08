@@ -1,6 +1,6 @@
 ---
 title: 2001-09-15 — DK Gorbunova, Moscow, Russia
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2001-09-15
 Location: DK Gorbunova, Moscow, Russia
@@ -19,7 +19,7 @@ Coil performed live at DK Gorbunova, Moscow, Russia on Sep. 15th, 2001.
 
 ## Recordings
 
-A recording of this performance was released as [[Live Two]].
+A recording of this performance was released as [[Live Two]]. A video recording was also released on [[Colour Sound Oblivion]]. Additionally, a separate video recording was released as *Live in Moscow*[^1]
 
 ## Setlist
 1. [[Something]]
@@ -33,3 +33,5 @@ A recording of this performance was released as [[Live Two]].
 ## References
 
 [Entry at Live Coil Archive](https://live-coil-archive.com/2001-2/2001-gorbunova/)
+
+[^1]: <https://www.discogs.com/release/219430-Coil-Live-In-Moscow>

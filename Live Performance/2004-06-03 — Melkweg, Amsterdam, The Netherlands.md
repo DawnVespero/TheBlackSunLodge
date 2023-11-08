@@ -19,6 +19,7 @@ Coil performed live at Melkweg, Amsterdam, The Netherlands on May. 30th, 2004.
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[The Gimp (Sometimes)]]

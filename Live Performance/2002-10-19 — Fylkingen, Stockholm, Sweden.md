@@ -22,7 +22,7 @@ Coil performed live at Fylkingen, Stockholm, Sweden on Oct. 13th, 2002.
 
 ## Setlist
 1. [[Last Rites of Spring|The Last Rites of Spring]]
-2. [[Drip Drop]]
+2. [[The Universe is a Haunted House]]
 3. [[Ostia (The Death of Pasolini)]]
 4. [[Bang Bang]]
 5. [[Are You Shivering?]]

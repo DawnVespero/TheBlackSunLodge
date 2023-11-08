@@ -1,13 +1,13 @@
 ---
 title: 2002-06-13 — Dour Festival
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2002-07-13
 Location: La Plaine de La Machine à Feu, Dour, Belgium
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-06-13 — Dour Festival

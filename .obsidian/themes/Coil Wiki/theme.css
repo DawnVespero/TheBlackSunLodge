@@ -130,22 +130,45 @@
   --table-header-font: 'ColdstyleSC';
   --table-header-size: 22px;
 
+
+  /* Definitions for non-preset variables */
+
+  /* Sidebar */
+
   .nav-folder-title{
     font-family: 'ColdstyleSC';
+    font-size: 18pt;
     font-variant-caps: small-caps;
   }
 
   .nav-file-title{
     font-family: 'Garamold';
+    font-size: 18pt;
     font-variant-caps: all-small-caps;
   }
 
   .tree-item-inner{
-    font-family: 'ColdstyleSC'
+    font-family: 'ColdstyleSC';
+    font-size: 12pt;
   }
 
   .site-body-left-column-site-name{
-    font-family: 'ColdstyleSC'
+    font-family: 'ColdstyleSC';
+    font-size: 18pt;
+  }
+
+  /* Plugin theming */
+
+  /* MAKE.md */
+
+  .mk-tree-text
+  {
+    font-size: 14pt;
+  }
+
+  .mk-main-menu-button
+  {
+    font-size: 12pt;
   }
 }
 
@@ -256,19 +279,24 @@
 
   .nav-folder-title{
     font-family: 'League Spartan';
+    font-size: 18pt;
     font-variant-caps: small-caps;
   }
 
   .nav-file-title{
     font-family: 'Darker Grotesque';
+    font-size: 18pt;
     font-variant-caps: all-small-caps;
   }
 
   .tree-item-inner{
     font-family: 'League Spartan'
+    font-size: 18pt;
+    
   }
 
   .site-body-left-column-site-name{
     font-family: 'League Spartan'
+    font-size: 18pt;
   }
 }

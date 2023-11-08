@@ -1,6 +1,6 @@
 ---
 title: 2004-05-23 — La Loco, Paris, France
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2004-05-23
 Location: La Loco, Paris, France
@@ -19,6 +19,7 @@ Coil performed live at La Loco, Paris, France on May. 23rd, 2004.
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[The Gimp (Sometimes)]]

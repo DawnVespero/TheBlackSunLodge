@@ -19,7 +19,7 @@ Coil performed live at Palac Akropolis, Prague, Czechia on Oct. 27th, 2002.
 
 ## Recordings
 
-A heavily edited partial recording of this performance was released as part of [[Live Four]]. [[I am Angie Bowie (Sine Waves)]], [[An Unearthly Red]], and [[Drip Drop]], are missing completely from this recording, with the former two being replaced by recordings from [[2002-10-29 — Flex, Vienna, Austria|the 2002 Vienna performance]].
+A heavily edited partial recording of this performance was released as part of [[Live Four]]. [[I am Angie Bowie (Sine Waves)]], [[An Unearthly Red]], and [[The Universe is a Haunted House]], are missing completely from this recording, with the former two being replaced by recordings from [[2002-10-29 — Flex, Vienna, Austria|the 2002 Vienna performance]]. A partial video recording was also released on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[I am Angie Bowie (Sine Waves)]]
@@ -27,7 +27,7 @@ A heavily edited partial recording of this performance was released as part of [
 3. [[Are You Shivering?]]
 4. [[Amethyst Deceivers (Version 3)]]
 5. [[A Warning from the Sun (for Fritz)]]
-6. [[Drip Drop]]
+6. [[The Universe is a Haunted House]]
 7. [[Songs/Windowpane|Windowpane]]
 8. [[Ostia (The Death of Pasolini)]]
 9. [[I Don’t Want To Be The One]]

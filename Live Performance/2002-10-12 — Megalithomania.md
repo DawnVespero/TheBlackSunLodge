@@ -22,7 +22,7 @@ Coil performed live at Conway Hall, London, England on Oct. 6th, 2002.
 A recording of this performance was released officially as [[Megalithomania!]].
 
 ## Setlist
-1. [[Drip Drop]]
+1. [[The Universe is a Haunted House]]
 
 ## References
 

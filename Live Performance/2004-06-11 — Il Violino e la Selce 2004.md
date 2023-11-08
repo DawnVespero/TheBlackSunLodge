@@ -20,6 +20,7 @@ Coil performed live at Pergolesi Theater, Jesi, Italy on Jul. 11th, 2004.
 
 ## Recordings
 
+A recording of this performance was released officially as [[Selvaggina, Go Back Into the Woods]]. A video recording was also released on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[The Gimp (Sometimes)]]

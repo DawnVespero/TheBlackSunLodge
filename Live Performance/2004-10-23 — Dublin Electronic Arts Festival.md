@@ -1,6 +1,6 @@
 ---
 title: 2004-10-23 — Dublin Electronic Arts Festival
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2004-10-23
 Location: City Hall, Dublin, Ireland
@@ -18,6 +18,8 @@ Coil performed live at City Hall, Dublin, Ireland on Oct. 17th, 2004.
 
 
 ## Recordings
+
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[A White Rainbow]]

@@ -19,6 +19,7 @@ Coil performed live at Vagonka Club, Konigsberg, Russia on Sep. 29th, 2002.
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[I am Angie Bowie (Sine Waves)]]

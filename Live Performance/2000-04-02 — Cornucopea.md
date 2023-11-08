@@ -19,7 +19,7 @@ Coil performed live at the Royal Festival Hall, London, England on Apr. 2nd, 200
 
 ## Recordings
 
-A recording of this performance was released as [[Releases/Time Machines from the Heart of Darkness]] and later as the first disk of [[Live One]]
+A recording of this performance was released as [[Time Machines from the Heart of Darkness]] and later as the first disk of [[Live One]].
 
 ## Setlist
 1. [[Everything Keeps Dissolving]]

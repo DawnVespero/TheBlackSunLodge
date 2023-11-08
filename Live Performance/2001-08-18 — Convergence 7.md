@@ -19,6 +19,7 @@ Coil performed live at Irving Plaza, New York City, United States on Aug. 12th, 
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]]. Additionally, Coil also authorized the non-profit release of a bootleg of this performance.[^1]
 
 ## Setlist
 1. [[Something]]
@@ -32,3 +33,5 @@ Coil performed live at Irving Plaza, New York City, United States on Aug. 12th, 
 ## References
 
 [Entry at Live Coil Archive](https://live-coil-archive.com/2001-2/2001-convergence/)
+
+[^1]: <https://www.discogs.com/release/194318-Coil-Live-in-NYC-August-18-2001>

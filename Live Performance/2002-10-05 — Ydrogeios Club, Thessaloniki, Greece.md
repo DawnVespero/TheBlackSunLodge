@@ -1,6 +1,6 @@
 ---
 title: 2002-10-05 — Ydrogeios Club, Thessaloniki, Greece
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2002-10-05
 Location: Ydrogeios Club, Thessaloniki, Greece
@@ -19,6 +19,7 @@ Coil performed live at Ydrogeios Club, Thessaloniki, Greece on Sep. 29th, 2002.
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[I am Angie Bowie (Sine Waves)]]

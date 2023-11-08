@@ -7,7 +7,7 @@ Location: Royal Festival Hall, London, England
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2000-09-19 — Royal Festival Hall, London, England
@@ -19,6 +19,7 @@ Coil performed live at the Royal Festival Hall, London, England on Sep. 17th, 20
 
 ## Recordings
 
+A recording of this performance was released semi-officialy by [[Thighpaulsandra]] as  [[“Persistence Is All” (Live At Royal Festival Hall)]].
 
 ## Setlist
 1. [[Something]]
