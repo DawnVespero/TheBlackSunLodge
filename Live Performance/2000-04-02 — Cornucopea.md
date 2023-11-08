@@ -7,7 +7,7 @@ Location: Royal Festival Hall, London, England
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2000-04-02 — Cornucopea
@@ -24,7 +24,7 @@ A recording of this performance was released as [[Time Machines from the Heart o
 ## Setlist
 1. [[Everything Keeps Dissolving]]
 2. [[Songs/Queens of the Circulating Library|Queens of the Circulating Library]]
-3. [[Chasms]]
+3. [[Blue Chasms|Chasms]]
 4. [[Sipping Birdsong Through Bedsprings]]
 
 ## References

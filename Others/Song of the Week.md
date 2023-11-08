@@ -1,10 +1,18 @@
 ---
-color: "#8854d0"
+title: Song of the Week
+aliases: 
+Type: 
 sticker: lucide//book-copy
+color: "#8854d0"
+Page created: 2023-10-20
+Page modified: 2023-11-08
 ---
-***Song of the Week*** was a series of posts on Coil’s official Brainwashed site, published between October 1998 and August 1999, in which they would regularly release a rare or unreleased song for free, alongside short explanatory notes.
 
-## Track list
+# Song of the Week
+
+*__Song of the Week__* was a series of posts on Coil’s official Brainwashed site, published between October 1998 and August 1999, in which they would regularly release a rare or unreleased song for free, alongside short explanatory notes.
+
+## Track List
 1. [[The Spoiler|The Spoiler (LP Version)]]
 2. [[The Wheel (Vocal)]]
 3. [[The Anal Staircase (A Dionysian Remix)|The Anal Staircase (Dionysian Remix)]]

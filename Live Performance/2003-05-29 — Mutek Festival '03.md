@@ -8,7 +8,7 @@ sticker: lucide//mic
 color: "#f7b731"
 linter-yaml-title-alias: 2003-05-29 — Mutek Festival ‘03
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2003-05-29 — Mutek Festival ‘03
@@ -24,9 +24,9 @@ A video recording of this performance was released officially on [[Colour Sound 
 
 ## Setlist
 1. [[Blue Rats]]
-2. [[Drip Drop (ANS)]]
+2. [[The Universe is a Haunted House (ANS)]]
 3. [[Triple Sons and The Ones You Bury (Instrumental)]]
-4. [[Radio Weston]]
+4. [[Wraiths and Strays|Radio Weston]]
 5. [[The First Five Minutes After Death]]
 
 ## References

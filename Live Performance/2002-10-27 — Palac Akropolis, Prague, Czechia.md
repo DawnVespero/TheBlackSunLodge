@@ -7,7 +7,7 @@ Location: Palac Akropolis, Prague, Czechia
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-10-27 — Palac Akropolis, Prague, Czechia

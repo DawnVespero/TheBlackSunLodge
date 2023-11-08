@@ -8,7 +8,7 @@ sticker: lucide//mic
 color: "#f7b731"
 linter-yaml-title-alias: 2002-06-26 — Il Violino E la Selce
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-06-26 — Il Violino E la Selce
@@ -25,7 +25,7 @@ Coil performed live at Corte Malatestiana, Fano, Italy on Jul. 21st, 2002.
 1. [[Last Rites of Spring]]
 2. [[Amethyst Deceivers (Version 2)]]
 3. [[Are You Shivering?]]
-4. [[Ostia (The Death of Pasolini)]]
+4. [[Ostia (Massimo’s Version)]]
 5. [[An Unearthly Red]]
 6. [[A.Y.O.R.]]
 7. [[Backwards]]

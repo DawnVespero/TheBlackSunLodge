@@ -1,14 +1,15 @@
 ---
+title: "I Don't Want To Be The One"
+aliases: 
 Type: Release
 Sub-Type: Compilation
-Legitimacy: Semi-Official
 Date: 2019-05-15
-color: "#3867d6"
-sticker: lucide//disc
-title: "I Don't Want To Be The One"
-Page created: 2023-10-05
-Page modified: 2023-10-24
+Legitimacy: Semi-Official
 banner: "_assets/I Don't Want To Be The One - Cover.jpg"
+sticker: lucide//disc
+color: "#3867d6"
+Page created: 2023-10-05
+Page modified: 2023-11-08
 ---
 
-# I Don't Want To Be The One
+# I Don’t Want To Be The One

@@ -217,7 +217,7 @@
 
   --default-font: 'Darker Grotesque';
   --font-text-theme: 'Darker Grotesque';
-  --font-text-size: 22pt;
+  --font-text-size: 24pt;
   --font-normal: 500;
   --text-normal: var(--paletteDark-white1);
   --text-muted: var(--paletteDark-white2);
@@ -277,26 +277,51 @@
   --checkbox-color: var(--paletteDark-blue1);
   --checkbox-color-hover: var(--paletteDark-blue0);
 
+  /* Custom Multi-point variables */
+
+  --filetree-font-size: 18pt;
+  
+
+  /* Definitions for non-preset variables */
+
+  /* Sidebar */
+
   .nav-folder-title{
     font-family: 'League Spartan';
-    font-size: 18pt;
+    font-size: 20pt;
     font-variant-caps: small-caps;
   }
 
   .nav-file-title{
     font-family: 'Darker Grotesque';
-    font-size: 18pt;
-    font-variant-caps: all-small-caps;
+    font-size: var(--filetree-font-size);
+    font-weight: 650;
+    font-variant: all-small-caps common-ligatures discretionary-ligatures contextual;
   }
 
   .tree-item-inner{
     font-family: 'League Spartan'
-    font-size: 18pt;
+    font-size: 20pt;
     
   }
 
   .site-body-left-column-site-name{
     font-family: 'League Spartan'
-    font-size: 18pt;
+    font-size: 20pt;
+  }
+
+
+  /* Plugin theming */
+
+  /* MAKE.md */
+
+  .mk-tree-text
+  {
+    font-size: var(--filetree-font-size);
+  }
+
+  .mk-main-menu-button
+  {
+    font-size: 16pt;
   }
 }

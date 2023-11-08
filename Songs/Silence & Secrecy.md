@@ -1,5 +1,6 @@
 ---
-title: Chasms
+title: Silence & Secrecy
+aliases: []
 Type: Song
 Original: 
 Derivative: 
@@ -10,8 +11,8 @@ Interpolated in:
 Interpolates: 
 Next Version: 
 Page created: 2023-11-01
-Page modified: 2023-11-01
+Page modified: 2023-11-08
 Previous Version: 
 ---
 
-# Chasms
+# Silence & Secrecy

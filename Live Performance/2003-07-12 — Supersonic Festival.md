@@ -1,13 +1,13 @@
 ---
 title: 2003-07-12 — Supersonic Festival
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2003-07-12
 Location: The Custard Factory, Birmingham, England
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2003-07-12 — Supersonic Festival
@@ -21,10 +21,10 @@ Coil performed live at The Custard Factory, Birmingham, England on Jul. 6th, 200
 
 
 ## Setlist
-1. [[Drip Drop (ANS)]]
+1. [[The Universe is a Haunted House (ANS)]]
 2. [[Blue Rats]]
 3. [[Triple Sons and The Ones You Bury (Instrumental)]]
-4. [[Radio Weston]]
+4. [[Wraiths and Strays]]
 5. [[The First Five Minutes After Death]]
 
 ## References

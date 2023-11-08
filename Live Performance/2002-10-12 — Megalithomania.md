@@ -1,13 +1,13 @@
 ---
 title: 2002-10-12 — Megalithomania
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2002-10-12
 Location: Conway Hall, London, England
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-10-12 — Megalithomania

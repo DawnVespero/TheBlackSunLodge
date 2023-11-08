@@ -7,7 +7,7 @@ Location: Tochka, Moscow, Russia
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-09-26 — Feelee (Tochka)
@@ -27,7 +27,7 @@ Coil performed live at Tochka, Moscow, Russia on Sep. 26th, 2002.
 4. [[Amethyst Deceivers (Version 3)]]
 5. [[A Warning from the Sun (for Fritz)]]
 6. [[Lake View]]
-7. [[Ostia (The Death of Pasolini)]]
+7. [[Ostia (Massimo’s Version)]]
 8. [[Songs/I Don’t Want To Be The One|I Don’t Want To Be The One]]
 9. [[Bang Bang]]
 10. [[An Unearthly Red]]

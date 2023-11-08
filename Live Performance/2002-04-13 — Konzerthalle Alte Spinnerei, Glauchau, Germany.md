@@ -1,13 +1,13 @@
 ---
 title: 2002-04-13 — Konzerthalle Alte Spinnerei, Glauchau, Germany
-aliases: 
+aliases: []
 Type: Live Performance
 Date: 2002-04-13
 Location: Konzerthalle Alte Spinnerei, Glauchau, Germany
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-04-13 — Konzerthalle Alte Spinnerei, Glauchau, Germany
