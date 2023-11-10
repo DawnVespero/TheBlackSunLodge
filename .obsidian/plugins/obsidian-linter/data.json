@@ -6,7 +6,7 @@
     },
     "force-yaml-escape": {
       "enabled": true,
-      "force-yaml-escape-keys": "banner"
+      "force-yaml-escape-keys": "banner\ntitle\naliases\nFeatured on\nOriginal\nDerivative\nNext Version\nPrevious Version\nAlternate Version\nInterpolated in\nInterpolates"
     },
     "format-tags-in-yaml": {
       "enabled": true
@@ -84,10 +84,10 @@
       "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false
+      "enabled": true
     },
     "re-index-footnotes": {
-      "enabled": false
+      "enabled": true
     },
     "auto-correct-common-misspellings": {
       "enabled": true,

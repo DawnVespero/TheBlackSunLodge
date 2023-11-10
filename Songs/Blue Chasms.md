@@ -1,5 +1,6 @@
 ---
 title: Blue Chasms
+aliases: [Chasms]
 Type: Song
 Original: 
 Derivative: 
@@ -10,7 +11,7 @@ Interpolated in:
 Interpolates: 
 Next Version: 
 Page created: 2023-11-01
-Page modified: 2023-11-01
+Page modified: 2023-11-08
 Previous Version: 
 ---
 

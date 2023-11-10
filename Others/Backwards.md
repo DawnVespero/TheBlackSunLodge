@@ -1,10 +1,11 @@
 ---
 title: Backwards
+aliases: 
 Type: 
 sticker: lucide//book-copy
 color: "#8854d0"
 Page created: 2023-10-18
-Page modified: 2023-10-31
+Page modified: 2023-11-08
 ---
 
 # Backwards

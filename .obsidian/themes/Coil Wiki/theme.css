@@ -130,22 +130,45 @@
   --table-header-font: 'ColdstyleSC';
   --table-header-size: 22px;
 
+
+  /* Definitions for non-preset variables */
+
+  /* Sidebar */
+
   .nav-folder-title{
     font-family: 'ColdstyleSC';
+    font-size: 18pt;
     font-variant-caps: small-caps;
   }
 
   .nav-file-title{
     font-family: 'Garamold';
+    font-size: 18pt;
     font-variant-caps: all-small-caps;
   }
 
   .tree-item-inner{
-    font-family: 'ColdstyleSC'
+    font-family: 'ColdstyleSC';
+    font-size: 12pt;
   }
 
   .site-body-left-column-site-name{
-    font-family: 'ColdstyleSC'
+    font-family: 'ColdstyleSC';
+    font-size: 18pt;
+  }
+
+  /* Plugin theming */
+
+  /* MAKE.md */
+
+  .mk-tree-text
+  {
+    font-size: 14pt;
+  }
+
+  .mk-main-menu-button
+  {
+    font-size: 12pt;
   }
 }
 
@@ -194,7 +217,7 @@
 
   --default-font: 'Darker Grotesque';
   --font-text-theme: 'Darker Grotesque';
-  --font-text-size: 22pt;
+  --font-text-size: 24pt;
   --font-normal: 500;
   --text-normal: var(--paletteDark-white1);
   --text-muted: var(--paletteDark-white2);
@@ -203,6 +226,11 @@
   --bold-weight: 800;
   --bold-color: var(--paletteDark-white0);
   --italic-color: var(--paletteDark-white0);
+  --text-selection: var(--paletteDark-black2);
+  --text-highlight-bg: var(--paletteDark-blue2);
+  --text-accent: var(--paletteDark-blue0);
+  --text-accent-hover: var(--paletteDark-blue1);
+  --text-on-accent: var(--paletteDark-green3);
 
   --h1-font: 'League Spartan';
   --h1-weight: 600;
@@ -249,21 +277,51 @@
   --checkbox-color: var(--paletteDark-blue1);
   --checkbox-color-hover: var(--paletteDark-blue0);
 
+  /* Custom Multi-point variables */
+
+  --filetree-font-size: 18pt;
+  
+
+  /* Definitions for non-preset variables */
+
+  /* Sidebar */
+
   .nav-folder-title{
     font-family: 'League Spartan';
+    font-size: 20pt;
     font-variant-caps: small-caps;
   }
 
   .nav-file-title{
     font-family: 'Darker Grotesque';
-    font-variant-caps: all-small-caps;
+    font-size: var(--filetree-font-size);
+    font-weight: 650;
+    font-variant: all-small-caps common-ligatures discretionary-ligatures contextual;
   }
 
   .tree-item-inner{
     font-family: 'League Spartan'
+    font-size: 20pt;
+    
   }
 
   .site-body-left-column-site-name{
     font-family: 'League Spartan'
+    font-size: 20pt;
+  }
+
+
+  /* Plugin theming */
+
+  /* MAKE.md */
+
+  .mk-tree-text
+  {
+    font-size: var(--filetree-font-size);
+  }
+
+  .mk-main-menu-button
+  {
+    font-size: 16pt;
   }
 }

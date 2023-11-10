@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "8207800102d46f17",
+        "id": "fa24d38b98bbf11d",
         "type": "tabs",
         "children": [
           {
-            "id": "10a7e74aa7bdca40",
+            "id": "6ff049b8d146869b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+                "file": "Releases/Scatology.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdd6fa0849ee9ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Cathedral in Flames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7f2da1db1d79181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Godhead⇔Deathead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4694787a9e10d4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/The Sewage Worker’s Birthday Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "717743995c293677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Solar Lodge.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -79,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -104,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md"
+                "file": "Songs/Solar Lodge.md"
               }
             }
           }
@@ -121,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+                "file": "Songs/Solar Lodge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
+                "file": "Songs/Solar Lodge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Live Performance/2003-04-06 — All Tomorrow's Parties.md"
+                "file": "Songs/Solar Lodge.md"
               }
             }
           },
@@ -203,34 +253,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "10a7e74aa7bdca40",
+  "active": "717743995c293677",
   "lastOpenFiles": [
-    "Live Performance/2002-06-26 — Il Violino e la Selce.md",
-    "People/Ian Johnstone.md",
-    "Live Performance/2003-04-06 — All Tomorrow's Parties.md",
-    "Songs/The Dreamer is Still Asleep (The Somnambulist in an Ambulance).md",
-    "Songs/Triple Sons and The Ones You Bury.md",
-    "Songs/A Slip in the Marylebone Road.md",
-    "Songs/Snow Falls Into Military Temples.md",
-    "Songs/Triple Sun Introduction.md",
-    "Live Performance/2002-10-29 — Flex, Vienna, Austria.md",
-    "Live Performance/2002-10-27 — Palac Akropolis, Prague, Czechia.md",
-    "Live Performance/2002-10-26 — Centrum Filmowe, Lódz, Poland.md",
-    "Releases/Love’s Secret Domain (CD Version).md",
-    "Releases/Love’s Secret Domain.md",
-    "Songs/Windowpane.md",
-    "Releases/Windowpane.md",
-    "Live Performance/2002-10-25 — St. John's Church, Gdansk, Poland.md",
-    "Live Performance/2002-10-21 — Tavastia Klubi, Helsinki, Finland.md",
-    "Live Performance/2002-10-19 — Fylkingen, Stockholm, Sweden.md",
-    "Live Performance/2002-10-17 — Betong, Oslo, Norway.md",
-    "Live Performance/2002-10-16 — 3rd Tsunami ∕ Amager Kulturpunkt.md",
-    "Songs/Last Rites of Spring.md",
-    "Live Performance/2002-10-12 — Megalithomania.md",
-    "Live Performance/2002-10-05 — Ydrogeios Club, Thessaloniki, Greece.md",
-    "Live Performance/2002-10-01 — \"Mind Your Head\" Festival.md",
-    "Live Performance/2002-09-29 — Feelee (Vagonka Club).md",
-    "Songs/I Don’t Want To Be The One.md",
+    "Songs/Clap.md",
+    "Songs/Solar Lodge.md",
+    "Songs/The Spoiler.md",
+    "Songs/Tenderness of Wolves.md",
+    "Songs/J.G. Thirlwell.md",
+    "Songs/At The Heart Of It All.md",
+    "Songs/Panic.md",
+    "Songs/Ubu Noir.md",
+    "Songs/Cathedral in Flames.md",
+    "Releases/Scatology.md",
+    "Home.md",
+    "Others/Unreleased Projects.md",
+    "Releases/Transparent.md",
+    "The Black Sun Lodge.md",
+    "Songs/Truth.md",
+    "Songs/Poisons.md",
+    "Songs/Violation.md",
+    "Songs/Baptism of Fire.md",
+    "Songs/Sicktone (Version 1).md",
+    "Songs/Sicktone (Version 2).md",
+    "Releases/Transparent (2017 Remaster).md",
+    "_assets/releases/Transparent (Threshold House LP) - Cover.jpeg",
+    "_assets/releases/Transparent (Nekrophile Cassette) - Cover.jpeg",
+    "People/John Gosling.md",
+    "Songs/On Balance (5.V.82).md",
+    "Songs/Stealing the Words (3.VIII.82).md",
+    "Songs/Truth (Version) (8.X.83).md",
+    "Songs/Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983).md",
     "_assets/releases/Live Box - Cover Recreation.jpg",
     "_assets/releases/Live Box - Packaging.jpeg",
     "_assets/releases/Contaminated Apples - Cover.jpeg",

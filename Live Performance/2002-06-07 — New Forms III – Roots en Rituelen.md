@@ -20,6 +20,7 @@ Coil performed live at Theater aan het Spui, Den Haag, The Netherlands on Jun. 2
 
 ## Recordings
 
+A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[Anarcadia：All Horned Animals (Extended Version)]]

@@ -20,7 +20,7 @@ Coil performed live at Teatro delle Celebrazioni, Bologna, Italy on Mar. 31st, 2
 
 ## Recordings
 
-A recording of this performance was released officially as [[Live Three]].
+A recording of this performance was released officially as [[Live Three]]. A video recording was also released on [[Colour Sound Oblivion]].
 
 ## Setlist
 1. [[Anarcadia：All Horned Animals]]

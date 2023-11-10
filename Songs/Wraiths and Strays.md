@@ -1,5 +1,6 @@
 ---
-title: Drip Drop
+title: Wraiths and Strays
+aliases: [Radio Weston]
 Type: Song
 Original: 
 Derivative: 
@@ -9,9 +10,9 @@ Featured on:
 Interpolated in: 
 Interpolates: 
 Next Version: 
-Page created: 2023-11-06
-Page modified: 2023-11-06
+Page created: 2023-11-07
+Page modified: 2023-11-08
 Previous Version: 
 ---
 
-# Drip Drop
+# Wraiths and Strays

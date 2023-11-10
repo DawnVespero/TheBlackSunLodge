@@ -26,5 +26,6 @@
     "*.woff2"
   ],
   "showInlineTitle": false,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }

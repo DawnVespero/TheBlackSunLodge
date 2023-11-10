@@ -6,14 +6,14 @@ sticker: lucide//home
 color: "#4b6584"
 linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-10-08
-Page modified: 2023-11-07
+Page modified: 2023-11-10
 ---
 
 ![[banner.jpg]]
 
 # Welcome to the Black Sun Lodge
 
-We are the internet’s first dedicated general database for the work of British experimental band [[Coil]].
+Welcome, astral traveller, to the cold, musky halls of __Thee Black Sun Lodge__! Our circulating library holds the internet’s comprehensive resource on the work of the British musical project [[Coil]]. Feel free to browse the shelf below for a selection of our most important articles. If you would like to suggest an addition to our shelves or simply feel in need of a rest among like-minded dead souls, take a seat in [our lobby](https://discord.gg/kS8VV88J) and savour the Discord before your next journey across the spiritual planes.
 
 ## Recommended Pages
 
@@ -79,7 +79,8 @@ We are the internet’s first dedicated general database for the work of British
 ### People
 
 [[Peter Christopherson]]  
-[[Jhonn Balance]]
+[[Jhonn Balance]]  
+[[Thighpaulsandra]]
 
 ### Songs
 
@@ -88,3 +89,7 @@ We are the internet’s first dedicated general database for the work of British
 [[A Cold Cell]]
 
 ### Live Performances
+
+[[2000-09-19 — Royal Festival Hall, London, England]]  
+[[2002-10-12 — Megalithomania]]  
+[[2004-10-23 — Dublin Electronic Arts Festival]]

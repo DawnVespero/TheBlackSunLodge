@@ -16,7 +16,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Live Performance",
+  "activeView": "/",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -39,7 +39,8 @@
     "spaces://$tags/spaces://#Backwards",
     "spaces://$tags/spaces://#Backwards",
     "spaces://$tags/spaces://#Backwards",
-    "spaces://$tags/spaces://#Backwards"
+    "spaces://$tags/spaces://#Backwards",
+    "//Others"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -50,13 +51,13 @@
     "Context",
     "Labels",
     "Live Performance",
+    "Releases",
     "Others",
     "People",
-    "Releases",
-    "Songs",
     "_assets",
     "_assets/photos",
     "_assets/releases",
+    "Songs",
     "_templates"
   ],
   "menuTriggerChar": "/",

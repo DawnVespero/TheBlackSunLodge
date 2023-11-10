@@ -80,7 +80,14 @@
       "key": "S"
     }
   ],
-  "switcher:open": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
   "editor:insert-link": [
     {
       "modifiers": [
@@ -151,6 +158,24 @@
         "Shift"
       ],
       "key": "G"
+    }
+  ],
+  "make-md:mk-blink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
     }
   ]
 }

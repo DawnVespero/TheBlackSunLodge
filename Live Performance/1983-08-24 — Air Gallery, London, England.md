@@ -19,6 +19,7 @@ Coil performed live at Air Gallery, London, England on August 24th, 1983.
 
 ## Recordings
 
+A recording of this performance was released on the unofficial [[How to Destroy Angels (Coil + Zos Kia + Marc Almond)|Coil + Zos Kia + Marc Almond — How To Destroy Angels]]. A video recording of this performance was released officially on [[Colour Sound Oblivion]].
 
 ## Setlist
 

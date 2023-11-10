@@ -7,7 +7,7 @@ Location: Amager Bio, Copenhagen, Denmark
 sticker: lucide//mic
 color: "#f7b731"
 Page created: 2023-10-22
-Page modified: 2023-11-07
+Page modified: 2023-11-08
 ---
 
 # 2002-10-16 — 3rd Tsunami ∕ Amager Kulturpunkt
@@ -19,6 +19,7 @@ Coil performed live at Amager Bio, Copenhagen, Denmark on Oct. 13th, 2002.
 
 ## Recordings
 
+A recording of this performance was released semi-officially by [[Thighpaulsandra]] as [[Live - Copenhagen 2002]].
 
 ## Setlist
 1. [[I am Angie Bowie (Sine Waves)]]

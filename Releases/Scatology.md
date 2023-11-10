@@ -1,5 +1,6 @@
 ---
 title: Scatology
+aliases: 
 Type: Release
 SubType: Studio Album
 Date: 1984-01-01
@@ -13,7 +14,7 @@ color: "#3867d6"
 Alternate Version: "[[Scatology Sessions]]"
 banner_y: 0.04
 Page created: 2023-10-05
-Page modified: 2023-11-03
+Page modified: 2023-11-10
 ---
 
 # Scatology
