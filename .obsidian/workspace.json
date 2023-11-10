@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "d341155bb9ff3de9",
+        "id": "45ec3ac4dc38d425",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7f5db1d4590b0f",
+            "id": "80d35e269a5653a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Scatology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f5d7c8cc0704ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Restless Day.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b49c1600092b4573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Cathedral in Flames.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50f1e95936450011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Godhead⇔Deathead.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -105,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Songs/Godhead⇔Deathead.md"
               }
             }
           }
@@ -122,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Songs/Godhead⇔Deathead.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Songs/Godhead⇔Deathead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "Songs/Godhead⇔Deathead.md"
               }
             }
           },
@@ -204,10 +241,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bd7f5db1d4590b0f",
+  "active": "50f1e95936450011",
   "lastOpenFiles": [
-    "The Black Sun Lodge.md",
+    "_templates/Song Page (Page Body - Frontmatter Template).md",
+    "Songs/Godhead⇔Deathead.md",
+    "_templates/Song Page (Frontmatter).md",
+    "Songs/The Sewage Worker’s Birthday Party.md",
+    "Songs/Solar Lodge.md",
+    "Releases/Scatology.md",
     "Home.md",
+    "The Black Sun Lodge.md",
     "().md",
     "Others/Coil.md",
     "Releases/Musick To Play In The Dark, Vol. 1.md",
@@ -218,7 +261,6 @@
     "Songs/Baptism of Fire.md",
     "Songs/Sicktone (Version 1).md",
     "Songs/Sicktone (Version 2).md",
-    "_templates/Song Page (Page Body - Frontmatter Template).md",
     "_assets/releases/Transparent (Threshold House LP) - Cover.jpeg",
     "_assets/releases/Transparent (Threshold House LP) Cover.jpeg",
     "_assets/releases/Transparent (Nekrophile Cassette) - Cover.jpeg",
@@ -230,11 +272,6 @@
     "Songs/On Balance (5.V.82).md",
     "Songs/Stealing the Words (3.VIII.82).md",
     "Songs/Truth (Version) (8.X.83).md",
-    "Songs/Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983).md",
-    "Songs/Sewn Open (Rehearsal 5.X.1983).md",
-    "Songs/Truth.md",
-    "Releases/Uncoiled.md",
-    "Others/Live-only Songs.md",
     "_assets/releases/Live Box - Cover Recreation.jpg",
     "_assets/releases/Live Box - Packaging.jpeg",
     "_assets/releases/Contaminated Apples - Cover.jpeg",

@@ -1,6 +1,6 @@
 ---
-title: Scatology
-aliases: 
+title: "Scatology"
+aliases: '["[]"]'
 Type: Release
 SubType: Studio Album
 Date: 1984-01-01
@@ -64,6 +64,7 @@ The final paragraph is only present on the original LP version.
 ### Tracklist
 
 #### Original LP Version
+
 1. [[Ubu Noir]]
 2. [[Panic]]
 3. [[At The Heart Of It All]]
@@ -76,6 +77,7 @@ The final paragraph is only present on the original LP version.
 10. [[Cathedral in Flames]] ^Scatology84Tracklist
 
 #### [[Scatology (1988 CD Version)|1988 CD Version]]
+
 1. [[Ubu Noir]]
 2. [[Panic]]
 3. [[At The Heart Of It All]]
@@ -87,7 +89,7 @@ The final paragraph is only present on the original LP version.
 9. [[Solar Lodge]]
 10. [[The Sewage Worker’s Birthday Party|The S.W.B.P.]]
 11. [[Godhead⇔Deathead|Godhead=Deathhead]]
-12. [[Tainted t]] ^Scatology88Tracklist
+12. [[Tainted Love]] ^Scatology88Tracklist
 
 ## Personnel
 
@@ -103,4 +105,5 @@ The final paragraph is only present on the original LP version.
 |[[Alex Fergusson]] | Guitar ([[Tenderness of Wolves]]) |
 
 ## Sources
+
 [1^]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>

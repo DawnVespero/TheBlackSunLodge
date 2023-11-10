@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "escape-yaml-special-characters": {
-      "enabled": true,
+      "enabled": false,
       "try-to-escape-single-line-arrays": false
     },
     "force-yaml-escape": {
@@ -171,7 +171,7 @@
     },
     "heading-blank-lines": {
       "enabled": true,
-      "bottom": false,
+      "bottom": true,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
@@ -250,7 +250,7 @@
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
-    "aliasArrayStyle": "single-line",
+    "aliasArrayStyle": "multi-line",
     "tagArrayStyle": "single-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",

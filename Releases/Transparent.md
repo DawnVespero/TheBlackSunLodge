@@ -12,7 +12,7 @@ banner:
 sticker: lucide//disc
 color: "#3867d6"
 Page created: 2023-10-05
-Page modified: 2023-11-09
+Page modified: 2023-11-10
 ---
 
 # Transparent
@@ -28,7 +28,7 @@ Page modified: 2023-11-09
 
 ---
 
-*__Transparent__* is a live / studio album by Coil, released in 1984 by Nekrophile Records. Somewhat unique in compiling live and studio recordings,
+*__Transparent__* is a live / studio album by Coil, released in 1984 by Nekrophile Records. Somewhat unique in compiling live and studio recordings, the album constitutes the first published recordings by Coil.
 
 ## Background
 
