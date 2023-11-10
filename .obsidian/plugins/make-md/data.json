@@ -39,8 +39,7 @@
     "spaces://$tags/spaces://#Backwards",
     "spaces://$tags/spaces://#Backwards",
     "spaces://$tags/spaces://#Backwards",
-    "spaces://$tags/spaces://#Backwards",
-    "//Others"
+    "spaces://$tags/spaces://#Backwards"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -50,15 +49,15 @@
     "/",
     "Context",
     "Labels",
-    "Live Performance",
-    "Releases",
     "Others",
     "People",
+    "Releases",
+    "Songs",
     "_assets",
     "_assets/photos",
     "_assets/releases",
-    "Songs",
-    "_templates"
+    "_templates",
+    "Live Performance"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
