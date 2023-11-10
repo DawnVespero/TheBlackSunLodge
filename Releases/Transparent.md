@@ -12,7 +12,7 @@ banner:
 sticker: lucide//disc
 color: "#3867d6"
 Page created: 2023-10-05
-Page modified: 2023-11-08
+Page modified: 2023-11-09
 ---
 
 # Transparent
@@ -72,13 +72,13 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 - __[[Transparent (2017 Remaster)]]__: The album was re-released in a remastered version by [[Cold Spring Records]] in 2017. Notably, this version added two bonus tracks performed by [[John Gosling]]‘s previous project, *Ache*, including an early version of [[Rape]].
 
 #### Tracklist
-1. [[Sicktone (Zos Kia)]]
+1. [[Sicktone (Version 1)]]
 2. [[Baptism of Fire]]
 3. [[Violation]]
 4. [[Poisons]]
 5. [[Truth]]
 6. [[Sewn Open (Rehearsal 5.X.1983)]]
-7. [[Sicktone (Coil & Zos Kia)]]
+7. [[Sicktone (Version 2)]]
 8. [[Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983)]]
 9. [[Truth (Version) (8.X.83)]]
 10. [[Stealing the Words (3.VIII.82)]]

@@ -1,5 +1,6 @@
 ---
 title: Musick To Play In The Dark, Vol. 1
+aliases: 
 Type: Release  
 SubType: Studio Album
 Date: 1999-09-01
@@ -10,7 +11,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Chalice]]
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2023-11-10
 ---
 
 # Musick To Play In The Dark, Vol. 1

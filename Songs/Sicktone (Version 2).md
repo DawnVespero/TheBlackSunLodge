@@ -1,11 +1,12 @@
 ---
-title: Poisons
+title: Sicktone (Version 2)
 aliases: 
 Type: Song
 Original: 
 Derivative: 
 sticker: lucide//music
 color: "#eb3b5a"
+Alternate Version: "[[Sicktone (Version 1)]]"
 Featured on:
   - "[[Transparent]]"
   - "[[Transparent (2017 Remaster)]]"
@@ -17,4 +18,4 @@ Page modified: 2023-11-09
 Previous Version: 
 ---
 
-# Poisons
+# Sicktone (Version 2)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebaa70e82be6e8e7",
+        "id": "d341155bb9ff3de9",
         "type": "tabs",
         "children": [
           {
-            "id": "e707d67661d32382",
+            "id": "bd7f5db1d4590b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Transparent.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5,
-    "collapsed": true
+    "width": 531.5
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Transparent.md"
+                "file": "Home.md"
               }
             }
           }
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Transparent.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Transparent.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Transparent.md"
+                "file": "Home.md"
               }
             }
           },
@@ -204,15 +203,25 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e707d67661d32382",
+  "active": "bd7f5db1d4590b0f",
   "lastOpenFiles": [
+    "().md",
+    "Home.md",
+    "Others/Coil.md",
+    "Releases/Musick To Play In The Dark, Vol. 1.md",
+    "Releases/Musick To Play In The Dark.md",
     "Releases/Transparent.md",
+    "Songs/Poisons.md",
+    "Songs/Violation.md",
+    "Songs/Baptism of Fire.md",
+    "Songs/Sicktone (Version 1).md",
+    "Songs/Sicktone (Version 2).md",
+    "_templates/Song Page (Page Body - Frontmatter Template).md",
+    "The Black Sun Lodge.md",
     "_assets/releases/Transparent (Threshold House LP) - Cover.jpeg",
     "_assets/releases/Transparent (Threshold House LP) Cover.jpeg",
     "_assets/releases/Transparent (Nekrophile Cassette) - Cover.jpeg",
     "Releases/Transparent (2017 Remaster).md",
-    "Others/Coil.md",
-    "Home.md",
     "People/John Gosling.md",
     "_templates/_templates.md",
     "Songs/Rape.md",
@@ -221,19 +230,10 @@
     "Songs/Stealing the Words (3.VIII.82).md",
     "Songs/Truth (Version) (8.X.83).md",
     "Songs/Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983).md",
-    "Songs/Sicktone (Coil & Zos Kia).md",
     "Songs/Sewn Open (Rehearsal 5.X.1983).md",
     "Songs/Truth.md",
-    "Songs/Poisons.md",
-    "Songs/Violation.md",
-    "Songs/Baptism of Fire.md",
-    "Songs/Sicktone (Zos Kia).md",
     "Releases/Uncoiled.md",
     "Others/Live-only Songs.md",
-    "Live Performance/2004-10-23 — Dublin Electronic Arts Festival.md",
-    "Live Performance/2004-07-25 — Ocean Club, London, England.md",
-    "Live Performance/2004-06-11 — Il Violino e la Selce 2004.md",
-    "Live Performance/2004-06-03 — Melkweg, Amsterdam, The Netherlands.md",
     "_assets/releases/Live Box - Cover Recreation.jpg",
     "_assets/releases/Live Box - Packaging.jpeg",
     "_assets/releases/Contaminated Apples - Cover.jpeg",

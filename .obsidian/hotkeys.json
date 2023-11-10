@@ -168,5 +168,14 @@
       ],
       "key": "O"
     }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }

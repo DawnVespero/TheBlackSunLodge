@@ -9,6 +9,7 @@
 | __Derivative__: | <% tp.frontmatter.Derivative %> |
 | __Previous Version__: | <% tp.frontmatter["Previous Version"] %> |
 | __Next Version__: | <% tp.frontmatter["Next Version"] %> |
+| **Alternate Version:** | <% tp.frontmatter["Alternate Version"] %> |
 | __Interpolated in:__ | <% tp.frontmatter["Interpolated in"] %> |
 | __Interpolates:__ | <% tp.frontmatter.Interpolates %> |
 
