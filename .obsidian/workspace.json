@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 531.5,
+    "collapsed": true
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -205,8 +206,9 @@
   },
   "active": "bd7f5db1d4590b0f",
   "lastOpenFiles": [
-    "().md",
+    "The Black Sun Lodge.md",
     "Home.md",
+    "().md",
     "Others/Coil.md",
     "Releases/Musick To Play In The Dark, Vol. 1.md",
     "Releases/Musick To Play In The Dark.md",
@@ -217,7 +219,6 @@
     "Songs/Sicktone (Version 1).md",
     "Songs/Sicktone (Version 2).md",
     "_templates/Song Page (Page Body - Frontmatter Template).md",
-    "The Black Sun Lodge.md",
     "_assets/releases/Transparent (Threshold House LP) - Cover.jpeg",
     "_assets/releases/Transparent (Threshold House LP) Cover.jpeg",
     "_assets/releases/Transparent (Nekrophile Cassette) - Cover.jpeg",
