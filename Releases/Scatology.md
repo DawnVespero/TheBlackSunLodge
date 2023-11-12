@@ -43,6 +43,8 @@ The album, originally known under the title *__Poisons__*, was initially planned
 
 Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^2]
 
+The release of the album was followed by a single for [[Panic ∕ Tainted Love|Panic]], backed with a cover of [[Tainted Love]].
+
 ### Packaging
 
 The cover of the original, LP-only, release features the “Black Sun” icon on plain off-white paper, with the artist and album name at the top. Around the front and back cover are extensive liner notes for each song, as well as the following introductory paragraph:

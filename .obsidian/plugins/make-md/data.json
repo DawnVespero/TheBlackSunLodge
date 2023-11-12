@@ -51,7 +51,8 @@
     "spaces://$tags/spaces://#Compilation Track",
     "spaces://$tags/spaces://#Compilation_Track",
     "spaces://$tags/spaces://#Compilation_Track",
-    "//_assets"
+    "//_assets",
+    "//_assets/_assets/releases"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

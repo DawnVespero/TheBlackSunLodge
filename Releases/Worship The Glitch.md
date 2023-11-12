@@ -1,15 +1,18 @@
 ---
 title: Worship the Glitch
-aliases: [Worship the Glitch]
-Type: Release  
-SubType: Studio Album
-Date: 1994-01-01
+aliases:
+  - Worship the Glitch
+Type: Release
+SubType:
+  - Studio Album
+Date: 1995-01-01
 Legitimacy: Official
 Original: 
 Derivative: 
 sticker: lucide//disc
 color: "#3867d6"
-Label: [[Threshold House]]
+Label:
+  - - Threshold House
 linter-yaml-title-alias: Worship the Glitch
 Page created: 2023-10-31
 Page modified: 2023-11-03
@@ -24,14 +27,14 @@ Page modified: 2023-11-03
 | __Title__: | Worship the Glitch |
 | __Type__: | Studio Album |
 | __Legitimacy__: | Official |
-| __Release date:__ | 1994-01-01 |
+| __Release date:__ | 1995-??-?? |
 | __Label:__ | [[Threshold House]] |
 | __Original__: |  |
 | __Derivative__: |  |
 
 ---
 
-*__Worship the Glitch__* is an official studio album by Coil (under the alias [[Coil#ELpH|ELpH]]), released in 1994 by Threshold House.
+*__Worship the Glitch__* is an official studio album by Coil (under the alias [[Coil#ELpH|ELpH]]), released in 1995 by Threshold House.
 
 ## Background
 

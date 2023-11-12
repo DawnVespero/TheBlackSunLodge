@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "828210220ed66713",
+            "id": "99bd6bc365108151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/How To Destroy Angels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8613d859d819fe5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Scatology.md",
+                "file": "Releases/Horse Rotorvator.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 531.5,
+    "collapsed": true
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/How To Destroy Angels.md"
+                "file": "Releases/Horse Rotorvator.md"
               }
             }
           }
@@ -133,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/How To Destroy Angels.md",
+                "file": "Releases/Horse Rotorvator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/How To Destroy Angels.md",
+                "file": "Releases/Horse Rotorvator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/How To Destroy Angels.md"
+                "file": "Releases/Horse Rotorvator.md"
               }
             }
           },
@@ -215,37 +204,38 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "828210220ed66713",
+  "active": "99bd6bc365108151",
   "lastOpenFiles": [
+    "_templates/Blank Section Placeholder.md",
+    "Releases/Horse Rotorvator.md",
+    "Songs/Ravenous.md",
+    "Songs/The Anal Staircase (A Dionysian Remix).md",
+    "Songs/The First Five Minutes After Death.md",
+    "Songs/The Golden Section.md",
+    "Songs/Who By Fire.md",
+    "Songs/Blood From The Air.md",
+    "Songs/Circles of Mania.md",
+    "Songs/Penetralia II.md",
+    "Songs/Penetralia.md",
+    "Songs/Herald.md",
+    "Songs/…Of Free Enterprise.md",
+    "Songs/Ostia (The Death of Pasolini).md",
+    "Songs/Babylero.md",
+    "Songs/Slur.md",
+    "Songs/The Anal Staircase.md",
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "_templates/Release Page (Info Table).md",
+    "Releases/Horse Rotorvator (1988 CD Version).md",
+    "_assets/releases/Horse Rotorvator (2001 CD Remaster) - Cover.jpeg",
     "Releases/Scatology.md",
+    "Releases/Worship The Glitch.md",
     "Releases/How To Destroy Angels.md",
     "Home.md",
     "Songs/Heaven’s Blade.md",
     "Songs/Heaven's Blade.md",
-    "Releases/Backwards (Demos).md",
-    "Songs/Restless Day.md",
-    "Songs/Panic (12” Version).md",
-    "Releases/Panic ∕ Tainted Love.md",
-    "Releases/Panic (Extended Remix).md",
-    "Songs/Tainted Love.md",
-    "Songs/How to Destroy Angels.md",
-    "Songs/The Sewage Worker’s Birthday Party.md",
-    "Songs/The Sewage Worker's Birthday Party.md",
-    "Songs/Aqua Regis.md",
-    "-notebook/You got me starting to believe.md",
-    "-notebook/Schau dir AVSTEG von IKEA an..md",
     "_assets/-notebook Attachments/Plattenspieler A&O.jpeg",
     "_assets/-notebook Attachments",
-    "-notebook/Plattenspieler A&O.md",
-    "-notebook/Nintendo-Geschichte eines Innovators.md",
     "-notebook",
-    "Songs/Cathedral in Flames.md",
-    "Songs/Godhead⇔Deathead.md",
-    "Songs/Clap.md",
-    "Songs/The Spoiler.md",
-    "Songs/Tenderness of Wolves.md",
-    "Songs/At The Heart Of It All.md",
-    "Songs/Panic.md",
     "_assets/releases/Scatology (2001 Remaster) Cover.jpg",
     "_assets/releases/Transparent (Threshold House LP) - Cover.jpeg",
     "_assets/releases/Transparent (Threshold House LP) Cover.jpeg",
@@ -253,7 +243,6 @@
     "_assets/releases/Live Box - Cover Recreation.jpg",
     "_assets/releases/Live Box - Packaging.jpeg",
     "_assets/releases/Contaminated Apples - Cover.jpeg",
-    "_assets/releases/Wormsongs - Cover.jpeg",
-    "_assets/releases/Hidden Hydrology - Cover.jpeg"
+    "_assets/releases/Wormsongs - Cover.jpeg"
   ]
 }
