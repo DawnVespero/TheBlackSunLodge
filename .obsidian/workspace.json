@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Releases/How To Destroy Angels.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Releases/Scatology.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Scatology.md"
+                "file": "Releases/How To Destroy Angels.md"
               }
             }
           }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Scatology.md",
+                "file": "Releases/How To Destroy Angels.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Scatology.md",
+                "file": "Releases/How To Destroy Angels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Scatology.md"
+                "file": "Releases/How To Destroy Angels.md"
               }
             }
           },
@@ -199,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +215,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8613d859d819fe5f",
+  "active": "828210220ed66713",
   "lastOpenFiles": [
-    "Releases/How To Destroy Angels.md",
     "Releases/Scatology.md",
+    "Releases/How To Destroy Angels.md",
     "Home.md",
     "Songs/Heaven’s Blade.md",
     "Songs/Heaven's Blade.md",

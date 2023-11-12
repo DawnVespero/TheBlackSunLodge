@@ -1,9 +1,10 @@
 ---
 title: "Scatology"
 aliases:
-  - '["[]"]'
+  - "[]"
 Type: Release
-SubType: Studio Album
+SubType:
+  - Studio Album
 Date: 1984-01-01
 Legitimacy: Official
 Derivative:
@@ -15,7 +16,7 @@ color: "#3867d6"
 Alternate Version: "[[Scatology Sessions]]"
 banner_y: 0.04
 Page created: 2023-10-05
-Page modified: 2023-11-11
+Page modified: 2023-11-12
 ---
 
 # Scatology
@@ -32,7 +33,7 @@ The first recordings by Coil as a duo occurred in February 1984, at Britannia Ro
 
 ## Recording
 
-Recording sessions for *The Sewage Worker’s Birthday Party* took place at Britannia row studios
+Recording sessions for *The Sewage Worker’s Birthday Party* took place at Britannia Row Studios in February 1984. Additional recording sessions for the album took place over the course of 1984 at Wave Studios and Aosis Studios.[^1]
 
 Additional recordings from the sessions for the album can be found on the [[Live Coil Archive]]‘s [[Scatology Sessions]] bootleg.
 
