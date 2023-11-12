@@ -1,9 +1,9 @@
 ---
-title: "Aqua Regis"
+title: "Panic (12\" Version)"
 Type: Song
 Featured on: 
 - "[[Panic ∕ Tainted Love]]"
-- "[[Scatology (1988 CD Version)]]"
+- "[[Panic (T-ARCH)]]"
 Original: ""
 Derivative: ""
 Previous Version: ""
@@ -15,12 +15,12 @@ sticker: lucide//music
 color: "#eb3b5a"
 ---
 
-# Aqua Regis
+# Panic (12" Version)
 
 |  |  |
 | --- | --- |
-| __Title__: | Aqua Regis |
-| __Featured on__: | [[Panic ∕ Tainted Love]], <br> [[Scatology (1988 CD Version)]] |
+| __Title__: | Panic (12" Version) |
+| __Featured on__: | [[Panic ∕ Tainted Love]],<br> [[Panic (T-ARCH)]] |
 | __Original__: |  |
 | __Derivative__: |  |
 | __Previous Version__: |  |
@@ -31,11 +31,9 @@ color: "#eb3b5a"
 
 ---
 
-*__Aqua Regis__* is a song originally released on Coil's 1985 single [[Panic ∕ Tainted Love]].
+*__Panic (12" Version)__* is a song originally released on Coil's 1985 single [[Panic ∕ Tainted Love]].
 
 ## Lyrics
-
-> *[Instrumental]*
 
 ## Versions
 

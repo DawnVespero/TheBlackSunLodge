@@ -1,12 +1,13 @@
 ---
 title: "Welcome to the Black Sun Lodge"
-aliases: "[Welcome to the Black Sun Lodge]"
+aliases:
+  - "[Welcome to the Black Sun Lodge]"
 Type: 
 sticker: lucide//home
 color: "#4b6584"
 linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-10-08
-Page modified: 2023-11-10
+Page modified: 2023-11-11
 ---
 
 ![[banner.jpg]]

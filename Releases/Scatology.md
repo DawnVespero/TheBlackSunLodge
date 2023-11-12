@@ -1,6 +1,7 @@
 ---
 title: "Scatology"
-aliases: '["[]"]'
+aliases:
+  - '["[]"]'
 Type: Release
 SubType: Studio Album
 Date: 1984-01-01
@@ -14,7 +15,7 @@ color: "#3867d6"
 Alternate Version: "[[Scatology Sessions]]"
 banner_y: 0.04
 Page created: 2023-10-05
-Page modified: 2023-11-10
+Page modified: 2023-11-11
 ---
 
 # Scatology
@@ -25,15 +26,13 @@ Page modified: 2023-11-10
 
 ## Background
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+Although previous songs under the Coil name had been published on the album [[Transparent]], these were created almost entirely without input from [[Peter Christopherson]], unlike most Coil material. While Christopherson provided live mixing for the live portion of the album and performed on the live track [[Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983)|Silence & Secrecy]], the majority of the initial material created under the Coil name was written entirely by [[Jhonn Balance]].
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+The first recordings by Coil as a duo occurred in February 1984, at Britannia Row Studios in London. Two songs were recorded during this session: [[Songs/How to Destroy Angels|How to Destroy Angels]], released as a single in 1984, and [[The Sewage Worker’s Birthday Party]], which incorporated samples from the former song and would eventually see release on what would become Scatology. [^1]
 
 ## Recording
+
+Recording sessions for *The Sewage Worker’s Birthday Party* took place at Britannia row studios
 
 Additional recordings from the sessions for the album can be found on the [[Live Coil Archive]]‘s [[Scatology Sessions]] bootleg.
 
@@ -41,25 +40,25 @@ Additional recordings from the sessions for the album can be found on the [[Live
 
 The album, originally known under the title *__Poisons__*, was initially planned for release under [[Jhonn Balance]]‘s existing label __Hearsay and Heresy__, which had already released the compilation cassette __Bethel__, but instead, it ended up being attributed as the first release of the new Coil-specific vanity label [[Force & Form]].
 
-Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^1]
+Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^2]
 
 ### Packaging
 
-The cover of the original, LP-only, release features the “Black Sun” icon on plain off-white paper, with the artist and album name at the top. Around the front and back cover are extensive liner notes for each song, as well as the following introductory paragraph:  
-%%
-The liner notes mentioned in this paragraph should be transcribed on the individual songs’ pages.
-%%
+The cover of the original, LP-only, release features the “Black Sun” icon on plain off-white paper, with the artist and album name at the top. Around the front and back cover are extensive liner notes for each song, as well as the following introductory paragraph:
 
-> ‘SCATOLOGY’ (n) frequent reference to excretory processes in literature; study of fossil excrement; gross obscenity <br> - extract from the Penguin English Dictionary The Humanism of the Arsehole. “…A psychoanalyst, knowing that gold and excrement are akin in the subconscious, would not have been surprised…that I used my shit - like the hen’s golden eggs, the droppings of the Golden Ass, or Danäe’s divine diarrhea - to perform a phenomenal transmutation through the application of my Paranoia-Critical method.” <br> from “The Unspeakable Confessions of Salvador Dali”, Quartet Books, 1976 <br> The name “Coil”, first used by [[John Balance]] in Autumn 1982 for his solo works, now represents him in collaboration with [[Peter Christopherson]].
+> ‘SCATOLOGY’ (n) frequent reference to excretory processes in literature; study of fossil excrement; gross obscenity <br> - extract from the Penguin English Dictionary  
+> The Humanism of the Arsehole. “…A psychoanalyst, knowing that gold and excrement are akin in the subconscious, would not have been surprised…that I used my shit - like the hen’s golden eggs, the droppings of the Golden Ass, or Danäe’s divine diarrhea - to perform a phenomenal transmutation through the application of my Paranoia-Critical method.” <br> from “The Unspeakable Confessions of Salvador Dali”, Quartet Books, 1976 <br> The name “Coil”, first used by [[Jhonn Balance|John Balance]] in Autumn 1982 for his solo works, now represents him in collaboration with [[Peter Christopherson]].
   
 
 The final paragraph is only present on the original LP version.
 
 ### Versions
 
-- Original release, 1984, LP-only: On the first pressing of this version, all 3000 copies have a postcard stuck over the central logo depicting the framed cover art for the [[Releases/The Anal Staircase|Anal Staircase]] EP. On the second pressing, a random selection of the 2000 copies have a different postcard attached, depicting another photograph referred to as “*Sexual Architecture*”.
-- [[Scatology (1988 CD Version)]]: This version is distinguished by ![new cover art] and contains the additional tracks, “*[[Restless Day]]*”, “*Aqua Regis*” and “*Tainted Love*”
-- 2001 CD Remaster: First of two remastered albums released in 2001, alongside [[Horse Rotorvator]]. Both albums were remastered by [[Thighpaulsandra]]. These remasters were created due to a dispute over unpaid royalties for the albums Coil released through [[Some Bizzare Records]]. This version features [new cover art], but is otherwise identical in content.
+- Original release, 1984, LP-only: On the first pressing of this version, all 3000 copies have a postcard stuck over the central logo depicting the framed eponymous cover art for the [[Releases/The Anal Staircase|Anal Staircase]] EP. On the second pressing, a random selection of the 2000 copies have a different postcard attached, depicting another photograph referred to as “*Sexual Architecture*”.
+- [[Scatology (1988 CD Version)]]: This version is distinguished by new cover art and contains the additional tracks, “*[[Restless Day]]*”, “*[[Aqua Regis]]*” and “*[[Tainted Love]]*”, the first originally from the 1985 compilation *[Devastate to Liberate](https://www.discogs.com/master/21583-Various-Devastate-To-Liberate)*, the other two from the [[Panic ∕ Tainted Love]] single.
+- 2001 CD Remaster: First of two remastered albums released in 2001, alongside [[Horse Rotorvator]]. Both albums were remastered by [[Thighpaulsandra]]. These remasters were created due to a dispute over unpaid royalties for the albums Coil released through [[Some Bizzare Records]]. This version features new cover art, but is otherwise identical in content.  
+![[Scatology (1984 Vinyl) Cover.jpg|200]] ![[Scatology (1988 CD Version) Cover.jpg|200]] ![[Scatology (2001 Remaster) Cover.jpg|200]]  
+*Cover art for different releases of* Scatology. *From left to right: Original 1984 LP release, 1988 CD release, 2001 Remastered CD release*
 
 ### Tracklist
 
@@ -104,6 +103,9 @@ The final paragraph is only present on the original LP version.
 |[[Marc Almond]]  (as “Raoul Revere”) | Guitar ([[Restless Day]]) |
 |[[Alex Fergusson]] | Guitar ([[Tenderness of Wolves]]) |
 
-## Sources
+## References
 
-[1^]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>
+[Entry at Brainwashed](<http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>)
+
+[^1]: c.f. *Live Coil Archive - Scatology Sessions* booklet, p.1
+[^2]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>>

@@ -1,5 +1,7 @@
 ---
-title: How To Destroy Angels
+title: "How To Destroy Angels"
+aliases:
+  - ""
 Type: Release
 SubType: Single
 Date: 1984-01-01
@@ -9,7 +11,7 @@ banner:
 sticker: lucide//disc
 color: "#3867d6"
 Page created: 2023-10-17
-Page modified: 2023-10-31
+Page modified: 2023-11-12
 ---
 
 # How To Destroy Angels
@@ -37,6 +39,7 @@ A few different versions of the vinyl single exist, but most changes only affect
 Notably, the first pressing of the single is said to have been shipped with a black&white poster in A3 size; however, this poster does not appear to have been documented. [^1]
 
 #### Tracklist
+
 1. [[Songs/How to Destroy Angels|How to Destroy Angels]]
 2. [[Absolute Elsewhere]]
 
@@ -47,4 +50,5 @@ Notably, the first pressing of the single is said to have been shipped with a bl
 |  |  |
 
 ## References
+
 [^1]: <http://brainwashed.com/common/htdocs/discog/lay05.php?site=coil08>

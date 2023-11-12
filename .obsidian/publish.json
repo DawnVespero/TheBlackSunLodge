@@ -11,6 +11,8 @@
     "_assets"
   ],
   "excluded": [
-    "_templates"
+    "_templates",
+    "-notebook",
+    "_assets/-notebook Attachments"
   ]
 }

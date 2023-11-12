@@ -8,13 +8,13 @@ Derivative: ""
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on:
-- [[Scatology]]
-- [[Scatology (1988 CD Version)]]
+  - - - Scatology
+  - - - Scatology (1988 CD Version)
 Interpolated in: ""
 Interpolates: "[[Songs/How to Destroy Angels|How to Destroy Angels]]"
 Next Version: ""
-Page created: 2023-11-07
-Page modified: 2023-11-10
+Page created: 2023-10-05
+Page modified: 2023-11-11
 Previous Version: ""
 ---
 
@@ -63,6 +63,8 @@ The remainder of the story:
 |||
 
 ## References
+
+# The Sewage Worker’s Birthday Party
 
 [^1]: <https://i.discogs.com/l-cjmCGaM6gBtwYVncGNFxUEAQrfQkdd5f2JDLdP7uE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzYtMTM5OTQwNjA5/NS03MDE4LmpwZWc.jpeg>
 [^2]: See *Phil Barrington: The Golden Age of Bloodsports*, p. 51 (<https://issuu.com/barringtonarts/docs/goldenage_bloodsports/51>)

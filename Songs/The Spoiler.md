@@ -1,6 +1,7 @@
 ---
 title: "The Spoiler"
-aliases: '[""]'
+aliases:
+  - '[""]'
 Type: Song
 Original: ""
 Derivative: ""
@@ -13,7 +14,7 @@ Interpolated in: ""
 Interpolates: ""
 Next Version: ""
 Page created: 2023-10-31
-Page modified: 2023-11-10
+Page modified: 2023-11-11
 Previous Version: ""
 ---
 

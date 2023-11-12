@@ -1,20 +1,20 @@
 ---
-title: Ubu Noir
-aliases: 
+title: "Ubu Noir"
+aliases: "[]"
 Type: Song
-Original: 
-Derivative: 
+Original: ""
+Derivative: ""
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on:
 - [[Scatology]]
 - [[Scatology (1988 CD Version)]]
-Interpolated in: 
-Interpolates: 
-Next Version: 
+Interpolated in: ""
+Interpolates: ""
+Next Version: ""
 Page created: 2023-10-31
-Page modified: 2023-11-10
-Previous Version: 
+Page modified: 2023-11-11
+Previous Version: ""
 ---
 
 # Ubu Noir
@@ -39,6 +39,7 @@ From the liner notes:
 > *UBU NOIR - the Black King. Four sounds, sampled and sequenced on a Fairlight CMI. The title is a transmutation of* “[Ubu Roi](https://en.wikipedia.org/wiki/Ubu_Roi)”*, an Absurdist play by Alfred Jarry (1873–1907) “…(Not finding the suitcase, he takes his conscience by the feet, opens the door of the lavatory recess at the end of the room, and shoves him head first down the drain.)”* [^1]
 
 ## Lyrics
+
 > [Instrumental]
 
 ## Versions
@@ -51,4 +52,5 @@ From the liner notes:
 |||
 
 ## References
+
 [^1]: <https://i.discogs.com/3Ry56qJSY7arcOD2D9AT9OI4Gm7UIPP7gD_2lw9eQPI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzYtMTM5OTQwNjA5/NC03NzQ2LmpwZWc.jpeg>

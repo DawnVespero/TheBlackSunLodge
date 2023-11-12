@@ -1,20 +1,20 @@
 ---
-title: Panic
-aliases: []
+title: "Panic"
+aliases: "[]"
 Type: Song
-Original: 
-Derivative: 
+Original: ""
+Derivative: ""
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on:
   - "[[Scatology]]"
   - "[[Scatology (1988 CD Version)]]"
-Interpolated in: 
-Interpolates: 
-Next Version: 
+Interpolated in: ""
+Interpolates: ""
+Next Version: ""
 Page created: 2023-10-31
-Page modified: 2023-11-10
-Previous Version: 
+Page modified: 2023-11-11
+Previous Version: ""
 ---
 
 # Panic
