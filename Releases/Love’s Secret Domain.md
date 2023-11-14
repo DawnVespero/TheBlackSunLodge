@@ -1,19 +1,21 @@
 ---
 title: Love’s Secret Domain
-aliases: 
-Type: Release  
-SubType: Studio Album
-Date: 1991-07-01 
+aliases:
+  - The Dark Age of Love
+Type: Release
+SubType:
+  - Studio Album
+Date: 1991-07-01
 Legitimacy: Official
 Original: 
 Derivative:
-- [[Love's Secret Domain (CD Version)]]
-- [[Love's Secret Domain (30th Anniversary Edition)]]
+  - - - Love's Secret Domain (CD Version)
+  - - - Love's Secret Domain (30th Anniversary Edition)
 sticker: lucide//disc
 color: "#3867d6"
 Label:
-- [[Torso]]
-- [[Wax Trax!]]
+  - - - Torso
+  - - - Wax Trax!
 Page created: 2023-10-31
 Page modified: 2023-11-07
 ---

@@ -21,7 +21,7 @@ Interpolates:
 Next Version:
   - ""
 Page created: 2023-10-05
-Page modified: 2023-11-12
+Page modified: 2023-11-14
 Previous Version:
   - ""
 ---
@@ -42,7 +42,7 @@ Previous Version:
 
 ---
 
-*__The First Five Minutes After Death__* is a song originally released on Coil’s 1987 album [[Horse Rotorvator]].
+*__The First Five Minutes After Death__* is a song originally released on Coil’s 1987 album [[Horse Rotorvator]]. The liner notes for the remix “[[The First Five Minutes After Violent Death]]” imply that this song specifically seeks to depict the death of [[Pier Paolo Pasolini]] from the perspective of his assailants.
 
 ## Lyrics
 

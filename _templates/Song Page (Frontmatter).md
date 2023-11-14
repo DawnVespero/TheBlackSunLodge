@@ -1,6 +1,8 @@
 ---
 title: ""
 Type: Song
+description:
+cover:
 Featured on: 
 - ""
 Original: ""

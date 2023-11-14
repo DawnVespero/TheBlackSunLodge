@@ -1,7 +1,11 @@
 ---
+title: "Hellraiser"
+aliases: ""
 Type: Song
-Contained in Release:
-  - "[[Gold is the Metal (CD Version)]]"
-color: "#eb3b5a"
 sticker: lucide//music
+color: "#eb3b5a"
+Page created: 2023-10-05
+Page modified: 2023-11-14
 ---
+
+# Hellraiser

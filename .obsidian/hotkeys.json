@@ -177,5 +177,13 @@
       ],
       "key": "B"
     }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
   ]
 }

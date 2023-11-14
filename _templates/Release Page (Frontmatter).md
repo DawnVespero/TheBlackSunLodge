@@ -1,5 +1,7 @@
 ---
 title: 
+description:
+cover:
 Type: Release  
 SubType: 
 Legitimacy: 

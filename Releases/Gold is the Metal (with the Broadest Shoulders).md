@@ -1,18 +1,19 @@
 ---
-title: Gold is the Metal (With the Broadest Shoulders)
-aliases: [Gold is the Metal (With the Broadest Shoulders)]
+title: "Gold is the Metal (With the Broadest Shoulders)"
+aliases:
+  - Gold is the Metal (With the Broadest Shoulders)
 Type: Release  
 SubType: Studio Album 
 Date: 1987-01-01
 Legitimacy: Official
-Original: 
-Derivative: [[Gold is the Metal (CD Version)]]
+Original: ""
+Derivative: "[[Gold is the Metal (CD Version)]]"
 sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
 linter-yaml-title-alias: Gold is the Metal (With the Broadest Shoulders)
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2023-11-14
 ---
 
 # Gold is the Metal (With the Broadest Shoulders)
@@ -85,12 +86,11 @@ Page modified: 2023-11-02
 
 ### Versions
 
-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- *Suspendisse potenti.*
-- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+- __Original LP release__: Like previous Coil albums, *Gold is the Metal* was initially only released on vinyl record. An unknown number of the first copies were shipped with the “[[The Wheel ∕ The Wheal ∕ Keelhauler|The Wheel]]” single.
+- __[[Gold is the Metal (CD Version)|1988 CD version]]__: The CD release of the album added the bonus tracks “[[Hellraiser]]” and “[[The Wheal]]”
 
 #### Tracklist
+
 1. [[Last Rites of Spring]]
 2. [[Paradisiac]]
 3. [[Thump]]
@@ -114,4 +114,6 @@ Page modified: 2023-11-02
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:
+## References
+
+[Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/loci1.php?site=coil08)

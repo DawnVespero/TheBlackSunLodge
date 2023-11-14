@@ -1,5 +1,7 @@
 ---
 title:
+cover:
+description:
 aliases:
 - 
 Type: Person

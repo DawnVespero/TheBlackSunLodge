@@ -9,31 +9,44 @@ Date: 1984-01-01
 Legitimacy: Official
 Derivative:
   - "[[Scatology (1988 CD Version)]]"
-banner:
-  - _assets/Scatology (1984 Vinyl) Cover.jpg
 sticker: lucide//disc
 color: "#3867d6"
 Alternate Version: "[[Scatology Sessions]]"
-banner_y: 0.04
+cover: '"_assets/releases/Scatology (1984 Vinyl) Cover.jpg"'
+description: 1985 studio album by Coil
+Label:
+  - "[[Some Bizzare Records]]"
 Page created: 2023-10-05
-Page modified: 2023-11-12
+Page modified: 2023-11-14
 ---
 
 # Scatology
 
 ![[Scatology (1984 Vinyl) Cover.jpg|700]]
 
-*__Scatology__* is the debut studio album by Coil, originally released in 1984 by [[Some Bizzare Records]] under the sub-label K.422. Like all Coil releases up to and including [[Horse Rotorvator]], it was attributed to the Coil-specific vanity label [[Force & Form]].
+|  |  |
+| --- | --- |
+| __Title__: | Scatology |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1985-02-?? |
+| __Label:__ | [[Some Bizzare Records]] |
+| __Original__: |  |
+| __Derivative__: | [[Scatology (1988 CD Version)]] |
+
+---
+
+*__Scatology__* is the debut studio album by Coil, originally released in February 1985[^1] by [[Some Bizzare Records]] under the sub-label K.422. Like all Coil releases up to and including [[Horse Rotorvator]], it was attributed to the Coil-specific vanity label [[Force & Form]].
 
 ## Background
 
 Although previous songs under the Coil name had been published on the album [[Transparent]], these were created almost entirely without input from [[Peter Christopherson]], unlike most Coil material. While Christopherson provided live mixing for the live portion of the album and performed on the live track [[Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983)|Silence & Secrecy]], the majority of the initial material created under the Coil name was written entirely by [[Jhonn Balance]].
 
-The first recordings by Coil as a duo occurred in February 1984, at Britannia Row Studios in London. Two songs were recorded during this session: [[Songs/How to Destroy Angels|How to Destroy Angels]], released as a single in 1984, and [[The Sewage Worker’s Birthday Party]], which incorporated samples from the former song and would eventually see release on what would become Scatology. [^1]
+The first recordings by Coil as a duo occurred in February 1984, at Britannia Row Studios in London. Two songs were recorded during this session: [[Songs/How to Destroy Angels|How to Destroy Angels]], released as a single in 1984, and [[The Sewage Worker’s Birthday Party]], which incorporated samples from the former song and would eventually see release on what would become Scatology. [^2]
 
 ## Recording
 
-Recording sessions for *The Sewage Worker’s Birthday Party* took place at Britannia Row Studios in February 1984. Additional recording sessions for the album took place over the course of 1984 at Wave Studios and Aosis Studios.[^1]
+Recording sessions for *The Sewage Worker’s Birthday Party* took place at Britannia Row Studios in February 1984. Additional recording sessions for the album took place over the course of 1984 at Wave Studios and Aosis Studios.[^2]
 
 Additional recordings from the sessions for the album can be found on the [[Live Coil Archive]]‘s [[Scatology Sessions]] bootleg.
 
@@ -41,7 +54,7 @@ Additional recordings from the sessions for the album can be found on the [[Live
 
 The album, originally known under the title *__Poisons__*, was initially planned for release under [[Jhonn Balance]]‘s existing label __Hearsay and Heresy__, which had already released the compilation cassette __Bethel__, but instead, it ended up being attributed as the first release of the new Coil-specific vanity label [[Force & Form]].
 
-Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^2]
+Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^3]
 
 The release of the album was followed by a single for [[Panic ∕ Tainted Love|Panic]], backed with a cover of [[Tainted Love]].
 
@@ -110,5 +123,6 @@ The final paragraph is only present on the original LP version.
 
 [Entry at Brainwashed](<http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>)
 
-[^1]: c.f. *Live Coil Archive - Scatology Sessions* booklet, p.1
-[^2]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>>
+[^1]: c.f. *Live Coil Archive - Scatology Sessions* booklet, p. 2
+[^2]: c.f. *Live Coil Archive - Scatology Sessions* booklet, p.1
+[^3]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>>
