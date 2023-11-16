@@ -13,7 +13,7 @@
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
-      "pin": true,
+      "pin": false,
       "commands": [
         "workspace:close-others"
       ],

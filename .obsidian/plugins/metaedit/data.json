@@ -1,0 +1,62 @@
+{
+  "ProgressProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "IgnoredProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "SubType",
+        "choices": [
+          "Studio Album",
+          "Single ∕ EP",
+          "Compilation",
+          "Live Album"
+        ]
+      },
+      {
+        "name": "Legitimacy",
+        "choices": [
+          "Official",
+          "Semi-Official",
+          "Unofficial"
+        ]
+      },
+      {
+        "name": "Type",
+        "choices": [
+          "Release",
+          "Song",
+          "Person",
+          "Live Performance",
+          "Label",
+          "Other"
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "Some Multi",
+    "properties": [
+      "Featured on",
+      "Original",
+      "Derivative",
+      "Previous Version",
+      "Next Version",
+      "Interpolated in",
+      "Interpolates"
+    ]
+  },
+  "KanbanHelper": {
+    "enabled": false,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": true
+  }
+}

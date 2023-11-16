@@ -1,26 +1,34 @@
 ---
-title: Thighpaulsandra
-aliases: [Timothy Lewis]
+title: "Thighpaulsandra"
+aliases:
+  - Timothy Lewis
 Type: 
 sticker: lucide//user
 color: "#20bf6b"
 Born: 
 Died: 
 Page created: 2023-10-05
-Page modified: 2023-10-29
+Page modified: 2023-11-15
 ---
 
 # Thighpaulsandra
 
-![[Thighpaulsandra (In Concert) - Photo.jpg]]
+![[Thighpaulsandra (1998) - Photo.jpg|300]] ![[Thighpaulsandra (In Concert) - Photo.jpg|300]]  
+*Left: Thighpaulsandra performing with Spiritualized in 1998; Right: Performing with Coil in 2004*
 
 |  |  |
 | --- | --- |
 | __Name__: | Thighpaulsandra |
 | __Also known as__: | Timothy Lewis |
-| __Born__: | null |
-| Died: | null |
+| __Born__: | ????-??-?? |
+| __Died:__ |  |
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*__Timothy Lewis__*, known professionally as __thighpaulsandra__, is a Welsh musician and one-time member of Coil.
+
+## Work with Coil
+
+-
+
+## References

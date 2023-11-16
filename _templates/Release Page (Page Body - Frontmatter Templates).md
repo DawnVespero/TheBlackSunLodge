@@ -26,6 +26,7 @@
 
 *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
+%%
 ## Recording
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
@@ -35,7 +36,9 @@
 *Suspendisse potenti.*
 
 *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+%%
 
+%%
 ## Release
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
@@ -45,7 +48,9 @@
 *Suspendisse potenti.*
 
 *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+%%
 
+%%
 ### Artwork
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
@@ -55,7 +60,9 @@
 *Suspendisse potenti.*
 
 *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+%%
 
+%%
 ### Packaging
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
@@ -65,6 +72,7 @@
 *Suspendisse potenti.*
 
 *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+%%
 
 ### Versions
 
@@ -86,4 +94,4 @@
 
 ## References
 [Entry at Brainwashed]()
-[^1]:
+%% [^1]: %%

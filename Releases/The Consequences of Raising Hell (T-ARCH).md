@@ -1,21 +1,35 @@
 ---
+title: The Consequences of Raising Hell
+description: 
+cover: 
 Type: Release
-Sub-Type: Compilation
+SubType:
+  - Compilation
 Legitimacy: Semi-Official
-Date: 2015-01-01
+Date: 
+Label:
+  - "[[Threshold Archives]]"
 Original:
-  - "[[Releases/The Unreleased Themes For Hellraiser.md]]"
-  - "[[Unnatural History Ⅱ]]"
-color: "#3867d6"
+  - "[[The Unreleased Themes For Hellraiser]]"
+Derivative: 
 sticker: lucide//disc
-title: The Consequences of Raising Hell (T-ARCH)
-Page created: 2023-10-17
-Page modified: 2023-10-24
-banner: _assets/The Consequences of Raising Hell (T-ARCH) - Cover.jpg
-Derivative: "[[Releases/Gold is the Metal (with the Broadest Shoulders).md]]"
+color: "#3867d6"
 ---
-# The Consequences of Raising Hell (T-ARCH)
-*__[RELEASE NAME]__* is a [SUB-TYPE] by Coil, released in [YEAR] by [LABEL]. [ADDITIONAL INTRODUCTION NOTES].
+
+# The Consequences of Raising Hell
+![[The Consequences of Raising Hell (T-ARCH) - Cover.jpg|700]]
+
+|  |  |
+| --- | --- |
+| **Title**: | The Consequences of Raising Hell |
+| **Type**: | Compilation |
+| **Legitimacy**: | Semi-Official |
+| **Release date:** |  |
+| **Label:** | [[Threshold Archives]] |
+| **Original**: | [[The Unreleased Themes For Hellraiser]] |
+| **Derivative**: |  |
+
+---
 
 # Background
 

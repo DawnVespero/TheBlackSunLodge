@@ -1,6 +1,7 @@
 ---
 title: "The First Five Minutes After Violent Death"
-aliases: ""
+aliases:
+  - ""
 Type: Song
 Original:
   - ""

@@ -2,7 +2,7 @@
   "ruleConfigs": {
     "escape-yaml-special-characters": {
       "enabled": true,
-      "try-to-escape-single-line-arrays": false
+      "try-to-escape-single-line-arrays": true
     },
     "force-yaml-escape": {
       "enabled": true,

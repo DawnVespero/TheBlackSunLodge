@@ -1,10 +1,12 @@
 ---
-title: Threshold Archives
+title: "Threshold Archives"
+aliases:
+  - T-ARCH
 Type: Label
 sticker: lucide//building-2
 color: "#0fb9b1"
 Page created: 2023-10-05
-Page modified: 2023-11-03
+Page modified: 2023-11-15
 ---
 
 # Threshold Archives
@@ -41,22 +43,23 @@ Alongside this, there was a preliminary list of the releases that were intended 
 - *BATHS13* - [[Releases/Protection|Protection]]
 - *BATHS14* - [[pHILM ＃1]]
 - *BATHS15* - [[Heartworms]]
-- *BATHS16* - [[Spring Equinox — Moon’s Milk or Under An Unquiet Skull]]
+- *BATHS16* - [[Labels/Spring Equinox — Moon’s Milk or Under An Unquiet Skull]]
 - *BATHS17* - [[Summer Solstice — Bee Stings]]
 - *BATHS18* - [[Autumn Equinox — Amethyst Deceivers]]
 - *BATHS19* - [[Winter Solstice]]
 - *BATHS20* - [[Releases/Zwölf|Zwolf]]
 - *BATHS21* - [[Releases/I Don’t Want To Be The One|I Don’t Want To Be The One]]
-- *BATHS22* - [[Releases/Moon’s Milk In Four Phases (Bonus Disk)|Moon’s Milk Bonus]]
+- *BATHS22* - [[Moon’s Milk in Four Phases (Bonus Disk)]]
 - *BATHS23* - [[The Restitution of Decayed Intelligence]]
 
-When the first releases from Threshold Archives were published on October 9th, 2015, none of the releases that were said to have been worked on were included, while those that were included came entirely from the releases that were not previously known to have bben worked on.
+When the first releases from Threshold Archives were published on October 9th, 2015, none of the releases that were said to have been worked on were included, while those that were included came entirely from the releases that were not previously known to have been worked on.
 
 A second series of releases was published on May 15th, 2019.[^2]
 
 ## Published Releases
 
 ### Series 1
+
 - *T-ARCH 004CD* - [[The Angelic Conversation (Instrumental)]]
 - *T-ARCH 005CD* -[[Panic (T-ARCH)|Panic]]
 - *T-ARCH 006CD* -[[The Wheel (T-ARCH)|The Wheel]]
@@ -67,6 +70,7 @@ A second series of releases was published on May 15th, 2019.[^2]
 - *T-ARCH 011CD* -[[The Snow (T-ARCH)|The Snow]]
 
 ### Series 2
+
 - *T-ARCH 012CD* -[[Airborne Bells (T-ARCH)]]
 - *T-ARCH 013CD* -[[The Sound Of Musick]]
 - *T-ARCH 0014CD* -[[First Dark Ride (T-ARCH)]]

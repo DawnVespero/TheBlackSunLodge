@@ -3,7 +3,8 @@ title: "Tainted Love"
 aliases:
   - ""
 Type: Song
-Original: ""
+Original:
+  - ""
 Derivative:
   - "[[Tainted Love (Sleazy Vocal)]]"
 sticker: lucide//music
@@ -11,11 +12,14 @@ color: "#eb3b5a"
 Featured on:
   - "[[Scatology (1988 CD Version)]]"
 Interpolated in: ""
-Interpolates: ""
-Next Version: ""
+Interpolates:
+  - ""
+Next Version:
+  - ""
 Page created: 2023-10-29
-Page modified: 2023-11-11
-Previous Version: ""
+Page modified: 2023-11-15
+Previous Version:
+  - ""
 ---
 
 # Tainted Love
@@ -33,7 +37,7 @@ Previous Version: ""
 
 ---
 
-*__Tainted Love__* is a song originally released on Coil’s 1985 single [[Panic ∕ Tainted Love]]. It is a cover of a song originally written by Ed Cobb and released by Gloria Jones in 1964.[^1]
+*__Tainted Love__* is a song originally released by Coil on the 1985 single [[Panic ∕ Tainted Love]]. It is a cover of a song originally written by Ed Cobb and released by Gloria Jones in 1964.[^1]
 
 Coil’s choice to cover the songs was likely inspired by the cover version released in 1981 by Soft Cell, whose lead singer, [[Marc Almond]], was a known associate of the band and would collaborate with them numerous times. Further strengthening this link, Coil also recorded a cover of the Soft Cell song *[[Meet Murder My Angel]]* , though it would not be released until the publication of the 2015 re-release of the [[Wrong Eye (T-ARCH)|Scope / Wrong Eye]].
 

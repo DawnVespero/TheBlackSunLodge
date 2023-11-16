@@ -1,6 +1,7 @@
 ---
 title: "Restless Day"
-aliases: "[]"
+aliases:
+  - "[]"
 Type: Song
 Original:
   - ""
@@ -19,7 +20,7 @@ Interpolates:
 Next Version:
   - ""
 Page created: 2023-10-18
-Page modified: 2023-11-12
+Page modified: 2023-11-15
 Previous Version:
   - ""
 tags: ["Compilation_Track"]

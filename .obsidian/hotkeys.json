@@ -185,5 +185,14 @@
       ],
       "key": "Tab"
     }
+  ],
+  "metaedit:metaEditRun": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }

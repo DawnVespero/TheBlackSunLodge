@@ -100,7 +100,7 @@ timeline
     'theme': 'base' , 
     'themeVariables': 
     { 
-      'fontFamily': 'Cormorant Garamond Medium',
+      'fontFamily': 'ColdstyleSC',
       'cScale0': '#483C32', 
       'cScaleLabel0': '#FCF6E8'
      } 
