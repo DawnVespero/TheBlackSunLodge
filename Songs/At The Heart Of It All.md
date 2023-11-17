@@ -36,7 +36,7 @@ Previous Version:
 
 *__At The Heart Of It All__* is a song originally released on Coil's 1984 album [[Scatology]].
 From the liner notes:
-> *AT THE HEART OF IT ALL — Concerning [[Silence & Secrecy|Silence and Secrecy]]. An improvisation by [[Jhonn Balance|JB]] (Yamaha DX7) [[Peter Christopherson|PC]] and [[Stephen Thrower|Stephen E Thrower]] (clarinet) at Aosis Studios. Overdubs of Emulator were added by [[J.G. Thirlwell|Clint Ruin]] and PC. “The final mystery is always insoluble”*
+> *AT THE HEART OF IT ALL — Concerning [[Silence & Secrecy|Silence and Secrecy]]. An improvisation by [[Jhonn Balance|JB]] (Yamaha DX7) [[Peter Christopherson|PC]] and [[Stephen Thrower|Stephen E Thrower]] (clarinet) at Aosis Studios. Overdubs of Emulator were added by [[Songs/J.G. Thirlwell|Clint Ruin]] and PC. “The final mystery is always insoluble”*
 ## Lyrics
 
 ## Versions

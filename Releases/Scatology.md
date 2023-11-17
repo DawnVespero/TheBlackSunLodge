@@ -112,7 +112,7 @@ The final paragraph is only present on the original LP version.
 |---|---|
 |[[Peter Christopherson]] | Writer, Performer (All Songs) |
 |[[Jhonn Balance]] | Writer, Performer (All Songs) |
-|[[J.G. Thirlwell]] | Producer, Additional Sampling ([[Panic]]), Overdubs ([[At The Heart Of It All]]) |
+|[[Songs/J.G. Thirlwell]] | Producer, Additional Sampling ([[Panic]]), Overdubs ([[At The Heart Of It All]]) |
 |[[Warne Livesey]] | Engineering |
 |[[Gavin Friday]] | Vocals ([[Tenderness of Wolves]]) |
 |[[Stephen Thrower]] | Clarinet ([[At The Heart Of It All]], [[Solar Lodge]]) |

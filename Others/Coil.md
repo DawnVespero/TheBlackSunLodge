@@ -1,11 +1,11 @@
 ---
-title: Coil
-aliases: []
+title: "Coil"
+aliases: "[]"
 Type: 
 sticker: lucide//book-copy
 color: "#8854d0"
 Page created: 2023-10-18
-Page modified: 2023-11-08
+Page modified: 2023-11-16
 ---
 
 # Coil
@@ -311,7 +311,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Zos Kia
 
-__Zos Kia__ was a musical project led by [[John Gosling]], and consisting of Gosling, [[Jhonn Balance|John Balance]] and Min Kent, with [[Peter Christopherson]] assisting as Mixing Engineer for their concert at [[1983-12-03 — Atonal Festival Ⅲ|Atonal Festival III]]. This concert was one of the first performances by Coil and would produce the first release credited to them, [[Transparent]]. Balance and Christopherson left the project some time shortly after this performance to focus on Coil.[^GoslingBio] In spite of this, Gosling would continue the project under his direction for a few more years, releasing the two singles *Rape* in 1984 and *Be Like Me* in 1985.[^ZKDiscog] A complete compilation of the recordings released by the project would be published by [[Infinite Fog Production]] in 2017 as *23*.[^ZK23]
+__Zos Kia__ was a musical project led by [[John Gosling]], and consisting of Gosling, [[Jhonn Balance|John Balance]] and Min Kent, with [[Peter Christopherson]] assisting as Mixing Engineer for their concert at [[1983-12-03 — Atonal Festival Ⅲ|Atonal Festival III]]. This concert was one of the first performances by Coil and would produce the first release credited to them, [[Transparent]]. Balance and Christopherson left the project some time shortly after this performance to focus on Coil.[^1] In spite of this, Gosling would continue the project under his direction for a few more years, releasing the two singles *Rape* in 1984 and *Be Like Me* in 1985.[^2] A complete compilation of the recordings released by the project would be published by [[Infinite Fog Production]] in 2017 as *23*.[^3]
 
 ### ELpH
 
@@ -321,9 +321,8 @@ __Zos Kia__ was a musical project led by [[John Gosling]], and consisting of Gos
 
 ### Rosa Mundi
 
-
 ## References
 
-[^GoslingBio]: <https://www.brainwashed.com/common/htdocs/biog/goslingj.php>
-[^ZKDiscog]: <https://www.discogs.com/artist/80028-Zos-Kia>
-[^ZK23]: <https://infinitefog.ru/shop/cd/zos-kia-23-2cd-digibook.html>
+[^1]: <https://www.brainwashed.com/common/htdocs/biog/goslingj.php>
+[^2]: <https://www.discogs.com/artist/80028-Zos-Kia>
+[^3]: <https://infinitefog.ru/shop/cd/zos-kia-23-2cd-digibook.html>

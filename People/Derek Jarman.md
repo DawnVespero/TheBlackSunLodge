@@ -1,12 +1,13 @@
 ---
-title: Derek Jarman
+title: "Derek Jarman"
+aliases: ""
 Type: 
 sticker: lucide//user
 color: "#20bf6b"
 Born: 1942-01-31
 Died: 1994-02-19
 Page created: 2023-10-30
-Page modified: 2023-10-30
+Page modified: 2023-11-16
 ---
 
 # Derek Jarman
@@ -28,9 +29,11 @@ Page modified: 2023-10-30
 In addition to his work with Coil, [[Peter Christopherson]], as a member of the band Throbbing Gristle, had also previously composed the soundtrack for Jarman’s short film *In the Shadow of the Sun*.[^1]
 
 ## Collaborations with Coil
+
 - [[The Angelic Conversation]]
 - [[Journey to Avebury]]
 - [[Themes For Derek Jarman’s Blue]]
 
 ## References
+
 [^1]: <http://brainwashed.com/common/htdocs/discog/tgcd9.php?site=tg08>

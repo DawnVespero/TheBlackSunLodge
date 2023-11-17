@@ -45,7 +45,7 @@ Previous Version:
 *__The Broken Wheel__* is a song originally released on Coil’s 1987 album [[Gold is the Metal (with the Broadest Shoulders)]].  
 From the liner notes:
 
-> These sections were recorded and mixed by Coil and [[J.G. Thirlwell|Jim Thirlwell]]. It was originally intended that a 12” extended version of this, our firstproper Coil song, should be released. This never happened, and eventually, a shorter, more compact version of [[The Wheel]] appeared on the obscure [[Some Bizzare Records|Some Bizzare]]/EMI compilation *If You Can’t Please Yourself, You Can’t Please Your Soul*, where it never received the attention we think it deserved. [^1]
+> These sections were recorded and mixed by Coil and [[Songs/J.G. Thirlwell|Jim Thirlwell]]. It was originally intended that a 12” extended version of this, our firstproper Coil song, should be released. This never happened, and eventually, a shorter, more compact version of [[The Wheel]] appeared on the obscure [[Some Bizzare Records|Some Bizzare]]/EMI compilation *If You Can’t Please Yourself, You Can’t Please Your Soul*, where it never received the attention we think it deserved. [^1]
 
 ## Lyrics
 

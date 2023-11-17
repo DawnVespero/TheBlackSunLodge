@@ -15,7 +15,7 @@ Label:
 - [[Some Bizzare Records]]
 - [[Force & Form]]
 Page created: 2023-10-05
-Page modified: 2023-11-12
+Page modified: 2023-11-16
 ---
 
 # Horse Rotorvator
@@ -54,7 +54,7 @@ The release of the album was preceded by the single [[Releases/The Anal Staircas
 
 ### Artwork
 
-The cover art of the original LP release of the album features a photograph of the bandstand at London’s [Hyde Park](https://en.wikipedia.org/wiki/Hyde_Park,_London). The location was likely chosen due to it having been the site of[an IRA attack in 1982](https://en.wikipedia.org/wiki/Hyde_Park_and_Regent%27s_Park_bombings) which killed, among others, seven bandsmen and seven horses. The location would also later be referenced through the track ‘[[Hydlepark]]’ on the 1995 album [[Worship The Glitch]].
+The cover art of the original LP release of the album features a photograph of the bandstand at London’s [Regent Park](https://en.wikipedia.org/wiki/Regent%27s_Park). The location was likely chosen due to it — along with nearby [Hyde Park](https://en.wikipedia.org/wiki/Hyde_Park,_London) — having been the site of [an IRA bombing in 1982](https://en.wikipedia.org/wiki/Hyde_Park_and_Regent%27s_Park_bombings) which killed, among others, seven bandsmen and seven horses. The latter location would also later be referenced through the track ‘[[Hydlepark]]’ on the 1995 album [[Worship The Glitch]].
 
 The later 1988 CD release features a fisheye lens photograph of the sculpture *[Physical Energy](https://en.wikipedia.org/wiki/Physical_Energy_(sculpture)#Casts)* by George Frederic Watts, located in London’s Kensington Gardens.
 
