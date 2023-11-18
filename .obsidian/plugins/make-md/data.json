@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "People",
+  "activeView": "/",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -54,8 +54,7 @@
     "spaces://$tags/spaces://#Compilation_Track",
     "//-notebook",
     "//-notebook",
-    "//_assets/_assets/releases",
-    "//Releases"
+    "//_assets/_assets/releases"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -14,8 +14,8 @@ Derivative:
   - "[[The Consequences of Raising Hell (T-ARCH)]]"
 sticker: lucide//disc
 color: "#3867d6"
-cover: 
-description: 
+cover: '"_assets/releases/The Consequences of Raising Hell (T-ARCH) - Cover.jpg"'
+description: 1988 score album by Coil
 Label:
   - "[[Solar Lodge Records], Soleilmoon]"
 Page created: 2023-10-05
@@ -61,26 +61,6 @@ The final release ended up merging these two projects: The initial *R&D Group 28
 Additional tracks from the scoring sessions were later released on the compilation [[Unnatural History Ⅱ|Unnatural History II]].
 
 An [[The Consequences of Raising Hell (T-ARCH)|expanded version]] of this released was published by [[Threshold Archives]] in 2015.
-
-### Artwork
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Packaging
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
 ### Versions
 
