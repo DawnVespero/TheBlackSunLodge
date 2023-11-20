@@ -1,11 +1,12 @@
 ---
-title: Live-only Songs
-aliases: []
+title: "Live-only Songs"
+aliases:
+  - "[]"
 Type: 
 sticker: lucide//book-copy
 color: "#8854d0"
 Page created: 2023-11-08
-Page modified: 2023-11-08
+Page modified: 2023-11-19
 ---
 
 # Live-only Songs
@@ -24,7 +25,6 @@ In the course of their live performances, Coil have performed several songs that
 
 ### [[Truth]]
 
-
 ## “Time Machines from the Heart of Darkness”-era
 
 ### [[Everything Keeps Dissolving]]
@@ -35,13 +35,11 @@ In the course of their live performances, Coil have performed several songs that
 
 ### [[The Universe is a Haunted House (Sónar Festival)]]
 
-
 ## “Constant Shallowness Leads to Evil”-era
 
 ### [[Songs/Constant Shallowness Leads to Evil|Constant Shallowness Leads to Evil (Song)]]
 
 ### [[What Kind of Animal Are You?]]
-
 
 ## “Anarcadia”-era
 
@@ -51,7 +49,6 @@ In the course of their live performances, Coil have performed several songs that
 
 ### [[An Unearthly Red]]
 
-
 ### “Live Four”-era
 
 ## [[Ostia (Massimo’s Version)]]
@@ -59,7 +56,6 @@ In the course of their live performances, Coil have performed several songs that
 ### [[I am Angie Bowie (Sine Waves)]]
 
 ## [[Bang Bang]]
-
 
 ## Instrumental Era
 
@@ -70,7 +66,6 @@ In the course of their live performances, Coil have performed several songs that
 ### [[Triple Sons and The Ones You Bury]]
 
 ### [[The Dreamer is Still Asleep (The Somnambulist in an Ambulance)]]
-
 
 ## “Even An Evil Fatigue”-era
 

@@ -1,38 +1,52 @@
 {
   "collapse-filter": true,
-  "search": "path:-( _templates  _assets)",
+  "search": "path:-( _templates  _assets -Notebook)",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[type:Song]",
+      "query": "path:Songs",
       "color": {
         "a": 1,
         "rgb": 14241569
       }
     },
     {
-      "query": "[type:Release]",
+      "query": "path:Releases",
       "color": {
         "a": 1,
         "rgb": 6189695
       }
     },
     {
-      "query": "[\"type\":Person]",
+      "query": "path:People",
       "color": {
         "a": 1,
         "rgb": 9545348
       }
     },
     {
-      "query": "[type:\"Live Performance\"]",
+      "query": "path:Live Performance",
       "color": {
         "a": 1,
-        "rgb": 12307537
+        "rgb": 13489500
+      }
+    },
+    {
+      "query": "path:Labels  ",
+      "color": {
+        "a": 1,
+        "rgb": 34938
+      }
+    },
+    {
+      "query": "path:Others  ",
+      "color": {
+        "a": 1,
+        "rgb": 5068973
       }
     }
   ],
@@ -42,10 +56,10 @@
   "nodeSizeMultiplier": 3.10322580645161,
   "lineSizeMultiplier": 0.547849462365591,
   "collapse-forces": true,
-  "centerStrength": 0.236559139784946,
-  "repelStrength": 13.9784946236559,
-  "linkStrength": 1,
+  "centerStrength": 0.0483870967741936,
+  "repelStrength": 15.1612903225806,
+  "linkStrength": 0.548387096774194,
   "linkDistance": 500,
-  "scale": 0.9964424150449654,
+  "scale": 0.028936592657641817,
   "close": true
 }

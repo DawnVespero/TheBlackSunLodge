@@ -17,7 +17,7 @@ description: 1985 studio album by Coil
 Label:
   - "[[Some Bizzare Records]]"
 Page created: 2023-10-05
-Page modified: 2023-11-14
+Page modified: 2023-11-19
 ---
 
 # Scatology
@@ -48,13 +48,15 @@ The first recordings by Coil as a duo occurred in February 1984, at Britannia Ro
 
 Recording sessions for *The Sewage Worker’s Birthday Party* took place at Britannia Row Studios in February 1984. Additional recording sessions for the album took place over the course of 1984 at Wave Studios and Aosis Studios.[^2]
 
+In a 1983 interview with *Grok*, [[Jhonn Balance]] discussed a number of song titles that did not end up appearing on the final album: *The Day and Night of the Body*, *Assuming the Posture of Death*, and *Thermid’or*. [^3] It is unknown whether these were working titles for songs that did end up on *Scatology*, or completely different songs.
+
 Additional recordings from the sessions for the album can be found on the [[Live Coil Archive]]‘s [[Scatology Sessions]] bootleg.
 
 ## Release
 
 The album, originally known under the title *__Poisons__*, was initially planned for release under [[Jhonn Balance]]‘s existing label __Hearsay and Heresy__, which had already released the compilation cassette __Bethel__, but instead, it ended up being attributed as the first release of the new Coil-specific vanity label [[Force & Form]].
 
-Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^3]
+Two versions of the album are known to have been planned but left unrealized: A ‘skidmark’ color vinyl, and a version with an additional unspecified 7” record from German Label __Record Vox__.[^4]
 
 The release of the album was followed by a single for [[Panic ∕ Tainted Love|Panic]], backed with a cover of [[Tainted Love]].
 
@@ -125,4 +127,5 @@ The final paragraph is only present on the original LP version.
 
 [^1]: c.f. *Live Coil Archive - Scatology Sessions* booklet, p. 2
 [^2]: c.f. *Live Coil Archive - Scatology Sessions* booklet, p.1
-[^3]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>>
+[^3]: <http://brainwashed.com/common/htdocs/publications/coil-1983-grok.php?site=coil08>
+[^4]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>>

@@ -11,7 +11,7 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:insert-wikilink",
-    "editor:insert-embed",
+    "insert-template",
     "editor:undo",
     "editor:redo"
   ],

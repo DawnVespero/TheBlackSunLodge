@@ -11,7 +11,7 @@ banner:
 sticker: lucide//disc
 color: "#3867d6"
 Page created: 2023-10-17
-Page modified: 2023-11-12
+Page modified: 2023-11-19
 ---
 
 # How To Destroy Angels
@@ -33,7 +33,7 @@ An album of remixes of the track would later be released in 1992 under the same 
 
 ## Background
 
-Originally, the debut single under the Coil name was intended to be [[Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983)|Silence&Secrecy]], a song performed at [[1983-08-04: Club Magenta, London, England|Coil’s first concert]] and previously released in excerpt on the live album [[Transparent]]. [[Songs/How to Destroy Angels|How to Destroy Angels]] was originally created to serve as the B-side to this single. However, this single was also intended to be released through Psychic TV’s Temple Records; due to [[Peter Christopherson]] and [[John Balance]] leaving Psychic TV in 1984, the band were presumably no longer willing to release the single.
+Originally, the debut single under the Coil name was intended to be [[Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983)|Silence&Secrecy]], a song performed at [[1983-08-04: Club Magenta, London, England|Coil’s first concert]] and previously released in excerpt on the live album [[Transparent]].[^1] [[Songs/How to Destroy Angels|How to Destroy Angels]] was originally created to serve as the B-side to this single. However, this single was also intended to be released through Psychic TV’s Temple Records; due to [[Peter Christopherson]] and [[John Balance]] leaving Psychic TV in 1984, the band were presumably no longer willing to release the single.
 
 ## Recording
 
@@ -75,3 +75,5 @@ The cover art for the single was visually simplistic and text-focused, a directi
 ## References
 
 [Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/lay05.php?site=coil08>)
+
+[^1]: <http://brainwashed.com/common/htdocs/publications/coil-1983-grok.php?site=coil08>

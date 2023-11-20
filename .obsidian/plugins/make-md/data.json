@@ -54,7 +54,8 @@
     "spaces://$tags/spaces://#Compilation_Track",
     "//-notebook",
     "//-notebook",
-    "//_assets/_assets/releases"
+    "//_assets/_assets/releases",
+    "//People"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -1,13 +1,18 @@
 ---
-title: Song Page (Frontmatter)
+title: "Constant Shallowness Leads to Evil"
+aliases: ""
 Type: Song
-Featured on: 
-Original: 
-Derivative: 
-Previous Version: 
-Next Version: 
-Interpolated in: 
-Interpolates: 
+Original: ""
+Derivative: ""
 sticker: lucide//music
 color: "#eb3b5a"
+Featured on: ""
+Interpolated in: ""
+Interpolates: ""
+Next Version: ""
+Page created: 2023-11-07
+Page modified: 2023-11-19
+Previous Version: ""
 ---
+
+# Constant Shallowness Leads to Evil
