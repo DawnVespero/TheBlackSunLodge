@@ -1,82 +1,45 @@
 ---
 title: "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"
-aliases: ["Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World", Unnatural History III, Unnatural History 3]
+aliases:
+  - "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"
+  - Unnatural History III
+  - Unnatural History 3
+  - UH3
 Type: Release
+SubType: Compilation
 Date: 1997-06-01
 Legitimacy: Official
-Original: 
-Derivative: 
-banner:
-  - _assets/Unnatural History Ⅲ - Cover.jpg
+Original: ""
+Derivative: ""
 sticker: lucide//disc
 color: "#3867d6"
-linter-yaml-title-alias: "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"
+cover:
+  - _assets/Unnatural History Ⅲ - Cover.jpg
+Label: [[Threshold House]]
 Page created: 2023-10-17
-Page modified: 2023-10-25
+Page modified: 2023-11-21
 ---
 
 # Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World
 
-*__Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World__* is a Compilation album by Coil, released in 1997 by [[Threshold House]]. [ADDITIONAL INTRODUCTION NOTES].
+![[Unnatural History Ⅲ - Cover.jpg|700]]
 
-## Background
+|  |  |
+| --- | --- |
+| __Title__: | Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World |
+| __Type__: | Compilation |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1997-06-?? |
+| __Label:__ | [[Threshold House]] |
+| __Original__: |  |
+| __Derivative__: |  |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+---
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+*__Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World__* is an official compilation album by Coil, released in June 1997 by [[Threshold House]]. The final entry in the “Unnatural History” series, it collects a number of rare and unreleased Coil recordings.
 
-Suspendisse potenti.
+## Tracklist
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Recording
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Release
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-### Artwork
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-### Packaging
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-### Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-#### Tracklist
 1. [[First Dark Ride]]
 2. [[Baby Food]]
 3. [[Music for Commercials]]
@@ -88,8 +51,12 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 9. [[Scope]]
 10. [[Lost Rivers of London]]
 
-## Personnel
+# Personnel
 
-![![_templates/#^Table]]
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:
+# References
+
+[Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/loci12.php?site=coil08)

@@ -245,13 +245,13 @@
   "foldersToIgnore": [
     "_templates"
   ],
-  "linterLocale": "en",
+  "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
-    "aliasArrayStyle": "multi-line",
-    "tagArrayStyle": "single-line",
+    "aliasArrayStyle": "single string to multi-line",
+    "tagArrayStyle": "single string to multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
     "removeUnnecessaryEscapeCharsForMultiLineArrays": true

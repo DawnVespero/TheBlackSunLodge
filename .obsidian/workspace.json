@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8431846aeafda05b",
+        "id": "ac237be98e13625b",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d91119410b9381",
+            "id": "a46ac0f3dd3ba2e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "Releases/Uncoiled.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Uncoiled.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Uncoiled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Uncoiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Uncoiled.md"
               }
             }
           },
@@ -204,36 +204,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4d91119410b9381",
+  "active": "a46ac0f3dd3ba2e4",
   "lastOpenFiles": [
+    "Songs/Gave Up (More Perc No Bass).md",
+    "Songs/Gave Up (More Perc).md",
+    "Songs/Gave Up (Full Mix+).md",
+    "Songs/Gave Up (Full Mix).md",
+    "Songs/Gave Up (Coldcutter).md",
+    "Songs/Gave Up (Film Mix).md",
+    "Songs/Eraser (Reduction).md",
+    "Songs/The Downward Spiral (A Gilded Sickness).md",
+    "Songs/Closer (Unrecalled).md",
+    "Songs/Gave Up (Open My Eyes).md",
+    "Releases/Unnatural History Ⅲ.md",
+    "Songs/Lost Rivers of London.md",
+    "Songs/Scope.md",
+    "Songs/Meaning What Exactly?.md",
+    "Songs/Wrong Eye.md",
+    "Songs/Feeder.md",
+    "Songs/Neither His Nor Yours.md",
+    "Songs/Music for Commercials.md",
+    "Songs/Baby Food.md",
+    "Songs/First Dark Ride.md",
+    "Releases/Unnatural History Ⅱ.md",
+    "Releases/Gold is the Metal (with the Broadest Shoulders).md",
+    "Songs/Theme From Blue Ⅱ.md",
+    "Songs/The Main Title.md",
+    "Songs/Vanishing Point.md",
+    "Songs/No New World.md",
+    "-notebook",
     "_assets/releases/Recoiled - Cover.jpeg",
-    "Labels/Nothing Records.md",
     "_assets/photos/Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg",
-    "Home.md",
-    "Releases/Uncoiled.md",
-    "Others/Unreleased Projects.md",
-    "people/David Tibet.md",
-    "People/David Tibet.md",
-    "Songs/Silence & Secrecy.md",
-    "Releases/Scatology.md",
-    "Songs/How to Destroy Angels.md",
-    "Releases/How To Destroy Angels.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home",
-    "Songs/Never.md",
-    "Releases/Unnatural History.md",
-    "Songs/Sicktone.md",
-    "Songs/How To Destroy Angels (Mono).md",
-    "Songs/Homage to Sewage.md",
-    "Songs/Here To Here (Double-Headed Secret).md",
-    "Songs/Dream Photography.md",
-    "Songs/S Is For Sleep.md",
-    "Songs/His Body Was a Playground For the Nazi Elite.md",
-    "Songs/The Pope Held Upside Down.md",
-    "Songs/The Swelling of Leeches.md",
-    "Songs/Various Hands.md",
-    "Songs/Comfortable.md",
-    "_templates/Personnel Table.md",
     "_assets/releases/Hellraiser Themes - Cover.jpeg",
     "_assets/photos/Peter Christopherson, John Balance (Scatology Insert No.2) - Photo.jpg",
     "_assets/photos/Peter Christopherson, John Balance (Scatology Insert No.1) - Photo.jpg",
@@ -242,12 +244,10 @@
     "_assets/photos/Stephen Thrower, Ossian Brown (2014) - Photo.jpg",
     "_assets/photos/Drew McDowall (2017) - Photo.jpg",
     "_assets/photos/Thighpaulsandra (1998) - Photo.jpg",
-    "_assets/photos/Rose McDowall (2015) - Photo.jpg",
     "Spaces/Coil Wiki",
     "Spaces",
     "_assets/releases/Gold is the Metal (Original) Cover.avif",
     "Gold is the Metal (Original) Cover.avif",
-    "_assets/-notebook Attachments",
-    "-notebook"
+    "_assets/-notebook Attachments"
   ]
 }

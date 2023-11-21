@@ -1,21 +1,22 @@
 ---
 description: 1990 compilation album by Coil
-cover: "_assets/Releases/Unnatural History Ⅰ - Cover.jpg"
+cover: _assets/Releases/Unnatural History Ⅰ - Cover.jpg
 SubType: Compilation
 title: Unnatural History
-aliases: [Unnatural History, Unnatural History I, Unnatural History 1]
+aliases: "[Unnatural History, Unnatural History I, Unnatural History 1, UH1]"
 Type: Release
 Date: 1990-01-01
 Legitimacy: Official
 Original: 
 Derivative: 
-banner: "_assets/Unnatural History Ⅰ - Cover.jpg"
+banner: _assets/Unnatural History Ⅰ - Cover.jpg
 sticker: lucide//disc
 color: "#3867d6"
 Label:
   - "[[Threshold House]]"
 Page created: 2023-10-25
 Page modified: 2023-10-25
+
 ---
 
 # Unnatural History

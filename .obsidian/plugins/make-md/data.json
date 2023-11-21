@@ -55,7 +55,8 @@
     "//-notebook",
     "//-notebook",
     "//_assets/_assets/releases",
-    "//People"
+    "//People",
+    "//Songs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
