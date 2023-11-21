@@ -8,7 +8,7 @@
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
   "inlineStyler": true,
-  "makerMode": true,
+  "makerMode": false,
   "spacesMDBInHidden": true,
   "inlineStylerColors": false,
   "editorFlow": true,
