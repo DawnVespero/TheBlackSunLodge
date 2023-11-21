@@ -1,4 +1,5 @@
 ---
+description: "1997 compilation album by Coil"
 title: "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"
 aliases:
   - "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"

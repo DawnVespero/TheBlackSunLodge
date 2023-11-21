@@ -14,6 +14,7 @@ sticker: lucide//disc
 color: "#3867d6"
 cover:
   - _assets/Unnatural History Ⅱ - Cover.jpg
+description: "1995 compilation album by Coil"
 Label: [[Threshold House]]
 Page created: 2023-10-17
 Page modified: 2023-11-21

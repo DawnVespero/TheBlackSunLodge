@@ -1,6 +1,7 @@
 ---
 title: "Welcome to the Black Sun Lodge"
-aliases: "[]"
+aliases:
+  - "[]"
 Type: 
 sticker: lucide//home
 color: "#4b6584"

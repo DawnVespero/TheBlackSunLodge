@@ -14,7 +14,7 @@ cover: _assets/releases/Recoiled - Cover.jpg
 description: 2014 remix compilation by Coil / Nine Inch Nails
 Label: [[Cold Spring Records]]
 Page created: 2023-10-05
-Page modified: 2023-11-20
+Page modified: 2023-11-21
 ---
 
 # Recoiled
@@ -55,7 +55,11 @@ During the creation of these mixes, Hyde also created a number of additional mix
 
 ### Track List
 
-1.
+1. [[Gave Up (Open My Eyes)]]
+2. [[Closer (Unrecalled)]]
+3. [[The Downward Spiral (A Gilded Sickness)]]
+4. [[Eraser (Reduction)]]
+5. [[Eraser (Baby Alarm Remix)]]
 
 [^1]: <https://web.archive.org/web/19970413012654/http://nothing.nin.net/discog.html>
 [^2]: <https://www.nin.wiki/Recoiled>
