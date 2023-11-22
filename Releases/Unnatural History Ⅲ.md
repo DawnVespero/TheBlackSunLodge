@@ -1,5 +1,4 @@
 ---
-description: "1997 compilation album by Coil"
 title: "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"
 aliases:
   - "Unnatural History Ⅲ: Joyful Participation in the Sorrows of the World"
@@ -16,6 +15,7 @@ sticker: lucide//disc
 color: "#3867d6"
 cover:
   - _assets/Unnatural History Ⅲ - Cover.jpg
+description: "1997 compilation album by Coil"
 Label: [[Threshold House]]
 Page created: 2023-10-17
 Page modified: 2023-11-21

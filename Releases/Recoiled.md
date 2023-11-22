@@ -6,7 +6,7 @@ Type: Release
 SubType: Compilation
 Date: 2014-02-24
 Legitimacy: Semi-Official
-Original: "[ [[Uncoiled]], [[Uncoiled Extended]] ]"
+Original: [ [[Uncoiled]], [[Uncoiled Extended]] ]
 Derivative: "[ [[Recoiled Special CD]] ]"
 sticker: lucide//disc
 color: "#3867d6"

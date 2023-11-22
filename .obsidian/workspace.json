@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8431846aeafda05b",
+        "id": "f51d0d622b361951",
         "type": "tabs",
         "children": [
           {
-            "id": "da6e167c75fc6754",
+            "id": "525f5f9d0844468c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Recoiled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d4279605f913a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Unnatural History Ⅲ.md",
+                "file": "Others/Unreleased Projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Unnatural History Ⅲ.md"
+                "file": "Others/Unreleased Projects.md"
               }
             }
           }
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Unnatural History Ⅲ.md",
+                "file": "Others/Unreleased Projects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Unnatural History Ⅲ.md",
+                "file": "Others/Unreleased Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Unnatural History Ⅲ.md"
+                "file": "Others/Unreleased Projects.md"
               }
             }
           },
@@ -217,8 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d4279605f913a34",
+  "active": "525f5f9d0844468c",
   "lastOpenFiles": [
+    "Home.md",
+    "Releases/Unnatural History Ⅲ.md",
     "Releases/Unnatural History Ⅱ.md",
     "Releases/Recoiled.md",
     "Releases/Recoiled Special CD.md",
@@ -231,7 +220,6 @@
     "Releases/Uncoiled Extended.md",
     "Songs/Gave Up (In Your Face).md",
     "_assets/releases/Uncoiled - Cover.jpeg",
-    "Home.md",
     "Songs/Gave Up (More Perc No Bass).md",
     "Songs/Gave Up (More Perc).md",
     "Songs/Gave Up (Full Mix+).md",
@@ -245,7 +233,6 @@
     "Songs/Lost Rivers of London.md",
     "Songs/Scope.md",
     "Songs/Meaning What Exactly?.md",
-    "Songs/Wrong Eye.md",
     "_assets/releases/Recoiled - Cover.jpeg",
     "_assets/photos/Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg",
     "Spaces/Home",

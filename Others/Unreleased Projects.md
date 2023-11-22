@@ -43,15 +43,19 @@ The project was also referenced in the liner notes to *“[[Gold is the Metal (w
 
 ## *Intercourse* Series
 
-*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+A series of collaborative releases announced in January 1997.[^Interc] Two volumes were announced at this time, which would be collaborations with Autechre and Labradford, respectively. No further information was revealed beyond this initial announcement.
 
 ## Scatology \/ Horse Rotorvator Box Set
+
+After the release of the 2001 remasters of [[Scatology]] and [[Horse Rotorvator]] and [[Love’s Secret Domain]], Coil intended to release a box set that would collect all three releases. Originally, it was intended to be simply a bundle of the three albums; later, it was announced that it would contain an exclusive remix of [[Panic]] on a 12” vinyl record, created by a yet-unannounced band; finally, the collection was set to feature a number of remixes from bands including Autechre, Surgeon, and Lefthandpath.[^LsDremaster] After the set missed its projected release of late 2002, no further updates were given.
+
+## *Wounded Galaxies Tap at the Windows*
 
 *This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 ## *Telesmatic Tree in the King Scale*
 
-*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+The final studio album worked on by both [[Peter Christopherson]] and [[Jhonn Balance|John Balance]], *Telesmatic Tree in the King’s Scale* was announced in a news post on Coil’s Brainwashed site on April 24th, 2004, alongside [[The Ape of Naples]].The album was supposed to be available for purchase at the following shows (i.e. [[2004-05-23 — La Loco, Paris, France]], [[2004-05-31 — Wave Gothik Treffen 2004]], and [[2004-06-03 — Melkweg, Amsterdam, The Netherlands]]), but this did not happen.[^TtAnnouncement] The song “*[[Stranded With Gifts]]*”, played during Coil’s [[2004-10-23 — Dublin Electronic Arts Festival|final live performance]], was apparently due to be featured on the album, but nothing more is known about the fate of the project.[^TtSwG]
 
 ## *Complete Catalogue Collected*
 
@@ -64,3 +68,9 @@ The project was also referenced in the liner notes to *“[[Gold is the Metal (w
 [^3]: <http://brainwashed.com/common/htdocs/publications/coil-1991-lusts_dark_exit.php?site=coil08>
 [^4]: <http://brainwashed.com/common/htdocs/publications/coil-1992-compulsion.php?site=coil08>
 [^5]: <https://i.discogs.com/P2JMrfACDBf0Fqc4rnTXcLBBm4ya2jAfOQYLAU5lArg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTI0/LTEzMTk5ODY5NTku/anBlZw.jpeg>
+[^TtSwG]: <https://live-coil-archive.com/2004-2/2004-dublin/>
+[^TtAnnouncement]: http://brainwashed.com/coil/news2004.php
+[^SbRoyalties]: http://brainwashed.com/common/htdocs/publications/coil-1991-lusts_dark_exit.php?site=coil08
+[^Sb98]: http://brainwashed.com/coil/news1998.php
+[^LsDremaster]: http://brainwashed.com/coil/news2001.php
+[^Interc]: http://brainwashed.com/coil/news1997.php

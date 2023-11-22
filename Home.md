@@ -1,12 +1,11 @@
 ---
 title: "Welcome to the Black Sun Lodge"
-aliases:
-  - "[]"
+aliases: "[]"
 Type: 
 sticker: lucide//home
 color: "#4b6584"
 Page created: 2023-11-12
-Page modified: 2023-11-21
+Page modified: 2023-11-22
 ---
 
 ![[banner.jpg]]
