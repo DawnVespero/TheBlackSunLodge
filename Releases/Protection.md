@@ -1,92 +1,62 @@
 ---
+title: "Protection"
+aliases: ""
 Type: Release
-Sub-Type: Compilation
-Legitimacy: Semi-Official
+SubType: Compilation
 Date: 2019-05-15
-color: "#3867d6"
+Legitimacy: Semi-Official
+Original: "[[pHILM ＃1]]"
+Derivative: ""
+banner: "_assets/Protection (T-ARCH) - Cover.jpg"
 sticker: lucide//disc
-title: Protection
+color: "#3867d6"
+Label: [[Threshold Archives]]
 Page created: 2023-10-17
-Page modified: 2023-10-24
-banner: _assets/Protection (T-ARCH) - Cover.jpg
-Original: 
-Derivative: 
+Page modified: 2023-11-22
 ---
 
 # Protection
 
-*__[RELEASE NAME]__* is a [SUB-TYPE] by Coil, released in [YEAR] by [LABEL]. [ADDITIONAL INTRODUCTION NOTES].
+![[Protection (T-ARCH) - Cover.jpg|700]]
 
-# Background
+|  |  |
+| --- | --- |
+| __Title__: | Protection |
+| __Type__: | Compilation |
+| __Legitimacy__: | Semi-Official |
+| __Release date:__ | 2019-05-15 |
+| __Label:__ | [[Threshold Archives]] |
+| __Original__: | [[pHILM ＃1]] |
+| __Derivative__: |  |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+---
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Recording
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Release
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Artwork
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Packaging
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*__Protection__* is a semi-official compilation by Coil, released on May. 15th, 2019 by [[Threshold Archives]]. It collects a number of recordings related to the ELpH releases [[Born Again Pagans]] and [[pHILM ＃1]].
 
 ## Tracklist
+
 1. [[Songs/Protection|Protection]]
 2. [[Glimpse]]
 3. [[Crawling Spirit]]
-4. [[pHILM 1 (vox)|pHILM #1 (vox)]]
+4. [[pHILM 1 (vox)]]
 5. [[Static Electrician]]
 6. [[Red Scratch]]
 7. [[If It Wasn’t Wolves, Then What Was It?]]
 8. [[Static Electrician (Symphonic)]]
-9.
+9. [[Untitled (Protection ＃9)]]
+10. [[Untitled (Protection ＃10)]]]
+11. [[Untitled (Protection ＃11)]]]
+12. [[Untitled (Protection ＃12)]]]
+13. [[Untitled (Protection ＃13)]]]
+14. [[Untitled (Protection ＃14)]]]
 
 # Personnel
 
-![![_templates/#^Table]]
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:
+# References
+
+[Entry on Discogs](https://www.discogs.com/release/13635418-Coil-vs-ELpH-Protection)  
+%% :[^1] %%

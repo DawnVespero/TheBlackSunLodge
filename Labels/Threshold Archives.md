@@ -1,12 +1,11 @@
 ---
 title: "Threshold Archives"
-aliases:
-  - T-ARCH
+aliases: "T-ARCH"
 Type: Label
 sticker: lucide//building-2
 color: "#0fb9b1"
 Page created: 2023-10-05
-Page modified: 2023-11-15
+Page modified: 2023-11-22
 ---
 
 # Threshold Archives

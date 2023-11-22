@@ -1,13 +1,14 @@
 ---
-banner: "_assets/Copal - Cover.jpg"
-color: "#3867d6"
+title: "Copal"
+aliases: ""
+Type: Release
 Date: 2019-05-15
 Legitimacy: Semi-Official
-Page created: 2023-10-05
-Page modified: 2023-10-25
+banner: "_assets/Copal - Cover.jpg"
 sticker: lucide//disc
-title: Copal
-Type: Release
+color: "#3867d6"
+Page created: 2023-10-05
+Page modified: 2023-11-22
 ---
 
 # Copal
