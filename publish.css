@@ -207,7 +207,7 @@
   --h1-font: 'League Spartan';
   --h1-weight: 600;
   --h1-size: 42pt;
-  --h1-variant: small-caps;
+  --h1-variant: all-small-caps;
   --h1-color: var(--paletteDark-white0);
   --h2-font: 'League Spartan';
   --h2-weight: 500;

@@ -9,9 +9,10 @@ Original:
   - "[[The Restitution Of Decayed Intelligence]]"
 sticker: lucide//disc
 color: "#3867d6"
-cover: _assets/The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg
+cover: _assets/releases/The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg
 description: 2019 compilation by Threshold Archives
-Label: [[Threshold Archives]]
+Label:
+  - - Threshold Archives
 Page created: 2023-10-05
 Page modified: 2023-11-22
 ---
@@ -44,12 +45,12 @@ Page modified: 2023-11-22
 6. [[A List of Wishes]]
 7. [[Animal Are You?]]
 
-# Personnel
+## Personnel
 
 | __Name__ |__Credit__ |
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-# References
+## References
 
 [Entry on Discogs](https://www.discogs.com/release/13635455-Coil-The-Restitution-Of-Decayed-Intelligence)

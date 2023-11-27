@@ -1,37 +1,47 @@
 ---
-title: The Sound Of Musick
+title: "The Sound Of Musick"
+aliases: ""
 Type: Release
+SubType: Compilation
 Date: 2019-05-15
 Legitimacy: Semi-Official
-SubType: Compilation
-Original: 
-Derivative: 
-cover: "_assets/releases/The Sound of Musick - Cover.jpg"
+Original: ""
+Derivative: ""
 sticker: lucide//disc
 color: "#3867d6"
-Page created: 2023-10-17
-Page modified: 2023-10-25
-Label: [[Threshold Archives]]
+cover: "_assets/releases/The Sound of Musick - Cover.jpg"
 description: 2019 compilation by Threshold Archives
+Label: [[Threshold Archives]]
+Page created: 2023-10-17
+Page modified: 2023-11-27
 ---
+
 # The Sound Of Musick
+
 ![[The Sound of Musick - Cover.jpg|700]]
 
 |  |  |
 | --- | --- |
-| **Title**: | The Sound Of Musick |
-| **Type**: | Compilation |
-| **Legitimacy**: | Semi-Official |
-| **Release date:** | 2019-05-15 |
-| **Label:** | Threshold Archives |
-| **Original**: |  |
-| **Derivative**: |  |
+| __Title__: | The Sound Of Musick |
+| __Type__: | Compilation |
+| __Legitimacy__: | Semi-Official |
+| __Release date:__ | 2019-05-15 |
+| __Label:__ | Threshold Archives |
+| __Original__: |  |
+| __Derivative__: |  |
 
 ---
+
 The Sound of Musick is a semi-official compilation album by Coil, released on May 15th, 2019 by [[Threshold Archives]].
 
+## Background
+
+*The Sound of Music* was originally the name of an intended compilation of Coil’s soundtrack work. The album was a long-term project, being referred to as far back as 1985[^1] and as recently as 1997,[^2] including allusions within Coil’s music, such as the track *[[The Hills Are Alive]]*. In a 1997 interview, [[Peter Christopherson]] explained that, by that point, all material intended for the record had been released in other formats, with the band having simply chosen not to move ahead with an encompassing collection.[^3]
+
+The *Sound of Music* concept was finally realized in 2019, when [[Threshold Archives]] released an album by this name in their second series of releases.
 
 ## Tracklist
+
 1. [[Theme From Blue Ⅰ]]
 2. [[Theme From Blue Ⅱ]]
 3. [[Journey to Avebury]]
@@ -48,9 +58,15 @@ The Sound of Musick is a semi-official compilation album by Coil, released on Ma
 14. [[Sara Dale’s Sensual Massage 7]]
 
 ## Personnel
-| **Name** |**Credit** |
+
+| __Name__ |__Credit__ |
 | --- | --- |
-|**Lorem ipsum**|Dolor sit amet (*Consectetur*)|
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
 ## References
+
 [Entry on Discogs]()
+
+[^1]: <http://brainwashed.com/common/htdocs/publications/coil-1985-zigzag.php?site=coil08>
+[^2]: <http://brainwashed.com/coil/news1997.php>
+[^3]: <http://brainwashed.com/common/htdocs/publications/coil-1997-brainwashed.php?site=coil08>
