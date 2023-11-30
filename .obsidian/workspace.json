@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a368a2dec0afba6",
+        "id": "582a83503669aec2",
         "type": "tabs",
         "children": [
           {
-            "id": "d85073c4a21ee23e",
+            "id": "6d8cae3386ddfb5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labels/Threshold Archives.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8739d1013da731fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Windowpane (T-ARCH).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b62d2a9c14bea9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/The Snow (T-ARCH).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a51d3429bc8178b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Airborne Bells (T-ARCH).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb554903e9696419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/The Sound Of Musick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eb5075c7baa3a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Heartworms.md",
+                "file": "Releases/Moon’s Milk In Four Phases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -110,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Dais Re-release\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/The Sound Of Musick.md"
+                "file": "Releases/Moon’s Milk In Four Phases.md"
               }
             }
           }
@@ -183,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/The Sound Of Musick.md",
+                "file": "Releases/Moon’s Milk In Four Phases.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,13 +139,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/The Sound Of Musick.md",
+                "file": "Releases/Moon’s Milk In Four Phases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "726e5e60e06c72f2",
@@ -219,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/The Sound Of Musick.md"
+                "file": "Releases/Moon’s Milk In Four Phases.md"
               }
             }
           },
@@ -265,34 +205,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb554903e9696419",
+  "active": "6d8cae3386ddfb5b",
   "lastOpenFiles": [
+    "Home.md",
+    "Releases/Moon's Milk in Four Phases (2024 Dais Re-Release).md",
+    "Releases/Moon’s Milk In Four Phases.md",
+    "Releases/Moon’s Milk in Four Phases (2024 Dais Re-Release).md",
+    "Releases/Moons Milk in Four Phases (2024 Dais Re-Release).md",
+    "\"Releases/Moon's Milk in Four Phases (2024 Dais Re-Release)\".md",
+    "\"Releases",
+    "Releases/Autumn Equinox (CD Version).md",
+    "Releases/Summer Solstice — Bee Stings.md",
+    "Releases/Spring Equinox — Moon’s Milk or Under An Unquiet Skull.md",
+    "Releases/Autumn Equinox — Amethyst Deceivers.md",
+    "Releases/Winter Solstice.md",
+    "Releases/Winter Solstice (CD Version).md",
+    "_templates/Release Page (Derivative Release - Body, Frontmatter Templates).md",
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "_templates/Release Page (Frontmatter).md",
+    "Releases/Summer Solstice (CD Version).md",
+    "Releases/Scatology.md",
+    "Songs/Ü-Pel (Incense Offering).md",
+    "Songs/The Coppice Meat.md",
+    "Songs/Bankside.md",
+    "Songs/Copal.md",
+    "Songs/Amethyst Deceivers (Live).md",
+    "Songs/Glowworms∕Waveforms.md",
+    "_assets/releases/Moons Milk in Four Phases Bonus Disk - Cover.jpg",
+    "_assets/releases/Moons Milk in Four Phases (2024 Dais Re-Release) - Cover.jpeg",
     "Releases/Heartworms.md",
     "Songs/Assassins of Hakim Bey (Remix 2).md",
     "Songs/Assassins of Hakim Bey (Remix 1).md",
-    "Songs/Red Skeletons 2.md",
-    "Songs/Stoned Circular III.md",
-    "Songs/Refusal Of Leave To Land (Early).md",
-    "Songs/International Dark Skies.md",
-    "Songs/I Love To Sleep.md",
-    "Songs/The Hundred Thousand Dollar Altar.md",
-    "Songs/Assassins of Hakim Bey.md",
-    "Songs/Heartworms.md",
-    "Releases/Foxtrot.md",
-    "Labels/Threshold Archives.md",
-    "Home.md",
-    "Releases/The Restitution of Decayed Intelligence (T-ARCH).md",
-    "Releases/The Restitution Of Decayed Intelligence.md",
-    "Releases/First Dark Ride (T-ARCH).md",
-    "Releases/Protection.md",
-    "Songs/Untitled (Protection ＃14).md",
-    "Songs/Untitled (Protection ＃13).md",
-    "Songs/Untitled (Protection ＃12).md",
-    "Songs/Untitled (Protection ＃11).md",
-    "Songs/Untitled (Protection ＃10).md",
-    "Songs/Untitled (Protection ＃9).md",
-    "Songs/Static Electrician (Symphonic).md",
-    "Songs/If It Wasn’t Wolves, Then What Was It?.md",
     "_assets/releases/I Dont Want To Be The One - Cover.jpg",
     "_assets/releases/Uncoiled - Cover.jpeg",
     "_assets/releases/Recoiled - Cover.jpeg",
@@ -302,8 +245,6 @@
     "_assets/photos/Peter Christopherson, John Balance (Scatology Insert No.2) - Photo.jpg",
     "_assets/photos/Peter Christopherson, John Balance (Scatology Insert No.1) - Photo.jpg",
     "_assets/photos/Steven Stapleton (2018) - Photo.jpg",
-    "_assets/photos/William Breeze (2008) - Photo.jpg",
-    "_assets/photos/Stephen Thrower, Ossian Brown (2014) - Photo.jpg",
     "Spaces/Coil Wiki",
     "Spaces",
     "_assets/releases/Gold is the Metal (Original) Cover.avif",

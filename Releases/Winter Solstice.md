@@ -1,57 +1,57 @@
 ---
+title: "Winter Solstice"
+aliases: ""
+description: "1999 single by Coil"
 Type: Release
-Sub-Type: Single
-Legitimacy: Official
+SubType: Single ∕ EP
 Date: 1999-01-01
-Untergeordnete/-r/-s Wiki-Seite:
-  - "[[Winter Solstice (CD Version)]]"
-Contained in Release:
-  - "[[A White Rainbow]]"
-  - "[[Christmas is Now Drawing Near]]"
-title: Background
-aliases:
-  - Background
-linter-yaml-title-alias: Background
-Page created: 2023-10-05
-Page modified: 2023-10-23
-color: "#3867d6"
+Legitimacy: Official
+Original: 
+Derivative: [[Moon’s Milk In Four Phases]]
+cover: "_assets/releases/Winter Solstice - Cover.jpg"
 sticker: lucide//disc
+color: "#3867d6"
+Label: [[Threshold House]]
+Page created: 2023-10-05
+Page modified: 2023-11-29
 ---
-*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
 
-# Background
+# Winter Solstice
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+![[Winter Solstice - Cover.jpg|700]]
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+|  |  |
+| --- | --- |
+| __Title__: | Winter Solstice |
+| __Type__: | Single ∕ EP |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1999-01-01 |
+| __Label:__ | [[Threshold House]] |
+| __Original__: | null |
+| __Derivative__: | [[Moon’s Milk In Four Phases]] |
 
-Suspendisse potenti.
+---
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*__Winter Solstice__* is an official single by Coil, released in January 1999 by [[Threshold House]]. It is the fourth and final release in the series of #SeasonalSingles .
 
-# Recording
+## Versions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+- __7” Vinyl Version__: This version only contains the songs [[A White Rainbow]] and [[Christmas is Now Drawing Near]].
+- __[[Winter Solstice (CD Version)|CD Version]]__: This version added the songs [[North]] and [[Magnetic North]].
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+# Tracklist
 
-Suspendisse potenti.
+1. [[A White Rainbow]]
+2. [[Christmas is Now Drawing Near]]
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+# Personnel
 
-# Release
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+---
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+# References
 
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+[Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/eskaton18.php?site=coil08)

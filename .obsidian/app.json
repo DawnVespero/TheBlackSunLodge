@@ -27,5 +27,6 @@
   ],
   "showInlineTitle": false,
   "livePreview": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "vimMode": true
 }
