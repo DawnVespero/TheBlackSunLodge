@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Releases",
   "hideFrontmatter": false,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -32,7 +32,7 @@
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "sidebarTabs": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
@@ -55,8 +55,8 @@
     "//-notebook",
     "//-notebook",
     "//_assets/_assets/releases",
-    "//People",
-    "//Songs"
+    "//\"Releases",
+    "//\"Releases"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

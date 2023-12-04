@@ -5,7 +5,7 @@ Type:
 sticker: lucide//home
 color: "#4b6584"
 Page created: 2023-11-12
-Page modified: 2023-11-23
+Page modified: 2023-12-03
 ---
 
 ![[banner.jpg]]
@@ -92,3 +92,7 @@ Welcome, astral traveller, to the cold, musky halls of __Thee Black Sun Lodge__!
 [[2000-09-19 — Royal Festival Hall, London, England]]  
 [[2002-10-12 — Megalithomania]]  
 [[2004-10-23 — Dublin Electronic Arts Festival]]
+
+%%
+<a rel="me" href="https://musicworld.social/@DawnVespero">Mastodon</a>
+%%

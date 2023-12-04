@@ -1,6 +1,6 @@
 
 # <% tp.frontmatter.title %>
-![[placeholder.png|700]]
+![[placeholder.jpeg|700]]
 
 |  |  |
 | --- | --- |

@@ -28,5 +28,5 @@
   "showInlineTitle": false,
   "livePreview": true,
   "defaultViewMode": "preview",
-  "vimMode": true
+  "vimMode": false
 }
