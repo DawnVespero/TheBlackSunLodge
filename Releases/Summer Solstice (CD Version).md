@@ -1,56 +1,49 @@
 ---
-aliases:
-  - Background
-color: "#3867d6"
-Contained in Release:
-  - "[[Glowworms  Waveforms]]"
-  - "[[A Warning from the Sun (for Fritz)]]"
-Date: 1998-06-01
-linter-yaml-title-alias: Background
-Page created: 2023-10-05
-Page modified: 2023-10-25
-sticker: lucide//disc
-title: Background
+title: "Summer Solstice (CD Version)"
+aliases: ""
 Type: Release
-Übergeordnete/-r/-s Wiki-Seite:
-  - "[[Summer Solstice — Bee Stings]]"
+SubType: Single ∕ EP
+Date: 1998-06-01
+Legitimacy: Official
+Original: ""
+Derivative: "[[Moon’s Milk In Four Phases]]"
+sticker: lucide//disc
+color: "#3867d6"
+cover: "_assets/releases/Summer Solstice - Cover.jpg"
+description: 1998 single by Coil
+Label:
+  - - Threshold House
+Page created: 2023-11-03
+Page modified: 2023-11-29
 ---
 
-*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
+# Summer Solstice (CD Version)
 
-# Background
+![[_assets/releases/Summer Solstice - Cover.jpg|700]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+|  |  |
+| --- | --- |
+| __Title__: | Summer Solstice (CD Version) |
+| __Type__: | Single ∕ EP |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1998-06-01 |
+| __Label:__ | [[Threshold House]] |
+| __Original__: |  |
+| __Derivative__: | [[Moon’s Milk In Four Phases]] |
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+---
 
-Suspendisse potenti.
+*__Summer Solstice (CD Version)__* is a version of  [[Summer Solstice — Bee Stings]], released alongside the 7” vinyl version in June 1998. In addition to the two songs featured on the latter release, this version contained two more songs — [[Glowworms∕Waveforms]] and [[A Warning from the Sun (for Fritz)]].
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## Tracklist
 
-# Recording
+1. [[Bee Stings]]
+2. [[Glowworms∕Waveforms]]
+3. [[Summer Substructures]]
+4. [[A Warning from the Sun (for Fritz)]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+# Personnel
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Release
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|

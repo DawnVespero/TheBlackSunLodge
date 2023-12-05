@@ -1,7 +1,6 @@
 ---
 title: "Scatology"
-aliases:
-  - "[]"
+aliases: "[]"
 Type: Release
 SubType:
   - Studio Album
@@ -17,7 +16,7 @@ description: 1985 studio album by Coil
 Label:
   - "[[Some Bizzare Records]]"
 Page created: 2023-10-05
-Page modified: 2023-11-19
+Page modified: 2023-11-29
 ---
 
 # Scatology

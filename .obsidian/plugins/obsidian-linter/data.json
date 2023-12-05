@@ -6,7 +6,7 @@
     },
     "force-yaml-escape": {
       "enabled": true,
-      "force-yaml-escape-keys": "banner\ntitle\naliases\nFeatured on\nOriginal\nDerivative\nNext Version\nPrevious Version\nAlternate Version\nInterpolated in\nInterpolates"
+      "force-yaml-escape-keys": "title\naliases\ndescription\ncover"
     },
     "format-tags-in-yaml": {
       "enabled": true
@@ -31,11 +31,11 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "Contained in Release"
+      "yaml-keys-to-remove": "Contained in Release\nSub-Type"
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\naliases\nType\nSubType\nSub-Type\nDate\nLocation\nLegitimacy\nOriginal\nDerivative\nContained in Release\nbanner\nsticker\ncolor",
+      "yaml-key-priority-sort-order": "title\naliases\ndescription\nType\nSubType\nSub-Type\nDate\nLocation\nLegitimacy\nOriginal\nDerivative\ncover\nsticker\ncolor",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },

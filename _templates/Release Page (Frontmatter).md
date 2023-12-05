@@ -1,7 +1,7 @@
 ---
 title: 
-description:
-cover:
+description: Coil release
+cover: "_assets/releases/Scatology (1984 Vinyl) Cover.jpg"
 Type: Release  
 SubType: 
 Legitimacy: 

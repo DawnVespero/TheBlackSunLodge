@@ -1,51 +1,57 @@
 ---
+title: "Autumn Equinox — Amethyst Deceivers"
+aliases: ""
+description: "1998 single by Coil"
 Type: Release
-Sub-Type: Single
+SubType: Single ∕ EP
+Date: 1998-09-01
 Legitimacy: Official
-Date: 1998-01-01
-Untergeordnete/-r/-s Wiki-Seite:
-  - "[[Autumn Equinox (CD Version)]]"
-Contained in Release:
-  - "[[Amethyst Deceivers]]"
-  - "[[Switches]]"
-color: "#3867d6"
+Original: ""
+Derivative: "[[Moon’s Milk In Four Phases]]"
+cover: "_assets/releases/Autumn Equinox - Cover.jpg"
 sticker: lucide//disc
+color: "#3867d6"
+Label: [[Threshold House]]
+Page created: 2023-11-03
+Page modified: 2023-11-29
 ---
-_**[RELEASE NAME]**_ is a **[SUB-TYPE]** by Coil, released in **[YEAR]** by **[LABEL]**. **[ADDITIONAL INTRODUCTION NOTES]**.
 
-# Background
+# Autumn Equinox — Amethyst Deceivers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+![[Autumn Equinox - Cover.jpg|700]]
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+|  |  |
+| --- | --- |
+| __Title__: | Autumn Equinox — Amethyst Deceivers |
+| __Type__: | Single ∕ EP |
+| __Legitimacy__: | Official |
+| __Release date:__ | 1998-09-01 |
+| __Label:__ | [[Threshold House]] |
+| __Original__: |  |
+| __Derivative__: | [[Moon’s Milk In Four Phases]] |
 
-Suspendisse potenti.
+---
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*__Autumn Equinox — Amethyst Deceivers__* is an official single by Coil, released in September 1998 by [[Threshold House]]. It is the third release in the series of #SeasonalSingles .
 
-# Recording
+## Versions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+- __7” Vinyl Version__: This version only contains the songs [[Amethyst Deceivers]] and [[Switches]].
+- __[[Autumn Equinox (CD Version)|CD Version]]__: In addition to the songs present on the vinyl record, this version contains the songs [[Regel]], [[Rosa Decidua]], and [[The Auto-Asphyxiating Hierophant]].
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+# Track List
 
-Suspendisse potenti.
+1. [[Amethyst Deceivers]]
+2. [[Switches]]
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+# Personnel
 
-# Release
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+---
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+# References
 
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+[Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/eskaton15.php?site=coil08)
