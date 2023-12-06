@@ -1,19 +1,18 @@
 ---
 title: "Thighpaulsandra"
-aliases:
-  - Timothy Lewis
+aliases: "Timothy Lewis"
 Type: 
 sticker: lucide//user
 color: "#20bf6b"
 Born: 
 Died: 
 Page created: 2023-10-05
-Page modified: 2023-11-15
+Page modified: 2023-12-06
 ---
 
 # Thighpaulsandra
 
-![[Thighpaulsandra (1998) - Photo.jpg|300]] ![[Thighpaulsandra (In Concert) - Photo.jpg|300]]  
+![[Thighpaulsandra (1998) - Photo.jpeg|300]] ![[Thighpaulsandra (2004) - Photo.jpeg|300]]  
 *Left: Thighpaulsandra performing with Spiritualized in 1998; Right: Performing with Coil in 2004*
 
 |  |  |

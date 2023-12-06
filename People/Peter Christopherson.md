@@ -1,19 +1,18 @@
 ---
 title: "Peter Christopherson"
-aliases:
-  - Sleazy
+aliases: "Sleazy"
 Type: Person
 sticker: lucide//user
 color: "#20bf6b"
 Born: 1955-02-27
 Died: 2010-11-25
 Page created: 2023-10-05
-Page modified: 2023-11-16
+Page modified: 2023-12-06
 ---
 
 # Peter Christopherson
 
-![[Peter Christopherson, John Balance (Scatology Insert No.2) - Photo.jpg]] ![[Peter Christopherson (In Concert) - Photo.jpg|350]]  
+![[Peter Christopherson, John Balance (1984) - Photo.jpeg]] ![[Peter Christopherson (2004) - Photo.jpeg|350]]  
 *Left: Christopherson (Left) with [[Jhonn Balance]] in 1985; Right: Christopherson performing with Coil in 2004*
 
 |  |  |

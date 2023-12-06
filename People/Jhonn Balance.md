@@ -10,12 +10,12 @@ color: "#20bf6b"
 Born: 1962-02-16
 Died: 2004-11-13
 Page created: 2023-10-31
-Page modified: 2023-11-16
+Page modified: 2023-12-06
 ---
 
 # Jhonn Balance
 
-![[Peter Christopherson, John Balance (Scatology Insert No.2) - Photo.jpg|350]] ![[John Balance (In Concert) - Photo.jpg|350]]  
+![[Peter Christopherson, John Balance (1984) - Photo.jpeg]] ![[John Balance (2004) - Photo.jpeg]]  
 *Left: John Balance (Right) with [[Peter Christopherson]] in 1985; Right: Balance performing with Coil in 2004*
 
 |  |  |

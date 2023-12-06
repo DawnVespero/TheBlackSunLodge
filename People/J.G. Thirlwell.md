@@ -1,21 +1,20 @@
 ---
 title: "J.G. Thirlwell"
-aliases:
-  - "[Foetus, Clint Ruin]"
+aliases: "[Foetus, Clint Ruin]"
+description: ""
 Type: Person
+cover: ""
 sticker: lucide//user
 color: "#20bf6b"
 Born: 1960-01-29
-cover: 
-description: 
 Died: 
 Page created: 2023-11-16
-Page modified: 2023-11-16
+Page modified: 2023-12-06
 ---
 
 # J.G. Thirlwell
 
-![[JG Thirlwell (1985) - Photo.jpg|350]] ![[JG Thirlwell (2016).jpg|350]]  
+![[JG Thirlwell (1985) - Photo.jpeg|350]] ![[JG Thirlwell (2016) - Photo.jpeg|350]]  
 *Left: Thirlwell performing in 1985; Right: Thirlwell recording in 2016*
 
 |  |  |
