@@ -1,7 +1,7 @@
 ---
 title: "Moon’s Milk in Four Phases (Bonus Disk)"
 aliases: ""
-description: "Coil release"
+description: "2002 release by Coil"
 Type: Release
 SubType: Single ∕ EP
 Date: 2002-01-01
@@ -10,7 +10,7 @@ Original:
 Derivative:
 - [[Releases/Copal|Copal]]
 - [["Moon's Milk in Four Phases (2024 Dais Re-Release)"]]
-cover: "_assets/releases/Scatology (1984 Vinyl) Cover.jpg"
+cover: "_assets/releases/Moons Milk in Four Phases Bonus Disk - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]

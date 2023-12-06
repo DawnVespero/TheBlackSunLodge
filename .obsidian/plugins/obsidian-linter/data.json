@@ -35,7 +35,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\naliases\ndescription\nType\nSubType\nSub-Type\nDate\nLocation\nLegitimacy\nOriginal\nDerivative\ncover\nsticker\ncolor",
+      "yaml-key-priority-sort-order": "title\naliases\ndescription\nType\nSubType\nSub-Type\nDate\nLocation\nLegitimacy\nOriginal\nDerivative\nPrevious Version\nNext Version\nInterpolates\nInterpolated in\ncover\nsticker\ncolor",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -234,6 +234,13 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": true
+    },
+    "add-blank-line-after-yaml": {
+      "enabled": false
+    },
+    "default-language-for-code-fences": {
+      "enabled": false,
+      "default-language": ""
     }
   },
   "lintOnSave": true,

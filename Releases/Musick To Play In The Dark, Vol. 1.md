@@ -11,7 +11,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Chalice]]
 Page created: 2023-10-31
-Page modified: 2023-12-04
+Page modified: 2023-12-06
 ---
 
 # Musick To Play In The Dark, Vol. 1
@@ -34,7 +34,7 @@ Page modified: 2023-12-04
 
 ## Background
 
-Though no liner notes were included with the album, an interview with [[Jhonn Balance]] was intended to replace them. This, however, did not come to fruition, and the interview was instead published on Coil’s Brainwashed site.[^MtPiTdLiners]
+Though no liner notes were included with the album, an interview with [[Jhonn Balance]] was intended to replace them. This, however, did not come to fruition, and the interview was instead published on Coil’s Brainwashed site as the *Track-by-Track* feature. [^1]
 
 ## Versions
 
@@ -59,5 +59,6 @@ Though no liner notes were included with the album, an interview with [[Jhonn Ba
 
 ## References
 
-[Entry at Brainwashed]()  
-[^MtPiTdLiners] Phil Barrington, *The Golden Age of Bloodsports*, p. 207
+[Entry at Brainwashed]()
+
+[^1]: Phil Barrington, *The Golden Age of Bloodsports*, p. 207
