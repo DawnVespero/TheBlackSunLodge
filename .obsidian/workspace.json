@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe80b752eaaf52f0",
+        "id": "25d33b17b8718e43",
         "type": "tabs",
         "children": [
           {
-            "id": "53d0db65dedaebbd",
+            "id": "21a27e3761cbc67f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a63dfef28f2a6816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Thighpaulsandra.md",
+                "file": "Others/Unreleased Projects.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c73fbc93a1b595a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Steven Stapleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e965f0f8491bc357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Stephen Thrower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40d80487f070cf91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Peter Christopherson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1874a40d79a5f70c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Marc Almond.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "216910b6de73517b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Jhonn Balance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397738d1fd5895b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/J.G. Thirlwell.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Thighpaulsandra.md"
+                "file": "Others/Unreleased Projects.md"
               }
             }
           }
@@ -207,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Thighpaulsandra.md",
+                "file": "Others/Unreleased Projects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Thighpaulsandra.md",
+                "file": "Others/Unreleased Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "People/Thighpaulsandra.md"
+                "file": "Others/Unreleased Projects.md"
               }
             }
           },
@@ -290,8 +205,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a63dfef28f2a6816",
+  "active": "21a27e3761cbc67f",
   "lastOpenFiles": [
+    "Others/Books.md",
+    "Others/Music Videos.md",
+    "Home.md",
+    "People/Thighpaulsandra.md",
     "People/J.G. Thirlwell.md",
     "People/Jhonn Balance.md",
     "People/Marc Almond.md",
@@ -299,8 +218,6 @@
     "People/Peter Christopherson.md",
     "People/Stephen Thrower.md",
     "People/Steven Stapleton.md",
-    "People/Thighpaulsandra.md",
-    "Home.md",
     "People/Derek Jarman.md",
     "_assets/photos/William Breeze (2008) - Photo.jpeg",
     "_assets/photos/Thighpaulsandra (2004) - Photo.jpeg",
@@ -326,7 +243,6 @@
     "_templates/Song Page (Page Body - Frontmatter Template).md",
     "_templates/Song Page (Frontmatter).md",
     "Releases/Moon's Milk in Four Phases (Bonus Disk).md",
-    "Releases/Musick To Play In The Dark, Vol. 2.md",
     "\"Releases",
     "Spaces/Home",
     "Spaces/Coil Wiki",
