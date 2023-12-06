@@ -6,6 +6,7 @@ aliases:
   - The Universe is a Haunted House
   - Everything Keeps Dissolving (book)
   - The Cupboard Under the Stars
+description: "List of books related to Coil"
 Type: Other 
 sticker: lucide//book-copy
 color: "#8854d0"

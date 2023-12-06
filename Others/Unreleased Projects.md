@@ -1,10 +1,10 @@
 ---
 title: "Unreleased Projects"
 aliases: "[]"
-Type: 
+Type: Other
 sticker: lucide//book-copy
 color: "#8854d0"
-description: List of announced unreleased projects by Coil
+description: "List of announced unreleased projects by Coil"
 Page created: 2023-11-10
 Page modified: 2023-11-21
 ---
