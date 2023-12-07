@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25d33b17b8718e43",
+        "id": "e21394bbac58c2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "21a27e3761cbc67f",
+            "id": "fc75e3dd518f8047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Unreleased Projects.md",
+                "file": "Others/Coil Manifesto.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Unreleased Projects.md"
+                "file": "Others/Coil Manifesto.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Unreleased Projects.md",
+                "file": "Others/Coil Manifesto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Unreleased Projects.md",
+                "file": "Others/Coil Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Others/Unreleased Projects.md"
+                "file": "Others/Coil Manifesto.md"
               }
             }
           },
@@ -205,12 +205,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "21a27e3761cbc67f",
+  "active": "fc75e3dd518f8047",
   "lastOpenFiles": [
-    "Others/Books.md",
-    "Others/Unreleased Projects.md",
-    "Others/Music Videos.md",
     "Home.md",
+    "Others/Coil Manifesto.md",
+    "_assets/releases/Animal Are You (Label Comparison) - Cover.jpeg",
+    "_assets/releases/Animal Are You (Bottle Label) - Cover.jpeg",
+    "Songs/Animal Are You?.md",
+    "Releases/Animal Are You?.md",
+    "Songs/What Kind of Animal Are You?.md",
+    "Others/Unreleased Projects.md",
+    "Others/Books.md",
+    "Others/Music Videos.md",
     "People/Thighpaulsandra.md",
     "People/J.G. Thirlwell.md",
     "People/Jhonn Balance.md",
@@ -228,8 +234,6 @@
     "_assets/photos/Stephen Thrower (1984) - Photo.jpeg",
     "_assets/photos/Rose McDowall (2015) - Photo.jpeg",
     "_assets/photos/Peter Christopherson, John Balance (1984) - Photo.jpeg",
-    "_assets/photos/Peter Christopherson (2004) - Photo.jpeg",
-    "_assets/photos/Marc Almond (2023) - Photo.jpeg",
     "People/Danny Hyde.md",
     "People/Ian Johnstone.md",
     "People/David Tibet.md",
@@ -239,10 +243,6 @@
     "Songs/Red Birds Will Fly Out of the East and Destroy Paris in a Night.md",
     "Songs/Red Queen.md",
     "Songs/Broccoli.md",
-    "Songs/Strange Birds.md",
-    "Songs/The Dreamer is Still Asleep.md",
-    "_templates/Song Page (Page Body - Frontmatter Template).md",
-    "_templates/Song Page (Frontmatter).md",
     "\"Releases",
     "Spaces/Home",
     "Spaces/Coil Wiki",
