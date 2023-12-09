@@ -93,6 +93,11 @@ Welcome, astral traveller, to the cold, musky halls of __Thee Black Sun Lodge__!
 [[2002-10-12 — Megalithomania]]  
 [[2004-10-23 — Dublin Electronic Arts Festival]]
 
+---
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">The Black Sun Lodge</span> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
+
+*All original content on this site, including all non-quote body text, is distributed under a Creative Commons Zero Public Domain License. All rights to images, lyrics, and quoted text belong to their original authors and / or respective rights holders and are reproduced here for the non-commercial educational purposes under Fair Use doctrine.*
+
 %%
 <a rel="me" href="https://musicworld.social/@DawnVespero">Mastodon</a>
 %%
