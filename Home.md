@@ -5,10 +5,10 @@ Type:
 sticker: lucide//home
 color: "#4b6584"
 Page created: 2023-11-12
-Page modified: 2023-12-03
+Page modified: 2023-12-09
 ---
 
-![[banner.jpg]]
+![[banner.jpeg]]
 
 # Welcome to the Black Sun Lodge
 
