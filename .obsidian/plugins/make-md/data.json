@@ -56,9 +56,12 @@
     "//_assets/_assets/releases",
     "//\"Releases",
     "//\"Releases",
-    "-notebook",
+    "//Spaces",
+    "Songs",
+    "Releases",
+    "People",
     "/",
-    "//Spaces"
+    "-notebook"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

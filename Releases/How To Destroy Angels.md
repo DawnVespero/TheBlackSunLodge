@@ -1,17 +1,16 @@
 ---
 title: "How To Destroy Angels"
-aliases:
-  - ""
+aliases: ""
 Type: Release
 SubType: Single
 Date: 1984-01-01
 Legitimacy: Official
-banner:
-  - "![[How To Destroy Angels - Cover.jpg]]"
 sticker: lucide//disc
 color: "#3867d6"
+banner:
+  - "![[How To Destroy Angels - Cover.jpg]]"
 Page created: 2023-10-17
-Page modified: 2023-11-19
+Page modified: 2023-12-22
 ---
 
 # How To Destroy Angels
@@ -55,7 +54,7 @@ The cover art for the single was visually simplistic and text-focused, a directi
 > Performed by COIL on 19||84 ⊙  
 > __Ritual Music for the Accumulation of Male Sexual Energy__  
 > __Duration: 17 minutes__
-> 
+>
 > Throughout history man has made and used music for two distinct and separate purposes. In recent years, particularly since the advent of sound recording, the most popular use of music has been for entertainment - the temporary amusement and distraction of as large a number as possible. As a consequence, many people tend to overlook its more fundamental and ancient use as a tool for affecting man’s body and spirit. The many varieties of religious music from around the world contain a vast quantity of clues to the way in which sound can affect the physical and mental state of the serious listener, yet many find their associations with the religion itself - the dogmatism of the churches and the obvious shortsightedness of many cult leaders and their followers - too difficult a stigma to overlook in their appreciation of the sound and its potential, for its own sake. Over the past few years, we have been involved with a number of contemporary music groups that have tried to some extent to investigate this aspect of sound but only with varying success. On this record, hopefully the first in a series, we have tried to produce sound which has a real, practical and beneficial power in this modern Era. Specifically, it is intended as an accumulator of male sexual energy. Although we make neither claims nor rules for its use, we do suggest that for maximum potency it should only be played in circumstances that are exclusively male and/or onanistic in nature. What these are is entirely up to you. Obviously, the execution of the place was structured around concepts that we felt would work for us, in this case magickal and numerological rather than conventionally musical in form, but detailed information about the recording process, much of which was personal and relevant only to us, might well confuse and distract from the purpose.  
 > One image or symbol which we drew upon that may be useful to bear in mind is that of Mars, often indicated by the male. Mars is the Roman god of Spring and Warfare. His qualities are dynamic energy combined with a vital stabilising discipline; when self-control is missing the unbalanced force results in cruelty and wanton destruction. Mars is a deification of forces within Man which can be found in every culture in one form or another, even to this day. Finally, since prejudice and fear of the unknown seem so far to have been unaffected by civilisation, we would like to state once again that, should this music have any power, over and above the banal and transitory titillation achieved by most records available now, it is a positive and beneficial power to be used and controlled by the listener, as he desires. Thank you.  
 > COIL. London 17th March 1984  

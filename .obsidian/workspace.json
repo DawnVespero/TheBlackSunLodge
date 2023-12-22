@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "218074659699ad5a",
+        "id": "63629efc9917a9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "c4eb3a368738a613",
+            "id": "7afc05b6f13b453c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "-notebook"
+                "file": "-notebook/EKD-Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 531.5,
+    "collapsed": true
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -109,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-notebook/EKD-Notes.md"
+              }
             }
           }
         ]
@@ -125,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-notebook/EKD-Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-notebook/EKD-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "-notebook/EKD-Notes.md"
+              }
             }
           },
           {
@@ -204,9 +213,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c4eb3a368738a613",
+  "active": "7afc05b6f13b453c",
   "lastOpenFiles": [
     "Home.md",
+    "People/Otto Avery.md",
+    "-notebook/EKD-Notes.md",
+    "Releases/How To Destroy Angels.md",
+    "Songs/How to Destroy Angels.md",
     "-notebook/Everything Keeps Dissolving - Notes.md",
     "Releases/Live Three.md",
     "favicon-256x256.png",
@@ -238,10 +251,6 @@
     "_assets/photos/Thighpaulsandra (1998) - Photo.jpeg",
     "_assets/photos/Steven Stapleton (2018) - Photo.jpeg",
     "People/Danny Hyde.md",
-    "People/Ian Johnstone.md",
-    "People/David Tibet.md",
-    "People/People.md",
-    "Releases/Musick To Play In The Dark, Vol. 1.md",
     "\"Releases",
     "Spaces/Home",
     "Spaces/Coil Wiki",
