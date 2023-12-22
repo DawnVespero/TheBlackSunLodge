@@ -5,7 +5,7 @@ Type:
 sticker: lucide//home
 color: "#4b6584"
 Page created: 2023-11-12
-Page modified: 2023-12-09
+Page modified: 2023-12-21
 ---
 
 ![[banner.jpeg]]
