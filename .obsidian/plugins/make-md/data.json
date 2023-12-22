@@ -56,8 +56,9 @@
     "//_assets/_assets/releases",
     "//\"Releases",
     "//\"Releases",
+    "-notebook",
     "/",
-    "-notebook"
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -88,7 +89,6 @@
     "Others",
     "spaces://$tags"
   ],
-  "rootSpaces": [],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
@@ -104,13 +104,15 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": false,
-  "releaseNotesPrompt": 0.804,
+  "releaseNotesPrompt": 0.815,
   "enableDefaultSpaces": true,
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
+  "systemName": "Vault",
+  "rootSpaces": [],
   "cachedSpaces": [
     "spaces://$tags",
     "spaces://$waypoints",

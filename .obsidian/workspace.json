@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "683be3a2d9352134",
+        "id": "218074659699ad5a",
         "type": "tabs",
         "children": [
           {
-            "id": "5215b77acd32801b",
+            "id": "c4eb3a368738a613",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
+                "path": "-notebook"
               }
             }
           }
@@ -67,20 +65,27 @@
             }
           },
           {
-            "id": "23a0cd7cd0d142f4",
+            "id": "bfe99047f39484be",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "ee07d069abd39b2d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 531.5,
-    "collapsed": true
+    "width": 531.5
   },
   "right": {
     "id": "db6303b767c86bdf",
@@ -104,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +204,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5215b77acd32801b",
+  "active": "c4eb3a368738a613",
   "lastOpenFiles": [
-    "-notebook/Everything Keeps Dissolving - Notes.md",
     "Home.md",
+    "-notebook/Everything Keeps Dissolving - Notes.md",
     "Releases/Live Three.md",
     "favicon-256x256.png",
     "favicon-128x128.png",
