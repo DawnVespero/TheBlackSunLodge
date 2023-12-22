@@ -1,20 +1,20 @@
 ---
 title: "Stephen Thrower"
 aliases: "[]"
+description: ""
 Type: Person
+cover: ""
 sticker: lucide//user
 color: "#20bf6b"
 Born: 
-cover: 
-description: 
 Died: 
 Page created: 2023-10-25
-Page modified: 2023-11-16
+Page modified: 2023-12-06
 ---
 
 # Stephen Thrower
 
-![[Stephen Thrower (Scatology Insert) - Photo.jpg|350]] ![[Stephen Thrower, Ossian Brown (2014) - Photo.jpg|350]]  
+![[Stephen Thrower (1984) - Photo.jpeg]] ![[Stephen Thrower, Ossian Brown (2014) - Photo.jpeg|350]]  
 *Left: Stephen Thrower in 1985; Right; Stephen Thrower (Left) and [[Ossian Brown]] (Right) in 2014*
 
 |  |  |

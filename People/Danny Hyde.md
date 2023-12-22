@@ -1,21 +1,20 @@
 ---
 title: "Danny Hyde"
-aliases:
-  - "[]"
+aliases: "[]"
+description: ""
 Type: Person
+cover: ""
 sticker: lucide//user
 color: "#20bf6b"
 Born: 
-cover: 
-description: 
 Died: 
 Page created: 2023-10-22
-Page modified: 2023-11-15
+Page modified: 2023-12-06
 ---
 
 # Danny Hyde
 
-![[Danny Hyde (2021) - Photo.jpg|700]]  
+![[Danny Hyde (2021) - Photo.jpeg|700]]  
 *Hyde in 2021*
 
 |  |  |

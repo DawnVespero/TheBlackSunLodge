@@ -7,12 +7,12 @@ color: "#20bf6b"
 Born: 1942-01-31
 Died: 1994-02-19
 Page created: 2023-10-30
-Page modified: 2023-11-16
+Page modified: 2023-12-06
 ---
 
 # Derek Jarman
 
-![[Derek Jarman (1992).jpg|700]]  
+![[Derek Jarman (1992) - Photo.jpeg|700]]  
 *Jarman in 1992 (Photo by David J Thompson)*
 
 |  |  |
@@ -36,4 +36,4 @@ In addition to his work with Coil, [[Peter Christopherson]], as a member of the 
 
 ## References
 
-[^1]: <http://brainwashed.com/common/htdocs/discog/tgcd9.php?site=tg08>
+[^1]: <http://brainwashed.com/common/htdocs/discog/tgcd9.php>?site=tg08>

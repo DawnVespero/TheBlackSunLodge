@@ -4,8 +4,11 @@
     "properties": []
   },
   "IgnoredProperties": {
-    "enabled": false,
-    "properties": []
+    "enabled": true,
+    "properties": [
+      "Date created",
+      "Date edited"
+    ]
   },
   "AutoProperties": {
     "enabled": true,

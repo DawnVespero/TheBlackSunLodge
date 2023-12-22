@@ -1,6 +1,8 @@
 ---
-title: Musick to Play in the Dark, Vol. 2
-aliases: ["Musick to Play in the Dark, Vol. 2"]
+title: "Musick to Play in the Dark, Vol. 2"
+aliases:
+  - '"Musick to Play in the Dark'
+  - 'Vol. 2"'
 Type: Release  
 SubType: Studio Album
 Date: 2000-09-01
@@ -12,7 +14,7 @@ color: "#3867d6"
 Label: [[Labels/Chalice|Chalice]]
 linter-yaml-title-alias: "Musick to Play in the Dark, Vol. 2"
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2023-12-04
 ---
 
 # Musick to Play in the Dark, Vol. 2
@@ -31,73 +33,25 @@ Page modified: 2023-11-02
 
 ---
 
-*__Musick to Play in the Dark, Vol. 2__* is an official studio album by Coil, released in September 2000 by [[Labels/Chalice|Chalice]]. [ADDITIONAL INTRODUCTION NOTES].
+*__Musick to Play in the Dark, Vol. 2__* is an official studio album by Coil, released in September 2000 by [[Labels/Chalice|Chalice]]. It is the second in a two-part series, having been preceded by [[Musick To Play In The Dark, Vol. 1]] in 1999.
 
 ## Background
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-## Recording
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-## Release
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Artwork
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Packaging
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 ### Versions
 
-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- *Suspendisse potenti.*
-- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 #### Tracklist
+
 1. [[Something]]
-2. [[Songs/Tiny Golden Books]]
-3. [[Songs/Ether]]
-4. [[Songs/Paranoid Inlay]]
-5. [[Songs/An Emergency]]
-6. [[Songs/Where Are You?]]
-7. [[Songs/Batwings (A Limnal Hymn)]]
+2. [[Tiny Golden Books]]
+3. [[Ether]]
+4. [[Paranoid Inlay]]
+5. [[An Emergency]]
+6. [[Where Are You?]]
+7. [[Batwings (A Limnal Hymn)]]
 
 ## Personnel
 
@@ -105,4 +59,8 @@ Page modified: 2023-11-02
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:
+---
+
+## References
+
+[Entry at Brainwashed]()

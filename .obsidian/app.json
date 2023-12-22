@@ -26,7 +26,8 @@
     "*.woff2"
   ],
   "showInlineTitle": false,
-  "livePreview": true,
-  "defaultViewMode": "preview",
-  "vimMode": true
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "vimMode": false,
+  "autoPairMarkdown": false
 }

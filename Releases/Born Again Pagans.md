@@ -12,7 +12,6 @@ Label: [[Threshold House]]
 Page created: 2023-10-31
 Page modified: 2023-11-02
 ---
-
 # Born Again Pagans
 
 ![[Born Again Pagans - Cover.jpg|700]]

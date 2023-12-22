@@ -1,6 +1,6 @@
 ---
-title: Musick To Play In The Dark, Vol. 1
-aliases: 
+title: "Musick To Play In The Dark, Vol. 1"
+aliases: ""
 Type: Release  
 SubType: Studio Album
 Date: 1999-09-01
@@ -11,7 +11,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Chalice]]
 Page created: 2023-10-31
-Page modified: 2023-11-10
+Page modified: 2023-12-06
 ---
 
 # Musick To Play In The Dark, Vol. 1
@@ -23,73 +23,25 @@ Page modified: 2023-11-10
 | __Title__: | Musick To Play In The Dark, Vol. 1 |
 | __Type__: | Studio Album |
 | __Legitimacy__: | Official |
-| __Release date:__ | 1999-09-01 |
-| __Label:__ | [[Labels/Chalice]] |
-| __Original__: | null |
-| __Derivative__: | null |
+| __Release date:__ | 1999-09-?? |
+| __Label:__ | [[Labels/Chalice\|Chalice]] |
+| __Original__: |  |
+| __Derivative__: |  |
 
 ---
 
-*__Musick To Play In The Dark, Vol. 1__* is an official studio album by Coil, released in September 1999 by [[Labels/Chalice|Chalice]].
+*__Musick To Play In The Dark, Vol. 1__* is an official studio album by Coil, released in September 1999 by [[Labels/Chalice|Chalice]]. It is the first in a two-part series, having been followed by [[Musick To Play In The Dark, Vol. 2]] in 2000.
 
 ## Background
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+Though no liner notes were included with the album, an interview with [[Jhonn Balance]] was intended to replace them. This, however, did not come to fruition, and the interview was instead published on Coil’s Brainwashed site as the *Track-by-Track* feature. [^1]
 
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+## Versions
 
-*Suspendisse potenti.*
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+### Tracklist
 
-## Recording
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-## Release
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Artwork
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Packaging
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Versions
-
-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- *Suspendisse potenti.*
-- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-#### Tracklist
 1. [[Are You Shivering?]]
 2. [[Red Birds Will Fly Out of the East and Destroy Paris in a Night]]
 3. [[Red Queen]]
@@ -103,4 +55,10 @@ Page modified: 2023-11-10
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:
+---
+
+## References
+
+[Entry at Brainwashed]()
+
+[^1]: Phil Barrington, *The Golden Age of Bloodsports*, p. 207

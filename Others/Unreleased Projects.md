@@ -1,10 +1,18 @@
 ---
 title: "Unreleased Projects"
-aliases: "[]"
-Type: 
+aliases: 
+- "Force and Form"
+- "Live at Bar Maldoror"
+- "Coil vs. The Anti Group"
+- Underground
+- "Beautiful Catastrophe"
+- "Intercourse"
+- Wounded Galaxies Tap at the Windows
+- Telesmatic Tree in the King's Scale
+- Complete Catalogue Collected
 sticker: lucide//book-copy
 color: "#8854d0"
-description: List of announced unreleased projects by Coil
+description: "List of announced unreleased projects by Coil"
 Page created: 2023-11-10
 Page modified: 2023-11-21
 ---

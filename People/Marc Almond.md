@@ -1,21 +1,20 @@
 ---
 title: "Marc Almond"
-aliases:
-  - Raoul Revere
+aliases: "Raoul Revere"
+description: ""
 Type: Person
+cover: ""
 sticker: lucide//user
 color: "#20bf6b"
 Born: "[1957-07-09]"
-cover: 
-description: 
 Died: 
 Page created: 2023-11-15
-Page modified: 2023-11-15
+Page modified: 2023-12-06
 ---
 
 # Marc Almond
 
-![[Marc Almond (2023) - Photo.jpg]]  
+![[Marc Almond (2023) - Photo.jpeg]]  
 *Almond in 2023*
 
 |  |  |
