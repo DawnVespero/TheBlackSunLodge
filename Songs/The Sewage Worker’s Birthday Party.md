@@ -1,21 +1,20 @@
 ---
 title: "The Sewage Worker’s Birthday Party"
-aliases:
-  - The S.W.B.P.
+aliases: "The S.W.B.P."
 Type: Song
 Original: ""
 Derivative: ""
+Previous Version: ""
+Next Version: ""
+Interpolates: "[[Songs/How to Destroy Angels|How to Destroy Angels]]"
+Interpolated in: ""
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on:
   - - - Scatology
   - - - Scatology (1988 CD Version)
-Interpolated in: ""
-Interpolates: "[[Songs/How to Destroy Angels|How to Destroy Angels]]"
-Next Version: ""
 Page created: 2023-10-05
-Page modified: 2023-11-11
-Previous Version: ""
+Page modified: 2023-12-25
 ---
 
 # The Sewage Worker’s Birthday Party
@@ -49,6 +48,8 @@ The remainder of the story:
 > *He was ordered to lie down in front of one lavatory and his wrists were tied round the back. This meant his cheek was hugging the side of the filthy bowl. A rope was tied round each of Steve’s Wellingtons keeping his feet well apart. Dave took a cloth, dipped it in the bowl with its mixture of shit and piss and suddenly rammed the cloth into Steve’s mouth. He was taken by surprise. This had never happened before.  
 > John grabbed Steve’s hairs and quickly jerked his head to the side sufficiently to pull a shortrope round and tie the gag into place. It was impossible for him to move or say anything. He was completely at their mercy…* [^2]
 
+The song was also intended to be released as a single to be included with the Decemeber 1984 issue of the Italian music magazine *Free*, but this did not materialize.[^3]
+
 ## Lyrics
 
 > *[Instrumental]*
@@ -66,5 +67,6 @@ The remainder of the story:
 
 # The Sewage Worker’s Birthday Party
 
-[^1]: <https://i.discogs.com/l-cjmCGaM6gBtwYVncGNFxUEAQrfQkdd5f2JDLdP7uE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzYtMTM5OTQwNjA5/NS03MDE4LmpwZWc.jpeg>
+[^1]: <https://i.discogs.com/l-cjmCGaM6gBtwYVncGNFxUEAQrfQkdd5f2JDLdP7uE/rs>:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzYtMTM5OTQwNjA5/NS03MDE4LmpwZWc.jpeg>
 [^2]: See *Phil Barrington: The Golden Age of Bloodsports*, p. 51 (<https://issuu.com/barringtonarts/docs/goldenage_bloodsports/51>)
+[^3]: Nick Soulsby: *Everything Keeps Dissolving*, p. 89

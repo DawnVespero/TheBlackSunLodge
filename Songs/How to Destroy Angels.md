@@ -1,17 +1,18 @@
 ---
-title: How to Destroy Angels
+title: "How to Destroy Angels"
+aliases: ""
 Type: Song
 Original: 
 Derivative: [[How To Destroy Angels (Mono)]]
+Previous Version: 
+Next Version: 
+Interpolates: 
+Interpolated in: "[[The Sewage Worker’s Birthday Party]]"
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on: [[How To Destroy Angels]]
-Interpolated in: "[[The Sewage Worker’s Birthday Party]]"
-Interpolates: 
-Next Version: 
 Page created: 2023-10-30
-Page modified: 2023-10-30
-Previous Version: 
+Page modified: 2023-12-25
 ---
 
 # How to Destroy Angels
@@ -29,9 +30,11 @@ Previous Version:
 
 ---
 
-*__How to Destroy Angels__* is a song originally released on Coil's [[Releases/How To Destroy Angels|1984 debut single of the same name]].
+*__How to Destroy Angels__* is a song originally released on Coil’s [[Releases/How To Destroy Angels|1984 debut single of the same name]].
 
 The song was recorded at the same time as the [[Scatology]] track [[The Sewage Worker’s Birthday Party]], which reuses samples from the former. Most noticeably, the sounds of clashing swords are found prominently in both songs.
+
+The song’s title was intentionally chosen to be ambiguous: It could refer either to the ritual nature of the music allowing the listener to accumulate enough energy to destroy angels, or to a loss of innocence.[^1] The former implication, however, seems to be more heavily evidenced, as seen by the cover of the corresponding single referring to it as “Music for the accumulation of Male Sexual Energy” and by [[Jhonn Balance]] describing it as “an aid to sexual magick”.[^2]
 
 ## Lyrics
 
@@ -47,4 +50,6 @@ The song was recorded at the same time as the [[Scatology]] track [[The Sewage W
 |||
 
 ## References
-[^1]:
+
+[^1]: Nick Soulsby: *Everything Keeps Dissolving*, p. 95
+[^2]: Nick Soulsby: *Everything Keeps Dissolving*, p. 85

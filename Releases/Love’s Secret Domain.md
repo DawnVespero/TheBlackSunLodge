@@ -16,7 +16,7 @@ Label:
   - - - Torso
   - - - Wax Trax!
 Page created: 2023-10-31
-Page modified: 2023-11-22
+Page modified: 2023-12-25
 ---
 
 # Love’s Secret Domain
@@ -39,9 +39,17 @@ Page modified: 2023-11-22
 
 ## Background
 
-Inspired by [[Jhonn Balance]] and [[Peter Christopherson]]‘s experiences in clubs in the late 80’s, *[[Love’s Secret Domain]]* featured a much more upbeat, rhythmically oriented musical style.[^1]
+Inspired by [[Jhonn Balance]] and [[Peter Christopherson]]‘s experiences in clubs in the late 80’s, *[[Love’s Secret Domain]]* featured a much more upbeat, rhythmically oriented musical style.[^1] Thematically, the album was intended to be centered around “brief moments of inspiration” and taking advantage of brief moments of pleasure.[^2]
 
-During development, the album went through a number of working titles, including “*[[Stolen and Contaminated Songs]]*”, “*120 Dalmations in Sodom*”, “*To Eat His Own*”, and, most famously, “*The Dark Age of Love*”[^2] and *“The Side Effects of Life”*.[^3]
+During development, the album went through a number of working titles, including “*[[Stolen and Contaminated Songs]]*”, “*120 Dalmations in Sodom*”, “*To Eat His Own*”, and, most famously, “*The Dark Age of Love*”[^3] and *“The Side Effects of Life”*.[^4]
+
+## Recording
+
+[[Love’s Secret Domain]] started life as a direct follow-up to [[Horse Rotorvator]], known as *The Dark Age of Love*. As implied by its name, the project was intended to be centered on the idea that “sex now equates with death more closely than it has ever done, partly through AIDS, but partly through the terminal quality of life,” along with “the death of European monarchies.” The project’s connection to *Horse Rotorvator* was so strong, in fact, that it was initially comprised of songs that were recorded during the *Horse Rotorvator* sessions but cut to keep that release from reaching the length of a double album. [^5] The only songs explicitly discussed as having been intended for *The Dark Age of Love* are [[Aqua Regalia]] and [[Paradisiac]].[^6]
+
+The final record, however, contains little material made for *The Dark Age of Love*, with John Balance claiming that it was “99% new material.”[^7]
+
+At some point, it was planned to give all songs on *Love’s Secret Domain* titles that would abbreviate to L.S.D.[^8]
 
 ### Tracklist
 
@@ -64,5 +72,10 @@ During development, the album went through a number of working titles, including
 ## References
 
 [^1]: <http://brainwashed.com/common/htdocs/publications/coil-1991-lusts_dark_exit.php?site=coil08>
-[^2]: <http://brainwashed.com/common/htdocs/publications/coil-1987-info-2.php?site=coil08>
-[^3]: <https://www.discogs.com/master/238518-Coil-Wrong-Eye-Scope/image/SW1hZ2U6MTI2OTA0NzQ=>
+[^2]: Nick Soulsby: *Everything Keeps Dissolving*, p. 272
+[^3]: <http://brainwashed.com/common/htdocs/publications/coil-1987-info-2.php?site=coil08>
+[^4]: <https://www.discogs.com/master/238518-Coil-Wrong-Eye-Scope/image/SW1hZ2U6MTI2OTA0NzQ>=>
+[^5]: Nick Soulsby: *Everything Keeps Dissolving*, p. 175 f.
+[^6]: Nick Soulsby: *Everything Keeps Dissolving*, p. 181
+[^7]: Nick Soulsby: *Everything Keeps Dissolving*, p. 267
+[^8]: Nick Soulsby: *Everything Keeps Dissolving*, p. 270

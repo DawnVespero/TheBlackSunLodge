@@ -9,7 +9,7 @@ color: "#20bf6b"
 Born: 
 Died: 
 Page created: 2023-11-19
-Page modified: 2023-12-06
+Page modified: 2023-12-25
 ---
 
 # David Tibet
@@ -27,8 +27,12 @@ Page modified: 2023-12-06
 
 *__David Tibet__* (* March 5th, 1960) is an English musician best known for his musical project *__Current 93__*.
 
+The band were first introduced to Tibet during the recording of Psychic TVs *Themes*, for which he sold them a number of Tibetan human thigh bone flutes.[^1]
+
 ## Work with Coil
 
 -
 
 ## References
+
+[^1]: Nick Soulsby: *Everything Keeps Dissolving*, p. 41

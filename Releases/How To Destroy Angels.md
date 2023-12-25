@@ -10,7 +10,7 @@ color: "#3867d6"
 banner:
   - "![[How To Destroy Angels - Cover.jpg]]"
 Page created: 2023-10-17
-Page modified: 2023-12-22
+Page modified: 2023-12-25
 ---
 
 # How To Destroy Angels
@@ -28,11 +28,13 @@ Page modified: 2023-12-22
 
 *__How To Destroy Angels__* is the debut single by Coil, released in 1984 by [[LAYLA Antirecords]].
 
-An album of remixes of the track would later be released in 1992 under the same name, though for the sake of clarity, this remix album would become known as [[How to Destroy Angels (Remixes and Re-Recordings)]].
+An album of remixes of the track would later be released in 1992 under the same name, though for the sake of clarity, this remix album would become known colloquially as [[How to Destroy Angels (Remixes and Re-Recordings)]].
 
 ## Background
 
 Originally, the debut single under the Coil name was intended to be [[Silence & Secrecy (section) (live at Magenta Club, London 5.VIII.1983)|Silence&Secrecy]], a song performed at [[1983-08-04: Club Magenta, London, England|Coil’s first concert]] and previously released in excerpt on the live album [[Transparent]].[^1] [[Songs/How to Destroy Angels|How to Destroy Angels]] was originally created to serve as the B-side to this single. However, this single was also intended to be released through Psychic TV’s Temple Records; due to [[Peter Christopherson]] and [[John Balance]] leaving Psychic TV in 1984, the band were presumably no longer willing to release the single.
+
+As late as February 1984, the single was known as *Set and Reset*.[^2]
 
 ## Recording
 
@@ -76,3 +78,4 @@ The cover art for the single was visually simplistic and text-focused, a directi
 [Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/lay05.php?site=coil08>)
 
 [^1]: <http://brainwashed.com/common/htdocs/publications/coil-1983-grok.php?site=coil08>
+[^2]: Nick Soulsby: *Everything Keeps Dissolving*, p. 60

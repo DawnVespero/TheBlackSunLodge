@@ -4,23 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "63629efc9917a9d4",
+        "id": "30639956fab6a97a",
         "type": "tabs",
+        "dimension": 72.91666666666666,
         "children": [
           {
-            "id": "7afc05b6f13b453c",
+            "id": "c6838c6a660d3e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-notebook/EKD-Notes.md",
+                "file": "Releases/Black Antlers.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "a3ef67cbed3084e2",
+        "type": "tabs",
+        "dimension": 27.083333333333332,
+        "children": [
+          {
+            "id": "ede8fbfc8bba202f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-notebook/Everything Keeps Dissolving - Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -33,6 +53,16 @@
         "id": "bb5542dacfd75e99",
         "type": "tabs",
         "children": [
+          {
+            "id": "9785e29bccc6a19b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "e0916a5db092b30b",
             "type": "leaf",
@@ -67,15 +97,7 @@
             }
           },
           {
-            "id": "bfe99047f39484be",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee07d069abd39b2d",
+            "id": "2771e8ef4a97ecf1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -113,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-notebook/EKD-Notes.md"
+                "file": "Releases/Black Antlers.md"
               }
             }
           }
@@ -130,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-notebook/EKD-Notes.md",
+                "file": "Releases/Black Antlers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-notebook/EKD-Notes.md",
+                "file": "Releases/Black Antlers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "-notebook/EKD-Notes.md"
+                "file": "Releases/Black Antlers.md"
               }
             }
           },
@@ -213,44 +235,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7afc05b6f13b453c",
+  "active": "c6838c6a660d3e3d",
   "lastOpenFiles": [
-    "Home.md",
-    "People/Otto Avery.md",
-    "-notebook/EKD-Notes.md",
-    "Releases/How To Destroy Angels.md",
-    "Songs/How to Destroy Angels.md",
     "-notebook/Everything Keeps Dissolving - Notes.md",
-    "Releases/Live Three.md",
+    "Releases/Black Antlers.md",
+    "Songs/Backwards.md",
+    "Songs/Slur.md",
+    "Live Performance/2002-04-06 — \"The Key to Joy is Disobedience\".md",
+    "Others/Unreleased Projects.md",
+    "Releases/The Remote Viewer.md",
+    "Releases/“Persistence Is All” (Live At Royal Festival Hall).md",
+    "Songs/Teenage Lightning.md",
+    "Releases/A Thousand Lights In A Darkened Room.md",
+    "Songs/Is Suicide A Solution?.md",
+    "Songs/A.Y.O.R..md",
+    "Releases/Love’s Secret Domain.md",
+    "Releases/Horse Rotorvator.md",
+    "People/Otto Avery.md",
+    "Songs/Circles of Mania.md",
+    "Releases/The Sound Of Musick.md",
+    "Songs/Lorca Not Orca.md",
+    "Songs/Ostia (The Death of Pasolini).md",
+    "Songs/Babylero.md",
+    "Releases/The Unreleased Themes For Hellraiser.md",
+    "Songs/The Wheel.md",
+    "Releases/The Wheel ∕ The Wheal ∕ Keelhauler.md",
+    "Songs/Keelhauler.md",
+    "Releases/The Wheel.md",
+    "Songs/Solar Lodge.md",
+    "_assets/releases/International Dark Skies - Cover.jpg",
     "favicon-256x256.png",
     "favicon-128x128.png",
     "favicon-64x64.png",
     "favicon-32x32.png",
-    "Releases/Musick To Play In The Dark, Vol. 2.md",
-    "Spaces/Home/Home 1.md",
-    "Others/Coil Manifesto.md",
     "_assets/releases/Animal Are You (Label Comparison) - Cover.jpeg",
     "_assets/releases/Animal Are You (Bottle Label) - Cover.jpeg",
-    "Songs/Animal Are You?.md",
-    "Releases/Animal Are You?.md",
-    "Songs/What Kind of Animal Are You?.md",
-    "Others/Unreleased Projects.md",
-    "Others/Books.md",
-    "Others/Music Videos.md",
-    "People/Thighpaulsandra.md",
-    "People/J.G. Thirlwell.md",
-    "People/Jhonn Balance.md",
-    "People/Marc Almond.md",
-    "People/John Gosling.md",
-    "People/Peter Christopherson.md",
-    "People/Stephen Thrower.md",
-    "People/Steven Stapleton.md",
-    "People/Derek Jarman.md",
     "_assets/photos/William Breeze (2008) - Photo.jpeg",
     "_assets/photos/Thighpaulsandra (2004) - Photo.jpeg",
     "_assets/photos/Thighpaulsandra (1998) - Photo.jpeg",
-    "_assets/photos/Steven Stapleton (2018) - Photo.jpeg",
-    "People/Danny Hyde.md",
     "\"Releases",
     "Spaces/Home",
     "Spaces/Coil Wiki",

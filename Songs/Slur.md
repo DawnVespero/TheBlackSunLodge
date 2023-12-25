@@ -1,11 +1,18 @@
 ---
 title: "Slur"
-aliases:
-  - Silk
+aliases: "Silk"
 Type: Song
 Original:
   - ""
 Derivative:
+  - ""
+Previous Version:
+  - ""
+Next Version:
+  - ""
+Interpolates:
+  - ""
+Interpolated in:
   - ""
 sticker: lucide//music
 color: "#eb3b5a"
@@ -14,16 +21,8 @@ Featured on:
   - "[[Horse Rotorvator]]"
   - "[[Horse Rotorvator (1988 CD Version)]]"
   - "[[Horse Rotorvator (US Cassette Release)]]"
-Interpolated in:
-  - ""
-Interpolates:
-  - ""
-Next Version:
-  - ""
 Page created: 2023-10-05
-Page modified: 2023-11-12
-Previous Version:
-  - ""
+Page modified: 2023-12-25
 ---
 
 # Slur
@@ -44,12 +43,14 @@ Previous Version:
 
 *__Slur__* is a song originally released on Coil’s 1987 album [[Horse Rotorvator]].
 
+The song’s lyrics were inspired by [[Jhonn Balance]]‘s “sexual experiences in the ruins outside Marrakesh.”[^1]
+
 ## Lyrics
 
 > Roman lands  
 > Of Roman sands  
 > And Roman sons
-> 
+>
 > As I watch the sun sink down  
 > On the blood-red edge of the blood-red town  
 > There are shadows for sale  
@@ -59,11 +60,11 @@ Previous Version:
 > (From the side of the night)  
 > And the wind blows ‘round this sleeping town  
 > This sleeping town
-> 
+>
 > This Roman land  
 > Of Roman sands  
 > And Roman sons
-> 
+>
 > And it seems to me that when I close my eyes  
 > All the lights in the world go out  
 > And the night passes by  
@@ -75,8 +76,8 @@ Previous Version:
 > With a thousand eyes  
 > Piercing eyes  
 > Ancient eyes
-> 
-> And I ask my lover, “Do you know where the desert roses bloom and grow?”… [^1]
+>
+> And I ask my lover, “Do you know where the desert roses bloom and grow?”… [^2]
 
 ## Versions
 
@@ -89,4 +90,5 @@ Previous Version:
 
 ## References
 
-[^1]: <https://i.discogs.com/S1bd2ZjljSpNpEhGKytCoZDkCLdWsf_lUuldHiLCV0U/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/Ni0xMzQyMjUxODMw/LTExNjUuanBlZw.jpeg>
+[^1]: Nick Soulsby: *Everything Keeps Dissolving*, p. 522
+[^2]: <https://i.discogs.com/S1bd2ZjljSpNpEhGKytCoZDkCLdWsf_lUuldHiLCV0U/rs>:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/Ni0xMzQyMjUxODMw/LTExNjUuanBlZw.jpeg>

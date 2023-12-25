@@ -1,52 +1,65 @@
 ---
+title: "The Remote Viewer"
+aliases: ""
+description: "2002 studio album by Coil"
 Type: Release
-Sub-Type: Studio Album
-Legitimacy: Official
+SubType: Studio Album
 Date: 2002-01-01
-Untergeordnete/-r/-s Wiki-Seite:
-  - "[[The Remote Viewer (2006 Re-Release)]]"
-Contained in Release:
-  - "[[Remote Viewing 1]]"
-  - "[[Remote Viewing 2]]"
-  - "[[Remote Viewing 3]]"
-color: "#3867d6"
+Legitimacy: Official
+Original: 
+Derivative: [[The Remote Viewer (2006 Re-Release)]]
+cover: "_assets/releases/The Remote Viewer - Cover.jpg"
 sticker: lucide//disc
+color: "#3867d6"
+Label: [[Threshold House]]
+Page created: 2023-10-05
+Page modified: 2023-12-25
 ---
-_**[RELEASE NAME]**_ is a **[SUB-TYPE]** by Coil, released in **[YEAR]** by **[LABEL]**. **[ADDITIONAL INTRODUCTION NOTES]**.
 
-# Background
+# The Remote Viewer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+![[The Remote Viewer - Cover.jpg|700]]
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+|  |  |
+| --- | --- |
+| __Title__: | The Remote Viewer |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Official |
+| __Release date:__ | 2002-01-01 |
+| __Label:__ | Threshold House |
+| __Original__: |  |
+| __Derivative__: | The Remote Viewer (2006 Re-Release) |
 
-Suspendisse potenti.
+---
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*__The Remote Viewer__* is an official studio album by Coil, released in 2002 through direct resale at their live shows.
 
-# Recording
+## Background
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+The album was inspired by the idea of “a machine able to read and control your mind.”[^1]
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+## Release
 
-Suspendisse potenti.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+### Versions
 
-# Release
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
+#### Tracklist
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+1. Lorem ipsum
+2. Dolor sit amet
+3. Consectetur
 
-Suspendisse potenti.
+## Personnel
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-# Versions
+---
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Nam tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta varius.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, varius tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+## References
+
+[^1]: Nick Soulsby: *Everything Keeps Dissolving*, p. 501

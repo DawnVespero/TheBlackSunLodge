@@ -1,7 +1,7 @@
 ---
 title: "The Unreleased Themes For Hellraiser"
-aliases:
-  - Hellraiser
+aliases: "Hellraiser"
+description: "1988 score album by Coil"
 Type: Release
 SubType:
   - Studio Album
@@ -12,14 +12,13 @@ Original:
 Derivative:
   - "[[Hellraiser Themes]]"
   - "[[The Consequences of Raising Hell (T-ARCH)]]"
+cover: '"_assets/releases/The Consequences of Raising Hell (T-ARCH) - Cover.jpg"'
 sticker: lucide//disc
 color: "#3867d6"
-cover: '"_assets/releases/The Consequences of Raising Hell (T-ARCH) - Cover.jpg"'
-description: 1988 score album by Coil
 Label:
   - "[[Solar Lodge Records], Soleilmoon]"
 Page created: 2023-10-05
-Page modified: 2023-11-17
+Page modified: 2023-12-25
 ---
 
 # The Unreleased Themes For Hellraiser

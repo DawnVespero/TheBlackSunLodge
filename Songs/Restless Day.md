@@ -1,11 +1,18 @@
 ---
 title: "Restless Day"
-aliases:
-  - "[]"
+aliases: "[]"
 Type: Song
 Original:
   - ""
 Derivative:
+  - ""
+Previous Version:
+  - ""
+Next Version:
+  - ""
+Interpolates:
+  - ""
+Interpolated in:
   - ""
 sticker: lucide//music
 color: "#eb3b5a"
@@ -13,17 +20,9 @@ Alternate Version: ""
 Featured on:
   - Devastate to Liberate
   - "[[Scatology (1988 CD Version)]]"
-Interpolated in:
-  - ""
-Interpolates:
-  - ""
-Next Version:
-  - ""
 Page created: 2023-10-18
-Page modified: 2023-11-15
-Previous Version:
-  - ""
-tags: ["Compilation_Track"]
+Page modified: 2023-12-25
+tags: "Compilation_Track"
 ---
 
 # Restless Day
@@ -42,7 +41,7 @@ tags: ["Compilation_Track"]
 
 ---
 
-*__Restless Day__* is a song by Coil originally released on the 1985 compilation album *[Devastate to Liberate](https://www.discogs.com/master/21583-Various-Devastate-To-Liberate)*.[^1]
+*__Restless Day__* is a song by Coil originally released on the 1985 compilation album *[Devastate to Liberate](https://www.discogs.com/master/21583-Various-Devastate-To-Liberate)*.[^1] Originally, the band wanted to contribute the song [[Godhead⇔Deathead]] for this compilation, but decided instead to include the latter on [[Scatology]].[^2]
 
 ## Lyrics
 
@@ -50,12 +49,12 @@ tags: ["Compilation_Track"]
 > Each time, I say:  
 > “A shifting, slow beginning,  
 > another restless day”
-> 
+>
 > Doubt and indecision  
 > Push me on my way  
 > The shifting, slow beginning  
 > Another restless day
-> 
+>
 > Supermarket, Sunday  
 > Faces cold and gray  
 > Got little milk or tea left  
@@ -64,7 +63,7 @@ tags: ["Compilation_Track"]
 > that locks my love away  
 > The boy on the checkout says:  
 > “Have a restless day”
-> 
+>
 > Who has the nerve  
 > To dream, create, and kill?  
 > While it seems the whole moves  
@@ -74,7 +73,7 @@ tags: ["Compilation_Track"]
 > While it seems the whole moves  
 > Everyone stands still  
 > Everyone stands still
-> 
+>
 > Watching television in the afternoon  
 > Wasting my life away  
 > All they want to show me is  
@@ -94,3 +93,4 @@ tags: ["Compilation_Track"]
 ## References
 
 [^1]: <http://brainwashed.com/coil/music.php>
+[^2]: Nick Soulsby: *Everything Keeps Dissolving*, p. 69
