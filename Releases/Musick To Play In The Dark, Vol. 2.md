@@ -33,7 +33,7 @@ Page modified: 2023-12-04
 
 ---
 
-*__Musick to Play in the Dark, Vol. 2__* is an official studio album by Coil, released in September 2000 by [[Labels/Chalice|Chalice]]. It is the second in a two-part series, having been preceded by [[Musick To Play In The Dark, Vol. 1]] in 1999.
+*__Musick to Play in the Dark, Vol. 2__* is an official studio album by Coil, released in September 2000 by [[Labels/Chalice|Chalice]]. It is the second in a two-part series, having been preceded by [[Musick To Play In The Dark]] in 1999.
 
 ## Background
 

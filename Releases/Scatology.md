@@ -16,7 +16,7 @@ Alternate Version: "[[Scatology Sessions]]"
 Label:
   - "[[Some Bizzare Records]]"
 Page created: 2023-10-05
-Page modified: 2023-12-25
+Page modified: 2023-12-30
 ---
 
 # Scatology
@@ -73,7 +73,7 @@ The final paragraph is only present on the original LP version.
 
 ### Versions
 
-- Original release, 1984, LP-only: On the first pressing of this version, all 3000 copies have a postcard stuck over the central logo depicting the framed eponymous cover art for the [[Releases/The Anal Staircase|Anal Staircase]] EP. On the second pressing, a random selection of the 2000 copies have a different postcard attached, depicting another photograph referred to as “*Sexual Architecture*”.
+- Original release, 1984, LP-only: On the first pressing of this version, all 3000 copies have a postcard stuck over the central logo depicting the framed eponymous cover art for the [[Releases/The Anal Staircase|Anal Staircase]] EP. On the second pressing, a random selection of the 2000 copies have a different postcard attached, depicting another photograph referred to as “*Sexual Cathedral*”.[^8]
 - [[Scatology (1988 CD Version)]]: This version is distinguished by new cover art and contains the additional tracks, “*[[Restless Day]]*”, “*[[Aqua Regis]]*” and “*[[Tainted Love]]*”, the first originally from the 1985 compilation *[Devastate to Liberate](https://www.discogs.com/master/21583-Various-Devastate-To-Liberate)*, the other two from the [[Panic ∕ Tainted Love]] single.
 - 2001 CD Remaster: First of two remastered albums released in 2001, alongside [[Horse Rotorvator]]. Both albums were remastered by [[Thighpaulsandra]]. These remasters were created due to a dispute over unpaid royalties for the albums Coil released through [[Some Bizzare Records]]. This version features new cover art, but is otherwise identical in content.  
 ![[Scatology (1984 Vinyl) Cover.jpg|200]] ![[Scatology (1988 CD Version) Cover.jpg|200]] ![[Scatology (2001 Remaster) Cover.jpg|200]]  
@@ -133,3 +133,4 @@ The final paragraph is only present on the original LP version.
 [^5]: Nick Soulsby: *Everything Keeps Dissolving*, p. 69
 [^6]: Nick Soulsby: *Everything Keeps Dissolving*, p. 62
 [^7]: <http://brainwashed.com/common/htdocs/discog/ffk1.php?site=coil08>
+[^8]: see John Balance, ed. Clause Laufenburg: *The Cupboard under the Stars*, publ. Timeless, 2023

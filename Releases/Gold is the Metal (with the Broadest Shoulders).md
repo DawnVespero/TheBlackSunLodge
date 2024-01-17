@@ -13,7 +13,7 @@ Label:
   - - Threshold House
 linter-yaml-title-alias: Gold is the Metal (With the Broadest Shoulders)
 Page created: 2023-10-31
-Page modified: 2023-11-21
+Page modified: 2023-12-30
 ---
 
 # Gold is the Metal (With the Broadest Shoulders)
@@ -93,7 +93,7 @@ The limited Deluxe Edition came in a file folder-like package panelled with blac
 [Entry at Brainwashed](http://brainwashed.com/common/htdocs/discog/loci1.php?site=coil08)
 
 [^1]: <http://brainwashed.com/common/htdocs/publications/coil-1991-lusts_dark_exit.php?site=coil08>
-[^2]: <https://i.discogs.com/UYZR517lrdoU710LqP63A7yOWjLm3AaNcOktKFQdyZQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDg4/LTE2MTk0Mzc5Nzkt/MzEyNy5qcGVn.jpeg>
-[^3]: <https://i.discogs.com/P2JMrfACDBf0Fqc4rnTXcLBBm4ya2jAfOQYLAU5lArg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTI0/LTEzMTk5ODY5NTku/anBlZw.jpeg>#>
+[^2]: <https://i.discogs.com/UYZR517lrdoU710LqP63A7yOWjLm3AaNcOktKFQdyZQ/rs>:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDg4/LTE2MTk0Mzc5Nzkt/MzEyNy5qcGVn.jpeg>
+[^3]: <https://i.discogs.com/P2JMrfACDBf0Fqc4rnTXcLBBm4ya2jAfOQYLAU5lArg/rs>:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTI0/LTEzMTk5ODY5NTku/anBlZw.jpeg>#>
 [^4]: <http://brainwashed.com/common/images/covers/loci3-box_booklet14t.jpg>
 [^5]: <http://brainwashed.com/common/images/covers/loci3-box_poster2.jpg>

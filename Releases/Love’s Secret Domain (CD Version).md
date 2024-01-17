@@ -33,22 +33,22 @@ Page modified: 2023-11-07
 
 ---
 
-*__Love’s Secret Domain (CD Version)__* is a version of the album [[Love’s Secret Domain]], released on Jun. 30th, 1991 by [[Torso]] in Europe and [[Wax Trax!]] in the United States. This version added three new songs: An alternative version of [[Teenage Lightning]] (titled simply [[Teenage Lightning (CD Version)|Teenage Lightning]], with the original version retitled [[Teenage Lightning|Teenage Lightning 2]]), [[Where Even the Darkness is Something to See]], and [[Lorca Not Orca]].
+*__Love’s Secret Domain (CD Version)__* is a version of the album [[Love’s Secret Domain]], released on Jun. 30th, 1991 by [[Torso]] in Europe and [[Wax Trax!]] in the United States. This version added four new songs: An alternative version of [[Teenage Lightning]] (titled [[Teenage Lightning 1]], with the original version retitled [[Teenage Lightning|Teenage Lightning 2]]), [[Things Happen]], and the two instrumental pieces [[Where Even the Darkness is Something to See]] and [[Lorca Not Orca]].
 
 ## Tracklist
 1. [[Disco Hospital]]
-2. [[Teenage Lightning (CD Version)]]
+2. [[Teenage Lightning 1]]
 3. [[Things Happen]]
 4. [[Songs/The Snow|The Snow]]
 5. [[Dark River]]
 6. [[Where Even the Darkness is Something to See]]
 7. [[Teenage Lightning|Teenage Lightning 2]]
-8. [[Windowpane]]
+8. [[Songs/Windowpane|Windowpane]]
 9. [[Further Back and Faster]]
 10. [[Titan Arch]]
 11. [[Chaostrophy]]
 12. [[Lorca Not Orca]]
-13. [[Love’s Secret Domain]]
+13. [[Songs/Love’s Secret Domain|Love’s Secret Domain]]
 
 # Personnel
 

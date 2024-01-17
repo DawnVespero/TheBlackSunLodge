@@ -3,24 +3,29 @@ title: "Teenage Lightning"
 aliases: "Teenage Lightning 2"
 description: ""
 Type: Song
-Original: ""
+Original:
+  - ""
 Derivative:
-  - "[[Teenage Lightning (CD Version)]]"
-  - [[Teenage Lightning (10th Birthday Version)]]
-  - [[Teenage Lightning 2005]]
-Previous Version: ""
-Next Version: ""
-Interpolates: ""
-Interpolated in: ""
+  - "[[Teenage Lightning 1]]"
+  - - - Teenage Lightning (10th Birthday Version)
+  - - - Teenage Lightning 2005
+Previous Version:
+  - ""
+Next Version:
+  - ""
+Interpolates:
+  - ""
+Interpolated in:
+  - ""
 cover: ""
 sticker: lucide//music
 color: "#eb3b5a"
 Alternate Version: ""
 Featured on:
-- [[Love’s Secret Domain]]
-- [[Love’s Secret Domain (CD Version)]]
+  - - - Love’s Secret Domain
+  - - - Love’s Secret Domain (CD Version)
 Page created: 2023-10-05
-Page modified: 2023-12-25
+Page modified: 2024-01-16
 ---
 
 # Teenage Lightning
@@ -30,7 +35,7 @@ Page modified: 2023-12-25
 | __Title__: | Teenage Lightning |
 | __Featured on__: | Love’s Secret Domain,Love’s Secret Domain (CD Version) |
 | __Original__: |  |
-| __Derivative__: | [[Teenage Lightning (CD Version)]],Teenage Lightning (10th Birthday Version),Teenage Lightning 2005 |
+| __Derivative__: | [[Teenage Lightning 1]],Teenage Lightning (10th Birthday Version),Teenage Lightning 2005 |
 | __Previous Version__: |  |
 | __Next Version__: |  |
 | __Alternate Version:__ |  |
@@ -44,6 +49,33 @@ Page modified: 2023-12-25
 The most frequently given explanation for the song’s title is that it describes “the energy given off when two teenagers are rubbed together,”[^1] implying that it’s about sexual tension and/or young love.
 
 ## Lyrics
+
+> Don’t be alarmed  
+> It will not harm you  
+> It’s only lightning  
+> Teenage Lightning
+>
+> Don’t be alarmed  
+> It will not harm you  
+> It’s only lightning  
+> Teenage Lightning
+>
+> It’s real  
+> Unbelievably real  
+> Teenage Lightning  
+> Don’t be frightened
+>
+> This is the way we do it (…)
+>
+> Don’t be alarmed  
+> It will not harm you  
+> It’s only me  
+> Pursuing something I’m not sure of  
+> It’s only lightning  
+> Teenage Lightning  
+> Don’t be alarmed  
+> It will not harm you  
+> Teenage Lightning (…)
 
 ## Versions
 

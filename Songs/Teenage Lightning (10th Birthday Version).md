@@ -2,7 +2,7 @@
 title: Teenage Lightning (10th Birthday Version)
 Type: Song
 Original:
-  - "[[Teenage Lightning (CD Version)]]"
+  - "[[Teenage Lightning 1]]"
 Derivative:
   - "[[Teenage Lightning 2005]]"
 sticker: lucide//music

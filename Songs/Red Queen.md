@@ -16,7 +16,7 @@ Alternate Version: ""
 Featured on:
 - [[Musick To Play In The Dark, Vol. 1]]
 Page created: 2023-10-05
-Page modified: 2023-12-06
+Page modified: 2023-12-30
 ---
 
 # Red Queen
@@ -35,7 +35,7 @@ Page modified: 2023-12-06
 
 ---
 
-*__Red Queen__* is a song originally released on Coil’s 1999 album [[Musick To Play In The Dark, Vol. 1]].
+*__Red Queen__* is a song originally released on Coil’s 1999 album [[Musick To Play In The Dark]]. As seen in [[Jhonn Balance]]’s notes, the song was written in 1993 about Balance’s former Psychic TV partner Genesis P-Orridge.[^1] The time of writing implies that this was more directly inspired by [false allegations of child abuse](https://en.wikipedia.org/wiki/Genesis_P-Orridge#Psychic_TV_and_Thee_Temple_Ov_Psychic_Youth) levelled against P-Orridge the year prior.
 
 From the *Track-by-Track* feature:
 
@@ -52,6 +52,8 @@ From the *Track-by-Track* feature:
 |||
 |||
 
+---
+
 ## References
 
-%%:[^1]%%
+[^1]: see John Balance, ed. Clause Laufenburg: *The Cupboard under the Stars*, publ. Timeless, 2023

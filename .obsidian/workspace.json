@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30639956fab6a97a",
+        "id": "5dcb260d19930185",
         "type": "tabs",
-        "dimension": 72.91666666666666,
         "children": [
           {
-            "id": "c6838c6a660d3e3d",
+            "id": "aeb260d76aef851e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Black Antlers.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "a3ef67cbed3084e2",
-        "type": "tabs",
-        "dimension": 27.083333333333332,
-        "children": [
-          {
-            "id": "ede8fbfc8bba202f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-notebook/Everything Keeps Dissolving - Notes.md",
+                "file": "Releases/Love’s Secret Domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "live four",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,9 +82,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "c1f30e073814a2b3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -122,24 +109,25 @@
         "dimension": 39.83228511530398,
         "children": [
           {
-            "id": "add530f1e7d0ba4d",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
             "id": "9b2c0ecd0ad9383e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Black Antlers.md"
+                "file": "Releases/Love’s Secret Domain.md"
               }
             }
+          },
+          {
+            "id": "7e875fd5fde8f4f8",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "24cac1c6ddbe1ecc",
@@ -152,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Black Antlers.md",
+                "file": "Releases/Love’s Secret Domain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Black Antlers.md",
+                "file": "Releases/Love’s Secret Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Black Antlers.md"
+                "file": "Releases/Love’s Secret Domain.md"
               }
             }
           },
@@ -199,7 +187,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -230,39 +220,40 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "homepage:Open homepage": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c6838c6a660d3e3d",
+  "active": "aeb260d76aef851e",
   "lastOpenFiles": [
-    "-notebook/Everything Keeps Dissolving - Notes.md",
-    "Releases/Black Antlers.md",
-    "Songs/Backwards.md",
-    "Songs/Slur.md",
-    "Live Performance/2002-04-06 — \"The Key to Joy is Disobedience\".md",
-    "Others/Unreleased Projects.md",
-    "Releases/The Remote Viewer.md",
-    "Releases/“Persistence Is All” (Live At Royal Festival Hall).md",
-    "Songs/Teenage Lightning.md",
-    "Releases/A Thousand Lights In A Darkened Room.md",
-    "Songs/Is Suicide A Solution?.md",
-    "Songs/A.Y.O.R..md",
+    "Songs/Love’s Secret Domain.md",
     "Releases/Love’s Secret Domain.md",
-    "Releases/Horse Rotorvator.md",
-    "People/Otto Avery.md",
+    "Songs/Titan Arch.md",
+    "_templates/Song Page (Page Body - Frontmatter Template).md",
+    "Home.md",
+    "Songs/Windowpane.md",
+    "Releases/Love’s Secret Domain (CD Version).md",
+    "Releases/Windowpane.md",
+    "Songs/Teenage Lightning 1.md",
+    "Songs/Things Happen.md",
+    "Songs/Teenage Lightning.md",
+    "_templates/Release Page (Release Navigation).md",
+    "Songs/Panic.md",
+    "Releases/Scatology.md",
+    "Songs/Ubu Noir.md",
+    "-notebook/The Cupboard Under The Stars - Notes.md",
+    "Songs/Cardinal Points.md",
     "Songs/Circles of Mania.md",
-    "Releases/The Sound Of Musick.md",
-    "Songs/Lorca Not Orca.md",
-    "Songs/Ostia (The Death of Pasolini).md",
-    "Songs/Babylero.md",
-    "Releases/The Unreleased Themes For Hellraiser.md",
-    "Songs/The Wheel.md",
-    "Releases/The Wheel ∕ The Wheal ∕ Keelhauler.md",
-    "Songs/Keelhauler.md",
-    "Releases/The Wheel.md",
-    "Songs/Solar Lodge.md",
+    "Songs/Aqua Regis.md",
+    "Releases/Musick To Play In The Dark.md",
+    "Others/Coil.md",
+    "-notebook/To-Do List.org",
+    "-notebook/To-Do List.md",
+    "Songs/Cathedral in Flames.md",
+    "Others/Unreleased Projects.md",
+    "Releases/How to Destroy Angels (Remixes and Re-Recordings).md",
+    "Songs/Tattooed Man.md",
     "_assets/releases/International Dark Skies - Cover.jpg",
     "favicon-256x256.png",
     "favicon-128x128.png",
@@ -277,8 +268,6 @@
     "Spaces/Home",
     "Spaces/Coil Wiki",
     "Spaces",
-    "_assets/releases/Gold is the Metal (Original) Cover.avif",
-    "Gold is the Metal (Original) Cover.avif",
     "_assets/-notebook Attachments",
     "-notebook"
   ]

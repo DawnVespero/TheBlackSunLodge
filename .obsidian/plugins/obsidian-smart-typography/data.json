@@ -1,7 +1,7 @@
 {
   "curlyQuotes": true,
   "emDash": true,
-  "ellipsis": true,
+  "ellipsis": false,
   "arrows": true,
   "comparisons": true,
   "fractions": true,

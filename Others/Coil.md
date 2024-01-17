@@ -5,12 +5,12 @@ Type:
 sticker: lucide//book-copy
 color: "#8854d0"
 Page created: 2023-10-18
-Page modified: 2023-11-16
+Page modified: 2024-01-04
 ---
 
 # Coil
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 ## History
 
@@ -114,7 +114,7 @@ timeline
 		Dolbied <br> 1984
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor  commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 ### Solar Music
 
@@ -142,7 +142,9 @@ timeline
 		Unnatural History I <br> 1990
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+
+%% Though vocal duties were not strictly delegated early on, with Christopherson recording vocals for a number of early Coil tracks such as [[Boy in a Suitcase]] and [[Tainted Love (Sleazy Vocal)|Tainted Love]], John Balance soon became the near exclusive singer of the band. %%
 
 ### The Dark Age of Love
 
@@ -167,7 +169,9 @@ timeline
 		Themes for Derek Jarman's Blue <br> 1993 : The Angelic Conversation <br> 1994
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+
+%% Influenced by the early rise of acid house and related genres of music in the gay club scene of the late 80’s, the band’s music started to become more beat-driven and electronic, departing from their industrial-influenced early sound. %%
 
 ### Backwards
 
@@ -193,7 +197,11 @@ timeline
 		Unnatural History III <br> 1997
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+
+%% In the wake of *’[[Releases/Love’s Secret Domain|Love’s Secret Domain]]’* Coil would depart on a number of projects that would, yet again, explore new sonic directions.%%
+
+%% Among these projects was one that has since become best known under its working title of *’ #Backwards ’*. %%
 
 ### Moon Musick
 
@@ -219,7 +227,9 @@ timeline
 		Zwölf <br> 1999
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+
+ This era of their career saw Coil creating more subtle, sparse and less aggressive music that would also more often incorporate acoustic elements. This style of music became known as *’Moon Musick’*, a name taken from the song *’[[Are You Shivering?]]* off Coil’s 1999 album *’[[Musick To Play In The Dark]]’*. This album, complemented by *’[[Musick To Play In The Dark, Vol. 2]]’* in 2000, would prove to be the culmination of this style, with the band again reorienting their musical output in the years after.
 
 ### Coil Live
 
@@ -251,7 +261,7 @@ timeline
 		Selvaggina, Go Back Into the Woods! <br> 2004
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 ### After J.B
 
@@ -277,7 +287,9 @@ timeline
 		Colour Sound Oblivion <br> 2010
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+
+ The aftermath of Balance’s death and Coil’s subsequent dissolution saw Peter Christopherson largely taking on the role of managing the project’s existing output, with most releases in the years after consisting largely or entirely of previously recorded material.
 
 ### Posthumous
 
@@ -298,7 +310,9 @@ timeline
 	section Posthumous
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Feugiat in ante metus dictum at tempor commodo ullamcorper. Placerat orci nulla pellentesque dignissim enim sit amet. Mauris ultrices eros in cursus turpis massa. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Ligula ullamcorper malesuada proin libero nunc consequat. Vulputate mi sit amet mauris commodo quis. Condimentum lacinia quis vel eros. Dictum sit amet justo donec enim. Sit amet volutpat consequat mauris nunc. Leo duis ut diam quam nulla porttitor massa. Quisque sagittis purus sit amet volutpat. Nibh tellus molestie nunc non blandit massa enim.
+*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+
+ With the death of Christopherson, the creation of new musical releases under the Coil name has almost entirely ceased. The years since have mostly seen a number of reissues of the material in their — now finished — discography, often utilizing a large amount of archival material from surviving associates of the band, such as [[Danny Hyde]] and [[Thighpaulsandra]].
 
 ## Personnel
 

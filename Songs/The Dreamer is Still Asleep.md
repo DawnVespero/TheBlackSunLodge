@@ -34,7 +34,7 @@ Page modified: 2023-12-06
 
 ---
 
-*__The Dreamer is Still Asleep__* is a song originally released on Coil’s 1999 album [[Musick To Play In The Dark, Vol. 1]].
+*__The Dreamer is Still Asleep__* is a song originally released on Coil’s 1999 album [[Musick To Play In The Dark]].
 
 From the *Track-by-Track* feature:
 

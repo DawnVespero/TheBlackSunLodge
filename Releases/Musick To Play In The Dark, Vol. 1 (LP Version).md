@@ -13,7 +13,7 @@ Label:
   - "[[Chalice]]"
 linter-yaml-title-alias: Background
 Original:
-  - "[[Musick To Play In The Dark, Vol. 1]]"
+  - "[[Musick To Play In The Dark]]"
 Page created: 2023-10-05
 Page modified: 2023-10-25
 sticker: lucide//disc

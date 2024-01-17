@@ -4,17 +4,17 @@ aliases: "[]"
 Type: Song
 Original: ""
 Derivative: ""
+Previous Version: ""
+Next Version: ""
+Interpolates: ""
+Interpolated in: ""
 sticker: lucide//music
 color: "#eb3b5a"
 Featured on:
 - [[Scatology]]
 - [[Scatology (1988 CD Version)]]
-Interpolated in: ""
-Interpolates: ""
-Next Version: ""
 Page created: 2023-10-31
-Page modified: 2023-11-11
-Previous Version: ""
+Page modified: 2024-01-08
 ---
 
 # Ubu Noir
@@ -51,6 +51,13 @@ From the liner notes:
 |||
 |||
 
+|  | __[[Scatology]]__ |  |
+| ---- | ---- | --- |
+| *Previous Track* |  | *Next Track* |
+|  |  | [[Panic]] |
+
+---
+
 ## References
 
-[^1]: <https://i.discogs.com/3Ry56qJSY7arcOD2D9AT9OI4Gm7UIPP7gD_2lw9eQPI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzYtMTM5OTQwNjA5/NC03NzQ2LmpwZWc.jpeg>
+[^1]: <https://i.discogs.com/3Ry56qJSY7arcOD2D9AT9OI4Gm7UIPP7gD_2lw9eQPI/rs>:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/NzYtMTM5OTQwNjA5/NC03NzQ2LmpwZWc.jpeg>

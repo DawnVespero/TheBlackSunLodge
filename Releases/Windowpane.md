@@ -1,17 +1,17 @@
 ---
 title: "Windowpane"
 aliases: ""
+description: "1990 single by Coil"
 Type: Release
 SubType: Single
 Date: 1990-01-01
 Legitimacy: Official
+cover: "_assets/releases/Windowpane - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
-cover: _assets/releases/Windowpane - Cover.jpg
 derivative: [[Windowpane (T-ARCH)]]
-description: 1990 single by Coil
 Page created: 2023-10-31
-Page modified: 2023-11-22
+Page modified: 2024-01-16
 ---
 
 # Windowpane

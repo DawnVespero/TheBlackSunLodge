@@ -1,12 +1,14 @@
 ---
 title: The Ape of Naples
 Type: Release
-SubType: Studio Album
+SubType:
+  - Studio Album
 Date: 2005-12-02
 Legitimacy: Official
 sticker: lucide//disc
 color: "#3867d6"
-Label: Threshold House
+Label:
+  - Threshold House
 Page created: 2023-10-31
 Page modified: 2023-11-03
 ---

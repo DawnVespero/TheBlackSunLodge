@@ -1,23 +1,23 @@
 ---
 title: "Windowpane"
 aliases: ""
+description: "1990 song and single by Coil"
 Type: Song
 Original: ""
 Derivative: ""
+Previous Version: ""
+Next Version: ""
+Interpolates: ""
+Interpolated in: ""
+cover: "_assets/releases/Windowpane - Cover.jpg"
 sticker: lucide//music
 color: "#eb3b5a"
-cover: _assets/releases/Windowpane - Cover.jpg
-description: 1990 song and single by Coil
 Featured on:
 - [[Love’s Secret Domain]]
 - [[Love’s Secret Domain (CD Version)]]
 - [[Releases/Windowpane|Windowpane]]
-Interpolated in: ""
-Interpolates: ""
-Next Version: ""
 Page created: 2023-11-07
-Page modified: 2023-11-22
-Previous Version: ""
+Page modified: 2024-01-16
 ---
 
 # Windowpane
@@ -41,7 +41,64 @@ The name of the song is based on Windowpane LSD, a form of LSD baked into a smal
 
 ## Lyrics
 
-*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+> In the sky and  
+> In the eye and (…)  
+> If you want to touch the sky  
+> Just put a window in your eye  
+> See the sun and  
+> See the rain  
+> See the window  
+> See the pain
+>
+> See the sun and  
+> See the rain  
+> See the bird’s-eye  
+> See the brain  
+> Ancient cities rise again
+>
+> See microscopic  
+> See world view  
+> See the future leaking through  
+> See the person who once was you
+>
+> See the sea-shore and  
+> See the sand  
+> See your windows in your hand  
+> See the lie
+>
+> Gold is the sky in concentrate  
+> Power in its purest state  
+> Powers surge  
+> Power will rise  
+> Through the window and  
+> Through the skies  
+> Through the sky  
+> See the sky and  
+> See the eye and  
+> See the sky and  
+> In your hand, in the sky, and in your eye  
+> See the sky  
+> In your hand, in your palm  
+> See the sky and understand
+>
+> Gold is the sky in concentrate  
+> Power in its purest state  
+> Power will rise  
+> Power will fly  
+> Through the window  
+> Through your eye
+>
+> Gold is the sky (…)  
+> Riches, treasures (…)
+>
+> Gold is the sky in concentrate  
+> Power in its purest state  
+> Power will rise  
+> Power will fly  
+> Through the window  
+> Through your eye
+>
+> Gold is the sky—
 
 ## Versions
 

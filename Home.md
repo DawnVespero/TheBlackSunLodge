@@ -1,11 +1,14 @@
 ---
 title: "Welcome to the Black Sun Lodge"
-aliases: "[]"
+aliases:
+  - Welcome to the Black Sun Lodge
+  - "[]"
 Type: 
 sticker: lucide//home
 color: "#4b6584"
+linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-11-12
-Page modified: 2023-12-22
+Page modified: 2024-01-16
 ---
 
 ![[banner.jpeg]]
@@ -31,7 +34,7 @@ Welcome, astral traveller, to the cold, musky halls of __Thee Black Sun Lodge__!
 [[Gold is the Metal (with the Broadest Shoulders)]]
 
   ![[Loves Secret Domain (30th Anniversary) - Cover.jpg|200]]  
-[[Love’s Secret Domain]]
+[[Releases/Love’s Secret Domain|Love’s Secret Domain]]
 
 ![[Born Again Pagans - Cover.jpg|200]]  
 [[Born Again Pagans]]
@@ -52,7 +55,7 @@ Welcome, astral traveller, to the cold, musky halls of __Thee Black Sun Lodge__!
 [[Astral Disaster]]
 
 ![[Musick To Play in the Dark, Vol. 1 - Cover.jpg|200]] ![[Musick To Play in the Dark, Vol. 2 - Cover.jpg|200]]  
-[[Musick To Play In The Dark, Vol. 1]] & [[Musick To Play In The Dark, Vol. 2|Vol. 2]]
+[[Musick To Play In The Dark]] & [[Musick To Play In The Dark, Vol. 2|Vol. 2]]
 
 ![[Queens of the Circulating Library (Dais) - Cover.jpg|200]]  
 [[Releases/Queens of the Circulating Library|Queens of the Circulating Library]]

@@ -21,7 +21,7 @@ Upon its initial announcement a number of releases were said to already be in pr
 - A compilation of [[Worship The Glitch]], [[A Thousand Lights In A Darkened Room]] and [[Time Machines]] with a collection of ‘oddities’ from 1995–1998
 - *The New Orleans Backwards* 4-CD box-set with demos from the #Backwards session, [[The Ape of Naples]] and [[The New Backwards]]
 - *Astral Disaster* 3-CD box-set, including the [[Astral Disaster|LP version]], [[Astral Disaster (CD Version)|CD version]] and unused songs
-- *Musick to Play in the Dark* collection, with [[Musick To Play In The Dark, Vol. 1|MTPID 1]], [[Musick To Play In The Dark, Vol. 2|MTPID 2]], [[Songs/Queens of the Circulating Library|Queens of the Circulating Library]] and [[Constant Shallowness Leads To Evil]]
+- *Musick to Play in the Dark* collection, with [[Musick To Play In The Dark|MTPID 1]], [[Musick To Play In The Dark, Vol. 2|MTPID 2]], [[Songs/Queens of the Circulating Library|Queens of the Circulating Library]] and [[Constant Shallowness Leads To Evil]]
 - A re-release of [[ANS]]
 - A collection of [[Black Antlers]] and [[The Remote Viewer]] alongside unused songs
 

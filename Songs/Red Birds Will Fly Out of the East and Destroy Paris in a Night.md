@@ -35,7 +35,7 @@ Page modified: 2023-12-06
 
 ---
 
-*__Red Birds Will Fly Out of the East and Destroy Paris in a Night__* is a song originally released on Coil’s 1999 album [[Musick To Play In The Dark, Vol. 1]].
+*__Red Birds Will Fly Out of the East and Destroy Paris in a Night__* is a song originally released on Coil’s 1999 album [[Musick To Play In The Dark]].
 
 From the *Track-by-Track* feature:
 

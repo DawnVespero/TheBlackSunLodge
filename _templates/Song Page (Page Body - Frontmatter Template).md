@@ -15,12 +15,12 @@
 
 ---
 
-*__<% tp.frontmatter.title %>__* is a song originally released on Coil's [YEAR] album [RELEASE NAME].
+*__<% tp.frontmatter.title %>__* is a song originally released on Coil's <% tp.file.cursor(1) %> album <% tp.file.cursor(2) %>. 
 
 ## Lyrics
-
+???
 ## Versions
-
+???
 ## Personnel
 
 |Name|Credit|
@@ -29,4 +29,4 @@
 |||
 
 ## References
-%%[^1]:%%
+--- Insert Footnotes here ---

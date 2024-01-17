@@ -22,7 +22,7 @@ Featured on:
   - "[[Horse Rotorvator (1988 CD Version)]]"
   - "[[Horse Rotorvator (US Cassette Release)]]"
 Page created: 2023-10-05
-Page modified: 2023-12-25
+Page modified: 2024-01-05
 ---
 
 # Circles of Mania
@@ -42,7 +42,7 @@ Page modified: 2023-12-25
 ---
 
 *__Circles of Mania__* is a song originally released on Coil’s 1987 album [[Horse Rotorvator]].  
-The song went under the working title of *‘Twister’*, but this was changed to avoid similarities to the Psychic TV song *‘Twisted’*.[^1]
+The song went under the working title of *‘Twister’* (as well as *’Dreamless Sleep’*[^1]), but this was changed to avoid similarities to the Psychic TV song *‘Twisted’*.[^2]
 
 ## Lyrics
 
@@ -81,7 +81,7 @@ The song went under the working title of *‘Twister’*, but this was changed t
 > I’m writhing, perspiring  
 > Like [Dutch Schultz](https://en.wikipedia.org/wiki/Dutch_Schultz#Death) at 106 degrees…  
 > I wake up licking and sucking the bedsheets  
-> Licking and sucking… [^2]
+> Licking and sucking… [^3]
 
 ## Versions
 
@@ -94,5 +94,6 @@ The song went under the working title of *‘Twister’*, but this was changed t
 
 ## References
 
-[^1]: Nick Soulsby: *Everything Keeps Dissolving*, p. 245
-[^2]: <https://i.discogs.com/GE5RQAUfD42oB1IY4-ayiqgpyg7LPpYbXrlwVjO6Gwg/rs>:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/Ni0xMzQyMjUxODE1/LTcyNTIuanBlZw.jpeg>
+[^1]: see John Balance, ed. Clause Laufenburg: *The Cupboard under the Stars*, publ. Timeless, 2023
+[^2]: Nick Soulsby: *Everything Keeps Dissolving*, p. 245
+[^3]: <https://i.discogs.com/GE5RQAUfD42oB1IY4-ayiqgpyg7LPpYbXrlwVjO6Gwg/rs>:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/Ni0xMzQyMjUxODE1/LTcyNTIuanBlZw.jpeg>

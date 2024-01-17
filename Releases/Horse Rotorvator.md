@@ -14,7 +14,7 @@ Label:
 - [[Some Bizzare Records]]
 - [[Force & Form]]
 Page created: 2023-10-05
-Page modified: 2023-12-25
+Page modified: 2023-12-30
 ---
 
 # Horse Rotorvator
@@ -45,7 +45,10 @@ The title of the album was inspired by a dream of [[Jhonn Balance]]‘s,[^1] whi
 
 ## Recording
 
-*This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
+A number of tracks are known to have been written for *Horse Rotorvator* that did not appear on the final album:
+
+- [[Cardinal Points]] was intended for inclusion, but instead saw a later release on [[Gold is the Metal (with the Broadest Shoulders)|Gold is the Metal]].[^3]
+- The eponymous track *Horse Rotorvator* had lyrics written for it and revised several times by Jhonn Balance. It is not known if any recordings were made for it.[^4]
 
 ## Release
 
@@ -57,17 +60,17 @@ The cover art of the original LP release of the album features a photograph of t
 
 The later 1988 CD release features a fisheye lens photograph of the sculpture *[Physical Energy](https://en.wikipedia.org/wiki/Physical_Energy_(sculpture)#Casts)* by George Frederic Watts, located in London’s Kensington Gardens.
 
-A test pressing is also known to exist which uses artwork by Trevor Brown, also used on the contemporaneous *A Coil Magazine*.[^3]
+A test pressing is also known to exist which uses artwork by Trevor Brown, also used on the contemporaneous *A Coil Magazine*.[^5]
 
 ### Packaging
 
-Unlike the preceding album, [[Scatology]], *Horse Rotorvator* did not contain any explanatory liner notes, with the 1988 CD release only receiving liner notes with lyrics. This was a deliberate decision, as the band felt that the amount of liner notes on [[Scatology]] was excessive and worked against the album’s mystique.[^4]
+Unlike the preceding album, [[Scatology]], *Horse Rotorvator* did not contain any explanatory liner notes, with the 1988 CD release only receiving liner notes with lyrics. This was a deliberate decision, as the band felt that the amount of liner notes on [[Scatology]] was excessive and worked against the album’s mystique.[^6]
 
 ### Versions
 
-- __1986 Promo cassette__: A promotional cassette released in 1986 uses the working titles for two tracks: *“Baby Lero”* for [[Babylero]], and *“Acapulco March”* for [[Herald]]. In addition, the song listed as [[Songs/The Anal Staircase|The Anal Staircase]] is actually [[The Anal Staircase (Relentless Mix)]], suggesting the latter was the originally intended album mix.[^5]
+- __1986 Promo cassette__: A promotional cassette released in 1986 uses the working titles for two tracks: *“Baby Lero”* for [[Babylero]], and *“Acapulco March”* for [[Herald]]. In addition, the song listed as [[Songs/The Anal Staircase|The Anal Staircase]] is actually [[The Anal Staircase (Relentless Mix)]], suggesting the latter was the originally intended album mix.[^7]
 - __Original 1987 LP release__: Like the preceding album, [[Scatology]], *Horse Rotorvator* did not initially receive a CD release, only being distributed on vinyl record and tape.
-- __[[Horse Rotorvator (US Cassette Release)|U.S. cassette release]]__: This version, distributed by Relativity Records, adds the tracks [[Ravenous]] and [[The Anal Staircase (A Dionysian Remix)]] from the [[Releases/The Anal Staircase|The Anal Staircase]] single to the track list, though they are not listed in the packaging. It also uses the working titles seen on the 1986 promo cassette, in addition to the title *“Silk”* for [[Slur]]. [^6]
+- __[[Horse Rotorvator (US Cassette Release)|U.S. cassette release]]__: This version, distributed by Relativity Records, adds the tracks [[Ravenous]] and [[The Anal Staircase (A Dionysian Remix)]] from the [[Releases/The Anal Staircase|The Anal Staircase]] single to the track list, though they are not listed in the packaging. It also uses the working titles seen on the 1986 promo cassette, in addition to the title *“Silk”* for [[Slur]]. [^8]
 - __[[Horse Rotorvator (1988 CD Version)|1988 CD release]]__: Like the U.S. cassette release, the 1988 cassette release added [[Ravenous]] to the track list. Unlike the former though, it did not add [[The Anal Staircase (A Dionysian Remix)]].
 
 ![[Horse Rotorvator (1986 Vinyl) Cover.jpg|150]] ![[Horse Rotorvator (Test Pressing) Cover.jpg|150]] ![[Horse Rotorvator (1988 CD Version) Cover.jpg|150]] ![[Horse Rotorvator (2001 CD Remaster) - Cover.jpeg|150]]  
@@ -103,12 +106,14 @@ Unlike the preceding album, [[Scatology]], *Horse Rotorvator* did not contain an
 |---|---|
 | __[[Peter Christopherson]]__ |  |
 | __[[Jhonn Balance|John Balance]]__ |  |
-| __[[Stephen Thrower]]__ | Woodwinds, Guitar, Percussion[^7] |
+| __[[Stephen Thrower]]__ | Woodwinds, Guitar, Percussion[^9] |
 
 [^1]: <http://brainwashed.com/common/htdocs/publications/coil-1986-stator.php?site=coil08>
 [^2]: <https://i.discogs.com/uu2LnTJLb65B45hA9PK8DIh7wbsWxDc2fyMOa_n0pMc/rs>:fit/g:sm/q:90/h:210/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDMw/NS0xNDcyODQ5MTky/LTc4MDAucG5n.jpeg>
-[^3]: <http://brainwashed.com/coil/images/magazine/cover.jpg,> <http://brainwashed.com/coil/images/magazine/index.jpg>
-[^4]: Nick Soulsby: *Everything Keeps Dissolving*, p. 199
-[^5]: <https://www.discogs.com/release/194173-Coil-Horse-Rotorvator>
-[^6]: <https://www.discogs.com/release/90856-Coil-Horse-Rotorvator>
-[^7]: Nick Soulsby: *Everything Keeps Dissolving*, p. 262
+[^3]: <https://i.discogs.com/xY7gCN4CHCQ5ghRidGo5BA066OeSz7zNLX65ix48q4k/rs>:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE4/MS0xNDM5NzI1NDE3/LTkwNjUucG5n.jpeg>
+[^4]: see John Balance, ed. Clause Laufenburg: *The Cupboard under the Stars*, publ. Timeless, 2023
+[^5]: <http://brainwashed.com/coil/images/magazine/cover.jpg,> <http://brainwashed.com/coil/images/magazine/index.jpg>
+[^6]: Nick Soulsby: *Everything Keeps Dissolving*, p. 199
+[^7]: <https://www.discogs.com/release/194173-Coil-Horse-Rotorvator>
+[^8]: <https://www.discogs.com/release/90856-Coil-Horse-Rotorvator>
+[^9]: Nick Soulsby: *Everything Keeps Dissolving*, p. 262

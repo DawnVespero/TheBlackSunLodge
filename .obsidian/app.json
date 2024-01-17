@@ -28,6 +28,7 @@
   "showInlineTitle": false,
   "livePreview": false,
   "defaultViewMode": "source",
-  "vimMode": false,
-  "autoPairMarkdown": false
+  "vimMode": true,
+  "autoPairMarkdown": false,
+  "showUnsupportedFiles": true
 }
