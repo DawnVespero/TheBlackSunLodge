@@ -16,7 +16,7 @@ Label:
   - - - Torso
   - - - Wax Trax!
 Page created: 2023-10-31
-Page modified: 2024-01-17
+Page modified: 2024-01-18
 ---
 
 # Love’s Secret Domain
@@ -51,7 +51,7 @@ Due to its long development, some of the material featured on the album dates ba
 
 The final record, however, contains little material made for *The Dark Age of Love*, with John Balance claiming that it was “99% new material.”[^8]
 
-At some point, it was planned to give all songs on *Love’s Secret Domain* titles that would abbreviate to L.S.D.[^9]
+At some point, it was planned to give all songs on *Love’s Secret Domain* titles that would abbreviate to L.S.D.[^9] A remnant of this idea can be seen in the name of the track *[[Songs/Light Shining Darkly|Light Shining Darkly]]* from the companion album *[[Releases/Stolen and Contaminated Songs|Stolen and Contaminated Songs]]*.
 
 ## Release
 

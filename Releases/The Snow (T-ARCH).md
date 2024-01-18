@@ -1,93 +1,58 @@
 ---
+title: "The Snow (T-ARCH)"
+aliases: ""
 Type: Release
-Sub-Type: Compilation
-Legitimacy: Semi-Official
+SubType: Compilation
 Date: 2015-01-01
+Legitimacy: Semi-Official
 Original:
-  - "[[Windowpane & The Snow]]"
-color: "#3867d6"
+  - [[Releases/The Snow|The Snow]]
+Derivative:
+- [["Releases/Love's Secret Domain (30th Anniversary Edition)|Love's Secret Domain (30th Anniversary Edition)"]]
 sticker: lucide//disc
-title: The Snow (T-ARCH)
-Page created: 2023-10-17
-Page modified: 2023-10-24
+color: "#3867d6"
 banner: "_assets/The Snow (T-ARCH) - Cover.jpg"
-Derivative: 
+Label: [[Labels/Threshold Archives|Threshold Archives]]
+Page created: 2023-10-17
+Page modified: 2024-01-17
 ---
 
 # The Snow (T-ARCH)
 
-*__[RELEASE NAME]__* is a [SUB-TYPE] by Coil, released in [YEAR] by [LABEL]. [ADDITIONAL INTRODUCTION NOTES].
+![[_assets/releases/The Snow (T-ARCH) - Cover.jpg|700]]
 
-# Background
+|  |  |  |
+| ---- | ---- | ---- |
+| __Title__: | The Snow (T-ARCH) |  |
+| __Type__: | Compilation |  |
+| __Legitimacy__: | Semi-Official |  |
+| __Release date:__ | 2015-10-09 |  |
+| __Label:__ | [[Labels/Threshold Archives\|Threshold Archives]] |  |
+| __Original__: | [[Releases/The Snow\|The Snow]] |  |
+| __Derivative__: | [[Releases/Love's Secret Domain (30th Anniversary Edition)\|Love's Secret Domain (30th Anniversary Edition)]] |  |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+---
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Recording
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Release
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Artwork
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Packaging
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*__The Snow (T-ARCH)__* is a version of  [[Releases/The Snow|The Snow]]T-ARCH, released on Dec. 28th, 2014 by undefined. [ADDITIONAL INTRODUCTION NOTES].
 
 ## Tracklist
-1. [[The Snow (Driftmix)]]
-2. [[The Snow (Answers Come In Dreams Ⅰ)]]
-3. [[The Snow (Out in the Cold)]]
-4. [[The Snow (As Pure As?)]]
-5. [[The Snow (Answers Come in Dreams Ⅱ)]]
-6. [[Pre-Original Chaostrophy]]
-7. [[[Untitled] (The Snow #7)]]
-8. [[[Untitled] (The Snow #8)]]
-9. [[[Untitled] (The Snow #9)]]
-10. [[Meet Murder My Angel (Instrumental)]]
-11. [[Things Happen (Early)]]
-12. [[[Untitled] (The Snow #12)]]
-13. [[Love’s Secret Domain (Early Instrumental)]]  
-![![_templates/#^Table]]
-[^1]:
+
+1. [[Songs/The Snow (Driftmix)|The Snow (Driftmix)]]
+2. [[Songs/The Snow (Answers Come In Dreams Ⅰ)|The Snow (Answers Come In Dreams Ⅰ)]]
+3. [[Songs/The Snow (Out in the Cold)|The Snow (Out in the Cold)]]
+4. [[Songs/The Snow (As Pure As?)|The Snow (As Pure As?)]]
+5. [[Songs/The Snow (Answers Come in Dreams Ⅱ)|The Snow (Answers Come in Dreams Ⅱ)]]
+6. [[Songs/Pre-Original Chaostrophy|Pre-Original Chaostrophy]]
+7. [[Songs/［Untitled］(The Snow № 7)|［Untitled］(The Snow № 7)]]
+8. [[Songs/［Untitled］(The Snow № 8)|［Untitled］(The Snow № 8)]]
+9. [[Songs/［Untitled］(The Snow № 9)|［Untitled］(The Snow № 9)]]
+10. [[Songs/Meet Murder My Angel (Instrumental)|Meet Murder My Angel (Instrumental)]]
+11. [[Songs/Things Happen (Early)|Things Happen (Early)]]
+12. [[ Songs/［Untitled］(The Snow № 12) ]]
+13. [[Love’s Secret Domain (Early Instrumental)]]
+
+## Personnel
+
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|

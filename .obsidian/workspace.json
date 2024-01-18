@@ -4,18 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcb260d19930185",
+        "id": "044ef0cf79837fce",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb260d76aef851e",
+            "id": "76860e4745538759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Love’s Secret Domain.md",
+                "file": "Songs/Light Shining Darkly.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fea0da17e8413cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Her Friends the Wolves….md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2514cfc3f61a47b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Who’ll Fall?.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b2ee52447889ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Who’ll Tell?.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Love’s Secret Domain.md"
+                "file": "Songs/Light Shining Darkly.md"
               }
             }
           },
@@ -140,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Love’s Secret Domain.md",
+                "file": "Songs/Light Shining Darkly.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Love’s Secret Domain.md",
+                "file": "Songs/Light Shining Darkly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Love’s Secret Domain.md"
+                "file": "Songs/Light Shining Darkly.md"
               }
             }
           },
@@ -225,35 +260,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "aeb260d76aef851e",
+  "active": "76860e4745538759",
   "lastOpenFiles": [
-    "Songs/Love’s Secret Domain.md",
+    "Songs/Who’ll Tell?.md",
+    "Songs/Who’ll Fall?.md",
+    "Songs/Her Friends the Wolves….md",
+    "Songs/Light Shining Darkly.md",
+    "_templates/Song Page (Frontmatter).md",
+    "Releases/Stolen and Contaminated Songs.md",
+    "_templates/Blank Section Placeholder.md",
+    "_templates/Release Page (Frontmatter).md",
+    "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
     "Releases/Love’s Secret Domain.md",
-    "Songs/Titan Arch.md",
-    "_templates/Song Page (Page Body - Frontmatter Template).md",
     "Home.md",
-    "Songs/Windowpane.md",
-    "Releases/Love’s Secret Domain (CD Version).md",
-    "Releases/Windowpane.md",
-    "Songs/Teenage Lightning 1.md",
-    "Songs/Things Happen.md",
-    "Songs/Teenage Lightning.md",
-    "_templates/Release Page (Release Navigation).md",
-    "Songs/Panic.md",
-    "Releases/Scatology.md",
-    "Songs/Ubu Noir.md",
-    "-notebook/The Cupboard Under The Stars - Notes.md",
-    "Songs/Cardinal Points.md",
-    "Songs/Circles of Mania.md",
-    "Songs/Aqua Regis.md",
-    "Releases/Musick To Play In The Dark.md",
-    "Others/Coil.md",
+    "Releases/Love's Secret Domain (30th Anniversary Edition).md",
+    "Releases/Windowpane (T-ARCH).md",
+    "Releases/The Snow (T-ARCH).md",
+    "Songs/Meet Murder My Angel (Instrumental).md",
+    "Songs/Things Happen (Early).md",
+    "Songs/［Untitled］(The Snow № 12).md",
+    "Songs/［Untitled］(The Snow № 9).md",
+    "Songs/［Untitled］(The Snow № 8).md",
+    "Songs/The Snow (As Pure As?).md",
+    "Songs/The Snow (Out in the Cold).md",
+    "Songs/The Snow (Answers Come In Dreams Ⅰ).md",
+    "Songs/The Snow (Driftmix).md",
+    "Songs/Pre-Original Chaostrophy.md",
+    "Songs/The Snow (Answers Come in Dreams Ⅱ).md",
+    "Songs/［Untitled］(The Snow № 7).md",
+    "Songs/Disco Hospital (Unedited).md",
     "-notebook/To-Do List.org",
-    "-notebook/To-Do List.md",
-    "Songs/Cathedral in Flames.md",
-    "Others/Unreleased Projects.md",
-    "Releases/How to Destroy Angels (Remixes and Re-Recordings).md",
-    "Songs/Tattooed Man.md",
     "_assets/releases/International Dark Skies - Cover.jpg",
     "favicon-256x256.png",
     "favicon-128x128.png",
@@ -263,7 +299,6 @@
     "_assets/releases/Animal Are You (Bottle Label) - Cover.jpeg",
     "_assets/photos/William Breeze (2008) - Photo.jpeg",
     "_assets/photos/Thighpaulsandra (2004) - Photo.jpeg",
-    "_assets/photos/Thighpaulsandra (1998) - Photo.jpeg",
     "\"Releases",
     "Spaces/Home",
     "Spaces/Coil Wiki",

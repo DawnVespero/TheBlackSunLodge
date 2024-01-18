@@ -1,54 +1,80 @@
 ---
-title: Background
-aliases: [Background]
+title: "Love’s Secret Domain (30th Anniversary Edition)"
+aliases: ""
+description: "Expanded release of *Love's Secret Domain*"
 Type: Release
+SubType: Studio Album
 Date: 2021-03-29
+Legitimacy: Semi-Official
 Original:
-  - "[[Love’s Secret Domain]]"
+- [[Releases/Love’s Secret Domain|Love’s Secret Domain]]
+- [[The Snow (T-ARCH)]]
+- [[Windowpane (T-ARCH)]]
+Derivative: 
+cover: "_assets/releases/Scatology (1984 Vinyl) Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
 Label:
-  - "[[Infinite Fog Production]]"
-linter-yaml-title-alias: Background
+- [[Infinite Fog Production]]
 Page created: 2023-10-05
-Page modified: 2023-11-06
+Page modified: 2024-01-17
 ---
 
-*__[RELEASE NAME]__* is a __[SUB-TYPE]__ by Coil, released in __[YEAR]__ by __[LABEL]__. __[ADDITIONAL INTRODUCTION NOTES]__.
+# Love’s Secret Domain (30th Anniversary Edition)
 
-# Background
+![[_assets/releases/Loves Secret Domain (30th Anniversary) - Cover.jpg|700]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+|  |  |
+| --- | --- |
+| __Title__: | Love’s Secret Domain (30th Anniversary Edition) |
+| __Type__: | Studio Album |
+| __Legitimacy__: | Semi-Official |
+| __Release date:__ | 2021-03-29 |
+| __Label:__ | [[Infinite Fog Production]] |
+| __Original__: | [[Releases/Love’s Secret Domain\|Love’s Secret Domain]]<br>[[The Snow (T-ARCH)]]<br>[[Windowpane (T-ARCH)]] |
+| __Derivative__: |  |
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+---
 
-Suspendisse potenti.
+*__Love’s Secret Domain (30th Anniversary Edition)__* is a semi-official studio album by Coil, released on Mar. 29th, 2021 by [[Infinite Fog Production]]. It is an expanded version of the 1991 album [[Releases/Love’s Secret Domain|Love’s Secret Domain]].
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+The album supplements the track list of the original *Love’s Secret Domain* with a number of alternate and early versions of its songs, some of which were previously released on the [[Threshold Archives]] releases of [[The Snow (T-ARCH)|The Snow]] and [[Windowpane (T-ARCH)|Windowpane]].
 
-# Recording
+## Tracklist
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+1. [[Disco Hospital]]
+2. [[Teenage Lightning 1]]
+3. [[Things Happen]]
+4. [[Songs/The Snow|The Snow]]
+5. [[Dark River]]
+6. [[Where Even the Darkness is Something to See]]
+7. [[Teenage Lightning|Teenage Lightning 2]]
+8. [[Songs/Windowpane|Windowpane]]
+9. [[Further Back and Faster]]
+10. [[Titan Arch]]
+11. [[Chaostrophy]]
+12. [[Lorca Not Orca]]
+13. [[Songs/Love’s Secret Domain|Love’s Secret Domain]]
+14. [[Songs/Disco Hospital (Unedited)|Disco Hospital (Unedited)]]
+15. [[Songs/Teenage Lightning (gtr)|Teenage Lightning (gtr)]]
+16. [[Songs/The Snow (Demonic Apollo A Version)|The Snow (Demonic Apollo A Version)]]
+17. [[Songs/Dark River (Alternative Ruff From Point Studio Mix)|Dark River (Alternative Ruff From Point Studio Mix)]]
+18. [[Songs/Teenage Lightning (Various)|Teenage Lightning (Various)]]
+19. [[Songs/Further Back and Faster (Didgeridoo)|Further Back and Faster (Didgeridoo)]]
+20. [[Songs/The Snow (Demonic Apollo B Version)|The Snow (Demonic Apollo B Version)]]
+21. [[Songs/Carvers and Gilders (Chaostrophy)|Carvers and Gilders (Chaostrophy)]]
+22. [[Songs/The Dark Age Of Love (Balance)|The Dark Age Of Love (Balance)]]
+23. [[Songs/Love’s Secret Domain (Early Instrumental)|Love’s Secret Domain (Early Instrumental)]]
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+# Personnel
 
-Suspendisse potenti.
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+---
 
-# Release
+# References
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+[Entry at Brainwashed]()  
+%% :[^1] %%

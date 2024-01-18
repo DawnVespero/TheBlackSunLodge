@@ -59,10 +59,10 @@
     "Live Performance",
     "Others",
     "-notebook",
+    "Releases",
     "_templates",
-    "Songs",
     "/",
-    "Releases"
+    "Songs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

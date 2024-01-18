@@ -1,17 +1,24 @@
 ---
-title: ""
+title: <% tp.file.cursor(1) %>
 Type: Song
-description:
-cover:
+description: <% tp.file.cursor(2) %>
+cover: <% tp.file.cursor(3) %>
 Featured on: 
-- ""
-Original: ""
-Derivative: ""
-Previous Version: ""
-Next Version: ""
-Alternate Version: ""
-Interpolated in: ""
-Interpolates: ""
+- <% tp.file.cursor(4) %>
+Original:
+- 
+Derivative:
+- 
+Previous Version:
+- 
+Next Version:
+- 
+Alternate Version:
+- 
+Interpolated in:
+- 
+Interpolates:
+- 
 sticker: lucide//music
 color: "#eb3b5a"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Love’s Secret Domain"
 aliases: ""
-description: ""
+description: "1991 song by Coil"
 Type: Song
 Original: ""
 Derivative: ""

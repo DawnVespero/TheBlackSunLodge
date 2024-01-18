@@ -1,98 +1,50 @@
 ---
+title: "Windowpane (T-ARCH)"
+aliases: ""
+description: "2015 expanded re-release of the 1990 single"
 Type: Release
-Sub-Type: Compilation
+SubType: Compilation
+Date: 2015-10-09
 Legitimacy: Semi-Official
-Date: 2015-01-01
 Original:
-  - "[[Windowpane]]"
-color: "#3867d6"
+- [[Releases/Windowpane|Windowpane]]
+Derivative:
+- [["Releases/Love's Secret Domain (30th Anniversary Edition)|Love's Secret Domain (30th Anniversary Edition)"]]
+cover: "_assets/releases/Scatology (1984 Vinyl) Cover.jpg"
 sticker: lucide//disc
-title: Windowpane (T-ARCH)
-Page created: 2023-10-17
-Page modified: 2023-10-24
-banner: "_assets/Windowpane (T-ARCH) - Cover.jpg"
-Derivative: 
+color: "#3867d6"
 Label:
-  - 
+- [[Labels/Threshold Archives|Threshold Archives]]
+Page created: 2023-10-05
+Page modified: 2024-01-17
 ---
 
 # Windowpane (T-ARCH)
 
-*__[RELEASE NAME]__* is a [SUB-TYPE] by Coil, released in [YEAR] by [LABEL]. [ADDITIONAL INTRODUCTION NOTES].
+![[_assets/releases/Windowpane (T-ARCH) - Cover.jpg|700]]
 
-# Background
+|  |  |
+| --- | --- |
+| __Title__: | Windowpane (T-ARCH) |
+| __Type__: | Compilation |
+| __Legitimacy__: | Semi-Official |
+| __Release date:__ | 2015-10-09 |
+| __Label:__ | [[Labels/Threshold Archives\|Threshold Archives]] |
+| __Original__: | [[Releases/Windowpane\|Windowpane]] |
+| __Derivative__: | [[Releases/Love's Secret Domain (30th Anniversary Edition)\|Love's Secret Domain (30th Anniversary Edition)]] |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+---
 
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Recording
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-# Release
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Artwork
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Packaging
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-Suspendisse potenti.
-
-Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
-
-## Versions
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- Suspendisse potenti.
-- Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
+*__Windowpane (T-ARCH)__* is a version of  [[Releases/Windowpane|Windowpane]], released on Oct. 9th, 2015 by [[Labels/Threshold Archives|Threshold Archives]].
 
 ## Tracklist
-1. [[Windowpane (Minimal Mix)]]
-2. [[Windowpane (12” Mix)]]
-3. [[Windowpane (Astral Paddington Mix)]]
-4. [[Carvers and Gliders (Chaostrophy)]]
-5. [[Fidget (Further Back and Faster)]]
-6. [[Dark River (Early)]]
-7. [[Oh No There’s Another (Things Happen)]]
-8. [[Disco Hospital (Unedited)]]
-9. [[Teenage Lightning (Early)]]
-10. [[Titan Arch (Early)]]
-11. [[The Dark Age of Love (Balance)]]
-12. [[The Dark Age of Love (Marc)]]
 
-# Personnel
+1. Lorem ipsum
+2. Dolor sit amet
+3. Consectetur
 
-![![_templates/#^Table]]
+## Personnel
 
-[^1]:
+| __Name__ |__Credit__ |
+| --- | --- |
+|__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
