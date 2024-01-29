@@ -1,0 +1,64 @@
+.theme-dark {
+  --paletteDark-black0: #191520;
+  --paletteDark-black1: #1f1a2a;
+  --paletteDark-black2: #29223b;
+  --paletteDark-black3: #332c52;
+  --paletteDark-black4: #343665;
+
+  --paletteDark-white0: #d9e6ff;
+  --paletteDark-white1: #aac3f2;
+  --paletteDark-white2: #627db2;
+  --paletteDark-white3: #40557f;
+
+  --paletteDark-blue0: #71a1e5;
+  --paletteDark-blue1: #406ab2;
+  --paletteDark-blue2: #2c467f;
+  --paletteDark-blue3: #263153;
+
+  --paletteDark-green0: #9ad1ed;
+  --paletteDark-green1: #73a6bf;
+  --paletteDark-green2: #476c7f;
+  --paletteDark-green3: #29404c;
+
+  --paletteDark-yellow0: #ffffd1;
+  --paletteDark-yellow1: #e6ddbe;
+  --paletteDark-yellow2: #e0d1a2;
+  --paletteDark-yellow3: #4d4a43;
+
+  --color-base-05: fuchsia;
+  --color-base-60: fuchsia;
+  
+  /* * Primary Text Color */
+  --color-base-100: var(--paletteDark-white0);
+  
+  /* * Muted Text Color */
+  --color-base-70: var(--paletteDark-white2);
+  
+  /* * Secondary Highlight color (ol counters, backlinks) */
+  --color-base-50: var(--paletteDark-green0);
+  
+  /* * Divider color (tables, markdown dividers, title bar) */
+  --color-base-30: var(--paletteDark-black2);
+  
+  /* * Primary window body color */
+  --color-base-00: var(--paletteDark-black0);
+  
+  /* * Color for muted secondary surfaces (title and status bar when window is not focused) */
+  --color-base-20: var(--paletteDark-black4);
+  
+  /* * Background color for inactive interactive elements */
+  --color-base-35: var(--paletteDark-black3);
+  
+  /* * Border color for active modal windows */
+  --color-base-40: var(--paletteDark-black4);
+  
+  /* * Background color for text input */
+  --color-base-25: var(--paletteDark-black3);
+  
+  /* * Background color for inactive preview floats */
+  --color-base-10: var(--paletteDark-black4);
+
+  --accent-h: 215;
+  --accent-s: 69%;
+  --accent-l: 67%;
+}

@@ -43,7 +43,7 @@ Page modified: 2023-11-02
 10. [[Songs/A.Y.O.R. ∕ It’s In My Blood (Backwards ‘15)|A.Y.O.R. \ It’s In My Blood]]
 11. [[Songs/A Cold Cell (Backwards ’15)|A Cold Cell]]
 12. [[Songs/Fire of the Mind (Backwards ‘15)|Fire of the Mind]]
-13. [[Songs/Spastiche (Backwards ‘15)|Spactiche]]
+13. [[Songs/Spastiche (Basic)|Spactiche]]
 14. [[Songs/Wir-Click-Wir ‘98 (Low Chords)|Wur Click 98 Lo Chords]]
 15. [[Songs/Heaven’s Blade ‘98 (Jams)|Heaven’s Blade- 98 Jams]]
 16. [[Songs/Mellotron Song (Backwards ‘15)|Mellotron Song]]

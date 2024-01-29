@@ -9,6 +9,8 @@
   "baseFontSize": 18,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "Callouts"
+  ],
   "showViewHeader": true
 }

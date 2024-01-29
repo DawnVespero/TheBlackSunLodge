@@ -4,55 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "044ef0cf79837fce",
+        "id": "890bfefb0b0396d6",
         "type": "tabs",
         "children": [
           {
-            "id": "76860e4745538759",
+            "id": "d79134cec4da9b1e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Light Shining Darkly.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "fea0da17e8413cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Her Friends the Wolves….md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2514cfc3f61a47b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Who’ll Fall?.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1b2ee52447889ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Who’ll Tell?.md",
-                "mode": "source",
-                "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -104,14 +70,6 @@
             }
           },
           {
-            "id": "5139181b47229bfe",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "2771e8ef4a97ecf1",
             "type": "leaf",
             "state": {
@@ -120,14 +78,15 @@
             }
           },
           {
-            "id": "c1f30e073814a2b3",
+            "id": "7e2ffbdd62dd6cc8",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
+              "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Light Shining Darkly.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Light Shining Darkly.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,14 +151,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Light Shining Darkly.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "726e5e60e06c72f2",
@@ -212,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Songs/Light Shining Darkly.md"
+                "file": "Home.md"
               }
             }
           },
@@ -248,47 +206,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "publish:Änderungen veröffentlichen": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "76860e4745538759",
+  "active": "d79134cec4da9b1e",
   "lastOpenFiles": [
-    "Songs/Who’ll Tell?.md",
-    "Songs/Who’ll Fall?.md",
-    "Songs/Her Friends the Wolves….md",
-    "Songs/Light Shining Darkly.md",
-    "_templates/Song Page (Frontmatter).md",
-    "Releases/Stolen and Contaminated Songs.md",
-    "_templates/Blank Section Placeholder.md",
-    "_templates/Release Page (Frontmatter).md",
-    "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
-    "Releases/Love’s Secret Domain.md",
+    "Songs/Ü-Pel (Incense Offering).md",
+    "Songs/The Coppice Meat.md",
+    "Songs/Bankside.md",
+    "Songs/Copal.md",
+    "Songs/Christmas is Now Drawing Near.md",
+    "Songs/Magnetic North.md",
+    "Songs/North.md",
+    "Songs/A White Rainbow.md",
+    "Songs/Amethyst Deceivers.md",
+    "Songs/The Auto-Asphyxiating Hierophant.md",
+    "Songs/Switches.md",
+    "Songs/Rosa Decidua.md",
+    "Releases/Moon’s Milk in Four Phases (2024 Dais Re-Release).md",
+    "Songs/Regel.md",
+    "Songs/A Warning from the Sun (for Fritz).md",
+    "Songs/Summer Substructures.md",
+    "Songs/Glowworms∕Waveforms.md",
+    "Songs/Bee Stings.md",
+    "Songs/Moon’s Milk or Under An Unquiet Skull (Part Two).md",
+    "Songs/Moon’s Milk or Under An Unquiet Skull (Part One).md",
     "Home.md",
-    "Releases/Love's Secret Domain (30th Anniversary Edition).md",
-    "Releases/Windowpane (T-ARCH).md",
-    "Releases/The Snow (T-ARCH).md",
-    "Songs/Meet Murder My Angel (Instrumental).md",
-    "Songs/Things Happen (Early).md",
-    "Songs/［Untitled］(The Snow № 12).md",
-    "Songs/［Untitled］(The Snow № 9).md",
-    "Songs/［Untitled］(The Snow № 8).md",
-    "Songs/The Snow (As Pure As?).md",
-    "Songs/The Snow (Out in the Cold).md",
-    "Songs/The Snow (Answers Come In Dreams Ⅰ).md",
-    "Songs/The Snow (Driftmix).md",
-    "Songs/Pre-Original Chaostrophy.md",
-    "Songs/The Snow (Answers Come in Dreams Ⅱ).md",
-    "Songs/［Untitled］(The Snow № 7).md",
-    "Songs/Disco Hospital (Unedited).md",
+    "Releases/Moon’s Milk In Four Phases.md",
+    "Releases/Moon's Milk in Four Phases (2024 Dais Re-Release).md",
+    "_templates/Song Page (Instrumental Marker).md",
+    "Releases/Copal.md",
+    "Releases/Scatology.md",
+    "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
     "-notebook/To-Do List.org",
     "_assets/releases/International Dark Skies - Cover.jpg",
     "favicon-256x256.png",

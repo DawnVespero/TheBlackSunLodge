@@ -2,22 +2,25 @@
 title: "Moon’s Milk in Four Phases"
 aliases: ""
 description: "2001 compilation album by Coil"
-Type: Release  
-SubType: Compilation
+Type: Release
+SubType:
+  - Compilation
 Date: 2001-01-01
 Legitimacy: Official
 Original:
-- [["Releases/Spring Equinox — Moon's Milk or Under An Unquiet Skull|Spring Equinox — Moon's Milk or Under An Unquiet Skull"]]
-- [[Summer Solstice — Bee Stings]]
-- [[Autumn Equinox — Amethyst Deceivers]]
-- [[Winter Solstice]]
-Derivative: [["Moon's Milk in Four Phases (2024 Dais Re-Release)"]]
+  - "- - Releases/Spring Equinox — Moon's Milk or Under An Unquiet Skull|Spring Equinox — Moon's Milk or Under An Unquiet Skull"
+  - - - Summer Solstice — Bee Stings
+  - - - Autumn Equinox — Amethyst Deceivers
+  - - - Winter Solstice
+Derivative:
+  - "- Moon's Milk in Four Phases (2024 Dais Re-Release)"
 cover: "_assets/releases/Moons Milk in Four Phases - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
-Label: [[Threshold House]]
+Label:
+  - - Threshold House
 Page created: 2023-10-05
-Page modified: 2023-11-30
+Page modified: 2024-01-29
 ---
 
 # Moon’s Milk in Four Phases
@@ -52,8 +55,8 @@ A second series of #SeasonalSingles was also intended to be released during 2000
 
 ### Disc A
 
-1. [[Moon’s Milk or Under An Unquiet Skull (Part One)]]
-2. [[Moon’s Milk or Under An Unquiet Skull (Part Two)]]
+1. [[Songs/Moon’s Milk or Under An Unquiet Skull (Part One)|Moon’s Milk or Under An Unquiet Skull (Part One)]]
+2. [[Songs/Moon’s Milk or Under An Unquiet Skull (Part Two)|Moon’s Milk or Under An Unquiet Skull (Part Two)]]
 3. [[Bee Stings]]
 4. [[Glowworms∕Waveforms]]
 5. [[Summer Substructures]]

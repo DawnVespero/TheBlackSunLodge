@@ -3,17 +3,21 @@ title: "Spring Equinox — Moon’s Milk or Under An Unquiet Skull"
 aliases: "Spring Equinox"
 description: "1998 single by Coil"
 Type: Release
-SubType: Single ∕ EP
+SubType:
+  - Single ∕ EP
 Date: 1998-03-01
 Legitimacy: Official
-Original: ""
-Derivative: "[[Moon’s Milk In Four Phases]]"
+Original:
+  - ""
+Derivative:
+  - "[[Moon’s Milk In Four Phases]]"
 cover: "_assets/releases/Spring Equinox - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
-Label: [[Threshold House]]
+Label:
+  - - Threshold House
 Page created: 2023-11-29
-Page modified: 2023-11-29
+Page modified: 2024-01-24
 ---
 
 # Spring Equinox — Moon’s Milk or Under An Unquiet Skull

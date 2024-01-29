@@ -1,12 +1,13 @@
 ---
+title: "Another Brown World / Baby Food"
+aliases: ""
 Type: Release
-Sub-Type: Single
-Legitimacy: Semi-Official
 Date: 2017-01-01
-title: Another Brown World  Baby Food
-Page created: 2023-10-05
-Page modified: 2023-10-23
-color: "#3867d6"
+Legitimacy: Semi-Official
 sticker: lucide//disc
+color: "#3867d6"
+Page created: 2023-10-05
+Page modified: 2024-01-18
 ---
+
 # Another Brown World / Baby Food

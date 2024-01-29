@@ -22,3 +22,4 @@ Interpolates:
 sticker: lucide//music
 color: "#eb3b5a"
 ---
+<% tp.file.cursor(5) %>

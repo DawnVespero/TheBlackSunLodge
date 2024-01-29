@@ -13,7 +13,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
 Page created: 2023-10-05
-Page modified: 2023-11-29
+Page modified: 2024-01-24
 ---
 
 # Winter Solstice
@@ -41,8 +41,17 @@ Page modified: 2023-11-29
 
 # Tracklist
 
+## 7” Record
+
 1. [[A White Rainbow]]
 2. [[Christmas is Now Drawing Near]]
+
+## CD
+
+1. [[Songs/A White Rainbow|A White Rainbow]]
+2. [[Songs/North|North]]
+3. [[Songs/Magnetic North|Magnetic North]]
+4. [[Songs/Christmas is Now Drawing Near|Christmas is Now Drawing Near]]
 
 # Personnel
 

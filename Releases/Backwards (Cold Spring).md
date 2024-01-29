@@ -1,5 +1,6 @@
 ---
-title: Backwards (Cold Spring)
+title: "Backwards (Cold Spring)"
+aliases: ""
 Type: Release  
 SubType: Studio Album
 Date: 2015-11-01
@@ -12,7 +13,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Cold Spring Records]]
 Page created: 2023-10-05
-Page modified: 2023-11-04
+Page modified: 2024-01-26
 ---
 
 # Backwards (Cold Spring)
@@ -87,6 +88,7 @@ Page modified: 2023-11-04
 - Downloads of the album from [[Danny Hyde]]‘s website [auralrage.com] came with six demos from the #Backwards sessions as bonus tracks. Though this version is not given an official name on the site, the files’ metadata holds the title *[[Backwards (Danny Hyde’s Archival Bonus Track Edition)]]*
 
 #### Tracklist
+
 1. [[Intro (Backwards ‘15)|Intro]]
 2. [[Backwards (Backwards ‘15)|Backwards]]
 3. [[Songs/Amber Rain(Backwards ‘15’)|Amber Rain]]
@@ -106,4 +108,4 @@ Page modified: 2023-11-04
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]: <https://i.discogs.com/gu9IMxSzbjIgwjn85Me2Lj0pYrjsG2jhvy49X7P-srE/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk5/OTMtMTQ1MTkzOTYw/NC05MDExLmpwZWc.jpeg>
+[^1]: <<https://i.discogs.com/gu9IMxSzbjIgwjn85Me2Lj0pYrjsG2jhvy49X7P-srE/rs>:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk5/OTMtMTQ1MTkzOTYw/NC05MDExLmpwZWc.jpeg>

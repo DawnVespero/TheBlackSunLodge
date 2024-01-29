@@ -13,7 +13,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
 Page created: 2023-11-03
-Page modified: 2023-11-29
+Page modified: 2024-01-24
 ---
 
 # Autumn Equinox — Amethyst Deceivers
@@ -41,8 +41,18 @@ Page modified: 2023-11-29
 
 # Track List
 
+## 7” Record
+
 1. [[Amethyst Deceivers]]
 2. [[Switches]]
+
+## CD
+
+1. [[Songs/Regel|Regel]]
+2. [[Songs/Rosa Decidua|Rosa Decidua]]
+3. [[Songs/Switches|Switches]]
+4. [[Songs/The Auto-Asphyxiating Hierophant|The Auto-Asphyxiating Hierophant]]
+5. [[Songs/Amethyst Deceivers|Amethyst Deceivers]]
 
 # Personnel
 

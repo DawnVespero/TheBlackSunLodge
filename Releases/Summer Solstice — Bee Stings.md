@@ -13,7 +13,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
 Page created: 2023-11-15
-Page modified: 2023-11-29
+Page modified: 2024-01-24
 ---
 
 # Summer Solstice — Bee Stings
@@ -41,8 +41,17 @@ Page modified: 2023-11-29
 
 ### Tracklist
 
+#### 7” Record
+
 1. [[Bee Stings]]
 2. [[Summer Substructures]]
+
+#### [[Releases/Summer Solstice (CD Version)|CD]]
+
+1. [[Songs/Bee Stings|Bee Stings]]
+2. [[Songs/Glowworms∕Waveforms|Glowworms∕Waveforms]]
+3. [[Songs/Summer Substructures|Summer Substructures]]
+4. [[Songs/A Warning from the Sun (for Fritz)|A Warning from the Sun (for Fritz)]]
 
 ## Personnel
 

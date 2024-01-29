@@ -1,0 +1,7 @@
+  /* Initialization for custom Callout type(s) */
+
+  /* Callout "Update" */
+  .callout[data-callout="update"] {
+    --callout-color: 255, 255, 210;
+    --callout-icon: lucide-newspaper;
+}

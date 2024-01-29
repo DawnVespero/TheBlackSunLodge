@@ -4,7 +4,7 @@
     "Main Homepage": {
       "value": "Home",
       "kind": "File",
-      "openOnStartup": true,
+      "openOnStartup": false,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Reading view",
@@ -13,7 +13,7 @@
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
-      "pin": false,
+      "pin": true,
       "commands": [
         "workspace:close-others"
       ],

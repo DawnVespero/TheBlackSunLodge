@@ -30,6 +30,5 @@
   "defaultViewMode": "source",
   "vimMode": true,
   "autoPairMarkdown": false,
-  "showUnsupportedFiles": true,
   "newLinkFormat": "absolute"
 }
