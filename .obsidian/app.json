@@ -28,7 +28,7 @@
   "showInlineTitle": false,
   "livePreview": false,
   "defaultViewMode": "source",
-  "vimMode": true,
+  "vimMode": false,
   "autoPairMarkdown": false,
   "newLinkFormat": "absolute"
 }

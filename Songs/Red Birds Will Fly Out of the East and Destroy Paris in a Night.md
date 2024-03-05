@@ -1,7 +1,7 @@
 ---
 title: "Red Birds Will Fly Out of the East and Destroy Paris in a Night"
 aliases: ""
-description: "1999 song by Coil"
+description: "1999 song by Coil, originally released on *Musick To Play in the Dark*"
 Type: Song
 Original: ""
 Derivative: ""
@@ -9,14 +9,14 @@ Previous Version: ""
 Next Version: ""
 Interpolates: ""
 Interpolated in: ""
-cover: ""
+cover: "_assets/releases/Musick To Play in the Dark, Vol. 1 - Cover.jpg"
 sticker: lucide//music
 color: "#eb3b5a"
 Alternate Version: ""
 Featured on:
-- [[Musick To Play In The Dark, Vol. 1]]
+- [[Releases/Musick To Play In The Dark|Musick To Play In The Dark]]
 Page created: 2023-10-05
-Page modified: 2023-12-06
+Page modified: 2024-02-09
 ---
 
 # Red Birds Will Fly Out of the East and Destroy Paris in a Night
@@ -42,6 +42,10 @@ From the *Track-by-Track* feature:
 > “*This is 90% Thighpaulsandra’s, made to order from a brief from me. The title refers to a prophecy by Nostradamus that this will happen (in July this year - I reckon about the 18th). Is it literal or symbolic? I’m certainly not going there this Month. Red Bird…soviet planes…flamingos? It is a SH101 and modular synth called a Fenix, mostly. With overdubs of vocals by Balance.*”
 
 ## Lyrics
+
+> *[Instrumental]*
+
+Although there are clearly vocals by John Balance on this song, they are so heavily chopped up as to be nearly indecipherable. For an attempt at transcribing these vocals, see Phil Barrington‘s *‚The Golden Age of Bloodsports‘*
 
 ## Versions
 

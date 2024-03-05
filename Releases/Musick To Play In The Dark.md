@@ -1,20 +1,19 @@
 ---
 title: "Musick To Play In The Dark"
-aliases:
-  - Musick To Play In The Dark
-  - Vol. 1
+aliases: "Musick To Play In The Dark, Vol. 1"
 Type: Release
 SubType: Studio Album
 Date: 1999-09-01
 Legitimacy: Official
 Original: 
-Derivative: 
+Derivative:
+- [[Releases/Musick To Play In The Dark, Vol. 1 (LP Version)|Musick To Play In The Dark, Vol. 1 (LP Version)]]
 sticker: lucide//disc
 color: "#3867d6"
 Label:
-  - - Chalice
+  - Chalice
 Page created: 2023-10-31
-Page modified: 2024-01-04
+Page modified: 2024-02-09
 ---
 
 # Musick To Play In The Dark

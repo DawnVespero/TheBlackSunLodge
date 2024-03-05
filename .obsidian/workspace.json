@@ -16,7 +16,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "pinned": true
             }
@@ -220,6 +220,10 @@
   },
   "active": "d79134cec4da9b1e",
   "lastOpenFiles": [
+    "Roadmap.md",
+    "Home.md",
+    "-notebook/configTest.md",
+    "Releases/Moon's Milk in Four Phases (2024 Dais Re-Release).md",
     "Songs/Ü-Pel (Incense Offering).md",
     "Songs/The Coppice Meat.md",
     "Songs/Bankside.md",
@@ -240,12 +244,8 @@
     "Songs/Bee Stings.md",
     "Songs/Moon’s Milk or Under An Unquiet Skull (Part Two).md",
     "Songs/Moon’s Milk or Under An Unquiet Skull (Part One).md",
-    "Home.md",
     "Releases/Moon’s Milk In Four Phases.md",
-    "Releases/Moon's Milk in Four Phases (2024 Dais Re-Release).md",
     "_templates/Song Page (Instrumental Marker).md",
-    "Releases/Copal.md",
-    "Releases/Scatology.md",
     "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
     "-notebook/To-Do List.org",
     "_assets/releases/International Dark Skies - Cover.jpg",

@@ -57,8 +57,9 @@
     "//\"Releases",
     "//\"Releases",
     "_templates",
-    "Releases",
     "Songs",
+    "Releases",
+    "-notebook",
     "/"
   ],
   "expandFolderOnClick": true,
