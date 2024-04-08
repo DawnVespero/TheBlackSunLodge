@@ -8,7 +8,7 @@ sticker: lucide//home
 color: "#4b6584"
 linter-yaml-title-alias: Welcome to the Black Sun Lodge
 Page created: 2023-11-12
-Page modified: 2024-02-09
+Page modified: 2024-04-08
 ---
 
 ![[banner.jpeg]]
@@ -18,7 +18,7 @@ Page modified: 2024-02-09
 Welcome, astral traveller, to the cold, musky halls of __Thee Black Sun Lodge__! Our circulating library holds the internet’s comprehensive resource on the work of the British musical project [[Coil]]. Feel free to browse the shelf below for a selection of our most important articles. If you would like to suggest an addition to our shelves or simply feel in need of a rest among like-minded dead souls, take a seat in [our lobby](https://discord.gg/YRV7snQ7Ps) and savour the Discord before your next journey across the spiritual planes.
 
 > [!update] LATEST UPDATE:  
-> Added lyrics for songs on [[Releases/Musick To Play In The Dark|Musick To Play In The Dark]]
+> Added lyrics for songs on [[Releases/Musick To Play In The Dark, Vol. 2|Musick To Play In The Dark, Vol. 2]]
 
 ## Recommended Pages
 

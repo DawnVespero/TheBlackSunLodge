@@ -9,12 +9,13 @@ Date: 2000-09-01
 Legitimacy: Official
 Original: 
 Derivative: 
+cover: "_assets/releases/Musick To Play in the Dark, Vol. 2 - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
 Label: [[Labels/Chalice|Chalice]]
 linter-yaml-title-alias: "Musick to Play in the Dark, Vol. 2"
 Page created: 2023-10-31
-Page modified: 2023-12-04
+Page modified: 2024-04-08
 ---
 
 # Musick to Play in the Dark, Vol. 2
@@ -26,8 +27,8 @@ Page modified: 2023-12-04
 | __Title__: | Musick to Play in the Dark, Vol. 2 |
 | __Type__: | Studio Album |
 | __Legitimacy__: | Official |
-| __Release date:__ | 2000-09-01 |
-| __Label:__ | Labels/Chalice|Chalice |
+| __Release date:__ | September 2000 |
+| __Label:__ | [[Labels/Chalice\|Chalice]] |
 | __Original__: |  |
 | __Derivative__: |  |
 

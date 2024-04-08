@@ -7,7 +7,7 @@
 | **Title**: | <% tp.frontmatter.title %> |
 | **Type**: | <% tp.frontmatter.SubType %> |
 | **Legitimacy**: | <% tp.frontmatter.Legitimacy %> |
-| **Release date:** | <% tp.frontmatter.Date %> |
+| **Release date:** | <% tp.date.weekday("MMM. Do, YYYY", 0, tp.frontmatter.Date, "YYYY-MM-DD") %> |
 | **Label:** | <% tp.frontmatter.Label %> |
 | **Original**: | <% tp.frontmatter.Original %> |
 | **Derivative**: | <% tp.frontmatter.Derivative %> |

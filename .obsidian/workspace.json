@@ -16,12 +16,121 @@
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b843d7bcf4b8f600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Releases/Scatology.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f52b8da8638cbc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Releases/Musick To Play In The Dark, Vol. 2.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f56944fa86208e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Batwings (A Limnal Hymn).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff554741f0a60beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Where Are You?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e68404430a05dd61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/An Emergency.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5d30091ab3499ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Paranoid Inlay.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9834a07465bf2f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Ether.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dd1718e416cb52be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Tiny Golden Books.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7be74c330f1667dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Something.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -36,16 +145,6 @@
         "children": [
           {
             "id": "9785e29bccc6a19b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "e0916a5db092b30b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,23 +169,23 @@
             }
           },
           {
-            "id": "2771e8ef4a97ecf1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
             "id": "7e2ffbdd62dd6cc8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "0b1f846d1d717ec1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Musick To Play In The Dark, Vol. 2.md"
               }
             }
           },
@@ -134,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Musick To Play In The Dark, Vol. 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Releases/Musick To Play In The Dark, Vol. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +269,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "Releases/Musick To Play In The Dark, Vol. 2.md"
               }
             }
           },
@@ -212,16 +311,27 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "publish:Änderungen veröffentlichen": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d79134cec4da9b1e",
+  "active": "9f52b8da8638cbc3",
   "lastOpenFiles": [
-    "Roadmap.md",
+    "Songs/Batwings (A Limnal Hymn).md",
+    "Releases/Musick To Play In The Dark, Vol. 2.md",
+    "Releases/Scatology.md",
     "Home.md",
+    "Songs/Where Are You?.md",
+    "Songs/An Emergency.md",
+    "Songs/Paranoid Inlay.md",
+    "Songs/Ether.md",
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "Songs/Tiny Golden Books.md",
+    "Songs/Something.md",
+    "Releases/Musick To Play In The Dark.md",
+    "Roadmap.md",
     "-notebook/configTest.md",
     "Releases/Moon's Milk in Four Phases (2024 Dais Re-Release).md",
     "Songs/Ü-Pel (Incense Offering).md",
@@ -235,17 +345,6 @@
     "Songs/Amethyst Deceivers.md",
     "Songs/The Auto-Asphyxiating Hierophant.md",
     "Songs/Switches.md",
-    "Songs/Rosa Decidua.md",
-    "Releases/Moon’s Milk in Four Phases (2024 Dais Re-Release).md",
-    "Songs/Regel.md",
-    "Songs/A Warning from the Sun (for Fritz).md",
-    "Songs/Summer Substructures.md",
-    "Songs/Glowworms∕Waveforms.md",
-    "Songs/Bee Stings.md",
-    "Songs/Moon’s Milk or Under An Unquiet Skull (Part Two).md",
-    "Songs/Moon’s Milk or Under An Unquiet Skull (Part One).md",
-    "Releases/Moon’s Milk In Four Phases.md",
-    "_templates/Song Page (Instrumental Marker).md",
     "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
     "-notebook/To-Do List.org",
     "_assets/releases/International Dark Skies - Cover.jpg",
