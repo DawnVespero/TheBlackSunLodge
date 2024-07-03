@@ -6,14 +6,16 @@ Type: Release
 SubType: Studio Album
 Date: 2004-01-01
 Legitimacy: Official
-Original: 
-Derivative: [[Black Antlers (2006 Re-Release)]]
-cover: "_assets/releases/Black Antlers (2006 Re-Release) - Cover.jpg"
+Original: []
+Derivative:
+- [[Black Antlers (2006 Re-Release)]]
+cover: '"_assets/releases/Black Antlers (2006 Re-Release) - Cover.jpg“'
 sticker: lucide//disc
 color: "#3867d6"
-Label: [[Threshold House]]
+Label:
+- [[Labels/Threshold House|Threshold House]]
 Page created: 2023-10-05
-Page modified: 2023-12-25
+Page modified: 2024-04-11
 ---
 
 # Black Antlers
@@ -26,9 +28,9 @@ Page modified: 2023-12-25
 | __Type__: | Studio Album |
 | __Legitimacy__: | Official |
 | __Release date:__ | 2004-01-01 |
-| __Label:__ | Threshold House |
+| __Label:__ | [[Labels/Threshold House|Threshold House]] |
 | __Original__: |  |
-| __Derivative__: | Black Antlers (2006 Re-Release) |
+| __Derivative__: | [[Black Antlers (2006 Re-Release)]] |
 
 ---
 
@@ -48,9 +50,12 @@ At one point, a recording of William S. Burroughs made by the band during the se
 
 #### Tracklist
 
-1. Lorem ipsum
-2. Dolor sit amet
-3. Consectetur
+1. [[Songs/The Gimp (Sometimes)|The Gimp (Sometimes)]]
+2. [[Songs/Sex with Sun Ra (Part One - Saturnalia)|Sex with Sun Ra (Part One - Saturnalia)]]
+3. [[Songs/All The Pretty Little Horses|All The Pretty Little Horses]]
+4. [[Songs/Wraiths and Strays (from Montreal)|Wraiths and Strays (from Montreal)]]
+5. [[Songs/Teenage Lightning (10th Birthday Version)|Teenage Lightning (10th Birthday Version)]]
+6. Black Antlers (Where’s Your Child?) (vers 1)
 
 ## Personnel
 

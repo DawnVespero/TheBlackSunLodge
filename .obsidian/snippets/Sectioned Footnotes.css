@@ -1,0 +1,3 @@
+div.HyperMD-footnote.cm-line::before {
+  border: 1pt fuchsia;
+}

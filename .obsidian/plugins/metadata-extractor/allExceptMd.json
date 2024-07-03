@@ -1,0 +1,770 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "-notebook",
+      "relativePath": "-notebook"
+    },
+    {
+      "name": "Context",
+      "relativePath": "Context"
+    },
+    {
+      "name": "People",
+      "relativePath": "People"
+    },
+    {
+      "name": "Labels",
+      "relativePath": "Labels"
+    },
+    {
+      "name": "Others",
+      "relativePath": "Others"
+    },
+    {
+      "name": "Releases",
+      "relativePath": "Releases"
+    },
+    {
+      "name": "Spaces",
+      "relativePath": "Spaces"
+    },
+    {
+      "name": "Live Performance",
+      "relativePath": "Live Performance"
+    },
+    {
+      "name": "_assets",
+      "relativePath": "_assets"
+    },
+    {
+      "name": "_templates",
+      "relativePath": "_templates"
+    },
+    {
+      "name": "Songs",
+      "relativePath": "Songs"
+    },
+    {
+      "name": "Coil Wiki",
+      "relativePath": "Spaces/Coil Wiki"
+    },
+    {
+      "name": "Home",
+      "relativePath": "Spaces/Home"
+    },
+    {
+      "name": "releases",
+      "relativePath": "_assets/releases"
+    },
+    {
+      "name": "photos",
+      "relativePath": "_assets/photos"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "LICENSE",
+      "basename": "LICENSE",
+      "relativePath": "LICENSE"
+    },
+    {
+      "name": "favicon-128x128.png",
+      "basename": "favicon-128x128",
+      "relativePath": "favicon-128x128.png"
+    },
+    {
+      "name": "favicon-256x256.png",
+      "basename": "favicon-256x256",
+      "relativePath": "favicon-256x256.png"
+    },
+    {
+      "name": "favicon-32x32.png",
+      "basename": "favicon-32x32",
+      "relativePath": "favicon-32x32.png"
+    },
+    {
+      "name": "favicon-64x64.png",
+      "basename": "favicon-64x64",
+      "relativePath": "favicon-64x64.png"
+    },
+    {
+      "name": "publish.css",
+      "basename": "publish",
+      "relativePath": "publish.css"
+    },
+    {
+      "name": "spacesLastSync.log",
+      "basename": "spacesLastSync",
+      "relativePath": "Context/spacesLastSync.log"
+    },
+    {
+      "name": "Black Sun Lodge - To-Do List.org",
+      "basename": "Black Sun Lodge - To-Do List",
+      "relativePath": "-notebook/Black Sun Lodge - To-Do List.org"
+    },
+    {
+      "name": "Threshold Archives - Logo.jpeg",
+      "basename": "Threshold Archives - Logo",
+      "relativePath": "_assets/Threshold Archives - Logo.jpeg"
+    },
+    {
+      "name": "banner.jpeg",
+      "basename": "banner",
+      "relativePath": "_assets/banner.jpeg"
+    },
+    {
+      "name": "placeholder.png",
+      "basename": "placeholder",
+      "relativePath": "_assets/placeholder.png"
+    },
+    {
+      "name": "context.mdb",
+      "basename": "context",
+      "relativePath": "_assets/context.mdb"
+    },
+    {
+      "name": "placeholder.jpeg",
+      "basename": "placeholder",
+      "relativePath": "_assets/placeholder.jpeg"
+    },
+    {
+      "name": "context.mdb",
+      "basename": "context",
+      "relativePath": "Live Performance/context.mdb"
+    },
+    {
+      "name": "context.mdb",
+      "basename": "context",
+      "relativePath": "_templates/context.mdb"
+    },
+    {
+      "name": "context.mdb",
+      "basename": "context",
+      "relativePath": "Releases/context.mdb"
+    },
+    {
+      "name": "context.mdb",
+      "basename": "context",
+      "relativePath": "Songs/context.mdb"
+    },
+    {
+      "name": "Danny Hyde (2021) - Photo.jpeg",
+      "basename": "Danny Hyde (2021) - Photo",
+      "relativePath": "_assets/photos/Danny Hyde (2021) - Photo.jpeg"
+    },
+    {
+      "name": "Derek Jarman (1992) - Photo.jpeg",
+      "basename": "Derek Jarman (1992) - Photo",
+      "relativePath": "_assets/photos/Derek Jarman (1992) - Photo.jpeg"
+    },
+    {
+      "name": "Drew McDowall (2017) - Photo.jpeg",
+      "basename": "Drew McDowall (2017) - Photo",
+      "relativePath": "_assets/photos/Drew McDowall (2017) - Photo.jpeg"
+    },
+    {
+      "name": "David Tibet (2007) - Photo.jpeg",
+      "basename": "David Tibet (2007) - Photo",
+      "relativePath": "_assets/photos/David Tibet (2007) - Photo.jpeg"
+    },
+    {
+      "name": "John Balance (2000) - Photo.jpeg",
+      "basename": "John Balance (2000) - Photo",
+      "relativePath": "_assets/photos/John Balance (2000) - Photo.jpeg"
+    },
+    {
+      "name": "JG Thirlwell (2016) - Photo.jpeg",
+      "basename": "JG Thirlwell (2016) - Photo",
+      "relativePath": "_assets/photos/JG Thirlwell (2016) - Photo.jpeg"
+    },
+    {
+      "name": "Marc Almond (2023) - Photo.jpeg",
+      "basename": "Marc Almond (2023) - Photo",
+      "relativePath": "_assets/photos/Marc Almond (2023) - Photo.jpeg"
+    },
+    {
+      "name": "Peter Christopherson (2004) - Photo.jpeg",
+      "basename": "Peter Christopherson (2004) - Photo",
+      "relativePath": "_assets/photos/Peter Christopherson (2004) - Photo.jpeg"
+    },
+    {
+      "name": "JG Thirlwell (1985) - Photo.jpeg",
+      "basename": "JG Thirlwell (1985) - Photo",
+      "relativePath": "_assets/photos/JG Thirlwell (1985) - Photo.jpeg"
+    },
+    {
+      "name": "Peter Christopherson, John Balance (1984) - Photo.jpeg",
+      "basename": "Peter Christopherson, John Balance (1984) - Photo",
+      "relativePath": "_assets/photos/Peter Christopherson, John Balance (1984) - Photo.jpeg"
+    },
+    {
+      "name": "John Balance (2004) - Photo.jpeg",
+      "basename": "John Balance (2004) - Photo",
+      "relativePath": "_assets/photos/John Balance (2004) - Photo.jpeg"
+    },
+    {
+      "name": "Rose McDowall (2015) - Photo.jpeg",
+      "basename": "Rose McDowall (2015) - Photo",
+      "relativePath": "_assets/photos/Rose McDowall (2015) - Photo.jpeg"
+    },
+    {
+      "name": "Stephen Thrower (1984) - Photo.jpeg",
+      "basename": "Stephen Thrower (1984) - Photo",
+      "relativePath": "_assets/photos/Stephen Thrower (1984) - Photo.jpeg"
+    },
+    {
+      "name": "Stephen Thrower, Ossian Brown (2014) - Photo.jpeg",
+      "basename": "Stephen Thrower, Ossian Brown (2014) - Photo",
+      "relativePath": "_assets/photos/Stephen Thrower, Ossian Brown (2014) - Photo.jpeg"
+    },
+    {
+      "name": "Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg",
+      "basename": "Peter Christopherson, Drew McDowall, John Balance (1997) - Photo",
+      "relativePath": "_assets/photos/Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg"
+    },
+    {
+      "name": "Thighpaulsandra (2004) - Photo.jpeg",
+      "basename": "Thighpaulsandra (2004) - Photo",
+      "relativePath": "_assets/photos/Thighpaulsandra (2004) - Photo.jpeg"
+    },
+    {
+      "name": "William Breeze (2008) - Photo.jpeg",
+      "basename": "William Breeze (2008) - Photo",
+      "relativePath": "_assets/photos/William Breeze (2008) - Photo.jpeg"
+    },
+    {
+      "name": "Steven Stapleton (2018) - Photo.jpeg",
+      "basename": "Steven Stapleton (2018) - Photo",
+      "relativePath": "_assets/photos/Steven Stapleton (2018) - Photo.jpeg"
+    },
+    {
+      "name": "Thighpaulsandra (1998) - Photo.jpeg",
+      "basename": "Thighpaulsandra (1998) - Photo",
+      "relativePath": "_assets/photos/Thighpaulsandra (1998) - Photo.jpeg"
+    },
+    {
+      "name": "\"Persistence is All\" - Cover.jpeg",
+      "basename": "\"Persistence is All\" - Cover",
+      "relativePath": "_assets/releases/\"Persistence is All\" - Cover.jpeg"
+    },
+    {
+      "name": "A Prison of Measured Time - Cover.jpg",
+      "basename": "A Prison of Measured Time - Cover",
+      "relativePath": "_assets/releases/A Prison of Measured Time - Cover.jpg"
+    },
+    {
+      "name": "Airborne Bells (T-ARCH) - Cover.jpg",
+      "basename": "Airborne Bells (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/Airborne Bells (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Airborne Bells_Is Suicide A Solution? - Cover.jpg",
+      "basename": "Airborne Bells_Is Suicide A Solution? - Cover",
+      "relativePath": "_assets/releases/Airborne Bells_Is Suicide A Solution? - Cover.jpg"
+    },
+    {
+      "name": "Animal Are You (Bottle Label) - Cover.jpeg",
+      "basename": "Animal Are You (Bottle Label) - Cover",
+      "relativePath": "_assets/releases/Animal Are You (Bottle Label) - Cover.jpeg"
+    },
+    {
+      "name": "A Guide for Finishers - Cover.jpg",
+      "basename": "A Guide for Finishers - Cover",
+      "relativePath": "_assets/releases/A Guide for Finishers - Cover.jpg"
+    },
+    {
+      "name": "A Guide for Beginners - Cover.jpg",
+      "basename": "A Guide for Beginners - Cover",
+      "relativePath": "_assets/releases/A Guide for Beginners - Cover.jpg"
+    },
+    {
+      "name": "Astral Disaster (CD Version) - Cover.jpg",
+      "basename": "Astral Disaster (CD Version) - Cover",
+      "relativePath": "_assets/releases/Astral Disaster (CD Version) - Cover.jpg"
+    },
+    {
+      "name": "Astral Disaster (Original LP) - Cover.jpg",
+      "basename": "Astral Disaster (Original LP) - Cover",
+      "relativePath": "_assets/releases/Astral Disaster (Original LP) - Cover.jpg"
+    },
+    {
+      "name": "Animal Are You (Label Comparison) - Cover.jpeg",
+      "basename": "Animal Are You (Label Comparison) - Cover",
+      "relativePath": "_assets/releases/Animal Are You (Label Comparison) - Cover.jpeg"
+    },
+    {
+      "name": "ANS (Box-Set) - Cover.jpg",
+      "basename": "ANS (Box-Set) - Cover",
+      "relativePath": "_assets/releases/ANS (Box-Set) - Cover.jpg"
+    },
+    {
+      "name": "Backwards (Cold Spring) - Cover.jpg",
+      "basename": "Backwards (Cold Spring) - Cover",
+      "relativePath": "_assets/releases/Backwards (Cold Spring) - Cover.jpg"
+    },
+    {
+      "name": "Black Antlers (2006 Re-Release) - Cover.jpg",
+      "basename": "Black Antlers (2006 Re-Release) - Cover",
+      "relativePath": "_assets/releases/Black Antlers (2006 Re-Release) - Cover.jpg"
+    },
+    {
+      "name": "Another Brown World_Baby Food - Cover.jpg",
+      "basename": "Another Brown World_Baby Food - Cover",
+      "relativePath": "_assets/releases/Another Brown World_Baby Food - Cover.jpg"
+    },
+    {
+      "name": "Autumn Equinox - Cover.jpg",
+      "basename": "Autumn Equinox - Cover",
+      "relativePath": "_assets/releases/Autumn Equinox - Cover.jpg"
+    },
+    {
+      "name": "Coil Live Copenhagen 2002 - Cover.jpeg",
+      "basename": "Coil Live Copenhagen 2002 - Cover",
+      "relativePath": "_assets/releases/Coil Live Copenhagen 2002 - Cover.jpeg"
+    },
+    {
+      "name": "Coil Live Limoges 2002 - Cover.jpeg",
+      "basename": "Coil Live Limoges 2002 - Cover",
+      "relativePath": "_assets/releases/Coil Live Limoges 2002 - Cover.jpeg"
+    },
+    {
+      "name": "Black Light District - Cover.jpg",
+      "basename": "Black Light District - Cover",
+      "relativePath": "_assets/releases/Black Light District - Cover.jpg"
+    },
+    {
+      "name": "Coil Live Lódz 2002 - Cover.jpeg",
+      "basename": "Coil Live Lódz 2002 - Cover",
+      "relativePath": "_assets/releases/Coil Live Lódz 2002 - Cover.jpeg"
+    },
+    {
+      "name": "Coil Presents Time Machines.jpg",
+      "basename": "Coil Presents Time Machines",
+      "relativePath": "_assets/releases/Coil Presents Time Machines.jpg"
+    },
+    {
+      "name": "Constant Shallowness Leads to Evil (Dais) - Cover.jpg",
+      "basename": "Constant Shallowness Leads to Evil (Dais) - Cover",
+      "relativePath": "_assets/releases/Constant Shallowness Leads to Evil (Dais) - Cover.jpg"
+    },
+    {
+      "name": "Born Again Pagans - Cover.jpg",
+      "basename": "Born Again Pagans - Cover",
+      "relativePath": "_assets/releases/Born Again Pagans - Cover.jpg"
+    },
+    {
+      "name": "Constant Shallowness Leads to Evil - Original Clamshell.jpg",
+      "basename": "Constant Shallowness Leads to Evil - Original Clamshell",
+      "relativePath": "_assets/releases/Constant Shallowness Leads to Evil - Original Clamshell.jpg"
+    },
+    {
+      "name": "Backwards (Demos) - Cover.jpeg",
+      "basename": "Backwards (Demos) - Cover",
+      "relativePath": "_assets/releases/Backwards (Demos) - Cover.jpeg"
+    },
+    {
+      "name": "Copal - Cover.jpg",
+      "basename": "Copal - Cover",
+      "relativePath": "_assets/releases/Copal - Cover.jpg"
+    },
+    {
+      "name": "Contaminated Apples - Cover.jpeg",
+      "basename": "Contaminated Apples - Cover",
+      "relativePath": "_assets/releases/Contaminated Apples - Cover.jpeg"
+    },
+    {
+      "name": "First Dark Ride (T-ARCH) - Cover.jpg",
+      "basename": "First Dark Ride (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/First Dark Ride (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Gold is the Metal (Original) Cover.jpg",
+      "basename": "Gold is the Metal (Original) Cover",
+      "relativePath": "_assets/releases/Gold is the Metal (Original) Cover.jpg"
+    },
+    {
+      "name": "Heartworms - Cover.jpg",
+      "basename": "Heartworms - Cover",
+      "relativePath": "_assets/releases/Heartworms - Cover.jpg"
+    },
+    {
+      "name": "Hellraiser Themes - Cover.jpeg",
+      "basename": "Hellraiser Themes - Cover",
+      "relativePath": "_assets/releases/Hellraiser Themes - Cover.jpeg"
+    },
+    {
+      "name": "Hidden Hydrology - Cover.jpeg",
+      "basename": "Hidden Hydrology - Cover",
+      "relativePath": "_assets/releases/Hidden Hydrology - Cover.jpeg"
+    },
+    {
+      "name": "Horse Rotorvator (1988 CD Version) Cover.jpg",
+      "basename": "Horse Rotorvator (1988 CD Version) Cover",
+      "relativePath": "_assets/releases/Horse Rotorvator (1988 CD Version) Cover.jpg"
+    },
+    {
+      "name": "How To Destroy Angels (A Slow Fade To Total Transparency) - Cover.jpg",
+      "basename": "How To Destroy Angels (A Slow Fade To Total Transparency) - Cover",
+      "relativePath": "_assets/releases/How To Destroy Angels (A Slow Fade To Total Transparency) - Cover.jpg"
+    },
+    {
+      "name": "How To Destroy Angels (Remixes and Re-Recordings) - Cover.jpg",
+      "basename": "How To Destroy Angels (Remixes and Re-Recordings) - Cover",
+      "relativePath": "_assets/releases/How To Destroy Angels (Remixes and Re-Recordings) - Cover.jpg"
+    },
+    {
+      "name": "How To Destroy Angels - Cover.jpg",
+      "basename": "How To Destroy Angels - Cover",
+      "relativePath": "_assets/releases/How To Destroy Angels - Cover.jpg"
+    },
+    {
+      "name": "I Dont Want To Be The One - Cover.jpg",
+      "basename": "I Dont Want To Be The One - Cover",
+      "relativePath": "_assets/releases/I Dont Want To Be The One - Cover.jpg"
+    },
+    {
+      "name": "International Dark Skies - Cover.jpg",
+      "basename": "International Dark Skies - Cover",
+      "relativePath": "_assets/releases/International Dark Skies - Cover.jpg"
+    },
+    {
+      "name": "Live Box - Cover Recreation.jpg",
+      "basename": "Live Box - Cover Recreation",
+      "relativePath": "_assets/releases/Live Box - Cover Recreation.jpg"
+    },
+    {
+      "name": "Live Box - Packaging.jpeg",
+      "basename": "Live Box - Packaging",
+      "relativePath": "_assets/releases/Live Box - Packaging.jpeg"
+    },
+    {
+      "name": "Horse Rotorvator (2001 CD Remaster) - Cover.jpeg",
+      "basename": "Horse Rotorvator (2001 CD Remaster) - Cover",
+      "relativePath": "_assets/releases/Horse Rotorvator (2001 CD Remaster) - Cover.jpeg"
+    },
+    {
+      "name": "Live in Moscow - Cover.jpg",
+      "basename": "Live in Moscow - Cover",
+      "relativePath": "_assets/releases/Live in Moscow - Cover.jpg"
+    },
+    {
+      "name": "Live in Porto - Cover.jpg",
+      "basename": "Live in Porto - Cover",
+      "relativePath": "_assets/releases/Live in Porto - Cover.jpg"
+    },
+    {
+      "name": "Live Five - Cover.jpeg",
+      "basename": "Live Five - Cover",
+      "relativePath": "_assets/releases/Live Five - Cover.jpeg"
+    },
+    {
+      "name": "Horse Rotorvator (Test Pressing) Cover.jpg",
+      "basename": "Horse Rotorvator (Test Pressing) Cover",
+      "relativePath": "_assets/releases/Horse Rotorvator (Test Pressing) Cover.jpg"
+    },
+    {
+      "name": "Loves Secret Domain (30th Anniversary) - Cover.jpg",
+      "basename": "Loves Secret Domain (30th Anniversary) - Cover",
+      "relativePath": "_assets/releases/Loves Secret Domain (30th Anniversary) - Cover.jpg"
+    },
+    {
+      "name": "Horse Rotorvator (1986 Vinyl) Cover.jpg",
+      "basename": "Horse Rotorvator (1986 Vinyl) Cover",
+      "relativePath": "_assets/releases/Horse Rotorvator (1986 Vinyl) Cover.jpg"
+    },
+    {
+      "name": "Megalithomiania! - Cover.jpeg",
+      "basename": "Megalithomiania! - Cover",
+      "relativePath": "_assets/releases/Megalithomiania! - Cover.jpeg"
+    },
+    {
+      "name": "Moons Milk in Four Phases - Cover.jpg",
+      "basename": "Moons Milk in Four Phases - Cover",
+      "relativePath": "_assets/releases/Moons Milk in Four Phases - Cover.jpg"
+    },
+    {
+      "name": "Musick To Play in the Dark, Vol. 1 - Cover.jpg",
+      "basename": "Musick To Play in the Dark, Vol. 1 - Cover",
+      "relativePath": "_assets/releases/Musick To Play in the Dark, Vol. 1 - Cover.jpg"
+    },
+    {
+      "name": "Musick To Play in the Dark, Vol. 2 - Cover.jpg",
+      "basename": "Musick To Play in the Dark, Vol. 2 - Cover",
+      "relativePath": "_assets/releases/Musick To Play in the Dark, Vol. 2 - Cover.jpg"
+    },
+    {
+      "name": "Nasa-Arab_First Dark Ride.jpg",
+      "basename": "Nasa-Arab_First Dark Ride",
+      "relativePath": "_assets/releases/Nasa-Arab_First Dark Ride.jpg"
+    },
+    {
+      "name": "Panic (T-ARCH) - Cover.jpg",
+      "basename": "Panic (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/Panic (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Protection (T-ARCH) - Cover.jpg",
+      "basename": "Protection (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/Protection (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Moons Milk in Four Phases Bonus Disk - Cover.jpg",
+      "basename": "Moons Milk in Four Phases Bonus Disk - Cover",
+      "relativePath": "_assets/releases/Moons Milk in Four Phases Bonus Disk - Cover.jpg"
+    },
+    {
+      "name": "Moons Milk in Four Phases (2024 Dais Re-Release) - Cover.jpeg",
+      "basename": "Moons Milk in Four Phases (2024 Dais Re-Release) - Cover",
+      "relativePath": "_assets/releases/Moons Milk in Four Phases (2024 Dais Re-Release) - Cover.jpeg"
+    },
+    {
+      "name": "Queens of the Circulating Library (Dais) - Cover.jpg",
+      "basename": "Queens of the Circulating Library (Dais) - Cover",
+      "relativePath": "_assets/releases/Queens of the Circulating Library (Dais) - Cover.jpg"
+    },
+    {
+      "name": "Queens of the Circulating Library - Original Clamshell.jpg",
+      "basename": "Queens of the Circulating Library - Original Clamshell",
+      "relativePath": "_assets/releases/Queens of the Circulating Library - Original Clamshell.jpg"
+    },
+    {
+      "name": "Recoiled - Cover.jpg",
+      "basename": "Recoiled - Cover",
+      "relativePath": "_assets/releases/Recoiled - Cover.jpg"
+    },
+    {
+      "name": "Scatology (1984 Vinyl) Cover.jpg",
+      "basename": "Scatology (1984 Vinyl) Cover",
+      "relativePath": "_assets/releases/Scatology (1984 Vinyl) Cover.jpg"
+    },
+    {
+      "name": "Scatology (1988 CD Version) Cover.jpg",
+      "basename": "Scatology (1988 CD Version) Cover",
+      "relativePath": "_assets/releases/Scatology (1988 CD Version) Cover.jpg"
+    },
+    {
+      "name": "Scatology Sessions - Cover.jpeg",
+      "basename": "Scatology Sessions - Cover",
+      "relativePath": "_assets/releases/Scatology Sessions - Cover.jpeg"
+    },
+    {
+      "name": "Selvaggina, Go Back Into the Woods! - Cover.jpeg",
+      "basename": "Selvaggina, Go Back Into the Woods! - Cover",
+      "relativePath": "_assets/releases/Selvaggina, Go Back Into the Woods! - Cover.jpeg"
+    },
+    {
+      "name": "Spring Equinox - Cover.jpg",
+      "basename": "Spring Equinox - Cover",
+      "relativePath": "_assets/releases/Spring Equinox - Cover.jpg"
+    },
+    {
+      "name": "Stolen and Contaminated Songs (2019 Cold Spring) Cover.jpg",
+      "basename": "Stolen and Contaminated Songs (2019 Cold Spring) Cover",
+      "relativePath": "_assets/releases/Stolen and Contaminated Songs (2019 Cold Spring) Cover.jpg"
+    },
+    {
+      "name": "Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
+      "basename": "Stolen and Contaminated Songs (Mail-Order) Cover",
+      "relativePath": "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg"
+    },
+    {
+      "name": "Stolen and Contaminated Songs (Retail) Cover.jpg",
+      "basename": "Stolen and Contaminated Songs (Retail) Cover",
+      "relativePath": "_assets/releases/Stolen and Contaminated Songs (Retail) Cover.jpg"
+    },
+    {
+      "name": "Summer Solstice - Cover.jpg",
+      "basename": "Summer Solstice - Cover",
+      "relativePath": "_assets/releases/Summer Solstice - Cover.jpg"
+    },
+    {
+      "name": "Swanyard - Cover.jpg",
+      "basename": "Swanyard - Cover",
+      "relativePath": "_assets/releases/Swanyard - Cover.jpg"
+    },
+    {
+      "name": "The Anal Staircase (T-ARCH) - Cover.jpg",
+      "basename": "The Anal Staircase (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/The Anal Staircase (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Scatology (2001 Remaster) Cover.jpg",
+      "basename": "Scatology (2001 Remaster) Cover",
+      "relativePath": "_assets/releases/Scatology (2001 Remaster) Cover.jpg"
+    },
+    {
+      "name": "The Angelic Conversation (Instrumental) - Cover.jpg",
+      "basename": "The Angelic Conversation (Instrumental) - Cover",
+      "relativePath": "_assets/releases/The Angelic Conversation (Instrumental) - Cover.jpg"
+    },
+    {
+      "name": "The Angelic Conversation - Cover.jpg",
+      "basename": "The Angelic Conversation - Cover",
+      "relativePath": "_assets/releases/The Angelic Conversation - Cover.jpg"
+    },
+    {
+      "name": "The Ape of Naples (CD Version) - Cover.jpg",
+      "basename": "The Ape of Naples (CD Version) - Cover",
+      "relativePath": "_assets/releases/The Ape of Naples (CD Version) - Cover.jpg"
+    },
+    {
+      "name": "The Ape of Naples (LP Version) - Cover.jpg",
+      "basename": "The Ape of Naples (LP Version) - Cover",
+      "relativePath": "_assets/releases/The Ape of Naples (LP Version) - Cover.jpg"
+    },
+    {
+      "name": "The Gay Man's Guide to Safer Sex +2 - Cover.jpg",
+      "basename": "The Gay Man's Guide to Safer Sex +2 - Cover",
+      "relativePath": "_assets/releases/The Gay Man's Guide to Safer Sex +2 - Cover.jpg"
+    },
+    {
+      "name": "The Consequences of Raising Hell (T-ARCH) - Cover.jpg",
+      "basename": "The Consequences of Raising Hell (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/The Consequences of Raising Hell (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "The Gay Man's Guide to Safer Sex +3.jpeg",
+      "basename": "The Gay Man's Guide to Safer Sex +3",
+      "relativePath": "_assets/releases/The Gay Man's Guide to Safer Sex +3.jpeg"
+    },
+    {
+      "name": "The Golden Hare with a Voice of Silver - Cover.jpg",
+      "basename": "The Golden Hare with a Voice of Silver - Cover",
+      "relativePath": "_assets/releases/The Golden Hare with a Voice of Silver - Cover.jpg"
+    },
+    {
+      "name": "The New Backwards - Cover.jpg",
+      "basename": "The New Backwards - Cover",
+      "relativePath": "_assets/releases/The New Backwards - Cover.jpg"
+    },
+    {
+      "name": "The Melancholy Mad Tenant - Cover.jpg",
+      "basename": "The Melancholy Mad Tenant - Cover",
+      "relativePath": "_assets/releases/The Melancholy Mad Tenant - Cover.jpg"
+    },
+    {
+      "name": "The Remote Viewer - Cover.jpg",
+      "basename": "The Remote Viewer - Cover",
+      "relativePath": "_assets/releases/The Remote Viewer - Cover.jpg"
+    },
+    {
+      "name": "The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg",
+      "basename": "The Restitution of Decayed Intelligence (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "The Snow (T-ARCH) - Cover.jpg",
+      "basename": "The Snow (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/The Snow (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "The Snow - Cover.jpg",
+      "basename": "The Snow - Cover",
+      "relativePath": "_assets/releases/The Snow - Cover.jpg"
+    },
+    {
+      "name": "The Sound of Musick - Cover.jpg",
+      "basename": "The Sound of Musick - Cover",
+      "relativePath": "_assets/releases/The Sound of Musick - Cover.jpg"
+    },
+    {
+      "name": "Transparent (Nekrophile Cassette) - Cover.jpeg",
+      "basename": "Transparent (Nekrophile Cassette) - Cover",
+      "relativePath": "_assets/releases/Transparent (Nekrophile Cassette) - Cover.jpeg"
+    },
+    {
+      "name": "The Wheel (T-ARCH) - Cover.jpg",
+      "basename": "The Wheel (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/The Wheel (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Themes for Derek Jarman's Blue - Disk.jpg",
+      "basename": "Themes for Derek Jarman's Blue - Disk",
+      "relativePath": "_assets/releases/Themes for Derek Jarman's Blue - Disk.jpg"
+    },
+    {
+      "name": "Transparent (Threshold House LP) - Cover.jpeg",
+      "basename": "Transparent (Threshold House LP) - Cover",
+      "relativePath": "_assets/releases/Transparent (Threshold House LP) - Cover.jpeg"
+    },
+    {
+      "name": "Time Machines - Cover.jpeg",
+      "basename": "Time Machines - Cover",
+      "relativePath": "_assets/releases/Time Machines - Cover.jpeg"
+    },
+    {
+      "name": "Transparent - Cover.jpg",
+      "basename": "Transparent - Cover",
+      "relativePath": "_assets/releases/Transparent - Cover.jpg"
+    },
+    {
+      "name": "Uncoiled - Cover.jpeg",
+      "basename": "Uncoiled - Cover",
+      "relativePath": "_assets/releases/Uncoiled - Cover.jpeg"
+    },
+    {
+      "name": "Unnatural History Ⅰ - Cover.jpg",
+      "basename": "Unnatural History Ⅰ - Cover",
+      "relativePath": "_assets/releases/Unnatural History Ⅰ - Cover.jpg"
+    },
+    {
+      "name": "Unnatural History Ⅱ - Cover.jpg",
+      "basename": "Unnatural History Ⅱ - Cover",
+      "relativePath": "_assets/releases/Unnatural History Ⅱ - Cover.jpg"
+    },
+    {
+      "name": "Unnatural History Ⅲ - Cover.jpg",
+      "basename": "Unnatural History Ⅲ - Cover",
+      "relativePath": "_assets/releases/Unnatural History Ⅲ - Cover.jpg"
+    },
+    {
+      "name": "Windowpane & The Snow - Cover.jpg",
+      "basename": "Windowpane & The Snow - Cover",
+      "relativePath": "_assets/releases/Windowpane & The Snow - Cover.jpg"
+    },
+    {
+      "name": "Windowpane (T-ARCH) - Cover.jpg",
+      "basename": "Windowpane (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/Windowpane (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "Windowpane - Cover.jpg",
+      "basename": "Windowpane - Cover",
+      "relativePath": "_assets/releases/Windowpane - Cover.jpg"
+    },
+    {
+      "name": "Winter Solstice - Cover.jpg",
+      "basename": "Winter Solstice - Cover",
+      "relativePath": "_assets/releases/Winter Solstice - Cover.jpg"
+    },
+    {
+      "name": "Wormsongs - Cover.jpeg",
+      "basename": "Wormsongs - Cover",
+      "relativePath": "_assets/releases/Wormsongs - Cover.jpeg"
+    },
+    {
+      "name": "Worship the Glitch - Cover.jpg",
+      "basename": "Worship the Glitch - Cover",
+      "relativePath": "_assets/releases/Worship the Glitch - Cover.jpg"
+    },
+    {
+      "name": "Wrong Eye (T-ARCH) - Cover.jpg",
+      "basename": "Wrong Eye (T-ARCH) - Cover",
+      "relativePath": "_assets/releases/Wrong Eye (T-ARCH) - Cover.jpg"
+    },
+    {
+      "name": "pHILM 1 - Cover.jpeg",
+      "basename": "pHILM 1 - Cover",
+      "relativePath": "_assets/releases/pHILM 1 - Cover.jpeg"
+    },
+    {
+      "name": "…And the Ambulance Died in his Arms - Cover.jpg",
+      "basename": "…And the Ambulance Died in his Arms - Cover",
+      "relativePath": "_assets/releases/…And the Ambulance Died in his Arms - Cover.jpg"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ Alternate Version: ""
 Featured on:
 - [[Musick To Play In The Dark, Vol. 1]]
 Page created: 2023-10-05
-Page modified: 2024-02-09
+Page modified: 2024-06-14
 ---
 
 # Are You Shivering?
@@ -39,7 +39,7 @@ Page modified: 2024-02-09
 
 From the *Track-by-Track* feature:
 
-> “*A very old title finanally realised. The juddery vocal loop shaped the track. On MDMA we would ask if each other were shivering, as pure doses can make the teeth chatter and the eyesight vibrate.*”
+> “*A very old title finally realised. The juddery vocal loop shaped the track. On MDMA we would ask if each other were shivering, as pure doses can make the teeth chatter and the eyesight vibrate.*”
 
 ## Lyrics
 
@@ -64,6 +64,10 @@ From the *Track-by-Track* feature:
 > The dark earth is a solid  
 > This is moon musick in the light of the moon
 
+### Notes
+
+- The phrase *”Are you loathsome tonight?”* is a possible reference to a message found on the Smiths single *”Ask”*[^1]
+
 ## Versions
 
 ## Personnel
@@ -75,4 +79,4 @@ From the *Track-by-Track* feature:
 
 ## References
 
-%%:[^1]%%
+[^1]: c.f. <https://www.discogs.com/release/525785-The-Smiths-Ask>

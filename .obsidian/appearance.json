@@ -1,16 +1,17 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Coil Wiki",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
   "translucency": false,
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "baseFontSizeAction": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "Callouts"
+    "Callouts",
+    "Sectioned Footnotes"
   ],
   "showViewHeader": true
 }

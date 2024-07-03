@@ -10,5 +10,8 @@
   "metaedit",
   "crumbs-obsidian",
   "OA-file-hider",
-  "sample-plugin"
+  "sample-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-advanced-uri",
+  "metadata-extractor"
 ]

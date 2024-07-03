@@ -22,115 +22,45 @@
             }
           },
           {
-            "id": "b843d7bcf4b8f600",
+            "id": "d3fd9efc8f315fe1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Queens of the Circulating Library.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2f70842ffc0b90cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Scatology.md",
+                "file": "Releases/Moon’s Milk In Four Phases.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9f52b8da8638cbc3",
+            "id": "3ecae4dd1d18ddef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Musick To Play In The Dark, Vol. 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f56944fa86208e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Batwings (A Limnal Hymn).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff554741f0a60beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Where Are You?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e68404430a05dd61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/An Emergency.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5d30091ab3499ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Paranoid Inlay.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9834a07465bf2f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Ether.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dd1718e416cb52be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Tiny Golden Books.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7be74c330f1667dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Something.md",
+                "file": "Releases/Astral Disaster.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Musick To Play In The Dark, Vol. 2.md"
+                "file": "Releases/Astral Disaster.md"
               }
             }
           },
@@ -233,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Musick To Play In The Dark, Vol. 2.md",
+                "file": "Releases/Astral Disaster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Musick To Play In The Dark, Vol. 2.md",
+                "file": "Releases/Astral Disaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Releases/Musick To Play In The Dark, Vol. 2.md"
+                "file": "Releases/Astral Disaster.md"
               }
             }
           },
@@ -317,34 +247,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9f52b8da8638cbc3",
+  "active": "3ecae4dd1d18ddef",
   "lastOpenFiles": [
-    "Songs/Batwings (A Limnal Hymn).md",
-    "Releases/Musick To Play In The Dark, Vol. 2.md",
-    "Releases/Scatology.md",
-    "Home.md",
-    "Songs/Where Are You?.md",
-    "Songs/An Emergency.md",
-    "Songs/Paranoid Inlay.md",
-    "Songs/Ether.md",
-    "_templates/Release Page (Page Body - Frontmatter Templates).md",
-    "Songs/Tiny Golden Books.md",
-    "Songs/Something.md",
-    "Releases/Musick To Play In The Dark.md",
+    "Releases/Moon’s Milk In Four Phases.md",
+    "Songs/Queens of the Circulating Library.md",
+    "Releases/Astral Disaster.md",
+    "Releases/Queens of the Circulating Library.md",
     "Roadmap.md",
-    "-notebook/configTest.md",
-    "Releases/Moon's Milk in Four Phases (2024 Dais Re-Release).md",
-    "Songs/Ü-Pel (Incense Offering).md",
+    "Songs/Are You Shivering?.md",
+    "Songs/Nature Is a Language.md",
+    "Songs/MÜ-ÜR.md",
+    "Releases/Astral Disaster (CD Version).md",
+    "Songs/The Sea Priestess.md",
+    "Releases/Astral Disaster (Threshold House LP).md",
+    "Songs/Second Son Syndrome.md",
+    "Songs/I Don’t Want To Be The One.md",
+    "Songs/The Avatars.md",
+    "Home.md",
+    "Others/Live-only Songs.md",
     "Songs/The Coppice Meat.md",
-    "Songs/Bankside.md",
     "Songs/Copal.md",
-    "Songs/Christmas is Now Drawing Near.md",
-    "Songs/Magnetic North.md",
-    "Songs/North.md",
-    "Songs/A White Rainbow.md",
-    "Songs/Amethyst Deceivers.md",
-    "Songs/The Auto-Asphyxiating Hierophant.md",
-    "Songs/Switches.md",
+    "Songs/The Mothership and the Fatherland.md",
+    "Releases/The Ape of Naples.md",
+    "_templates/Song Page (Page Body - Frontmatter Template).md",
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "Releases/Time Machines.md",
+    "Releases/Spring Equinox — Moon’s Milk or Under An Unquiet Skull.md",
+    "_templates/Release Page (Frontmatter).md",
+    "People/Aleister Crowley.md",
     "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
     "-notebook/To-Do List.org",
     "_assets/releases/International Dark Skies - Cover.jpg",

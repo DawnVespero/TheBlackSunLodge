@@ -15,7 +15,7 @@
 
 ---
 
-*__<% tp.frontmatter.title %>__* is a song originally released on Coil's <% tp.file.cursor(1) %> album <% tp.file.cursor(2) %>. 
+*__<% tp.frontmatter.title %>__* is a song originally released on Coil's <% tp.date.weekday("YYYY", 0, tp.frontmatter.Date, "YYYY-MM-DD") %> album <% tp.frontmatter["Featured on"] %>. 
 
 ## Lyrics
 ???

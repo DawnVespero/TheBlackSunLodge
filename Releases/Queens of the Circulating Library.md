@@ -1,5 +1,6 @@
 ---
-title: Queens of the Circulating Library
+title: "Queens of the Circulating Library"
+aliases: ""
 Type: Release  
 SubType: Studio Album
 Date: 2000-04-01
@@ -10,7 +11,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2024-04-11
 ---
 
 # Queens of the Circulating Library
@@ -52,6 +53,7 @@ Page modified: 2023-11-02
 *This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
 #### Tracklist
+
 1. [[Songs/Queens of the Circulating Library|Queens of the Circulating Library]]
 
 ## Personnel
@@ -59,5 +61,3 @@ Page modified: 2023-11-02
 | __Name__ |__Credit__ |
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
-
-[^1]:

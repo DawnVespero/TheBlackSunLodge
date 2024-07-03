@@ -58,11 +58,11 @@
     "//_assets/_assets/releases",
     "//\"Releases",
     "//\"Releases",
+    "_templates",
     "-notebook",
     "Songs",
-    "Releases",
     "/",
-    "_templates"
+    "Releases"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -5,7 +5,7 @@ Type:
 sticker: 
 color: 
 Page created: 2024-02-18
-Page modified: 2024-03-05
+Page modified: 2024-06-14
 ---
 
 # Black Sun Lodge — Roadmap
@@ -23,15 +23,16 @@ The following updates are considered necessary for establishing basic functional
 		- [X] [[Releases/Love’s Secret Domain|Love’s Secret Domain]]
 		- [X] [[Releases/Moon’s Milk In Four Phases|Moon’s Milk In Four Phases]]
 		- [x] [[Musick To Play In The Dark, Vol. 1]]
-		- [ ] [[Musick To Play In The Dark, Vol. 2]]
-		- [ ] [[Queens of the Circulating Library]]
+		- [x] [[Musick To Play In The Dark, Vol. 2]]
+		- [x] [[Releases/Astral Disaster|Astral Disaster]]
+		- [ ] [[Releases/Queens of the Circulating Library|Queens of the Circulating Library]]
 		- [ ] [[Black Antlers]]
 		- [ ] [[The Ape of Naples]]
 		- [ ] [[The New Backwards]]
 	- [ ] Credits for all albums
 		- [?] [[Releases/Scatology|Scatology]]
 		- [?] [[Releases/Horse Rotorvator|Horse Rotorvator]]
-		- [ ][[Releases/Gold is the Metal (with the Broadest Shoulders)|Gold is the Metal]]
+		- [ ] [[Releases/Gold is the Metal (with the Broadest Shoulders)|Gold is the Metal]]
 		- [ ] [[Love’s Secret Domain]]
 		- [ ] [[Moon’s Milk In Four Phases]]
 		- [ ] [[Musick To Play In The Dark, Vol. 1]]

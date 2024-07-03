@@ -1,5 +1,6 @@
 ---
-title: Time Machines
+title: "Time Machines"
+aliases: ""
 Type: Release  
 SubType: Studio Album
 Date: 1998-01-01
@@ -10,7 +11,7 @@ sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
 Page created: 2023-10-31
-Page modified: 2023-11-02
+Page modified: 2024-04-17
 ---
 
 # Time Machines
@@ -33,62 +34,18 @@ Page modified: 2023-11-02
 
 ## Background
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+*Time Machines* consists of four minimalist drone pieces, which are intended to distort a listener’s perception of time. The titles of these pieces — each named after the chemical formula and common name of a psychoactive drug — were chosen for the similarity of the drug’s effects to those of the recording.[^1]
 
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+## Artwork
 
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-## Recording
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
+The album’s cover artwork — a black oval on a plain cardboard background — was inspired by the occult practices of 17th-century astronomer [[People/John Dee|John Dee]], who was said to have used a black obsidian mirror for scrying rituals.[^2][^1] Dee is further referenced by the symbols contained in the interior packaging: The colored icons representing each track are the components of Dee’s *Monas Hieroglyphica*, a compound symbol with numerous mystical and astrological meanings.[^3] A version of the full monad is also used in the artwork.
 
 ## Release
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
+In the immediate aftermath of *Time Machines*’ release, [[People/Jhonn Balance|Jhonn Balance]] discussed plans to release a 5-CD box set as the next work from the *Time Machines* project. He would also talk about ideas for similar long-form performances, such as a continuous one-week performance styled as a walk-in art exhibit.[^2] However, none of these ideas would come to fruition, and no further release would be made under the *Time Machines* name.
 
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
+## Tracklist
 
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Artwork
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Packaging
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-
-*Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-
-*Suspendisse potenti.*
-
-*Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-### Versions
-
-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- *Suspendisse potenti.*
-- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
-
-#### Tracklist
 1. [[7-Methoxy-β-Carboline- (Telepathine)]]
 2. [[2,5-Dimethoxy-4-Ethyl-Amphetamine- (DOETHecate)]]
 3. [[5-Methoxy-N, N-Dimethyl- (5-Me0-DMT)]]
@@ -100,4 +57,6 @@ Page modified: 2023-11-02
 | --- | --- |
 |__Lorem ipsum__|Dolor sit amet (*Consectetur*)|
 
-[^1]:
+[^1]: <https://brainwashed.com/common/htdocs/publications/coil-1998-the_wire.php?site=coil08>
+[^2]: <https://www.britishmuseum.org/collection/object/H_1966-1001-1>
+[^3]: <https://en.wikipedia.org/wiki/Monas_Hieroglyphica>

@@ -2,7 +2,7 @@
 # <% tp.frontmatter.title %>
 ![[placeholder.jpeg|700]]
 
-|  |  |
+| --- | --- |
 | --- | --- |
 | **Title**: | <% tp.frontmatter.title %> |
 | **Type**: | <% tp.frontmatter.SubType %> |

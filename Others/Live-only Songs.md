@@ -1,12 +1,11 @@
 ---
 title: "Live-only Songs"
-aliases:
-  - "[]"
+aliases: "[]"
 Type: 
 sticker: lucide//book-copy
 color: "#8854d0"
 Page created: 2023-11-08
-Page modified: 2023-11-19
+Page modified: 2024-06-14
 ---
 
 # Live-only Songs

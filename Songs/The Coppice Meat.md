@@ -18,7 +18,7 @@ Featured on:
 - [[Releases/Copal|Copal]]
 - [["Releases/Moon's Milk in Four Phases (2024 Dais Re-Release)|Moon's Milk in Four Phases (2024 Dais Re-Release)"]]
 Page created: 2023-11-29
-Page modified: 2024-01-29
+Page modified: 2024-06-12
 ---
 
 # The Coppice Meat
@@ -36,7 +36,7 @@ Page modified: 2024-01-29
 
 ---
 
-*__The Coppice Meat__* is a song originally released on Coil’s 2002 “*[[Releases/Moon's Milk in Four Phases (Bonus Disk)|Moon's Milk in Four Phases (Bonus Disk)]]*”.
+*__The Coppice Meat__* is a song originally released on Coil’s 2002 “*[[Releases/Moon's Milk in Four Phases (Bonus Disk)|Moon's Milk in Four Phases (Bonus Disk)]]*”. The lyrics are based in large part on the poem *“Description of a Mandala”* by Angus McLise.[^1]
 
 ## Lyrics
 
@@ -116,6 +116,8 @@ Page modified: 2024-01-29
 |||
 |||
 
+---
+
 ## References
 
---- Insert Footnotes here ---
+[^1]: Phil Barrington, *The Golden Age of Bloodsports*, p. 245

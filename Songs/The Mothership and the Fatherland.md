@@ -1,9 +1,57 @@
 ---
+title: "The Mothership and the Fatherland"
+aliases: ""
+description: "1999 song by Coil, originally released on *Astral Disaster*"
 Type: Song
-Remixes:
-  - "[[MÜ-ÜR]]"
-Contained in Release:
-  - "[[Astral Disaster]]"
-color: "#eb3b5a"
+Original: []
+Derivative: []
+Previous Version: []
+Next Version: []
+Interpolates: []
+Interpolated in: []
+cover: "_assets/releases/Astral Disaster (Original LP) - Cover.jpg"
 sticker: lucide//music
+color: "#eb3b5a"
+Alternate Version: []
+Featured on:
+- [[Releases/Astral Disaster|Astral Disaster]]
+Page created: 2023-10-05
+Page modified: 2024-04-28
 ---
+
+# The Mothership and the Fatherland
+
+|  |  |
+| --- | --- |
+| __Title__: | The Mothership and the Fatherland |
+| __Featured on__: | [[Releases/Astral Disaster\|Astral Disaster]] |
+| __Original__: |  |
+| __Derivative__: |  |
+| __Previous Version__: |  |
+| __Next Version__: |  |
+| __Alternate Version:__ |  |
+| __Interpolated in:__ |  |
+| __Interpolates:__ |  |
+
+---
+
+*__The Mothership and the Fatherland__* is a song originally released on Coil’s 1999 album [[Releases/Astral Disaster\|Astral Disaster]].
+
+## Lyrics
+
+> *[Instrumental]*
+
+## Versions
+
+???
+
+## Personnel
+
+|Name|Credit|
+|---|---|
+|||
+|||
+
+## References
+
+--- Insert Footnotes here ---

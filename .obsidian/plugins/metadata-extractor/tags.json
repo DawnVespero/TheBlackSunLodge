@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "compilation_track",
+    "tagCount": 4,
+    "relativePaths": [
+      "Songs/The Test.md",
+      "Songs/Restless Day.md",
+      "Songs/Homage to Sewage.md",
+      "Releases/Gold is the Metal (with the Broadest Shoulders).md"
+    ]
+  },
+  {
+    "tag": "backwards",
+    "tagCount": 14,
+    "relativePaths": [
+      "Songs/The Test.md",
+      "Songs/Nature Is a Language.md",
+      "Songs/Heaven’s Blade.md",
+      "Songs/Backwards.md",
+      "Songs/A.Y.O.R..md",
+      "Releases/International Dark Skies.md",
+      "Releases/Backwards (Demos).md",
+      "Releases/Backwards (Cold Spring) (New Orleans Unmastered Mix).md",
+      "Releases/Backwards (Danny Hyde’s Archival Bonus Track Edition).md",
+      "Releases/Backwards (Cold Spring).md",
+      "Others/Coil.md",
+      "Labels/Threshold Archives.md"
+    ]
+  },
+  {
+    "tag": "seasonalsingles",
+    "tagCount": 6,
+    "relativePaths": [
+      "Releases/Winter Solstice.md",
+      "Releases/Summer Solstice — Bee Stings.md",
+      "Releases/Spring Equinox — Moon’s Milk or Under An Unquiet Skull.md",
+      "Releases/Moon’s Milk In Four Phases.md",
+      "Releases/Moon's Milk in Four Phases (Bonus Disk).md",
+      "Releases/Autumn Equinox — Amethyst Deceivers.md"
+    ]
+  }
+]

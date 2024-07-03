@@ -1,0 +1,8 @@
+div.markdown-source-view:not([class*="is-live-preview"]) div.cm-line,
+div.markdown-source-view:not([class*="is-live-preview"]) div.cm-line > span {
+  font-family: var(--font-monospace) !important;
+  font-size: var(--font-text-size) !important;
+  font-style: normal !important;
+  font-variant-caps: normal !important;
+  font-color: var(--text-normal) !important;
+}

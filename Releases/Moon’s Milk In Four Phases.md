@@ -8,19 +8,19 @@ SubType:
 Date: 2001-01-01
 Legitimacy: Official
 Original:
-  - "- - Releases/Spring Equinox — Moon's Milk or Under An Unquiet Skull|Spring Equinox — Moon's Milk or Under An Unquiet Skull"
-  - - - Summer Solstice — Bee Stings
-  - - - Autumn Equinox — Amethyst Deceivers
-  - - - Winter Solstice
+  - [["Releases/Spring Equinox — Moon's Milk or Under An Unquiet Skull|Spring Equinox — Moon's Milk or Under An Unquiet Skull"]]
+  - [[Releases/Summer Solstice — Bee Stings|Summer Solstice — Bee Stings]]
+  - [[Releases/Autumn Equinox — Amethyst Deceivers|Autumn Equinox — Amethyst Deceivers]]
+  - [[Releases/Winter Solstice|Winter Solstice]]
 Derivative:
-  - "- Moon's Milk in Four Phases (2024 Dais Re-Release)"
+  - [["Releases/Moon's Milk in Four Phases (2024 Dais Re-Release)|Moon's Milk in Four Phases (2024 Dais Re-Release)"]]
 cover: "_assets/releases/Moons Milk in Four Phases - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
 Label:
-  - - Threshold House
+  - [[Labels/Threshold House|Threshold House]]
 Page created: 2023-10-05
-Page modified: 2024-01-29
+Page modified: 2024-04-17
 ---
 
 # Moon’s Milk in Four Phases
@@ -41,11 +41,17 @@ Page modified: 2024-01-29
 
 *__Moon’s Milk in Four Phases__* is an official compilation album by Coil, released in 2001 by [[Threshold House]]. It collects the contents of the four “Seasonal Singles” released throughout 1998 — [[Releases/Spring Equinox — Moon’s Milk or Under An Unquiet Skull|Spring Equinox — Moon’s Milk or Under An Unquiet Skull]], [[Summer Solstice — Bee Stings]], [[Autumn Equinox — Amethyst Deceivers]], and [[Winter Solstice]].
 
+## Background
+
+The ‘Seasonal Singles’ were a project recorded by Coil throughout 1997 and released through 1998. For this, they recorded a piece of music on every equinox and solstice of the year, which would be refined and expanded to be released as a single a year after its recording.[^1] Because of this, each single had its corresponding solar and lunar movement imprinted on the disc, which would begin during its recording and end at its release.
+
 ## Release
 
-In 2006, it was announced that an expanded “Deluxe Version” of the album was being worked on, which would include the original compilation, the [[Moon’s Milk in Four Phases (Bonus Disk)|bonus disc]], and a sixth disc with re-interpretations of songs from the series, along with reproductions of all Bonus Disc covers.[^1] Though this re-release would not happen, the songs recorded for the 6th disc would eventually be released by Danny Hyde in 2012 as *Moon’s Milk in Final Phase* under the project *Electric Sewer Age*.[^2]
+Shortly after the release of *Moon’s Milk*, a limited edition version of the collection was made available which, in addition to the Seasonal Singles, contained a [[Releases/Moon's Milk in Four Phases (Bonus Disk)|Bonus Disk]] with three newly recorded songs.[^2]
 
-A second series of #SeasonalSingles was also intended to be released during 2000, but this did not materialize.[^3]
+In 2006, it was announced that an expanded “Deluxe Version” of the album was being worked on, which would include the original compilation, the [[Moon’s Milk in Four Phases (Bonus Disk)|bonus disc]], and a sixth disc with re-interpretations of songs from the series, along with reproductions of all Bonus Disc covers.[^3] Though this re-release would not happen, the songs recorded for the 6th disc would eventually be released by [[People/Danny Hyde|Danny Hyde]] in 2012 as *Moon’s Milk in Final Phase* under the project *Electric Sewer Age*.[^4]
+
+A second series of #SeasonalSingles was also intended to be released during 2000, but this did not materialize.[^5]
 
 ## Versions
 
@@ -95,6 +101,8 @@ A second series of #SeasonalSingles was also intended to be released during 2000
 
 [Entry at Brainwashed]()
 
-[^1]: <http://brainwashed.com/coil/news2006.php>
-[^2]: <https://www.compulsiononline.com/interview_dannyhyde.htm>
-[^3]: <http://brainwashed.com/coil/news2000.php>
+[^1]: <http://brainwashed.com/coil/news1997.php>
+[^2]: <http://brainwashed.com/coil/news2002.php>
+[^3]: <http://brainwashed.com/coil/news2006.php>
+[^4]: <https://www.compulsiononline.com/interview_dannyhyde.htm>
+[^5]: <http://brainwashed.com/coil/news2000.php>
