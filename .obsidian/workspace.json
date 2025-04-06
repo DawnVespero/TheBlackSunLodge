@@ -29,28 +29,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Dream Photography.md",
+                "file": "Songs/Who'll Tell.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dream Photography"
+              "title": "Who'll Tell"
             }
           },
           {
-            "id": "ecdd406f6c521005",
+            "id": "6c7d0c63f4a0502a",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
+                "file": "Songs/Queens of the Circulating Library.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "Queens of the Circulating Library"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bb0524b7c463ea8e",
@@ -101,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dream photography",
+                "query": "comfortable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Songs/Who'll Tell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweis"
+              "title": "Rückverweise für Who'll Tell"
             }
           },
           {
@@ -199,12 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Songs/Who'll Tell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Who'll Tell"
             }
           },
           {
@@ -219,56 +223,6 @@
               },
               "icon": "lucide-archive",
               "title": "Alle Eigenschaften"
-            }
-          },
-          {
-            "id": "35ebc4de750ea0f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
-          },
-          {
-            "id": "40bf80eb55d2b96e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
-          },
-          {
-            "id": "de7c4fb50cc7f722",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
-          },
-          {
-            "id": "e249ce0942a5830b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
-            }
-          },
-          {
-            "id": "f273ab331a2c1056",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
             }
           },
           {
@@ -292,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -312,47 +266,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49f576e3910f5f6a",
+  "active": "11daa96f42fc856b",
   "lastOpenFiles": [
+    "Songs/Who’ll Tell?.md",
+    "Songs/Who'll Tell.md",
+    "Songs/Who'll Tell?.md",
+    "Songs/Who'll Fall.md",
+    "Songs/Who'll Fall?.md",
+    "Songs/Who’ll Fall?.md",
+    "Songs/The Sewage Worker’s Birthday Party.md",
+    "Songs/The Sewage Worker's Birthday Party.md",
+    "Songs/Refusal Of Leave To Land.md",
+    "Songs/Refusal Of Leave To Land (Early).md",
+    "Songs/Moon’s Milk or Under An Unquiet Skull (Part Two).md",
+    "Songs/Queens of the Circulating Library.md",
+    "Songs/Moon's Milk or Under An Unquiet Skull (Part Two).md",
+    "Songs/Moon’s Milk or Under An Unquiet Skull (Part One).md",
+    "Songs/Moon's Milk or Under An Unquiet Skull (Part One).md",
+    "Songs/Love’s Secret Domain.md",
+    "Songs/Love's Secret Domain.md",
+    "Songs/London’s Lost Rivers.md",
+    "Songs/London's Lost Rivers.md",
+    "Songs/It’s In My Blood.md",
+    "Songs/It's In My Blood.md",
+    "Songs/International Dark Skies I.md",
+    "Songs/International Dark Skies.md",
+    "Songs/I Don’t Want To Be The One.md",
+    "Songs/I Don't Want To Be The One.md",
+    "Songs/I Don't Get It.md",
     "publish.css",
     "LICENSE",
-    "Songs/Who’ll Tell?.md",
-    "Songs/Who'll Tell?.md",
-    "Songs/Who’ll Fall?.md",
-    "Songs/Who'll Fall?.md",
-    "Songs/Where Are You?.md",
-    "Songs/What Kind of Animal Are You?.md",
-    "Songs/The Snow (As Pure As?).md",
-    "Songs/Meaning What Exactly?.md",
-    "Songs/Is Suicide A Solution? (Guitar Treatment).md",
-    "Songs/Is Suicide A Solution?.md",
-    "Songs/If It Wasn’t Wolves, Then What Was It?.md",
-    "Songs/Black Antlers (Where's Your Child?) (vers. 1).md",
-    "Songs/Black Antlers (Where's Your Child?).md",
-    "Songs/Are You Shivering?.md",
-    "Releases/Wrong Eye | Scope.md",
-    "Releases/Animal Are You?.md",
-    "Live Performance/2002-10-01 — \"Mind Your Head\" Festival.md",
-    "Live Performance/2002-04-06 — \"The Key to Joy is Disobedience\".md",
-    "Live Performance/1983-08-04 - \"A Manifestation of the Will\".md",
     "_assets/releases/Airborne Bells_Is Suicide A Solution? - Cover.jpg",
     "_assets/releases/\"Persistence is All\" - Cover.jpeg",
     "Songs/_space/views.mdb",
     "_assets/releases/Born Again Pagans (Anniversary) - Cover.jpg",
-    "\"Releases/\"Releases.md",
     "\"Releases/_space/context.mdb",
     "\"Releases/_space/def.json",
     "\"Releases/_space/",
     "\"Releases/_space",
     "\"Releases",
-    "Live Performance/1983-08-04 - A Manifestation of the Will.md",
-    "Releases/Worship The Glitch.md",
-    "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
-    "Releases/Born Again Pagans.md",
-    "Home.md",
     "Live Performance/_space/context.mdb",
     "Live Performance/_space",
-    "Releases/_space/context.mdb",
     "_assets/releases/How To Destroy Angels (A Slow Fade To Total Transparency) - Cover.jpg",
     "_assets/photos/Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg",
     "_assets/releases/How To Destroy Angels (Remixes and Re-Recordings) - Cover.jpg",
