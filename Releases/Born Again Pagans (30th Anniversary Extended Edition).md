@@ -10,6 +10,8 @@ Label:
 - [[Labels/Infinite Fog Production|Infinite Fog Production]]
 Original: 
 - [[Releases/Born Again Pagans|Born Again Pagans]]
+- [[Releases/Protection|Protection]]
+- [[Releases/I Don’t Want To Be The One|I Don’t Want To Be The One]]
 Derivative: 
 - 
 sticker: lucide//disc
@@ -25,31 +27,44 @@ color: "#3867d6"
 | **Type**: | Compilation |
 | **Legitimacy**: | Semi-Official |
 | **Release date:** | Jan. 13., 2025 |
-| **Label:** | [[Labels/Infinite Fog Production|Infinite Fog Production]] |
-| **Original**: | [[Releases/Born Again Pagans|Born Again Pagans]] |
+| **Label:** | [[Labels/Infinite Fog Production\|Infinite Fog Production]] |
+| **Original**: | [[Releases/Born Again Pagans\|Born Again Pagans]], [[Releases/Protection\|Protection]], [[Releases/I Don’t Want To Be The One\|I Don’t Want To Be The One]] |
 | **Derivative**: |  |
 
 ---
 
-*__Born Again Pagans (30th Anniversary Extended Edition)__* is a Semi-Official Compilation by Coil, released on Jan. 13., 2025 by Labels/Infinite Fog Production|Infinite Fog Production. While nominally an extended edition of the 1994 [[Releases/Born Again Pagans|Born Again Pagans]] EP, it is an extensive collection of all ELpH material not present on the studio album [[Releases/Worship The Glitch|Worship The Glitch]].
+*__Born Again Pagans (30th Anniversary Extended Edition)__* is a Semi-Official Compilation by Coil, released on Jan. 13., 2025 by Labels/Infinite Fog Production|Infinite Fog Production. While nominally an extended edition of the 1994 [[Releases/Born Again Pagans|Born Again Pagans]] EP, it is an extensive collection of all ELpH material not present on the studio album [[Releases/Worship The Glitch|Worship The Glitch]]. It contains no new material, instead being comprised of songs previously released on the [[Labels/Threshold Archives|Threshold Archives]] releases *[[Releases/Protection|Protection]]* and *[[Releases/I Don’t Want To Be The One|I Don’t Want To Be The One]]*.
 
 
-### Versions
-
-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend, ante vel ullamcorper dictum, erat turpis congue tortor, tempus mollis ex sem sed enim. Vestibulum volutpat dolor in aliquam accumsan. Name tortor nisi, porta eget turpis quis, faucibus ornare libero. Vivamus porttitor purus sed leo porta various.
-- *Pellentesque non ante vitae diam vehicula convallis. Sed suscipit tellus mi, vel viverra libero gravida eget. Vivamus neque sem, congue eget ex at, various tincidunt diam. Morbi erat nibh, feugiat et eleifend at, sagittis et magna. Vestibulum vitae aliquam leo, at efficitur dolor. Aliquam facilisis tempus dignissim.
-- *Suspendisse potenti.*
-- *Aliquam eget felis ultricies enim gravida faucibus vel non dolor.*
 
 #### Tracklist
-1. Lorem ipsum
-2. Dolor sit amet
-3. Consectetur
+1. [[Songs/Protection|Protection]]
+2. [[Songs/Glimpse|Glimpse]]
+3. [[Songs/Crawling Spirit|Crawling Spirit]]
+4. [[Songs/pHILM 1 (vox)|pHILM 1 (vox)]]
+5. [[Songs/Static Electrician|Static Electrician]]
+6. [[Songs/Red Scratch|Red Scratch]]
+7. [[Songs/If It Wasn’t Wolves, Then What Was It?|If It Wasn’t Wolves, Then What Was It?]]
+8. [[Songs/Static Electrician (Symphonic)|Static Electrician (Symphonic)]]
+9. [[Songs/Untitled (Protection ＃9)|Untitled]]
+10. [[Songs/Untitled (Protection ＃10)|Untitled]]
+11. [[Songs/Untitled (IDWTBTO) ＃8|Untitled (IDWTBTO) ＃8]]
+12. [[Songs/Untitled (Protection ＃11)|Untitled]]
+13. [[Songs/Untitled (Protection ＃12)|Untitled]]
+14. [[Songs/Untitled (IDWTBTO) ＃9|Untitled (IDWTBTO) ＃9]]
+15. [[Songs/Untitled (Protection ＃13)|Untitled]]
+16. [[Songs/Untitled (Protection ＃14)|Untitled]]
+17. [[Songs/Gnomic Verses|Gnomic Verses]]
+18. [[Songs/Untitled (IDWTBTO) ＃6|Untitled (IDWTBTO) ＃6]]
+19. [[Songs/Untitled (IDWTBTO) ＃7|Untitled (IDWTBTO) ＃7]]
+20. [[Songs/Glisten 2|Glisten ＃2]]
+21. [[Songs/Zwölf|Zwölf]]
 
 ## Personnel
 | **Name** |**Credit** |
 | --- | --- |
-|**Lorem ipsum**|Dolor sit amet (*Consectetur*)|
+| **Remaster Engineering** | Jessica Thompson |
+| **Package Design (Re-release)** | Oleg Galay |
 
 ---
 

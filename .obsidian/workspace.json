@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Who'll Tell.md",
+                "file": "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Who'll Tell"
+              "title": "Born Again Pagans (30th Anniversary Extended Edition)"
             }
           },
           {
@@ -53,26 +53,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "bb0524b7c463ea8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5dbf2de087fa90b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Unnatural History.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Unnatural History"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comfortable",
+                "query": "[\"Legitimacy\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Who'll Tell.md",
+                "file": "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Who'll Tell"
+              "title": "Rückverweise für Born Again Pagans (30th Anniversary Extended Edition)"
             }
           },
           {
@@ -202,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Who'll Tell.md",
+                "file": "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Who'll Tell"
+              "title": "Gliederung von Born Again Pagans (30th Anniversary Extended Edition)"
             }
           },
           {
@@ -217,7 +197,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -268,8 +248,12 @@
   },
   "active": "11daa96f42fc856b",
   "lastOpenFiles": [
-    "Songs/Who’ll Tell?.md",
+    "Releases/Megalithomania!.md",
+    "Releases/Megalithomania.md",
+    "Songs/Panic (Extended Remix).md",
+    "Releases/The Anal Staircase (T-ARCH).md",
     "Songs/Who'll Tell.md",
+    "Songs/Who’ll Tell?.md",
     "Songs/Who'll Tell?.md",
     "Songs/Who'll Fall.md",
     "Songs/Who'll Fall?.md",
@@ -290,10 +274,6 @@
     "Songs/It’s In My Blood.md",
     "Songs/It's In My Blood.md",
     "Songs/International Dark Skies I.md",
-    "Songs/International Dark Skies.md",
-    "Songs/I Don’t Want To Be The One.md",
-    "Songs/I Don't Want To Be The One.md",
-    "Songs/I Don't Get It.md",
     "publish.css",
     "LICENSE",
     "_assets/releases/Airborne Bells_Is Suicide A Solution? - Cover.jpg",

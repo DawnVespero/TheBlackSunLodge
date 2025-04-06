@@ -136,7 +136,7 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 ## Tracklist
 1. [[Aqua Regis]]
-2. [[Panic (Extended Remix)]]
+2. [[Songs/Panic (Extended Remix)]]
 3. [[Tainted Love]]
 4. [[Restless Day]]
 5. [[[Untitled] (Panic #5)]]
