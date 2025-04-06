@@ -36,7 +36,7 @@ Page modified: 2023-11-03
 ## Versions
 
 - A 3-LP by the name of [[The Ape of Naples ∕ The New Backwards (Box-Set)|The Ape of Naples ∕ The New Backwards]] was released by [[Important Records]] in 2007. This marked the first release of a number of tracks that would end up on the expanded standalone release of [[The New Backwards]] in 2008.
-- An [[The Ape of Naples (Expanded Edition)|expanded edition]] was released by [[Infinite Fog Production]] in 2022, which contained a number of additional demos, alternate versions, and contemporary non-album tracks such as [[Animal Are You?]] and [[A Cold Cell in Bangkok]].
+- An [[The Ape of Naples (Expanded Edition)|expanded edition]] was released by [[Infinite Fog Production]] in 2022, which contained a number of additional demos, alternate versions, and contemporary non-album tracks such as [[Releases/Animal Are You]] and [[A Cold Cell in Bangkok]].
 
 ### Tracklist
 1. [[Songs/Fire of the Mind|Fire of the Mind]]

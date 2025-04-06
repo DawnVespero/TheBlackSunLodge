@@ -1,6 +1,7 @@
 ---
-title: "Black Antlers (Where's Your Child?)"
-aliases: 
+title: Black Antlers (Where's Your Child?)
+aliases:
+  - Black Antlers (Where's Your Child?)
 Type: Song
 sticker: lucide//music
 color: "#eb3b5a"

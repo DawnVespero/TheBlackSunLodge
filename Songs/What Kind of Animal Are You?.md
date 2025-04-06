@@ -1,6 +1,7 @@
 ---
-title: "What Kind of Animal Are You?"
-aliases: ""
+title: What Kind of Animal Are You?
+aliases:
+  - What Kind of Animal Are You?
 Type: Song
 Original: 
 Derivative: 

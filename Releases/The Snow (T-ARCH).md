@@ -40,7 +40,7 @@ Page modified: 2024-01-17
 1. [[Songs/The Snow (Driftmix)|The Snow (Driftmix)]]
 2. [[Songs/The Snow (Answers Come In Dreams Ⅰ)|The Snow (Answers Come In Dreams Ⅰ)]]
 3. [[Songs/The Snow (Out in the Cold)|The Snow (Out in the Cold)]]
-4. [[Songs/The Snow (As Pure As?)|The Snow (As Pure As?)]]
+4. [[Songs/The Snow (As Pure As)|The Snow (As Pure As?)]]
 5. [[Songs/The Snow (Answers Come in Dreams Ⅱ)|The Snow (Answers Come in Dreams Ⅱ)]]
 6. [[Songs/Pre-Original Chaostrophy|Pre-Original Chaostrophy]]
 7. [[Songs/［Untitled］(The Snow № 7)|［Untitled］(The Snow № 7)]]

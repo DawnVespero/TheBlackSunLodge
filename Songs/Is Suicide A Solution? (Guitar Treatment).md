@@ -10,4 +10,6 @@ Interpolated in:
 Interpolates: 
 sticker: lucide//music
 color: "#eb3b5a"
+aliases:
+  - Is Suicide A Solution? (Guitar Treatment)
 ---

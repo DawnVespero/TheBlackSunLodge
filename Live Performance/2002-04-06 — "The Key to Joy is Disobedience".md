@@ -1,6 +1,7 @@
 ---
-title: "2002-04-06 — “The Key to Joy is Disobedience”"
-aliases: "2002-04-06 — “The Key to Joy is Disobedience”"
+title: 2002-04-06 — “The Key to Joy is Disobedience”
+aliases:
+  - 2002-04-06 — "The Key to Joy is Disobedience"
 Type: Live Performance
 Date: 2002-04-06
 Location: Teatro delle Celebrazioni, Bologna, Italy

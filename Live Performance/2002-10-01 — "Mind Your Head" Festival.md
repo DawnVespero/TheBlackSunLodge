@@ -1,6 +1,7 @@
 ---
 title: 2002-10-01 — “Mind Your Head” Festival
-aliases: [2002-10-01 — “Mind Your Head” Festival]
+aliases:
+  - 2002-10-01 — "Mind Your Head" Festival
 Type: Live Performance
 Date: 2002-10-01
 Location: Royal Festival Hall, London, England
@@ -28,7 +29,7 @@ Coil performed live at Royal Festival Hall, London, England on Sep. 29th, 2002.
 4. [[Ostia (The Death of Pasolini)]]
 5. [[I Don’t Want To Be The One]]
 6. [[Bang Bang]]
-7. [[Are You Shivering?]]
+7. [[Songs/Are You Shivering]]
 
 ## References
 

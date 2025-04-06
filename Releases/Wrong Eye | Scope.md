@@ -7,4 +7,6 @@ Untergeordnete/-r/-s Wiki-Seite:
   - "[[Wrong Eye (T-ARCH)]]"
 color: "#3867d6"
 sticker: lucide//disc
+aliases:
+  - Wrong Eye | Scope
 ---

@@ -75,7 +75,7 @@ Aliquam eget felis ultricies enim gravida faucibus vel non dolor.
 
 ## Tracklist
 1. [[Airborne Bells]]
-2. [[Is Suicide A Solution?]]
+2. [[Songs/Is Suicide A Solution]]
 3. [[Mayhem Accelerator (Full)]]
 4. [[Untitled (Airborne Bells No.4)|(Untitled)]]
 

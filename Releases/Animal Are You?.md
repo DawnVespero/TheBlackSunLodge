@@ -1,14 +1,15 @@
 ---
-title: "Animal Are You?"
-aliases: ""
-description: "2006 single by Coil"
+title: Animal Are You?
+aliases:
+  - Animal Are You?
+description: 2006 single by Coil
 Type: Release
 SubType: Single ∕ EP
 Date: 2006-12-01
 Legitimacy: Official
 Original: 
 Derivative: 
-cover: "_assets/releases/Animal Are You (Bottle Label) - Cover.jpeg"
+cover: _assets/releases/Animal Are You (Bottle Label) - Cover.jpeg
 sticker: lucide//disc
 color: "#3867d6"
 Label: Absinthevertrieb Lion
@@ -42,7 +43,7 @@ The release of the *Animal Are You?* box set was conceived as part of Absintheve
 
 ## Tracklist
 
-1. [[Songs/Animal Are You?|Animal Are You?]]
+1. [[Songs/Animal Are You|Animal Are You?]]
 
 ---
 

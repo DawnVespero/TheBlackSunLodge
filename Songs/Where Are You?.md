@@ -1,7 +1,8 @@
 ---
-title: "Where Are You?"
-aliases: ""
-description: "2000 song by Coil, originally released on *Musick To Play In The Dark Vol. 2*"
+title: Where Are You?
+aliases:
+  - Where Are You?
+description: 2000 song by Coil, originally released on *Musick To Play In The Dark Vol. 2*
 Type: Song
 Original: []
 Derivative: []
@@ -9,12 +10,14 @@ Previous Version: []
 Next Version: []
 Interpolates: []
 Interpolated in: []
-cover: "_assets/releases/Musick To Play in the Dark, Vol. 2 - Cover.jpg"
+cover: _assets/releases/Musick To Play in the Dark, Vol. 2 - Cover.jpg
 sticker: lucide//music
 color: "#eb3b5a"
 Alternate Version: []
 Featured on:
-- [[Releases/Musick To Play In The Dark, Vol. 2|Musick To Play In The Dark, Vol. 2]]
+  - - - Releases/Musick To Play In The Dark
+      - Vol. 2|Musick To Play In The Dark
+      - Vol. 2
 Page created: 2023-11-03
 Page modified: 2024-04-08
 ---

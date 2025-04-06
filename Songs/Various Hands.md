@@ -9,6 +9,6 @@ Date:
 Label:
 Original: 
 Derivative: 
-sticker: lucide//disc
-color: "#3867d6"
+sticker: lucide//music
+color: "#eb3b5a"
 ---

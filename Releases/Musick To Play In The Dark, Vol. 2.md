@@ -51,7 +51,7 @@ Page modified: 2024-04-08
 3. [[Ether]]
 4. [[Paranoid Inlay]]
 5. [[An Emergency]]
-6. [[Where Are You?]]
+6. [[Songs/Where Are You]]
 7. [[Batwings (A Limnal Hymn)]]
 
 ## Personnel

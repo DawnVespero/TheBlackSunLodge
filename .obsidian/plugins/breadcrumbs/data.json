@@ -3,10 +3,7 @@
   "addDateNotes": false,
   "aliasesInIndex": false,
   "alphaSortAsc": true,
-  "altLinkFields": [
-    "alias",
-    "aliases"
-  ],
+  "altLinkFields": [],
   "CSVPaths": "",
   "createIndexIndent": "  ",
   "dateFormat": "YYYY-MM-DD",
@@ -20,16 +17,13 @@
   "dendronNoteField": "up",
   "dvWaitTime": 5000,
   "enableAlphaSort": true,
-  "enableRelationSuggestor": true,
+  "enableRelationSuggestor": false,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
   "limitWriteBCCheckboxes": [
     "Original",
-    "Alternate Version",
-    "Derivative",
-    "Next Version",
-    "Previous Version"
+    "Derivative"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
@@ -39,8 +33,7 @@
   "hierarchyNoteIsParent": false,
   "HNUpField": "",
   "indexNotes": [
-    "Coil",
-    "Home"
+    ""
   ],
   "namingSystemField": "",
   "namingSystemRegex": "",
@@ -50,23 +43,23 @@
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
   "openDuckOnLoad": false,
-  "openDownOnLoad": false,
+  "openDownOnLoad": true,
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": true,
   "showRelationType": true,
   "regexNoteField": "",
   "relSuggestorTrigger": "\\",
   "rlLeaf": true,
-  "showAllPathsIfNoneToIndexNote": true,
+  "showAllPathsIfNoneToIndexNote": false,
   "showAllAliases": true,
   "showBCs": true,
   "showBCsInEditLPMode": false,
   "showRefreshNotice": true,
   "showImpliedRelations": true,
-  "showTrail": false,
+  "showTrail": true,
   "showGrid": true,
   "showJuggl": false,
-  "showPrevNext": false,
+  "showPrevNext": true,
   "sortByNameShowAlias": false,
   "squareDirectionsOrder": [
     0,
@@ -81,25 +74,14 @@
     "down",
     "next",
     "prev",
-    "parent",
-    "Original",
-    "Previous Version"
+    "Original"
   ],
   "limitJumpToFirstFields": [
-    "child",
-    "parent",
-    "sibling",
     "Original",
-    "Derivative",
-    "Alternate",
-    "Next",
-    "Previous",
-    "Next Version",
-    "Previous Version",
-    "Alternate Version"
+    "Derivative"
   ],
   "showAll": "All",
-  "noPathMessage": " ",
+  "noPathMessage": "This note has no real or implied parents",
   "tagNoteField": "",
   "threadIntoNewPane": false,
   "threadingTemplate": "{{field}} of {{current}}",
@@ -118,47 +100,13 @@
   "userHiers": [
     {
       "up": [
-        "Previous Version"
+        "up"
       ],
       "same": [
-        "Alternate Version"
+        "same"
       ],
       "down": [
-        "Next Version"
-      ],
-      "next": [
-        "Derivative"
-      ],
-      "prev": [
-        "Original"
-      ]
-    },
-    {
-      "up": [
-        "Original"
-      ],
-      "same": [
-        "Alternate Version"
-      ],
-      "down": [
-        "Derivative"
-      ],
-      "next": [
-        "Next Version"
-      ],
-      "prev": [
-        "Previous Version"
-      ]
-    },
-    {
-      "up": [
-        "parent"
-      ],
-      "same": [
-        "sibling"
-      ],
-      "down": [
-        "child"
+        "down"
       ],
       "next": [
         "next"
@@ -166,6 +114,17 @@
       "prev": [
         "prev"
       ]
+    },
+    {
+      "up": [
+        "Original"
+      ],
+      "same": [],
+      "down": [
+        "Derivative"
+      ],
+      "next": [],
+      "prev": []
     }
   ],
   "writeBCsInline": false,
@@ -184,6 +143,6 @@
     "parentsParentsIsParent": false,
     "cousinsIsSibling": false
   },
-  "refreshOnNoteSave": true,
+  "refreshOnNoteSave": false,
   "showUpInJuggl": false
 }

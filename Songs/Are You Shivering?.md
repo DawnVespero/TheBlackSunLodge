@@ -1,7 +1,8 @@
 ---
-title: "Are You Shivering?"
-aliases: ""
-description: "1999 song by Coil, originally released on *Musick To Play in the Dark*"
+title: Are You Shivering?
+aliases:
+  - Are You Shivering?
+description: 1999 song by Coil, originally released on *Musick To Play in the Dark*
 Type: Song
 Original: ""
 Derivative: ""
@@ -9,12 +10,13 @@ Previous Version: ""
 Next Version: ""
 Interpolates: ""
 Interpolated in: ""
-cover: "_assets/releases/Musick To Play in the Dark, Vol. 1 - Cover.jpg"
+cover: _assets/releases/Musick To Play in the Dark, Vol. 1 - Cover.jpg
 sticker: lucide//music
 color: "#eb3b5a"
 Alternate Version: ""
 Featured on:
-- [[Musick To Play In The Dark, Vol. 1]]
+  - - - Musick To Play In The Dark
+      - Vol. 1
 Page created: 2023-10-05
 Page modified: 2024-06-14
 ---

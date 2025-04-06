@@ -25,7 +25,7 @@ A video recording of this performance was released officially on [[Colour Sound 
 1. [[Something]]
 2. [[Higher Beings Command]]
 3. [[Amethyst Deceivers (Version 1)]]
-4. [[What Kind of Animal Are You?]]
+4. [[Songs/What Kind of Animal Are You]]
 5. [[Blood From The Air]]
 6. [[I Am The Green Child]]
 7. [[Songs/Constant Shallowness Leads to Evil|Constant Shallowness Leads to Evil]]

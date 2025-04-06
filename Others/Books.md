@@ -20,7 +20,7 @@ A number of books have been published with material primarily or largely relatin
 
 ## England’s Hidden Reverse
 
-__*[England's Hidden Reverse: A Secret History of the Esoteric Underground](http://strangeattractor.co.uk/shoppe/englands-hidden-reverse/)*__ is a 2003 book written by David Keenan. It chronicles the history of both Coil and the associated musical projects *[[David Tibet|[Current 93]]]* and *[[Steven Stapleton|Nurse With Wound]]*. Notably, the first edition of the book came with a CD compiling songs by all three acts, including the Coil songs [[Are You Shivering?]], [[Chaostrophy]], [[Amethyst Deceivers]] and [[Lost Rivers of London]].
+__*[England's Hidden Reverse: A Secret History of the Esoteric Underground](http://strangeattractor.co.uk/shoppe/englands-hidden-reverse/)*__ is a 2003 book written by David Keenan. It chronicles the history of both Coil and the associated musical projects *[[David Tibet|[Current 93]]]* and *[[Steven Stapleton|Nurse With Wound]]*. Notably, the first edition of the book came with a CD compiling songs by all three acts, including the Coil songs [[Songs/Are You Shivering]], [[Chaostrophy]], [[Amethyst Deceivers]] and [[Lost Rivers of London]].
 
 ## Bright Lights and Cats With No Mouths
 

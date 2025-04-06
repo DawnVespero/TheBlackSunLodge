@@ -106,7 +106,7 @@ Page modified: 2023-11-05
 11. [[Untitled ＃1 (Take ＃2)]]
 12. [[Studio Chatter Ⅲ]]
 13. [[Untitled ＃2 (Take ＃5)]]
-14. [[Is Suicide A Solution? (Guitar Treatment)]]
+14. [[Songs/Is Suicide A Solution (Guitar Treatment)]]
 15. [[The Sick Rose]]
 
 ## Personnel

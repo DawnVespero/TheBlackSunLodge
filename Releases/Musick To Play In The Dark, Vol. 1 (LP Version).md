@@ -3,7 +3,7 @@ aliases:
   - Background
 color: "#3867d6"
 Contained in Release:
-  - "[[Songs/Are You Shivering?.md]]"
+  - "[[Songs/Are You Shivering]]"
   - "[[Songs/Are You Shivering.md]]"
   - "[[Songs/Are You Shivering.md]]"
   - "[[Songs/Are You Shivering.md]]"

@@ -25,7 +25,7 @@ Coil performed live at Fylkingen, Stockholm, Sweden on Oct. 13th, 2002.
 2. [[The Universe is a Haunted House]]
 3. [[Ostia (The Death of Pasolini)]]
 4. [[Bang Bang]]
-5. [[Are You Shivering?]]
+5. [[Songs/Are You Shivering]]
 
 ## References
 

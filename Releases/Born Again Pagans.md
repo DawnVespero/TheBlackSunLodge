@@ -5,7 +5,7 @@ SubType: Single ∕ EP
 Date: 1994-01-01
 Legitimacy: Official
 Original: 
-Derivative: 
+Derivative: [[Releases/Born Again Pagans (30th Anniversary Extended Edition)|Born Again Pagans (30th Anniversary Extended Edition)]]
 sticker: lucide//disc
 color: "#3867d6"
 Label: [[Threshold House]]
@@ -24,7 +24,7 @@ Page modified: 2023-11-02
 | __Release date:__ | 1994-01-01 |
 | __Label:__ | [[Threshold House]] |
 | __Original__: |  |
-| __Derivative__: |  |
+| __Derivative__: | [[Releases/Born Again Pagans (30th Anniversary Extended Edition)|Born Again Pagans (30th Anniversary Extended Edition)]] |
 
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: "Is Suicide A Solution?"
-aliases: ""
+title: Is Suicide A Solution?
+aliases:
+  - Is Suicide A Solution?
 description: ""
 Type: Song
 Original:
-- [["Who'll Fall"]]
-- [[Is Suicide A Solution? (Guitar Treatment)]]
+  - - - Who'll Fall
+  - - - Is Suicide A Solution? (Guitar Treatment)
 Derivative: ""
 Previous Version: ""
 Next Version: ""
@@ -39,7 +40,7 @@ Page modified: 2023-12-25
 
 *__Is Suicide A Solution?__* is a song originally released on Coil’s [[Airborne Bells ∕ Is Suicide A Solution]] with [[Airborne Bells]].
 
-The song, an extended version of [[Who’ll Fall?]] from [[Stolen and Contaminated Songs]], was primarily inspired by the suicide of a friend of the band, who jumped from a window while listening to their music; the cover of the single uses a photograph taken from the same window that friend jumped from.[^1]
+The song, an extended version of [[Songs/Who’ll Fall]] from [[Stolen and Contaminated Songs]], was primarily inspired by the suicide of a friend of the band, who jumped from a window while listening to their music; the cover of the single uses a photograph taken from the same window that friend jumped from.[^1]
 
 The song may be related to, or may have evolved from, a song the band wrote about the French Surrealist writer [René Crevel](https://en.wikipedia.org/wiki/Ren%C3%A9_Crevel);[^2] Crevel answered the question *“Suicide: Is it a solution?”*, posted in the Surrealist magazine *La révolution surréaliste* , positively and committed suicide a decade later.
 

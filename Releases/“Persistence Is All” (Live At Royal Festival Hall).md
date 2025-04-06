@@ -18,7 +18,7 @@ Page modified: 2023-12-25
 
 # ‘Persistence Is All’ (Live At Royal Festival Hall)
 
-![["Persistence is All" - Cover.jpeg|700]]
+![[_assets/releases/Persistence is All - Cover.jpeg|700]]
 
 |  |  |
 | --- | --- |

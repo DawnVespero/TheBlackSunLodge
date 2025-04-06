@@ -1,6 +1,7 @@
 ---
-title: "Who’ll Fall?"
-aliases: ""
+title: Who’ll Fall?
+aliases:
+  - Who’ll Fall?
 description: ""
 Type: Song
 Original: ""

@@ -9,8 +9,8 @@ Legitimacy:
 Original: ""
 Derivative: ""
 cover: ""
-sticker: lucide//disc
-color: "#3867d6"
+sticker: lucide//music
+color: "#eb3b5a"
 Label: 
 Page created: 2023-11-18
 Page modified: 2023-12-25

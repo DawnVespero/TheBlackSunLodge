@@ -38,7 +38,7 @@ In the course of their live performances, Coil have performed several songs that
 
 ### [[Songs/Constant Shallowness Leads to Evil|Constant Shallowness Leads to Evil (Song)]]
 
-### [[What Kind of Animal Are You?]]
+### [[Songs/What Kind of Animal Are You]]
 
 ## “Anarcadia”-era
 

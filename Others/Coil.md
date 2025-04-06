@@ -229,7 +229,7 @@ timeline
 
 *This section is currently empty, but is already planned to be filled out in the future. Feel free to leave any suggestions in the lobby!*
 
- This era of their career saw Coil creating more subtle, sparse and less aggressive music that would also more often incorporate acoustic elements. This style of music became known as *’Moon Musick’*, a name taken from the song *’[[Are You Shivering?]]* off Coil’s 1999 album *’[[Musick To Play In The Dark]]’*. This album, complemented by *’[[Musick To Play In The Dark, Vol. 2]]’* in 2000, would prove to be the culmination of this style, with the band again reorienting their musical output in the years after.
+ This era of their career saw Coil creating more subtle, sparse and less aggressive music that would also more often incorporate acoustic elements. This style of music became known as *’Moon Musick’*, a name taken from the song *’[[Songs/Are You Shivering]]* off Coil’s 1999 album *’[[Musick To Play In The Dark]]’*. This album, complemented by *’[[Musick To Play In The Dark, Vol. 2]]’* in 2000, would prove to be the culmination of this style, with the band again reorienting their musical output in the years after.
 
 ### Coil Live
 

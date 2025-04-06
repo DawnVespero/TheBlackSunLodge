@@ -39,7 +39,7 @@ This version made a number of changes and additions to the original album:
 
 - Three entirely new songs were added: [[Songs/Sex with Sun Ra (Part Two - Sigillaricia)|Sex with Sun Ra (Part Two - Sigillaricia)]], [[Songs/Departed|Departed]] and [[Songs/Things We Never Had|Things We Never Had]]. The album was expanded to two discs to accommodate the new songs.
 - [[Songs/Wraiths and Strays (from Montreal)|Wraiths and Strays (from Montreal)]] was replaced with another performance of the same song, [[Songs/The Wraiths and Strays of Paris|The Wraiths and Strays of Paris]].
-- [[Songs/Black Antlers (Where's Your Child?)|Black Antlers (Where's Your Child?)]] uses a slightly different mix.
+- [[Songs/Black Antlers (Where's Your Child)|Black Antlers (Where's Your Child?)]] uses a slightly different mix.
 
 ## Tracklist
 
@@ -50,7 +50,7 @@ This version made a number of changes and additions to the original album:
 3. [[Songs/All The Pretty Little Horses|All The Pretty Little Horses]]
 4. [[Songs/The Wraiths and Strays of Paris|The Wraiths and Strays of Paris]]
 5. [[Songs/Teenage Lightning (10th Birthday Version)|Teenage Lightning (10th Birthday Version)]]
-6. [[Songs/Black Antlers (Where's Your Child?)|Black Antlers (Where's Your Child?)]]
+6. [[Songs/Black Antlers (Where's Your Child)|Black Antlers (Where's Your Child?)]]
 7. [[Songs/Sex with Sun Ra (Part Two - Sigillaricia)|Sex with Sun Ra (Part Two - Sigillaricia)]]
 
 ### Disc 2

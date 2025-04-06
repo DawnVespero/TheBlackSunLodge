@@ -1,6 +1,7 @@
 ---
-title: "Who’ll Tell?"
-aliases: ""
+title: Who’ll Tell?
+aliases:
+  - Who’ll Tell?
 description: ""
 Type: Song
 Original: ""

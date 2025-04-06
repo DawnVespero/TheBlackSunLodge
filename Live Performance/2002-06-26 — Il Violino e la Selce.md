@@ -24,7 +24,7 @@ Coil performed live at Corte Malatestiana, Fano, Italy on Jul. 21st, 2002.
 ## Setlist
 1. [[Last Rites of Spring]]
 2. [[Amethyst Deceivers (Version 2)]]
-3. [[Are You Shivering?]]
+3. [[Songs/Are You Shivering]]
 4. [[Ostia (Massimo’s Version)]]
 5. [[An Unearthly Red]]
 6. [[A.Y.O.R.]]

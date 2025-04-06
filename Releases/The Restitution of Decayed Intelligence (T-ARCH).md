@@ -43,7 +43,7 @@ Page modified: 2023-11-22
 4. [[Broccoli (live)|Broccoli (Live At The Ocean Club, London)]]
 5. [[Wraiths and Strays (from Montreal)|Wraiths and Strays (Live At Mutek, Montreal)]]
 6. [[A List of Wishes]]
-7. [[Animal Are You?]]
+7. [[Releases/Animal Are You]]
 
 ## Personnel
 

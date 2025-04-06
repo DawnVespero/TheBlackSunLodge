@@ -1,6 +1,7 @@
 ---
-title: "The Snow (As Pure As?)"
-aliases: ""
+title: The Snow (As Pure As?)
+aliases:
+  - The Snow (As Pure As?)
 description: ""
 Type: Song
 Original: ""

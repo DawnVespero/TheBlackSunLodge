@@ -1,17 +1,19 @@
 {
   "accentColor": "",
-  "theme": "system",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "Fira Code",
-  "textFontFamily": "Fira Code",
-  "monospaceFontFamily": "Fira Code",
+  "theme": "obsidian",
+  "cssTheme": "Coil Wiki",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "translucency": false,
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "baseFontSizeAction": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
+    "CoilWiki",
     "Callouts",
-    "Sectioned Footnotes"
+    "Sectioned Footnotes",
+    "Monospace Font in Editor"
   ],
   "showViewHeader": true
 }

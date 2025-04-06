@@ -1,17 +1,13 @@
 [
+  "make-md",
+  "obsidian-linter",
+  "templater-obsidian",
+  "tag-wrangler",
   "breadcrumbs",
   "homepage",
-  "obsidian-linter",
-  "make-md",
-  "obsidian-smart-typography",
-  "obsidian-style-settings",
-  "templater-obsidian",
-  "obsidian-importer",
-  "metaedit",
+  "obsidian-git",
   "crumbs-obsidian",
-  "OA-file-hider",
-  "sample-plugin",
-  "obsidian-minimal-settings",
-  "obsidian-advanced-uri",
-  "metadata-extractor"
+  "metaedit",
+  "obsidian-smart-typography",
+  "various-complements"
 ]

@@ -24,7 +24,7 @@ A heavily edited partial recording of this performance was released as part of [
 ## Setlist
 1. [[I am Angie Bowie (Sine Waves)]]
 2. [[Last Rites of Spring|The Last Rites of Spring]]
-3. [[Are You Shivering?]]
+3. [[Songs/Are You Shivering]]
 4. [[Amethyst Deceivers (Version 3)]]
 5. [[A Warning from the Sun (for Fritz)]]
 6. [[The Universe is a Haunted House]]

@@ -1,210 +1,214 @@
 {
   "main": {
-    "id": "ccd4701ed8517b41",
+    "id": "382bf38287c07a02",
     "type": "split",
     "children": [
       {
-        "id": "890bfefb0b0396d6",
+        "id": "2558c2365449b9ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d79134cec4da9b1e",
+            "id": "cd1d63f2fc2773a6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "11daa96f42fc856b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Dream Photography.md",
+                "mode": "source",
                 "source": true
               },
-              "pinned": true
+              "icon": "lucide-file",
+              "title": "Dream Photography"
             }
           },
           {
-            "id": "d3fd9efc8f315fe1",
+            "id": "ecdd406f6c521005",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "bb0524b7c463ea8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbf2de087fa90b2",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Queens of the Circulating Library.md",
+                "file": "Releases/Unnatural History.md",
                 "mode": "source",
                 "source": true
               },
-              "pinned": true
+              "icon": "lucide-file",
+              "title": "Unnatural History"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a52a7f2bc2168c0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06b05e0ed91e9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf66b9f07ad55334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
-            "id": "2f70842ffc0b90cc",
+            "id": "ab556aba16fdf795",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "search",
               "state": {
-                "file": "Releases/Moon’s Milk In Four Phases.md",
-                "mode": "source",
-                "source": true
-              }
+                "query": "dream photography",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
-            "id": "3ecae4dd1d18ddef",
+            "id": "1423bed9b22ef4fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Releases/Astral Disaster.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          },
+          {
+            "id": "ae7cf1c30bf38dce",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
         "currentTab": 3
       }
     ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "5f66e5e89dcafe82",
-    "type": "split",
-    "children": [
-      {
-        "id": "bb5542dacfd75e99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9785e29bccc6a19b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f190ff78d54521bc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "7e2ffbdd62dd6cc8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b1f846d1d717ec1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
     "direction": "horizontal",
-    "width": 531.5,
-    "collapsed": true
+    "width": 507.5
   },
   "right": {
-    "id": "db6303b767c86bdf",
+    "id": "ad429b1924a54664",
     "type": "split",
     "children": [
       {
-        "id": "45c46cc0b06b1a23",
+        "id": "73525438df1781b0",
         "type": "tabs",
-        "dimension": 39.83228511530398,
         "children": [
           {
-            "id": "9b2c0ecd0ad9383e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Releases/Astral Disaster.md"
-              }
-            }
-          },
-          {
-            "id": "7e875fd5fde8f4f8",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "24cac1c6ddbe1ecc",
-        "type": "tabs",
-        "dimension": 20.964360587002094,
-        "children": [
-          {
-            "id": "c2a7151bc7ca3b62",
+            "id": "aa6b8e48e3a22aed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Releases/Astral Disaster.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweis"
             }
           },
           {
-            "id": "914bb47065813b57",
+            "id": "15e15b6d780078e7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Releases/Astral Disaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "726e5e60e06c72f2",
-        "type": "tabs",
-        "dimension": 39.20335429769392,
-        "children": [
-          {
-            "id": "0666a36f967fa124",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Releases/Astral Disaster.md"
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
             }
           },
           {
-            "id": "142c8d8f97503da8",
+            "id": "62bd787368a5c62e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a226610f0b1863d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "cf250fab80497a4b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -212,26 +216,87 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
             }
           },
           {
-            "id": "68f8dc5344d3c525",
+            "id": "35ebc4de750ea0f4",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "40bf80eb55d2b96e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "de7c4fb50cc7f722",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "e249ce0942a5830b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "f273ab331a2c1056",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "0e3784bfb4a5bcbe",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "49f576e3910f5f6a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,56 +306,59 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "publish:Änderungen veröffentlichen": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
       "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ecae4dd1d18ddef",
+  "active": "49f576e3910f5f6a",
   "lastOpenFiles": [
-    "Releases/Moon’s Milk In Four Phases.md",
-    "Songs/Queens of the Circulating Library.md",
-    "Releases/Astral Disaster.md",
-    "Releases/Queens of the Circulating Library.md",
-    "Roadmap.md",
+    "publish.css",
+    "LICENSE",
+    "Songs/Who’ll Tell?.md",
+    "Songs/Who'll Tell?.md",
+    "Songs/Who’ll Fall?.md",
+    "Songs/Who'll Fall?.md",
+    "Songs/Where Are You?.md",
+    "Songs/What Kind of Animal Are You?.md",
+    "Songs/The Snow (As Pure As?).md",
+    "Songs/Meaning What Exactly?.md",
+    "Songs/Is Suicide A Solution? (Guitar Treatment).md",
+    "Songs/Is Suicide A Solution?.md",
+    "Songs/If It Wasn’t Wolves, Then What Was It?.md",
+    "Songs/Black Antlers (Where's Your Child?) (vers. 1).md",
+    "Songs/Black Antlers (Where's Your Child?).md",
     "Songs/Are You Shivering?.md",
-    "Songs/Nature Is a Language.md",
-    "Songs/MÜ-ÜR.md",
-    "Releases/Astral Disaster (CD Version).md",
-    "Songs/The Sea Priestess.md",
-    "Releases/Astral Disaster (Threshold House LP).md",
-    "Songs/Second Son Syndrome.md",
-    "Songs/I Don’t Want To Be The One.md",
-    "Songs/The Avatars.md",
-    "Home.md",
-    "Others/Live-only Songs.md",
-    "Songs/The Coppice Meat.md",
-    "Songs/Copal.md",
-    "Songs/The Mothership and the Fatherland.md",
-    "Releases/The Ape of Naples.md",
-    "_templates/Song Page (Page Body - Frontmatter Template).md",
-    "_templates/Release Page (Page Body - Frontmatter Templates).md",
-    "Releases/Time Machines.md",
-    "Releases/Spring Equinox — Moon’s Milk or Under An Unquiet Skull.md",
-    "_templates/Release Page (Frontmatter).md",
-    "People/Aleister Crowley.md",
-    "_assets/releases/Stolen and Contaminated Songs (Mail-Order) Cover.jpeg",
-    "-notebook/To-Do List.org",
-    "_assets/releases/International Dark Skies - Cover.jpg",
-    "favicon-256x256.png",
-    "favicon-128x128.png",
-    "favicon-64x64.png",
-    "favicon-32x32.png",
-    "_assets/releases/Animal Are You (Label Comparison) - Cover.jpeg",
-    "_assets/releases/Animal Are You (Bottle Label) - Cover.jpeg",
-    "_assets/photos/William Breeze (2008) - Photo.jpeg",
-    "_assets/photos/Thighpaulsandra (2004) - Photo.jpeg",
+    "Releases/Wrong Eye | Scope.md",
+    "Releases/Animal Are You?.md",
+    "Live Performance/2002-10-01 — \"Mind Your Head\" Festival.md",
+    "Live Performance/2002-04-06 — \"The Key to Joy is Disobedience\".md",
+    "Live Performance/1983-08-04 - \"A Manifestation of the Will\".md",
+    "_assets/releases/Airborne Bells_Is Suicide A Solution? - Cover.jpg",
+    "_assets/releases/\"Persistence is All\" - Cover.jpeg",
+    "Songs/_space/views.mdb",
+    "_assets/releases/Born Again Pagans (Anniversary) - Cover.jpg",
+    "\"Releases/\"Releases.md",
+    "\"Releases/_space/context.mdb",
+    "\"Releases/_space/def.json",
+    "\"Releases/_space/",
+    "\"Releases/_space",
     "\"Releases",
-    "Spaces/Home",
-    "Spaces/Coil Wiki",
-    "Spaces",
-    "_assets/-notebook Attachments",
-    "-notebook"
+    "Live Performance/1983-08-04 - A Manifestation of the Will.md",
+    "Releases/Worship The Glitch.md",
+    "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
+    "Releases/Born Again Pagans.md",
+    "Home.md",
+    "Live Performance/_space/context.mdb",
+    "Live Performance/_space",
+    "Releases/_space/context.mdb",
+    "_assets/releases/How To Destroy Angels (A Slow Fade To Total Transparency) - Cover.jpg",
+    "_assets/photos/Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg",
+    "_assets/releases/How To Destroy Angels (Remixes and Re-Recordings) - Cover.jpg",
+    "_assets/releases/Moons Milk in Four Phases (2024 Dais Re-Release) - Cover.jpeg",
+    "_assets/releases/The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg",
+    "_assets/releases/Constant Shallowness Leads to Evil - Original Clamshell.jpg",
+    "_assets/releases/Queens of the Circulating Library - Original Clamshell.jpg"
   ]
 }
