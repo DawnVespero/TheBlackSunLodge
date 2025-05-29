@@ -1,6 +1,7 @@
 ---
 title: 2002-06-07 — New Forms III – Roots En Rituelen
-aliases: [2002-06-07 — New Forms III – Roots En Rituelen]
+aliases: 
+- 2002-06-07 — New Forms 3 – Roots En Rituelen
 Type: Live Performance
 Date: 2002-06-07
 Location: Theater aan het Spui, Den Haag, The Netherlands

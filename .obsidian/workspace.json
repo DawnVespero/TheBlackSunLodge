@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "382bf38287c07a02",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "2558c2365449b9ce",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "cd1d63f2fc2773a6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -24,35 +24,35 @@
             }
           },
           {
-            "id": "11daa96f42fc856b",
+            "id": "e733465348dd1b60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
+                "file": "Releases/Black Antlers.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Born Again Pagans (30th Anniversary Extended Edition)"
+              "title": "Black Antlers"
             }
           },
           {
-            "id": "6c7d0c63f4a0502a",
+            "id": "2e2f593b75d08460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Queens of the Circulating Library.md",
+                "file": "Releases/The Remote Viewer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Queens of the Circulating Library"
+              "title": "The Remote Viewer"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +71,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -83,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Legitimacy\"]",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             }
           },
           {
-            "id": "ae7cf1c30bf38dce",
+            "id": "dc048d3250df4495",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -182,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
+                "file": "Releases/Unbenannt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Born Again Pagans (30th Anniversary Extended Edition)"
+              "title": "Gliederung von Unbenannt"
             }
           },
           {
@@ -206,7 +207,79 @@
             }
           },
           {
-            "id": "0e3784bfb4a5bcbe",
+            "id": "a087e77cdaf1c227",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Releases/Unbenannt.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften von Unbenannt"
+            }
+          },
+          {
+            "id": "b7e8d27d438e49bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "17be772a5db9b4c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "56fde7703f979e35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "8dca6d7eb4881888",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "25d7789e4cea2f87",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "cc9315c602fce7fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          },
+          {
+            "id": "a2d0eb1caba1630a",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -216,7 +289,7 @@
             }
           },
           {
-            "id": "49f576e3910f5f6a",
+            "id": "de76c16e941723a8",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -226,11 +299,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 447.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,34 +320,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11daa96f42fc856b",
+  "active": "2e2f593b75d08460",
   "lastOpenFiles": [
-    "Releases/Megalithomania!.md",
-    "Releases/Megalithomania.md",
-    "Songs/Panic (Extended Remix).md",
-    "Releases/The Anal Staircase (T-ARCH).md",
-    "Songs/Who'll Tell.md",
-    "Songs/Who’ll Tell?.md",
-    "Songs/Who'll Tell?.md",
-    "Songs/Who'll Fall.md",
-    "Songs/Who'll Fall?.md",
-    "Songs/Who’ll Fall?.md",
-    "Songs/The Sewage Worker’s Birthday Party.md",
-    "Songs/The Sewage Worker's Birthday Party.md",
-    "Songs/Refusal Of Leave To Land.md",
-    "Songs/Refusal Of Leave To Land (Early).md",
-    "Songs/Moon’s Milk or Under An Unquiet Skull (Part Two).md",
+    "Home.md",
+    "Songs/Rush (Black Sun Mix).md",
+    "Releases/Black Antlers (2025 Re-Release).md",
+    "Songs/Black Antlers (Where's Your Child?).md",
+    "Releases/Black Antlers.md",
+    "Releases/The Remote Viewer.md",
+    "Songs/Unbenannt.md",
     "Songs/Queens of the Circulating Library.md",
-    "Songs/Moon's Milk or Under An Unquiet Skull (Part Two).md",
-    "Songs/Moon’s Milk or Under An Unquiet Skull (Part One).md",
-    "Songs/Moon's Milk or Under An Unquiet Skull (Part One).md",
-    "Songs/Love’s Secret Domain.md",
-    "Songs/Love's Secret Domain.md",
-    "Songs/London’s Lost Rivers.md",
-    "Songs/London's Lost Rivers.md",
-    "Songs/It’s In My Blood.md",
-    "Songs/It's In My Blood.md",
-    "Songs/International Dark Skies I.md",
+    "Releases/Queens of the Circulating Library.md",
+    "_templates/Song Page (Page Body - Frontmatter Template).md",
+    "_assets/releases/Rush (Black Sun Mix).jpg",
+    "_assets/releases/Rush (Black Sun Mix)",
+    "TheBlackSunLodge.md",
+    "The Black Sun Lodge.md",
+    "_assets/Rush (Black Sun Mix)",
+    "_assets/releases/Black Antlers (2006 Re-Release) - Cover.jpg",
+    "Releases/Born Again Pagans (30th Anniversary Extended Edition).md",
+    "Releases/Black Antlers (2006 Re-Release).md",
+    "Releases/…And The Ambulance Died In His Arms.md",
+    "_templates/Release Page (Page Body - Frontmatter Templates).md",
+    "_templates/Release Page (Frontmatter).md",
+    "Songs/Things We Never Had.md",
+    "Songs/Departed.md",
+    "Songs/Panic.md",
+    "Releases/Scatology.md",
+    "Live Performance/2002-10-25 — St. John's Church, Gdansk, Poland.md",
+    "Live Performance/2002-10-01 — \"Mind Your Head\" Festival.md",
+    "Live Performance/2002-06-07 — New Forms III – Roots en Rituelen.md",
+    "Live Performance/2002-04-27 —  Game On Only Connect：Play.md",
+    "Live Performance/2002-04-06 — \"The Key to Joy is Disobedience\".md",
     "publish.css",
     "LICENSE",
     "_assets/releases/Airborne Bells_Is Suicide A Solution? - Cover.jpg",
@@ -285,14 +363,10 @@
     "\"Releases/_space/",
     "\"Releases/_space",
     "\"Releases",
-    "Live Performance/_space/context.mdb",
-    "Live Performance/_space",
     "_assets/releases/How To Destroy Angels (A Slow Fade To Total Transparency) - Cover.jpg",
     "_assets/photos/Peter Christopherson, Drew McDowall, John Balance (1997) - Photo.jpeg",
     "_assets/releases/How To Destroy Angels (Remixes and Re-Recordings) - Cover.jpg",
     "_assets/releases/Moons Milk in Four Phases (2024 Dais Re-Release) - Cover.jpeg",
-    "_assets/releases/The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg",
-    "_assets/releases/Constant Shallowness Leads to Evil - Original Clamshell.jpg",
-    "_assets/releases/Queens of the Circulating Library - Original Clamshell.jpg"
+    "_assets/releases/The Restitution of Decayed Intelligence (T-ARCH) - Cover.jpg"
   ]
 }

@@ -1,6 +1,7 @@
 ---
 title: 2002-04-27 — Game On Only Connect：Play
-aliases: [2002-04-27 — Game On Only Connect：Play]
+aliases: 
+- 2002-04-27 — Game On Only Connect Play
 Type: Live Performance
 Date: 2002-04-27
 Location: The Barbican, London, UK

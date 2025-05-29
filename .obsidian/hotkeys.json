@@ -267,5 +267,13 @@
       ],
       "key": "L"
     }
+  ],
+  "metaedit:metaEditRun": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

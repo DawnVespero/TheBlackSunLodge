@@ -1,7 +1,7 @@
 ---
 title: 2002-10-01 — “Mind Your Head” Festival
 aliases:
-  - 2002-10-01 — "Mind Your Head" Festival
+  - 2002-10-01 — Mind Your Head Festival
 Type: Live Performance
 Date: 2002-10-01
 Location: Royal Festival Hall, London, England

@@ -1,7 +1,7 @@
 ---
 title: 1983-08-04 - “A Manifestation of the Will”
 aliases:
-  - 1983-08-04 - "A Manifestation of the Will"
+  - 1983-08-04 - A Manifestation of the Will
 Type: Live Performance
 Date: 1983-08-04
 Location: Club Magenta (Ritzy Cinema), London, England

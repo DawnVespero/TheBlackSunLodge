@@ -55,7 +55,7 @@ At one point, a recording of William S. Burroughs made by the band during the se
 3. [[Songs/All The Pretty Little Horses|All The Pretty Little Horses]]
 4. [[Songs/Wraiths and Strays (from Montreal)|Wraiths and Strays (from Montreal)]]
 5. [[Songs/Teenage Lightning (10th Birthday Version)|Teenage Lightning (10th Birthday Version)]]
-6. Black Antlers (Where’s Your Child?) (vers 1)
+6. [[Songs/Black Antlers (Where's Your Child?) (vers. 1)|Black Antlers (Where's Your Child?) (vers. 1)]]
 
 ## Personnel
 

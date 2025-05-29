@@ -5,6 +5,7 @@ Type: Release
 SubType: Single
 Date: 1984-01-01
 Legitimacy: Official
+cover: "_assets/releases/How To Destroy Angels - Cover.jpg"
 sticker: lucide//disc
 color: "#3867d6"
 banner:
